@@ -1,4 +1,4 @@
-<codelist name="FinanceType" xml:lang="en" category-codelist="FinanceType-category">
+<codelist name="FinanceType" xml:lang="en" category-codelist="FinanceType-category" complete="1">
     <metadata>
         <description>DAC/CRS transaction classification used to distinguish financial instruments,  e.g. grants or loans.</description>
     </metadata>
