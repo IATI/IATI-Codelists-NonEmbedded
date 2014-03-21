@@ -1,409 +1,368 @@
 <?xml version="1.0"?>
-<codelist category-codelist="organisationAgencyCode" complete="0" name="organisationAgencyCode" xml:lang="en">
+<codelist name="OrganisationRegistrationAgency" complete="0" xml:lang="en" category-codelist="Country">
   <metadata>
     <name>registry agencies</name>
-    <description>Organisation registry agencies and their code. These are use as prefix for organisation ref. Source:  https://docs.google.com/spreadsheet/ccc?key=0AnWngmdQt3stdFppMWdkcXJqVTRWTk9menR1N0FXNGc&amp;usp=drive_web#gid=0 dd 24-1-2014</description>
+    <description>
+        Organisation registry agencies and their code. These are used the
+        prefix for an organisation identifier.
+
+        In this list, description contains IATI specific usage notes, rather
+        than a general description of the regsitration agency.
+        
+        Previously located at:
+        https://docs.google.com/spreadsheet/ccc?key=0AnWngmdQt3stdFppMWdkcXJqVTRWTk9menR1N0FXNGc&amp;usp=drive_web#gid=0
+    </description>
   </metadata>
   <codelist-items>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>AF-CBR</code>
-      <country code="AF">Afghanistan</country>
+      <category>AF</category>
       <name>Afghanistan Central Business Registry</name>
-      <website>http://acbr.gov.af/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules>Website not yet searchable </iati-usage-rules>
+      <url>http://acbr.gov.af/</url>
+      <description>Website not yet searchable </description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>AF-MOE</code>
-      <country code="AF">Afghanistan</country>
+      <category>AF</category>
       <name>Ministry of Economy</name>
-      <website>http://moec.gov.af/en</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://moec.gov.af/en</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>AU-ABN</code>
-      <country code="AU">Australia</country>
+      <category>AU</category>
       <name>Australian Business Register</name>
-      <website>http://abr.business.gov.au/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://abr.business.gov.au/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>AU-ACNC</code>
-      <country code="AU">Australia</country>
+      <category>AU</category>
       <name>Australian Charities and Not-for-profits Commission</name>
-      <website>http://www.acnc.gov.au/ACNC/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.acnc.gov.au/ACNC/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>BE-BCE_KBO</code>
-      <country code="BE">Belgium</country>
+      <category>BE</category>
       <name>Banque Carrefour des entreprises / Kruispuntbank van ondernemingen</name>
-      <website>economie.fgov.be/fr/entreprises/BCE</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>economie.fgov.be/fr/entreprises/BCE</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>CA-CRA_ACR</code>
-      <country code="CA">Canada</country>
+      <category>CA</category>
       <name>Canadian Revenue Agency / Agence du revenu du Canada</name>
-      <website>http://www.cra-arc.gc.ca/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules>CRA_ACR is legal requirement for bilingual use</iati-usage-rules>
+      <url>http://www.cra-arc.gc.ca/</url>
+      <description>CRA_ACR is legal requirement for bilingual use</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>ET-MFA</code>
-      <country code="ET">Ethiopia</country>
+      <category>ET</category>
       <name>Ministry of Foreign Affairs</name>
-      <website>http://www.mfa.gov.et/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules>Charities are registered but no openly searchable database yet available. </iati-usage-rules>
+      <url>http://www.mfa.gov.et/</url>
+      <description>Charities are registered but no openly searchable database yet available. </description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>FR-RCS</code>
-      <country code="FR">France</country>
+      <category>FR</category>
       <name>Registre de Commerce et des Societies /Trade and Companies Register - Commercial Court Registry</name>
-      <website>http://www.infogreffe.fr</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.infogreffe.fr</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>GB-CHC</code>
-      <country code="GB">United Kingdom</country>
+      <category>GB</category>
       <name>Charity Commission</name>
-      <website>http://www.charity-commission.gov.uk/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.charity-commission.gov.uk/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>GB-COH</code>
-      <country code="GB">United Kingdom</country>
+      <category>GB</category>
       <name>Companies House</name>
-      <website>http://www.companieshouse.gov.uk/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.companieshouse.gov.uk/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>GB-GOVUK</code>
-      <country code="GB">United Kingdom</country>
+      <category>GB</category>
       <name>UK Government Departments, Agencies &amp; Public Bodies</name>
-      <website>https://www.gov.uk/government/organisations</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules>Use the final segment of the url (below /organisations) as the "registration number", converting all "-" to "_". Keep "registration number" portion all lowercase. </iati-usage-rules>
+      <url>https://www.gov.uk/government/organisations</url>
+      <description>Use the final segment of the url (below /organisations) as the "registration number", converting all "-" to "_". Keep "registration number" portion all lowercase. </description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>GB-NIC</code>
-      <country code="GB">United Kingdom</country>
+      <category>GB</category>
       <name>The Charity Commission for Northern Ireland</name>
-      <website>http://www.charitycommissionni.org.uk/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.charitycommissionni.org.uk/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>GB-REV</code>
-      <country code="GB">United Kingdom</country>
+      <category>GB</category>
       <name>HM Revenue and Customs</name>
-      <website>http://www.hmrc.gov.uk/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url>http://www.hmrc.gov.uk/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>GB-SC</code>
-      <country code="GB">United Kingdom</country>
+      <category>GB</category>
       <name>Scottish Charity Register</name>
-      <website>http://www.oscr.org.uk/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.oscr.org.uk/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>GH-DSW</code>
-      <country code="GH">Ghana</country>
+      <category>GH</category>
       <name>Department of Social Welfare</name>
-      <website/>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url/>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>ID-KDN</code>
-      <country code="ID">Indonesia</country>
+      <category>ID</category>
       <name>Ministry Home affairs/ Kementerian Dalam Negeri</name>
-      <website>http://www.kemendagri.go.id/media/filemanager/2011/02/22/d/a/daf.ormas___lsm_2010.pdf</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules>NGO registration can also be done through Ministry Home affairs/ Kementerian Dalam Negeri</iati-usage-rules>
+      <url>http://www.kemendagri.go.id/media/filemanager/2011/02/22/d/a/daf.ormas___lsm_2010.pdf</url>
+      <description>NGO registration can also be done through Ministry Home affairs/ Kementerian Dalam Negeri</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>ID-KHH</code>
-      <country code="ID">Indonesia</country>
+      <category>ID</category>
       <name>Ministry of Justice &amp; Human Rights/ Kementerian Hukum Dan Hak</name>
-      <website>http://www.kemenkumham.go.id/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules>Company registration is done through Ministry of Justice &amp; Human Rights/ Kementerian Hukum Dan Hak</iati-usage-rules>
+      <url>http://www.kemenkumham.go.id/</url>
+      <description>Company registration is done through Ministry of Justice &amp; Human Rights/ Kementerian Hukum Dan Hak</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>ID-KLN</code>
-      <country code="ID">Indonesia</country>
+      <category>ID</category>
       <name>Ministry of Foreign affairs/ Kementerian Luar Negeri</name>
-      <website>http://www.kemlu.go.id/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules>International NGO registration is done through Ministry of Foreign affairs/ Kementerian Luar Negeri</iati-usage-rules>
+      <url>http://www.kemlu.go.id/</url>
+      <description>International NGO registration is done through Ministry of Foreign affairs/ Kementerian Luar Negeri</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>ID-PRO</code>
-      <country code="ID">Indonesia</country>
+      <category>ID</category>
       <name>NGOs registered at Provinicial Level</name>
-      <website>http://www.satulayanan.net/layanan/pendaftaran-lsm-atau-ormas/perizinan-lsm-atau-ormas-baru</website>
-      <public-database>No</public-database>
-      <iati-usage-rules>Registration for NGO in Indonesia can be done at the provincial level. Because there is regional autonomy, each provincial has different requirements. Website is just one example</iati-usage-rules>
+      <url>http://www.satulayanan.net/layanan/pendaftaran-lsm-atau-ormas/perizinan-lsm-atau-ormas-baru</url>
+      <description>Registration for NGO in Indonesia can be done at the provincial level. Because there is regional autonomy, each provincial has different requirements. Website is just one example</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>IE-CHY</code>
-      <country code="IE">Ireland</country>
+      <category>IE</category>
       <name>Irish Register of Charities</name>
-      <website/>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url/>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>IE-CRO</code>
-      <country code="IE">Ireland</country>
+      <category>IE</category>
       <name>Irish CompaniesRegistration Office</name>
-      <website>http://www.cro.ie/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.cro.ie/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>IM-CR</code>
-      <country code="IM">Isle of Man</country>
+      <category>IM</category>
       <name>Isle of Man Companies Registry</name>
-      <website>http://www.gov.im/ded/companies/companiesregistry.xml?menuid=21615</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.gov.im/ded/companies/companiesregistry.xml?menuid=21615</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>IM-GR</code>
-      <country code="IM">Isle of Man</country>
+      <category>IM</category>
       <name>Isle of Man Index of Registered Charities</name>
-      <website>http://www.gov.im/registries/courts/charities/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.gov.im/registries/courts/charities/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>KE-NCB</code>
-      <country code="KE">Kenya</country>
+      <category>KE</category>
       <name>NGO's Coordination Board</name>
-      <website>http://www.ngobureau.or.ke/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.ngobureau.or.ke/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>KE-RCO</code>
-      <country code="KE">Kenya</country>
+      <category>KE</category>
       <name>Registar of Companies</name>
-      <website>http://www.attorney-general.go.ke/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url>http://www.attorney-general.go.ke/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>KE-RSO</code>
-      <country code="KE">Kenya</country>
+      <category>KE</category>
       <name>Registrar of Societies</name>
-      <website>http://www.attorney-general.go.ke/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url>http://www.attorney-general.go.ke/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>LS-LCN</code>
-      <country code="LS">Lesotho</country>
+      <category>LS</category>
       <name>Lesotho Council of Non Governmental Organisations</name>
-      <website>http://www.lcn.org.ls/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url>http://www.lcn.org.ls/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>MM-MHA</code>
-      <country code="MM">Myanmar</country>
+      <category>MM</category>
       <name>Ministry of Home Affairs - Central Committee for the Registration and Supervision of Organisations</name>
-      <website>No website for the ministry (as at 2/10/2013)</website>
-      <public-database>No</public-database>
-      <iati-usage-rules>The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed.</iati-usage-rules>
+      <url>No url for the ministry (as at 2/10/2013)</url>
+      <description>The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed.</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>MW-CNM</code>
-      <country code="MW">Malawi</country>
+      <category>MW</category>
       <name>The Council for Non Governmental Organisations in Malawi</name>
-      <website>http://www.congoma.mw/index.html</website>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url>http://www.congoma.mw/index.html</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>MW-MRA</code>
-      <country code="MW">Malawi</country>
+      <category>MW</category>
       <name>Malawi Revenue Authority</name>
-      <website>http://www.mra.mw/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url>http://www.mra.mw/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>MW-NBM</code>
-      <country code="MW">Malawi</country>
+      <category>MW</category>
       <name>NGO Board of Malawi</name>
-      <website>http://ngoboardmalawi.mw/directory.php</website>
-      <public-database>No</public-database>
-      <iati-usage-rules>There is a pdf file with a list of registered NGOs, but these do not appear to be registration numbers. New database is planned</iati-usage-rules>
+      <url>http://ngoboardmalawi.mw/directory.php</url>
+      <description>There is a pdf file with a list of registered NGOs, but these do not appear to be registration numbers. New database is planned</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>MW-RG</code>
-      <country code="MW">Malawi</country>
+      <category>MW</category>
       <name>Registrar General, Department of Justice</name>
-      <website/>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url/>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>NL-KVK</code>
-      <country code="NL">Netherlands</country>
+      <category>NL</category>
       <name>Kamer van Koophandel</name>
-      <website>http://www.kvk.nl/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.kvk.nl/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>NO-BRC</code>
-      <country code="NO">Norway</country>
+      <category>NO</category>
       <name>Br&#xF8;nn&#xF8;ysundregistrene</name>
-      <website>http://www.brreg.no/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.brreg.no/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database=" ">
       <code>NP-CRO</code>
-      <country code="NP">Nepal</country>
+      <category>NP</category>
       <name>Company Registrar Office</name>
-      <website>http://www.cro.gov.np/</website>
-      <public-database/>
-      <iati-usage-rules/>
+      <url>http://www.cro.gov.np/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>NP-SWC</code>
-      <country code="NP">Nepal</country>
+      <category>NP</category>
       <name>NGO registration</name>
-      <website>http://www.swc.org.np/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.swc.org.np/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>SE-BLV</code>
-      <country code="SE">Sweden</country>
+      <category>SE</category>
       <name>Bolagsverket / Swedish Companies Registration Office</name>
-      <website>http://www.bolagsverket.se/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.bolagsverket.se/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>UG-NGB</code>
-      <country code="UG">Uganda</country>
+      <category>UG</category>
       <name>NGO Board, Ministry of Internal Affairs</name>
-      <website>http://www.mia.go.ug/?page_id=62</website>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url>http://www.mia.go.ug/?page_id=62</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>UG-RSB</code>
-      <country code="UG">Uganda</country>
+      <category>UG</category>
       <name>Registration Services Bureau</name>
-      <website>http://www.ursb.go.ug/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url>http://www.ursb.go.ug/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>US-DOS</code>
-      <country code="US">United States</country>
+      <category>US</category>
       <name>Corporation registration is the responsibility of each state (see link)</name>
-      <website>http://www.companieshouse.gov.uk/links/usaLink.shtml</website>
-      <public-database>No</public-database>
-      <iati-usage-rules>Added by WR 15/10/2013</iati-usage-rules>
+      <url>http://www.companieshouse.gov.uk/links/usaLink.shtml</url>
+      <description>Added by WR 15/10/2013</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database=" ">
       <code>US-EIN</code>
-      <country code="US">United States</country>
+      <category>US</category>
       <name>Internal Revenue Service / Employer Identification Number</name>
-      <website>http://www.irs.gov/businesses/small/article/0,,id=98350,00.html</website>
-      <public-database/>
-      <iati-usage-rules/>
+      <url>http://www.irs.gov/businesses/small/article/0,,id=98350,00.html</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>US-USAGOV</code>
-      <country code="US">United States</country>
+      <category>US</category>
       <name>Index of U.S. Government Departments and Agencies</name>
-      <website>http://www.usa.gov/directory/federal/index.shtml</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules>Use the final segment of the url (below /federal and excluding the extension) as the "registration number", converting all "-" to "_". Keep "registration number" portion all lowercase. </iati-usage-rules>
+      <url>http://www.usa.gov/directory/federal/index.shtml</url>
+      <description>Use the final segment of the url (below /federal and excluding the extension) as the "registration number", converting all "-" to "_". Keep "registration number" portion all lowercase. </description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>XM-DAC</code>
-      <country code="XY">Multilateral</country>
+      <category>XY</category>
       <name>OECD Development Assistance Committee</name>
-      <website>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules>See Donor, Agency, and Delivery Channel codes</iati-usage-rules>
+      <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+      <description>See Donor, Agency, and Delivery Channel codes</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>ZA-CIP</code>
-      <country code="ZA">South Africa</country>
+      <category>ZA</category>
       <name>Companies and Intellectual Property Commission (CIPC)</name>
-      <website>http://www.cipro.gov.za/</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules/>
+      <url>http://www.cipro.gov.za/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="1">
       <code>ZA-NPO</code>
-      <country code="ZA">South Africa</country>
+      <category>ZA</category>
       <name>Association for Non-Profit Organisations</name>
-      <website>http://npo.org.za/index.htm</website>
-      <public-database>Yes</public-database>
-      <iati-usage-rules>Links thru to govt site http://www.npo.gov.za/PublicNpo/Npo</iati-usage-rules>
+      <url>http://npo.org.za/index.htm</url>
+      <description>Links thru to govt site http://www.npo.gov.za/PublicNpo/Npo</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>ZA-PBO</code>
-      <country code="ZA">South Africa</country>
+      <category>ZA</category>
       <name>SA Revenue Service Tax Exemption Unit / Public Benefit Organisations</name>
-      <website>http://www.sars.gov.za/home.asp?pid=170</website>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url>http://www.sars.gov.za/home.asp?pid=170</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>ZM-NRB</code>
-      <country code="ZM">Zambia</country>
+      <category>ZM</category>
       <name>Non Governmental Organisation Registration Board</name>
-      <website/>
-      <public-database>No</public-database>
-      <iati-usage-rules>Added by WR 15/10/13. Only just set up in Spring 2013 and is currently facing a lot of objection</iati-usage-rules>
+      <url/>
+      <description>Added by WR 15/10/13. Only just set up in Spring 2013 and is currently facing a lot of objection</description>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>ZM-PCR</code>
-      <country code="ZM">Zambia</country>
+      <category>ZM</category>
       <name>Patents and Companies Registration Agency</name>
-      <website>http://www.pacra.org.zm/</website>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url>http://www.pacra.org.zm/</url>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>ZW-PVO</code>
-      <country code="ZW">Zimbabwe</country>
+      <category>ZW</category>
       <name>Private Voluntary Organisations Council</name>
-      <website/>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url/>
+      <description/>
     </codelist-item>
-    <codelist-item>
+    <codelist-item public-database="0">
       <code>ZW-ROD</code>
-      <country code="ZW">Zimbabwe</country>
+      <category>ZW</category>
       <name>Registrar of Deeds</name>
-      <website/>
-      <public-database>No</public-database>
-      <iati-usage-rules/>
+      <url/>
+      <description/>
     </codelist-item>
   </codelist-items>
 </codelist>
