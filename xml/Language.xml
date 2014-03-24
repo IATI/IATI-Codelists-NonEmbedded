@@ -1,5 +1,7 @@
 <codelist name="Language"   xml:lang="en" complete="0">
-    <metadata/>
+    <metadata>
+        <name>Language</name>
+    </metadata>
     <codelist-items>
         <codelist-item>
             <code>aa</code>

@@ -1,5 +1,7 @@
 <codelist name="OrganisationIdentifier"   xml:lang="en" complete="0">
-    <metadata/>
+    <metadata>
+        <name>Organisation Identifiers</name>
+    </metadata>
     <codelist-items>
         <codelist-item>
             <code>AT-1</code>

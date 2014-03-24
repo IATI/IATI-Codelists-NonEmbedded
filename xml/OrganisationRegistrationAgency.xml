@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <codelist name="OrganisationRegistrationAgency" complete="0" xml:lang="en" category-codelist="Country">
   <metadata>
-    <name>registry agencies</name>
+    <name>Organisation Registration Agency</name>
     <description>
         Organisation registry agencies and their code. These are used the
         prefix for an organisation identifier.

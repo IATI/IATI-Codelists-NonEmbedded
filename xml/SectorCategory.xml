@@ -1,5 +1,6 @@
 <codelist name="SectorCategory"   xml:lang="en" complete="1">
-    <metadata/>
+    <metadata>
+    </metadata>
     <codelist-items>
         <codelist-item>
             <code>111</code>
