@@ -310,7 +310,7 @@
     </codelist-item>
     <codelist-item public-database="1">
       <code>XM-DAC</code>
-      <category>XY</category>
+      <category>XM</category>
       <name>OECD Development Assistance Committee</name>
       <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
       <description>See Donor, Agency, and Delivery Channel codes</description>
