@@ -1,5 +1,8 @@
 <codelist name="FinanceType-category" xml:lang="en" complete="1">
-    <metadata/>
+    <metadata>
+        <name>Finance Type (category)</name>
+        <description>This codelists exists to group the Finance Type codelist into categories. It is not used as a codelist in its own right.</description>
+    </metadata>
     <codelist-items>
         <codelist-item>
             <code>100</code>

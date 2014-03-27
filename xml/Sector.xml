@@ -1,6 +1,6 @@
 <codelist name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1">
     <metadata>
-        <name>Sector</name>
+        <name>DAC 5 Digit Sector</name>
     </metadata>
     <codelist-items>
         <codelist-item>
