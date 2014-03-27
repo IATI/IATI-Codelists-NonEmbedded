@@ -1,6 +1,7 @@
 <codelist name="CollaborationType"   xml:lang="en" complete="1">
     <metadata>
         <name>Collaboration Type</name>
+        <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
     </metadata>
     <codelist-items>
         <codelist-item>

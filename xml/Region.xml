@@ -1,6 +1,7 @@
 <codelist name="Region"   xml:lang="en" complete="1">
     <metadata>
         <name>Region</name>
+        <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
     </metadata>
     <codelist-items>
         <codelist-item>

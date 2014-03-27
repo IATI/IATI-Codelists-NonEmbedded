@@ -1,6 +1,7 @@
 <codelist name="Language"   xml:lang="en" complete="0">
     <metadata>
         <name>Language</name>
+        <url>http://www.iso.org/iso/home/standards/language_codes.htm</url>
     </metadata>
     <codelist-items>
         <codelist-item>

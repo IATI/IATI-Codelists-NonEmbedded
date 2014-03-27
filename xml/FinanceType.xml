@@ -2,6 +2,7 @@
     <metadata>
         <name>Finance Type</name>
         <description>DAC/CRS transaction classification used to distinguish financial instruments,  e.g. grants or loans.</description>
+        <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
     </metadata>
     <codelist-items>
         <codelist-item>
