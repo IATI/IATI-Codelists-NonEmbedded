@@ -8,8 +8,13 @@
 
         In this list, description contains IATI specific usage notes, rather
         than a general description of the regsitration agency.
+
+        The codes on this list are based on the ISO Country codes, except for
+        XM which is used to indicate Multilateral/International Agency. This
+        follows ISO's convention of resrving codes starting with X for "private
+        use".
         
-        Previously located at:
+        This list was previously located at:
         https://docs.google.com/spreadsheet/ccc?key=0AnWngmdQt3stdFppMWdkcXJqVTRWTk9menR1N0FXNGc&amp;usp=drive_web#gid=0
     </description>
   </metadata>
