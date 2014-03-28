@@ -1,0 +1,4105 @@
+<codelist name="GeographicFeatureDesignation" xml:lang="en" category-codelist="GeographicFeatureDesignation-category" complete="1">
+    <metadata>
+        <name>Geographic Feature Designation</name>
+        <description>
+            US NGA Feature Designation Codes
+            
+            On this codelist 'category' is used for the Feature Class.
+        </description>
+        <url>http://geonames.nga.mil/ggmagaz/</url>
+    </metadata>
+    <codelist-items>
+       <codelist-item>
+          <code>AIRQ</code>
+          <name>abandoned airfield</name>
+          <description>abandoned airfield</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CMPQ</code>
+          <name>abandoned camp</name>
+          <description>abandoned camp</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNLQ</code>
+          <name>abandoned canal</name>
+          <description>abandoned canal</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MFGQ</code>
+          <name>abandoned factory</name>
+          <description>abandoned factory</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FRMQ</code>
+          <name>abandoned farm</name>
+          <description>abandoned farm</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNQ</code>
+          <name>abandoned mine</name>
+          <description>abandoned mine</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MSSNQ</code>
+          <name>abandoned mission</name>
+          <description>abandoned mission</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OILQ</code>
+          <name>abandoned oil well</name>
+          <description>abandoned oil well</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPQ</code>
+          <name>abandoned police post</name>
+          <description>abandoned police post</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLQ</code>
+          <name>abandoned populated place</name>
+          <description>abandoned populated place</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PRNQ</code>
+          <name>abandoned prison</name>
+          <description>abandoned prison</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RRQ</code>
+          <name>abandoned railroad</name>
+          <description>abandoned railroad</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSTNQ</code>
+          <name>abandoned railroad station</name>
+          <description>abandoned railroad station</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSTPQ</code>
+          <name>abandoned railroad stop</name>
+          <description>abandoned railroad stop</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMQ</code>
+          <name>abandoned watercourse</name>
+          <description>a former stream or distributary no longer carrying flowing water, but still evident due to lakes, wetland, topographic or vegetation patterns</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WLLQ</code>
+          <name>abandoned well</name>
+          <description>abandoned well</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADMD</code>
+          <name>administrative division</name>
+          <description>an administrative division of a political entity, undifferentiated as to administrative level</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADMF</code>
+          <name>administrative facility</name>
+          <description>a government building</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AGRC</code>
+          <name>agricultural colony</name>
+          <description>a tract of land set aside for agricultural settlement</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AGRF</code>
+          <name>agricultural facility</name>
+          <description>a building and/or tract of land used for improving agriculture</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RESA</code>
+          <name>agricultural reserve</name>
+          <description>a tract of land reserved for agricultural reclamation and/or development</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SCHA</code>
+          <name>agricultural school</name>
+          <description>a school with a curriculum focused on agriculture</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AIRB</code>
+          <name>airbase</name>
+          <description>an area used to store supplies, provide barracks for air force personnel, hangars and runways for aircraft, and from which operations are initiated</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AIRF</code>
+          <name>airfield</name>
+          <description>a place on land where aircraft land and take off; no facilities provided for the commercial handling of passengers and cargo</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AIRP</code>
+          <name>airport</name>
+          <description>a place where aircraft regularly land and take off, with runways, navigational aids, and major facilities for the commercial handling of passengers and cargo</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AMTH</code>
+          <name>amphitheater</name>
+          <description>an oval or circular structure with rising tiers of seats about a stage or open space</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMA</code>
+          <name>anabranch</name>
+          <description>a diverging branch flowing out of a main stream and rejoining it downstream</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ANCH</code>
+          <name>anchorage</name>
+          <description>an area where vessels may anchor</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDA</code>
+          <name>ancient road</name>
+          <description>the remains of a road used by ancient cultures</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ANS</code>
+          <name>ancient site</name>
+          <description>a place where archeological remains, old structures, or cultural artifacts are located</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WALLA</code>
+          <name>ancient wall</name>
+          <description>the remains of a linear defensive stone structure</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BLDA</code>
+          <name>apartment building</name>
+          <description>a building containing several individual apartments</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AQC</code>
+          <name>aquaculture facility</name>
+          <description>facility or area for the cultivation of aquatic animals and plants, especially fish, shellfish, and seaweed, in natural or controlled marine or freshwater environments; underwater agriculture</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNLA</code>
+          <name>aqueduct</name>
+          <description>a conduit used to carry water</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ARCH</code>
+          <name>arch</name>
+          <description>a natural or man-made structure in the form of an arch</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LAND</code>
+          <name>Arctic land</name>
+          <description>a tract of land in the Arctic</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AREA</code>
+          <name>area</name>
+          <description>a tract of land without homogeneous character or boundaries</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ISLF</code>
+          <name>artificial island</name>
+          <description>an island created by landfill or diking and filling in a wetland, bay, or lagoon</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RNGA</code>
+          <name>artillery range</name>
+          <description>a tract of land used for artillery firing practice</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ASPH</code>
+          <name>asphalt lake</name>
+          <description>a small basin containing naturally occurring asphalt</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ASTR</code>
+          <name>astronomical station</name>
+          <description>a point on the earth whose position has been determined by observations of celestial bodies</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ASYL</code>
+          <name>asylum</name>
+          <description>a facility where the insane are cared for and protected</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ATHF</code>
+          <name>athletic field</name>
+          <description>a tract of land used for playing team sports, and athletic track and field events</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ATOL</code>
+          <name>atoll(s)</name>
+          <description>a ring-shaped coral reef which has closely spaced islands on it encircling a lagoon</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CTRA</code>
+          <name>atomic center</name>
+          <description>a facility where atomic research is carried out</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BDLD</code>
+          <name>badlands</name>
+          <description>an area characterized by a maze of very closely spaced, deep, narrow, steep-sided ravines, and sharp crests and pinnacles</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BSTN</code>
+          <name>baling station</name>
+          <description>a facility for baling agricultural products</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ESTB</code>
+          <name>banana plantation</name>
+          <description>an estate that specializes in the growing of bananas</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BAN</code>
+          <name>bank</name>
+          <description>an establishment for the custody, loan, exchange or issue of money, for the extension of credit, and for facilitating the transmission of funds</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BNK</code>
+          <name>bank(s)</name>
+          <description>an elevation, typically located on a shelf, over which the depth of water is relatively shallow but sufficient for most surface navigation</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BAR</code>
+          <name>bar</name>
+          <description>a shallow ridge or mound of coarse unconsolidated material in a stream channel, at the mouth of a stream, estuary, or lagoon and in the wave-break zone along coasts</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BRKS</code>
+          <name>barracks</name>
+          <description>a building for lodging military personnel</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BTL</code>
+          <name>battlefield</name>
+          <description>a site of a land battle of historical importance</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BAY</code>
+          <name>bay</name>
+          <description>a coastal indentation between two capes or headlands, larger than a cove but smaller than a gulf</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BAYS</code>
+          <name>bays</name>
+          <description>coastal indentations between two capes or headlands, larger than a cove but smaller than a gulf</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BCH</code>
+          <name>beach</name>
+          <description>a shore zone of coarse unconsolidated sediment that extends from the low-water line to the highest reach of storm waves</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDGB</code>
+          <name>beach ridge</name>
+          <description>a ridge of sand just inland and parallel to the beach, usually in series</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BCHS</code>
+          <name>beaches</name>
+          <description>a shore zone of coarse unconsolidated sediment that extends from the low-water line to the highest reach of storm waves</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BCN</code>
+          <name>beacon</name>
+          <description>a fixed artificial navigation mark</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BNCH</code>
+          <name>bench</name>
+          <description>a long, narrow bedrock platform bounded by steeper slopes above and below, usually overlooking a waterbody</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BGHT</code>
+          <name>bight(s)</name>
+          <description>an open body of water forming a slight recession in a coastline</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BLHL</code>
+          <name>blowhole(s)</name>
+          <description>a hole in coastal rock through which sea water is forced by a rising tide or waves and spurted through an outlet into the air</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BLOW</code>
+          <name>blowout(s)</name>
+          <description>a small depression in sandy terrain, caused by wind erosion</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BTYD</code>
+          <name>boatyard</name>
+          <description>a waterside facility for servicing, repairing, and building small vessels</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BOG</code>
+          <name>bog(s)</name>
+          <description>a wetland characterized by peat forming sphagnum moss, sedge, and other acid-water plants</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PSTB</code>
+          <name>border post</name>
+          <description>a post or station at an international boundary for the regulation of movement of people and goods</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BLDR</code>
+          <name>boulder field</name>
+          <description>a high altitude or high latitude bare, flat area covered with large angular rocks</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BP</code>
+          <name>boundary marker</name>
+          <description>a fixture marking a point along a boundary</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BRKW</code>
+          <name>breakwater</name>
+          <description>a structure erected to break the force of waves at the entrance to a harbor or port</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MFGB</code>
+          <name>brewery</name>
+          <description>one or more buildings where beer is brewed</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BDG</code>
+          <name>bridge</name>
+          <description>a structure erected across an obstacle such as a stream, road, etc., in order to carry roads, railroads, and pedestrians across</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ZNB</code>
+          <name>buffer zone</name>
+          <description>a zone recognized as a buffer between two nations in which military presence is minimal or absent</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BLDG</code>
+          <name>building(s)</name>
+          <description>a structure built for permanent use, as a house, factory, etc.</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BUR</code>
+          <name>burial cave(s)</name>
+          <description>a cave used for human burials</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BUSH</code>
+          <name>bush(es)</name>
+          <description>a small clump of conspicuous bushes in an otherwise bare area</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CTRB</code>
+          <name>business center</name>
+          <description>a place where a number of businesses are located</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BUTE</code>
+          <name>butte(s)</name>
+          <description>a small, isolated, usually flat-topped hill with steep sides</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CARN</code>
+          <name>cairn</name>
+          <description>a heap of stones erected as a landmark or for other purposes</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CLDA</code>
+          <name>caldera</name>
+          <description>a depression measuring kilometers across formed by the collapse of a volcanic mountain</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CMP</code>
+          <name>camp(s)</name>
+          <description>a site occupied by tents, huts, or other shelters for temporary use</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNL</code>
+          <name>canal</name>
+          <description>an artificial watercourse</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNLB</code>
+          <name>canal bend</name>
+          <description>a conspicuously curved or bent section of a canal</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TNLC</code>
+          <name>canal tunnel</name>
+          <description>a tunnel through which a canal passes</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMC</code>
+          <name>canalized stream</name>
+          <description>a stream that has been substantially ditched, diked, or straightened</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MFGC</code>
+          <name>cannery</name>
+          <description>a building where food items are canned</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNYN</code>
+          <name>canyon</name>
+          <description>a deep, narrow valley with steep sides cutting into a plateau or mountainous area</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CAPE</code>
+          <name>cape</name>
+          <description>a land area, more prominent than a point, projecting into the sea and marking a notable change in coastal direction</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLC</code>
+          <name>capital of a political entity</name>
+          <description>capital of a political entity</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RTE</code>
+          <name>caravan route</name>
+          <description>the route taken by caravans</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CSNO</code>
+          <name>casino</name>
+          <description>a building used for entertainment, especially gambling</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CSTL</code>
+          <name>castle</name>
+          <description>a large fortified building or set of buildings</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TNKD</code>
+          <name>cattle dipping tank</name>
+          <description>a small artificial pond used for immersing cattle in chemically treated water for disease control</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CSWY</code>
+          <name>causeway</name>
+          <description>a raised roadway across wet ground or shallow water</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CAVE</code>
+          <name>cave(s)</name>
+          <description>an underground passageway or chamber, or cavity on the side of a cliff</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CMTY</code>
+          <name>cemetery</name>
+          <description>a burial place or ground</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CHN</code>
+          <name>channel</name>
+          <description>the deepest part of a stream, bay, lagoon, or strait, through which the main current flows</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNCR</code>
+          <name>chrome mine(s)</name>
+          <description>a mine where chrome ore is extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CH</code>
+          <name>church</name>
+          <description>a building for public Christian worship</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CRQ</code>
+          <name>cirque</name>
+          <description>a bowl-like hollow partially surrounded by cliffs or steep slopes at the head of a glaciated valley</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CRQS</code>
+          <name>cirques</name>
+          <description>bowl-like hollows partially surrounded by cliffs or steep slopes at the head of a glaciated valley</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CLG</code>
+          <name>clearing</name>
+          <description>an area in a forest with trees removed</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CFT</code>
+          <name>cleft(s)</name>
+          <description>a deep narrow slot, notch, or groove in a coastal cliff</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CLF</code>
+          <name>cliff(s)</name>
+          <description>a high, steep to perpendicular slope overlooking a waterbody or lower area</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HSPC</code>
+          <name>clinic</name>
+          <description>a medical facility associated with a hospital for outpatients</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNC</code>
+          <name>coal mine(s)</name>
+          <description>a mine where coal is extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>COLF</code>
+          <name>coalfield</name>
+          <description>a region in which coal deposits of possible economic value occur</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CST</code>
+          <name>coast</name>
+          <description>a zone of variable width straddling the shoreline</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STNC</code>
+          <name>coast guard station</name>
+          <description>a facility from which the coast is guarded by armed vessels</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GRVC</code>
+          <name>coconut grove</name>
+          <description>a planting of coconut trees</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SCHC</code>
+          <name>college</name>
+          <description>the grounds and buildings of an institution of higher learning</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CMN</code>
+          <name>common</name>
+          <description>a park or pasture for community use</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>COMC</code>
+          <name>communication center</name>
+          <description>a facility, including buildings, antennae, towers and electronic equipment for receiving and transmitting information</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CTRCM</code>
+          <name>community center</name>
+          <description>a facility for community recreation and other activities</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNS</code>
+          <name>concession area</name>
+          <description>a lease of land by a government for economic development, e.g., mining, forestry</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CONE</code>
+          <name>cone(s)</name>
+          <description>a conical landform composed of mud or volcanic material</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNFL</code>
+          <name>confluence</name>
+          <description>a place where two or more streams or intermittent streams flow together</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CRSU</code>
+          <name>continental rise</name>
+          <description>a gentle slope rising from oceanic depths towards the foot of a continental slope</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CVNT</code>
+          <name>convent</name>
+          <description>a building where a community of nuns lives in seclusion</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNCU</code>
+          <name>copper mine(s)</name>
+          <description>a mine where copper ore is extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MFGCU</code>
+          <name>copper works</name>
+          <description>a facility for processing copper ore</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RFC</code>
+          <name>coral reef(s)</name>
+          <description>a surface-navigation hazard composed of coral</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CRRL</code>
+          <name>corral(s)</name>
+          <description>a pen or enclosure for confining or capturing animals</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CRDR</code>
+          <name>corridor</name>
+          <description>a strip or area of land having significance as an access way</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ESTC</code>
+          <name>cotton plantation</name>
+          <description>an estate specializing in the cultivation of cotton</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HSEC</code>
+          <name>country house</name>
+          <description>a large house, mansion, or chateau, on a large estate</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CTHSE</code>
+          <name>courthouse</name>
+          <description>a building in which courts of law are held</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>COVE</code>
+          <name>cove(s)</name>
+          <description>a small coastal indentation, smaller than a bay</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKC</code>
+          <name>crater lake</name>
+          <description>a lake in a crater or caldera</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKSC</code>
+          <name>crater lakes</name>
+          <description>lakes in a crater or caldera</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CRTR</code>
+          <name>crater(s)</name>
+          <description>a generally circular saucer or bowl-shaped depression caused by volcanic or meteorite explosive action</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CUET</code>
+          <name>cuesta(s)</name>
+          <description>an asymmetric ridge formed on tilted strata</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CULT</code>
+          <name>cultivated area</name>
+          <description>an area under cultivation</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CRNT</code>
+          <name>current</name>
+          <description>a horizontal flow of water in a given direction with uniform velocity</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CSTM</code>
+          <name>customs house</name>
+          <description>a building in a port where customs and duties are paid, and where vessels are entered and cleared</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PSTC</code>
+          <name>customs post</name>
+          <description>a building at an international boundary where customs and duties are paid on goods</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CUTF</code>
+          <name>cutoff</name>
+          <description>a channel formed as a result of a stream cutting through a meander neck</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DARY</code>
+          <name>dairy</name>
+          <description>a facility for the processing, sale and distribution of milk or milk products</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DAM</code>
+          <name>dam</name>
+          <description>a barrier constructed across a stream to impound water</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DEPU</code>
+          <name>deep</name>
+          <description>a localized deep area within the confines of a larger feature, such as a trough, basin or trench</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DLTA</code>
+          <name>delta</name>
+          <description>a flat plain formed by alluvial deposits at the mouth of a stream</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PCLD</code>
+          <name>dependent political entity</name>
+          <description>dependent political entity</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DPR</code>
+          <name>depression(s)</name>
+          <description>a low area surrounded by higher land and usually characterized by interior drainage</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DSRT</code>
+          <name>desert</name>
+          <description>a large area with little or no vegetation due to extreme environmental conditions</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLW</code>
+          <name>destroyed populated place</name>
+          <description>a village, town or city destroyed by a natural disaster, or by war</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNDT</code>
+          <name>diatomite mine(s)</name>
+          <description>a place where diatomaceous earth is extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DIKE</code>
+          <name>dike</name>
+          <description>an earth or stone embankment usually constructed for flood or stream control</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DIP</code>
+          <name>diplomatic facility</name>
+          <description>office, residence, or facility of a foreign government, which may include an embassy, consulate, chancery, office of charge d’affaires, or other diplomatic, economic, military, or cultural mission</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HSPD</code>
+          <name>dispensary</name>
+          <description>a building where medical or dental aid is dispensed</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMD</code>
+          <name>distributary(-ies)</name>
+          <description>a branch which flows away from the main stream, as in a delta or irrigation canal</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DTCH</code>
+          <name>ditch</name>
+          <description>a small artificial watercourse dug for draining or irrigating the land</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DTCHM</code>
+          <name>ditch mouth(s)</name>
+          <description>an area where a drainage ditch enters a lagoon, lake or bay</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DVD</code>
+          <name>divide</name>
+          <description>a line separating adjacent drainage basins</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DCK</code>
+          <name>dock(s)</name>
+          <description>a waterway between two piers, or cut into the land for the berthing of ships</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DCKB</code>
+          <name>docking basin</name>
+          <description>a part of a harbor where ships dock</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DCKY</code>
+          <name>dockyard</name>
+          <description>a facility for servicing, building, or repairing ships</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BSND</code>
+          <name>drainage basin</name>
+          <description>an area drained by a stream</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNLD</code>
+          <name>drainage canal</name>
+          <description>an artificial waterway carrying water away from a wetland or from drainage ditches</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DTCHD</code>
+          <name>drainage ditch</name>
+          <description>a ditch which serves to drain the land</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DCKD</code>
+          <name>dry dock</name>
+          <description>a dock providing support for a vessel, and means for removing the water so that the bottom of the vessel can be exposed</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SBED</code>
+          <name>dry stream bed</name>
+          <description>a channel formerly containing the water of a stream</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DUNE</code>
+          <name>dune(s)</name>
+          <description>a wave form, ridge or star shape feature composed of sand</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RGNE</code>
+          <name>economic region</name>
+          <description>a region of a country established for economic development or for statistical purposes</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SCRP</code>
+          <name>escarpment</name>
+          <description>a long line of cliffs or steep slopes separating level surfaces above and below</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>EST</code>
+          <name>estate(s)</name>
+          <description>a large commercialized agricultural landholding with associated buildings and other facilities</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ESTY</code>
+          <name>estuary</name>
+          <description>a funnel-shaped stream mouth or embayment where fresh water mixes with sea water under tidal influences</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STNE</code>
+          <name>experiment station</name>
+          <description>a facility for carrying out experiments</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FCL</code>
+          <name>facility</name>
+          <description>a building or buildings housing a center, institute, foundation, hospital, prison, mission, courthouse, etc.</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CTRF</code>
+          <name>facility center</name>
+          <description>a place where more than one facility is situated</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MFG</code>
+          <name>factory</name>
+          <description>one or more buildings where goods are manufactured, processed or fabricated</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FAN</code>
+          <name>fan(s)</name>
+          <description>a fan-shaped wedge of coarse alluvium with apex merging with a mountain stream bed and the fan spreading out at a low angle slope onto an adjacent plain</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FRM</code>
+          <name>farm</name>
+          <description>a tract of land with associated buildings devoted to agriculture</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLF</code>
+          <name>farm village</name>
+          <description>a populated place where the population is largely engaged in agricultural activities</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FRMS</code>
+          <name>farms</name>
+          <description>tracts of land with associated buildings devoted to agriculture</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FRMT</code>
+          <name>farmstead</name>
+          <description>the buildings and adjacent service areas of a farm</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FY</code>
+          <name>ferry</name>
+          <description>a boat or other floating conveyance and terminal facilities regularly used to transport people and vehicles across a waterbody</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FYT</code>
+          <name>ferry terminal</name>
+          <description>a place where ferries pick-up and discharge passengers, vehicles and or cargo</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FLD</code>
+          <name>field(s)</name>
+          <description>an open as opposed to wooded area</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FIRE</code>
+          <name>fire station</name>
+          <description>building housing firefighters and/or fire fighting equipment</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADM1</code>
+          <name>first-order administrative division</name>
+          <description>a primary administrative division of a country, such as a state in the United States</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FISH</code>
+          <name>fishing area</name>
+          <description>a fishing ground, bank or area where fishermen go to catch fish</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PNDSF</code>
+          <name>fishponds</name>
+          <description>ponds or enclosures in which fish are kept or raised</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FSR</code>
+          <name>fissure</name>
+          <description>a crack associated with volcanism</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FJD</code>
+          <name>fjord</name>
+          <description>a long, narrow, steep-walled, deep-water arm of the sea at high latitudes, usually along mountainous coasts</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FJDS</code>
+          <name>fjords</name>
+          <description>long, narrow, steep-walled, deep-water arms of the sea at high latitudes, usually along mountainous coasts</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FORD</code>
+          <name>ford</name>
+          <description>a shallow part of a stream which can be crossed on foot or by land vehicle</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RESF</code>
+          <name>forest reserve</name>
+          <description>a forested area set aside for preservation or controlled use</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STNF</code>
+          <name>forest station</name>
+          <description>a collection of buildings and facilities for carrying out forest management</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FRST</code>
+          <name>forest(s)</name>
+          <description>an area dominated by tree vegetation</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>INLTQ</code>
+          <name>former inlet</name>
+          <description>an inlet which has been filled in, or blocked by deposits</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MLSGQ</code>
+          <name>former sugar mill</name>
+          <description>a sugar mill no longer used as a sugar mill</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FT</code>
+          <name>fort</name>
+          <description>a defensive structure or earthworks</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FRSTF</code>
+          <name>fossilized forest</name>
+          <description>a forest fossilized by geologic processes and now exposed at the earth's surface</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FNDY</code>
+          <name>foundry</name>
+          <description>a building or works where metal casting is carried out</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADM4</code>
+          <name>fourth-order administrative division</name>
+          <description>a subdivision of a third-order administrative division</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ZNF</code>
+          <name>free trade zone</name>
+          <description>an area, usually a section of a port, where goods may be received and shipped free of customs duty and of most customs regulations</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PCLF</code>
+          <name>freely associated state</name>
+          <description>freely associated state</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DPOF</code>
+          <name>fuel depot</name>
+          <description>an area where fuel is stored</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GAP</code>
+          <name>gap</name>
+          <description>a low place in a ridge, not used for transportation</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GDN</code>
+          <name>garden(s)</name>
+          <description>an enclosure for displaying selected plant or animal life</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GOSP</code>
+          <name>gas-oil separator plant</name>
+          <description>a facility for separating gas from oil</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GASF</code>
+          <name>gasfield</name>
+          <description>an area containing a subterranean store of natural gas of economic value</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GATE</code>
+          <name>gate</name>
+          <description>a controlled access entrance or exit</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GYSR</code>
+          <name>geyser</name>
+          <description>a type of hot spring with intermittent eruptions of jets of hot water and steam</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GHAT</code>
+          <name>ghāt</name>
+          <description>a set of steps leading to a river, which are of religious significance, and at their base is usually a platform for bathing</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GLCR</code>
+          <name>glacier(s)</name>
+          <description>a mass of ice, usually at high latitudes or high elevations, with sufficient thickness to flow away from the source area in lobes, tongues, or masses</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNAU</code>
+          <name>gold mine(s)</name>
+          <description>a mine where gold ore, or alluvial gold is extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RECG</code>
+          <name>golf course</name>
+          <description>a recreation field where golf is played</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GRGE</code>
+          <name>gorge(s)</name>
+          <description>a short, narrow, steep-sided section of a stream valley</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GRSLD</code>
+          <name>grassland</name>
+          <description>an area dominated by grass vegetation</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GRVE</code>
+          <name>grave</name>
+          <description>a burial site</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GVL</code>
+          <name>gravel area</name>
+          <description>an area covered with gravel</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GRAZ</code>
+          <name>grazing area</name>
+          <description>an area of grasses and shrubs used for grazing</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GHSE</code>
+          <name>guest house</name>
+          <description>a house used to provide lodging for paying guests</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GULF</code>
+          <name>gulf</name>
+          <description>a large recess in the coastline, larger than a bay</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HLT</code>
+          <name>halting place</name>
+          <description>a place where caravans stop for rest</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HMCK</code>
+          <name>hammock(s)</name>
+          <description>a patch of ground, distinct from and slightly above the surrounding plain or wetland. Often occurs in groups</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AIRG</code>
+          <name>hangar</name>
+          <description>a covered and usually enclosed area for housing and repairing aircraft</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>VALG</code>
+          <name>hanging valley</name>
+          <description>a valley the floor of which is notably higher than the valley or shore to which it leads; most common in areas that have been glaciated</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HBR</code>
+          <name>harbor(s)</name>
+          <description>a haven or space of deep water so sheltered by the adjacent land as to afford a safe anchorage for ships</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HDLD</code>
+          <name>headland</name>
+          <description>a high projection of land extending into a large body of water beyond the line of the coast</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMH</code>
+          <name>headwaters</name>
+          <description>the source and upper part of a stream, including the upper drainage basin</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HTH</code>
+          <name>heath</name>
+          <description>an upland moor or sandy area dominated by low shrubby vegetation including heather</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AIRH</code>
+          <name>heliport</name>
+          <description>a place where helicopters land and take off</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HERM</code>
+          <name>hermitage</name>
+          <description>a secluded residence, usually for religious sects</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HLL</code>
+          <name>hill</name>
+          <description>a rounded elevation of limited extent rising above the surrounding land with local relief of less than 300m</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HLLS</code>
+          <name>hills</name>
+          <description>rounded elevations of limited extent rising above the surrounding land with local relief of less than 300m</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADMDH</code>
+          <name>historical administrative division</name>
+          <description>a former administrative division of a political entity, undifferentiated as to administrative level</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADM1H</code>
+          <name>historical first-order administrative division</name>
+          <description>a former first-order administrative division</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADM4H</code>
+          <name>historical fourth-order administrative division</name>
+          <description>a former fourth-order administrative division</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PCLH</code>
+          <name>historical political entity</name>
+          <description>a former political entity</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLH</code>
+          <name>historical populated place</name>
+          <description>a populated place that no longer exists</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RRH</code>
+          <name>historical railroad</name>
+          <description>a former permanent twin steel-rail track on which freight and passenger cars move long distances</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSTNH</code>
+          <name>historical railroad station</name>
+          <description>a former facility comprising ticket office, platforms, etc. for loading and unloading train passengers and freight</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RGNH</code>
+          <name>historical region</name>
+          <description>a former area distinguished by one or more observable physical or cultural characteristics</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADM2H</code>
+          <name>historical second-order administrative division</name>
+          <description>a former second-order administrative division</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HSTS</code>
+          <name>historical site</name>
+          <description>a place of historical importance</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADM3H</code>
+          <name>historical third-order administrative division</name>
+          <description>a former third-order administrative division</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>UFHU</code>
+          <name>historical undersea feature</name>
+          <description>an undersea feature whose existence has been subsequently disproved</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HMSD</code>
+          <name>homestead</name>
+          <description>a residence, owner's or manager's, on a sheep or cattle station, woolshed, outcamp, or Aboriginal outstation, specific to Australia and New Zealand</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HSP</code>
+          <name>hospital</name>
+          <description>a building in which sick or injured, especially those confined to bed, are medically treated</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SPNT</code>
+          <name>hot spring(s)</name>
+          <description>a place where hot ground water flows naturally out of the ground</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HTL</code>
+          <name>hotel</name>
+          <description>a building providing lodging and/or meals for the public</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HSE</code>
+          <name>house(s)</name>
+          <description>a building used as a human habitation</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DEVH</code>
+          <name>housing development</name>
+          <description>a tract of land on which many houses of similar design are built according to a development plan</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RESH</code>
+          <name>hunting reserve</name>
+          <description>a tract of land used primarily for hunting</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HUT</code>
+          <name>hut</name>
+          <description>a small primitive house</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HUTS</code>
+          <name>huts</name>
+          <description>small primitive houses</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PSH</code>
+          <name>hydroelectric power station</name>
+          <description>a building where electricity is generated from water power</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CAPG</code>
+          <name>icecap</name>
+          <description>a dome-shaped mass of glacial ice covering an area of mountain summits or other high lands; smaller than an ice sheet</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DPRG</code>
+          <name>icecap depression</name>
+          <description>a comparatively depressed area on an icecap</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DOMG</code>
+          <name>icecap dome</name>
+          <description>a comparatively elevated area on an icecap</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDGG</code>
+          <name>icecap ridge</name>
+          <description>a linear elevation on an icecap</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PCLI</code>
+          <name>independent political entity</name>
+          <description>independent political entity</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>INDS</code>
+          <name>industrial area</name>
+          <description>an area characterized by industrial activity</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>INLT</code>
+          <name>inlet</name>
+          <description>a narrow waterway extending into the land, or connecting a bay or lagoon with a larger body of water</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STNI</code>
+          <name>inspection station</name>
+          <description>a station at which vehicles, goods, and people are inspected</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TRGD</code>
+          <name>interdune trough(s)</name>
+          <description>a long wind-swept trough between parallel longitudinal dunes</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>INTF</code>
+          <name>interfluve</name>
+          <description>a relatively undissected upland between adjacent stream valleys</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKI</code>
+          <name>intermittent lake</name>
+          <description>intermittent lake</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKSI</code>
+          <name>intermittent lakes</name>
+          <description>intermittent lakes</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKOI</code>
+          <name>intermittent oxbow lake</name>
+          <description>intermittent oxbow lake</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PNDI</code>
+          <name>intermittent pond</name>
+          <description>intermittent pond</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PNDSI</code>
+          <name>intermittent ponds</name>
+          <description>intermittent ponds</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>POOLI</code>
+          <name>intermittent pool</name>
+          <description>intermittent pool</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSVI</code>
+          <name>intermittent reservoir</name>
+          <description>intermittent reservoir</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKNI</code>
+          <name>intermittent salt lake</name>
+          <description>intermittent salt lake</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKSNI</code>
+          <name>intermittent salt lakes</name>
+          <description>intermittent salt lakes</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PNDNI</code>
+          <name>intermittent salt pond(s)</name>
+          <description>intermittent salt pond(s)</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMI</code>
+          <name>intermittent stream</name>
+          <description>intermittent stream</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WTLDI</code>
+          <name>intermittent wetland</name>
+          <description>intermittent wetland</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDIN</code>
+          <name>intersection</name>
+          <description>a junction of two or more highways by a system of separate levels that permit traffic to pass from one to another without the crossing of traffic streams</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNFE</code>
+          <name>iron mine(s)</name>
+          <description>a mine where iron ore is extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FLDI</code>
+          <name>irrigated field(s)</name>
+          <description>a tract of level or terraced land which is irrigated</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNLI</code>
+          <name>irrigation canal</name>
+          <description>a canal which serves as a main conduit for irrigation water</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DTCHI</code>
+          <name>irrigation ditch</name>
+          <description>a ditch which serves to distribute irrigation water</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SYSI</code>
+          <name>irrigation system</name>
+          <description>a network of ditches and one or more of the following elements: water supply, reservoir, canal, pump, well, drain, etc.</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ISL</code>
+          <name>island</name>
+          <description>a tract of land, smaller than a continent, surrounded by water at high water</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ISLS</code>
+          <name>islands</name>
+          <description>tracts of land, smaller than a continent, surrounded by water at high water</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STLMT</code>
+          <name>Israeli settlement</name>
+          <description>Israeli settlement</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ISTH</code>
+          <name>isthmus</name>
+          <description>a narrow strip of land connecting two larger land masses and bordered by water</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>JTY</code>
+          <name>jetty</name>
+          <description>a structure built out into the water at a river mouth or harbor entrance to regulate currents and silting</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>KRST</code>
+          <name>karst area</name>
+          <description>a distinctive landscape developed on soluble rock such as limestone characterized by sinkholes, caves, disappearing streams, and underground drainage</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CMPLA</code>
+          <name>labor camp</name>
+          <description>a camp used by migrant or temporary laborers</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LGN</code>
+          <name>lagoon</name>
+          <description>a shallow coastal waterbody, completely or partly separated from a larger body of water by a barrier island, coral reef or other depositional feature</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LGNS</code>
+          <name>lagoons</name>
+          <description>shallow coastal waterbodies, completely or partly separated from a larger body of water by a barrier island, coral reef or other depositional feature</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LK</code>
+          <name>lake</name>
+          <description>a large inland body of standing water</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LBED</code>
+          <name>lake bed(s)</name>
+          <description>a dried up or drained area of a former lake</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CHNL</code>
+          <name>lake channel(s)</name>
+          <description>that part of a lake having water deep enough for navigation between islands, shoals, etc.</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RGNL</code>
+          <name>lake region</name>
+          <description>a tract of land distinguished by numerous lakes</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKS</code>
+          <name>lakes</name>
+          <description>large inland bodies of standing water</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ISLT</code>
+          <name>land-tied island</name>
+          <description>a coastal island connected to the mainland by barrier beaches, levees or dikes</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LNDF</code>
+          <name>landfill</name>
+          <description>a place for trash and garbage disposal in which the waste is buried between layers of earth to build up low-lying land</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LDNG</code>
+          <name>landing</name>
+          <description>a place where boats receive or discharge passengers and freight, but lacking most port facilities</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LAVA</code>
+          <name>lava area</name>
+          <description>an area of solidified lava</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNPB</code>
+          <name>lead mine(s)</name>
+          <description>a mine where lead ore is extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LTER</code>
+          <name>leased area</name>
+          <description>a tract of land leased by the United Kingdom from the People's Republic of China to form part of Hong Kong</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LEPC</code>
+          <name>leper colony</name>
+          <description>a settled area inhabited by lepers in relative isolation</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HSPL</code>
+          <name>leprosarium</name>
+          <description>an asylum or hospital for lepers</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LEV</code>
+          <name>levee</name>
+          <description>a natural low embankment bordering a distributary or meandering stream; often built up artificially to control floods</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LTHSE</code>
+          <name>lighthouse</name>
+          <description>a distinctive structure exhibiting a major navigation light</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MFGLM</code>
+          <name>limekiln</name>
+          <description>a furnace in which limestone is reduced to lime</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GOVL</code>
+          <name>local government office</name>
+          <description>a facility housing local governmental offices, usually a city, town, or village hall</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LCTY</code>
+          <name>locality</name>
+          <description>a minor area or place of unspecified or mixed character and indefinite boundaries</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LOCK</code>
+          <name>lock(s)</name>
+          <description>a basin in a waterway with gates at each end by means of which vessels are passed from one water level to another</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CMPL</code>
+          <name>logging camp</name>
+          <description>a camp used by loggers</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMSB</code>
+          <name>lost river</name>
+          <description>a surface stream that disappears into an underground channel, or dries up in an arid area</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MVA</code>
+          <name>maneuver area</name>
+          <description>a tract of land where military field exercises are carried out</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ISLM</code>
+          <name>mangrove island</name>
+          <description>a mangrove swamp surrounded by a waterbody</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MGV</code>
+          <name>mangrove swamp</name>
+          <description>a tropical tidal mud flat characterized by mangrove vegetation</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MAR</code>
+          <name>marina</name>
+          <description>a harbor facility for small boats, yachts, etc.</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CHNM</code>
+          <name>marine channel</name>
+          <description>that part of a body of water deep enough for navigation through an area otherwise not suitable</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SCHN</code>
+          <name>maritime school</name>
+          <description>a school at which maritime sciences form the core of the curriculum</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MKT</code>
+          <name>market</name>
+          <description>a place where goods are bought and sold at regular intervals</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MRSH</code>
+          <name>marsh(es)</name>
+          <description>a wetland dominated by grass-like vegetation</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MDW</code>
+          <name>meadow</name>
+          <description>a small, poorly drained area dominated by grassy vegetation</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>NKM</code>
+          <name>meander neck</name>
+          <description>a narrow strip of land between the two limbs of a meander loop at its narrowest point</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CTRM</code>
+          <name>medical center</name>
+          <description>a complex of health care buildings including two or more of the following: hospital, medical school, clinic, pharmacy, doctor's offices, etc.</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MESA</code>
+          <name>mesa(s)</name>
+          <description>a flat-topped, isolated elevation with steep slopes on all sides, less extensive than a plateau</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STNM</code>
+          <name>meteorological station</name>
+          <description>a station at which weather elements are recorded</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MILB</code>
+          <name>military base</name>
+          <description>a place used by an army or other armed service for storing arms and supplies, and for accommodating and training troops, a base from which operations can be initiated</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>INSM</code>
+          <name>military installation</name>
+          <description>a facility for use of and control by armed forces</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SCHM</code>
+          <name>military school</name>
+          <description>a school at which military science forms the core of the curriculum</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ML</code>
+          <name>mill(s)</name>
+          <description>a building housing machines for transforming, shaping, finishing, grinding, or extracting products</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MN</code>
+          <name>mine(s)</name>
+          <description>a site where mineral ores are extracted from the ground by excavating surface pits and subterranean passages</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNA</code>
+          <name>mining area</name>
+          <description>an area of mine sites where minerals and ores are extracted</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CMPMN</code>
+          <name>mining camp</name>
+          <description>a camp used by miners</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MSSN</code>
+          <name>mission</name>
+          <description>a place characterized by dwellings, school, church, hospital and other facilities operated by a religious group for the purpose of providing charitable services and to propagate religion</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MOLE</code>
+          <name>mole</name>
+          <description>a massive structure of masonry or large stones serving as a pier or breakwater</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MSTY</code>
+          <name>monastery</name>
+          <description>a building and grounds where a community of monks lives in seclusion</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNMT</code>
+          <name>monument</name>
+          <description>a commemorative structure or statue</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MOOR</code>
+          <name>moor(s)</name>
+          <description>an area of open ground overlaid with wet peaty soils</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MRN</code>
+          <name>moraine</name>
+          <description>a mound, ridge, or other accumulation of glacial till</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MSQE</code>
+          <name>mosque</name>
+          <description>a building for public Islamic worship</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MND</code>
+          <name>mound(s)</name>
+          <description>a low, isolated, rounded hill</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MT</code>
+          <name>mountain</name>
+          <description>an elevation standing high above the surrounding area with small summit area, steep slopes and local relief of 300m or more</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MTS</code>
+          <name>mountains</name>
+          <description>a mountain range or a group of mountains or high ridges</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FLTM</code>
+          <name>mud flat(s)</name>
+          <description>a relatively level area of mud either between high and low tide lines, or subject to flooding</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MFGM</code>
+          <name>munitions plant</name>
+          <description>a factory where ammunition is made</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MUS</code>
+          <name>museum</name>
+          <description>a building where objects of permanent interest in one or more of the arts and sciences are preserved and exhibited</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>NRWS</code>
+          <name>narrows</name>
+          <description>a navigable narrow part of a bay, strait, river, etc.</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TNLN</code>
+          <name>natural tunnel</name>
+          <description>a cave that is open at both ends</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RESN</code>
+          <name>nature reserve</name>
+          <description>an area reserved for the maintenance of a natural habitat</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>NVB</code>
+          <name>naval base</name>
+          <description>an area used to store supplies, provide barracks for troops and naval personnel, a port for naval vessels, and from which operations are initiated</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNLN</code>
+          <name>navigation canal(s)</name>
+          <description>a watercourse constructed for navigation of vessels</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CHNN</code>
+          <name>navigation channel</name>
+          <description>a buoyed channel of sufficient depth for the safe navigation of vessels</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNNI</code>
+          <name>nickel mine(s)</name>
+          <description>a mine where nickel ore is extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>NOV</code>
+          <name>novitiate</name>
+          <description>a religious house or school where novices are trained</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PSN</code>
+          <name>nuclear power station</name>
+          <description>nuclear power station</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>NTK</code>
+          <name>nunatak</name>
+          <description>a rock or mountain peak protruding through glacial ice</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>NTKS</code>
+          <name>nunataks</name>
+          <description>rocks or mountain peaks protruding through glacial ice</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>NSY</code>
+          <name>nursery(-ies)</name>
+          <description>a place where plants are propagated for transplanting or grafting</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OAS</code>
+          <name>oasis(-es)</name>
+          <description>an area in a desert made productive by the availability of water</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OBPT</code>
+          <name>observation point</name>
+          <description>a wildlife or scenic observation point</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OBS</code>
+          <name>observatory</name>
+          <description>a facility equipped for observation of atmospheric or space phenomena</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OCN</code>
+          <name>ocean</name>
+          <description>one of the major divisions of the vast expanse of salt water covering part of the earth</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BLDO</code>
+          <name>office building</name>
+          <description>commercial building where business and/or services are conducted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CMPO</code>
+          <name>oil camp</name>
+          <description>a camp used by oilfield workers</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ESTO</code>
+          <name>oil palm plantation</name>
+          <description>an estate specializing in the cultivation of oil palm trees</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OILP</code>
+          <name>oil pipeline</name>
+          <description>a pipeline used for transporting oil</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OILJ</code>
+          <name>oil pipeline junction</name>
+          <description>a section of an oil pipeline where two or more pipes join together</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TRMO</code>
+          <name>oil pipeline terminal</name>
+          <description>a tank farm or loading facility at the end of an oil pipeline</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PMPO</code>
+          <name>oil pumping station</name>
+          <description>a facility for pumping oil through a pipeline</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OILR</code>
+          <name>oil refinery</name>
+          <description>a facility for converting crude oil into refined petroleum products</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OILW</code>
+          <name>oil well</name>
+          <description>a well from which oil may be pumped</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OILF</code>
+          <name>oilfield</name>
+          <description>an area containing a subterranean store of petroleum of economic value</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GRVO</code>
+          <name>olive grove</name>
+          <description>a planting of olive trees</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MLO</code>
+          <name>olive oil mill</name>
+          <description>a mill where oil is extracted from olives</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OCH</code>
+          <name>orchard(s)</name>
+          <description>a planting of fruit or nut trees</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MLM</code>
+          <name>ore treatment plant</name>
+          <description>a facility for improving the metal content of ore by concentration</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OVF</code>
+          <name>overfalls</name>
+          <description>an area of breaking waves caused by the meeting of currents or by waves moving against the current</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKO</code>
+          <name>oxbow lake</name>
+          <description>a crescent-shaped lake commonly found adjacent to meandering streams</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PGDA</code>
+          <name>pagoda</name>
+          <description>a tower-like storied structure, usually a Buddhist shrine</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PAL</code>
+          <name>palace</name>
+          <description>a large stately house, often a royal or presidential residence</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GRVP</code>
+          <name>palm grove</name>
+          <description>a planting of palm trees</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RESP</code>
+          <name>palm tree reserve</name>
+          <description>an area of palm trees where use is controlled</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PAN</code>
+          <name>pan</name>
+          <description>a near-level shallow, natural depression or basin, usually containing an intermittent lake, pond, or pool</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PANS</code>
+          <name>pans</name>
+          <description>a near-level shallow, natural depression or basin, usually containing an intermittent lake, pond, or pool</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PRSH</code>
+          <name>parish</name>
+          <description>an ecclesiastical district</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PRK</code>
+          <name>park</name>
+          <description>an area, often of forested land, maintained as a place of beauty, or for recreation</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PRKGT</code>
+          <name>park gate</name>
+          <description>a controlled access to a park</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PRKHQ</code>
+          <name>park headquarters</name>
+          <description>a park administrative facility</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GARG</code>
+          <name>parking garage</name>
+          <description>a building or underground facility used exclusively for parking vehicles</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PKLT</code>
+          <name>parking lot</name>
+          <description>an area used for parking vehicles</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PASS</code>
+          <name>pass</name>
+          <description>a break in a mountain range or other high obstruction, used for transportation from one side to the other [See also gap]</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PSTP</code>
+          <name>patrol post</name>
+          <description>a post from which patrols are sent out</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PK</code>
+          <name>peak</name>
+          <description>a pointed elevation atop a mountain, ridge, or other hypsographic feature</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PKS</code>
+          <name>peaks</name>
+          <description>pointed elevations atop a mountain, ridge, or other hypsographic features</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PEAT</code>
+          <name>peat cutting area</name>
+          <description>an area where peat is harvested</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PEN</code>
+          <name>peninsula</name>
+          <description>an elongate area of land projecting into a body of water and nearly surrounded by water</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BSNP</code>
+          <name>petroleum basin</name>
+          <description>an area underlain by an oil-rich structural basin</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MFGPH</code>
+          <name>phosphate works</name>
+          <description>a facility for producing fertilizer</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PIER</code>
+          <name>pier</name>
+          <description>a structure built out into navigable water on piles providing berthing for ships and recreation</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GRVPN</code>
+          <name>pine grove</name>
+          <description>a planting of pine trees</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNPL</code>
+          <name>placer mine(s)</name>
+          <description>a place where heavy metals are concentrated and running water is used to extract them from unconsolidated sediments</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PLN</code>
+          <name>plain(s)</name>
+          <description>an extensive area of comparatively level to gently undulating land, lacking surface irregularities, and usually adjacent to a higher area</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PLAT</code>
+          <name>plateau</name>
+          <description>an elevated plain with steep slopes on one or more sides, and often with incised streams</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PT</code>
+          <name>point</name>
+          <description>a tapering piece of land projecting into a body of water, less prominent than a cape</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PTS</code>
+          <name>points</name>
+          <description>tapering pieces of land projecting into a body of water, less prominent than a cape</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PLDR</code>
+          <name>polder</name>
+          <description>an area reclaimed from the sea by diking and draining</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PP</code>
+          <name>police post</name>
+          <description>a building in which police are stationed</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PCL</code>
+          <name>political entity</name>
+          <description>political entity</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PND</code>
+          <name>pond</name>
+          <description>a small standing waterbody</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PNDS</code>
+          <name>ponds</name>
+          <description>small standing waterbodies</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>POOL</code>
+          <name>pool(s)</name>
+          <description>a small and comparatively still, deep part of a larger body of water such as a stream or harbor; or a small body of standing water</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLL</code>
+          <name>populated locality</name>
+          <description>an area similar to a locality but with a small group of dwellings or other buildings</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPL</code>
+          <name>populated place</name>
+          <description>a city, town, village, or other agglomeration of buildings where people live and work</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLS</code>
+          <name>populated places</name>
+          <description>cities, towns, villages, or other agglomerations of buildings where people live and work</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PRT</code>
+          <name>port</name>
+          <description>a place provided with terminal and transfer facilities for loading and discharging waterborne cargo or passengers, usually located in a harbor</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PTGE</code>
+          <name>portage</name>
+          <description>a place where boats, goods, etc., are carried overland between navigable waters</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PO</code>
+          <name>post office</name>
+          <description>a public building in which mail is received, sorted and distributed</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PS</code>
+          <name>power station</name>
+          <description>a facility for generating electric power</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PRN</code>
+          <name>prison</name>
+          <description>a facility for confining prisoners</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PRMN</code>
+          <name>promenade</name>
+          <description>a place for public walking, usually along a beach front</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PROM</code>
+          <name>promontory(-ies)</name>
+          <description>a bluff or prominent hill overlooking or projecting into a lowland</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PYR</code>
+          <name>pyramid</name>
+          <description>an ancient massive structure of square ground plan with four triangular faces meeting at a point and used for enclosing tombs</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PYRS</code>
+          <name>pyramids</name>
+          <description>ancient massive structures of square ground plan with four triangular faces meeting at a point and used for enclosing tombs</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNQR</code>
+          <name>quarry(-ies)</name>
+          <description>a surface mine where building stone or gravel and sand, etc. are extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>QUAY</code>
+          <name>quay</name>
+          <description>a structure of solid construction along a shore or bank which provides berthing for ships and which generally provides cargo handling facilities</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>QCKS</code>
+          <name>quicksand</name>
+          <description>an area where loose sand with water moving through it may become unstable when heavy objects are placed at the surface, causing them to sink</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RECR</code>
+          <name>racetrack</name>
+          <description>a track where races are held</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OBSR</code>
+          <name>radio observatory</name>
+          <description>a facility equipped with an array of antennae for receiving radio waves from space</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STNR</code>
+          <name>radio station</name>
+          <description>a facility for producing and transmitting information by radio waves</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RR</code>
+          <name>railroad</name>
+          <description>a permanent twin steel-rail track on which freight and passenger cars move long distances</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RJCT</code>
+          <name>railroad junction</name>
+          <description>a place where two or more railroad tracks join</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSD</code>
+          <name>railroad siding</name>
+          <description>a short track parallel to and joining the main track</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSGNL</code>
+          <name>railroad signal</name>
+          <description>a signal at the entrance of a particular section of track governing the movement of trains</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSTN</code>
+          <name>railroad station</name>
+          <description>a facility comprising ticket office, platforms, etc. for loading and unloading train passengers and freight</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSTP</code>
+          <name>railroad stop</name>
+          <description>a place lacking station facilities where trains stop to pick up and unload passengers and freight</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TNLRR</code>
+          <name>railroad tunnel</name>
+          <description>a tunnel through which a railroad passes</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RYD</code>
+          <name>railroad yard</name>
+          <description>a system of tracks used for the making up of trains, and switching and storing freight cars</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RNCH</code>
+          <name>ranch(es)</name>
+          <description>a large farm specializing in extensive grazing of livestock</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RPDS</code>
+          <name>rapids</name>
+          <description>a turbulent section of a stream associated with a steep, irregular stream bed</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RVN</code>
+          <name>ravine(s)</name>
+          <description>a small, narrow, deep, steep-sided stream channel, smaller than a gorge</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RCH</code>
+          <name>reach</name>
+          <description>a straight section of a navigable stream or channel between two bends</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RF</code>
+          <name>reef(s)</name>
+          <description>a surface-navigation hazard composed of consolidated material</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PRNJ</code>
+          <name>reformatory</name>
+          <description>a facility for confining, training, and reforming young law offenders</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CMPRF</code>
+          <name>refugee camp</name>
+          <description>a camp used by refugees</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RGN</code>
+          <name>region</name>
+          <description>an area distinguished by one or more observable physical or cultural characteristics</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CTRR</code>
+          <name>religious center</name>
+          <description>a facility where more than one religious activity is carried out, e.g., retreat, school, monastery, worship</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLR</code>
+          <name>religious populated place</name>
+          <description>a populated place whose population is largely engaged in religious occupations</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RLG</code>
+          <name>religious site</name>
+          <description>an ancient site of significant religious importance</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ITTR</code>
+          <name>research institute</name>
+          <description>a facility where research is carried out</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RESV</code>
+          <name>reservation</name>
+          <description>a tract of land set aside for aboriginal, tribal, or native populations</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RES</code>
+          <name>reserve</name>
+          <description>a tract of public land reserved for future use or restricted as to use</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSV</code>
+          <name>reservoir(s)</name>
+          <description>an artificial pond or lake</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSRT</code>
+          <name>resort</name>
+          <description>a specialized facility for vacation, health, or participation sports activities</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RHSE</code>
+          <name>resthouse</name>
+          <description>a structure maintained for the rest and shelter of travelers</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RLGR</code>
+          <name>retreat</name>
+          <description>a place of temporary seclusion, especially for religious groups</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDGE</code>
+          <name>ridge(s)</name>
+          <description>a long narrow elevation with steep sides, and a more or less continuous crest</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RD</code>
+          <name>road</name>
+          <description>an open way with improved surface for transportation of animals, people and vehicles</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDB</code>
+          <name>road bend</name>
+          <description>a conspicuously curved or bent section of a road</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDCUT</code>
+          <name>road cut</name>
+          <description>an excavation cut through a hill or ridge for a road</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDJCT</code>
+          <name>road junction</name>
+          <description>a place where two or more roads join</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TNLRD</code>
+          <name>road tunnel</name>
+          <description>a tunnel through which a road passes</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDST</code>
+          <name>roadstead</name>
+          <description>an open anchorage affording less protection than a harbor</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RK</code>
+          <name>rock</name>
+          <description>a conspicuous, isolated rocky mass</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HMDA</code>
+          <name>rock desert</name>
+          <description>a relatively sand-free, high bedrock plateau in a hot desert, with or without a gravel veneer</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RKFL</code>
+          <name>rockfall</name>
+          <description>an irregular mass of fallen rock at the base of a cliff or steep slope</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RKS</code>
+          <name>rocks</name>
+          <description>conspicuous, isolated rocky masses</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RKRY</code>
+          <name>rookery</name>
+          <description>a breeding place of a colony of birds or seals</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ESTR</code>
+          <name>rubber plantation</name>
+          <description>an estate which specializes in growing and tapping rubber trees</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RUIN</code>
+          <name>ruin(s)</name>
+          <description>a destroyed or decayed structure which is no longer functional</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BDGQ</code>
+          <name>ruined bridge</name>
+          <description>a destroyed or decayed bridge which is no longer functional</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DAMQ</code>
+          <name>ruined dam</name>
+          <description>a destroyed or decayed dam which is no longer functional</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SBKH</code>
+          <name>sabkha(s)</name>
+          <description>a salt flat or salt encrusted plain subject to periodic inundation from flooding or high tides</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SDL</code>
+          <name>saddle</name>
+          <description>a broad, open pass crossing a ridge or between hills or mountains</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SALT</code>
+          <name>salt area</name>
+          <description>a shallow basin or flat where salt accumulates after periodic inundation</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MFGN</code>
+          <name>salt evaporation ponds</name>
+          <description>diked salt ponds used in the production of solar evaporated salt</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKN</code>
+          <name>salt lake</name>
+          <description>an inland body of salt water with no outlet</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKSN</code>
+          <name>salt lakes</name>
+          <description>inland bodies of salt water with no outlet</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MRSHN</code>
+          <name>salt marsh</name>
+          <description>a flat area, subject to periodic salt water inundation, dominated by grassy salt-tolerant plants</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNN</code>
+          <name>salt mine(s)</name>
+          <description>a mine from which salt is extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PNDN</code>
+          <name>salt pond</name>
+          <description>a small standing body of salt water often in a marsh or swamp, usually along a seacoast</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PNDSN</code>
+          <name>salt ponds</name>
+          <description>small standing bodies of salt water often in a marsh or swamp, usually along a seacoast</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SNTR</code>
+          <name>sanatorium</name>
+          <description>a facility where victims of physical or mental disorders are treated</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SAND</code>
+          <name>sand area</name>
+          <description>a tract of land covered with sand</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ERG</code>
+          <name>sandy desert</name>
+          <description>an extensive tract of shifting sand and sand dunes</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STNS</code>
+          <name>satellite station</name>
+          <description>a facility for tracking and communicating with orbiting satellites</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MLSW</code>
+          <name>sawmill</name>
+          <description>a mill where logs or lumber are sawn to specified shapes and sizes</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SCH</code>
+          <name>school</name>
+          <description>building(s) where instruction in one or more branches of knowledge takes place</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADMS</code>
+          <name>school district</name>
+          <description>school district</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STNB</code>
+          <name>scientific research base</name>
+          <description>a scientific facility used as a base from which research is carried out or monitored</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SCRB</code>
+          <name>scrubland</name>
+          <description>an area of low trees, bushes, and shrubs stunted by some environmental limitation</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SEA</code>
+          <name>sea</name>
+          <description>a large body of salt water more or less confined by continuous land or chains of islands forming a subdivision of an ocean</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SCNU</code>
+          <name>seachannel</name>
+          <description>a continuously sloping, elongated depression commonly found in fans or plains and customarily bordered by levees on one or two sides</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SCSU</code>
+          <name>seachannels</name>
+          <description>continuously sloping, elongated depressions commonly found in fans or plains and customarily bordered by levees on one or two sides</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SMU</code>
+          <name>seamount</name>
+          <description>an elevation rising generally more than 1,000 meters and of limited extent across the summit</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SMSU</code>
+          <name>seamounts</name>
+          <description>elevations rising generally more than 1,000 meters and of limited extent across the summit</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AIRS</code>
+          <name>seaplane landing area</name>
+          <description>a place on a waterbody where floatplanes land and take off</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLA</code>
+          <name>seat of a first-order administrative division</name>
+          <description>seat of a first-order administrative division (PPLC takes precedence over PPLA)</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLA4</code>
+          <name>seat of a fourth-order administrative division</name>
+          <description>seat of a fourth-order administrative division</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLA2</code>
+          <name>seat of a second-order administrative division</name>
+          <description>seat of a second-order administrative division</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLA3</code>
+          <name>seat of a third-order administrative division</name>
+          <description>seat of a third-order administrative division</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADM2</code>
+          <name>second-order administrative division</name>
+          <description>a subdivision of a first-order administrative division</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BNKX</code>
+          <name>section of bank</name>
+          <description>section of bank</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNLX</code>
+          <name>section of canal</name>
+          <description>section of canal</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ESTX</code>
+          <name>section of estate</name>
+          <description>section of estate</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HBRX</code>
+          <name>section of harbor</name>
+          <description>section of harbor</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PCLIX</code>
+          <name>section of independent political entity</name>
+          <description>section of independent political entity</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMIX</code>
+          <name>section of intermittent stream</name>
+          <description>section of intermittent stream</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ISLX</code>
+          <name>section of island</name>
+          <description>section of island</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LGNX</code>
+          <name>section of lagoon</name>
+          <description>section of lagoon</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKX</code>
+          <name>section of lake</name>
+          <description>section of lake</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PENX</code>
+          <name>section of peninsula</name>
+          <description>section of peninsula</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PLNX</code>
+          <name>section of plain</name>
+          <description>section of plain</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PLATX</code>
+          <name>section of plateau</name>
+          <description>section of plateau</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PPLX</code>
+          <name>section of populated place</name>
+          <description>section of populated place</description>
+          <category>P</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RFX</code>
+          <name>section of reef</name>
+          <description>section of reef</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMX</code>
+          <name>section of stream</name>
+          <description>section of stream</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>VALX</code>
+          <name>section of valley</name>
+          <description>section of valley</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WADX</code>
+          <name>section of wadi</name>
+          <description>section of wadi</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FLLSX</code>
+          <name>section of waterfall(s)</name>
+          <description>section of waterfall(s)</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PCLS</code>
+          <name>semi-independent political entity</name>
+          <description>semi-independent political entity</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SWT</code>
+          <name>sewage treatment plant</name>
+          <description>facility for the processing of sewage and/or wastewater</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SHPF</code>
+          <name>sheepfold</name>
+          <description>a fence or wall enclosure for sheep and other small herd animals</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SHOL</code>
+          <name>shoal(s)</name>
+          <description>a surface-navigation hazard composed of unconsolidated material</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SHOPC</code>
+          <name>shopping center or mall</name>
+          <description>an urban shopping area featuring a variety of shops surrounding a usually open-air concourse reserved for pedestrian traffic; or a large suburban building or group of buildings containing various shops with associated passageways</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SHOR</code>
+          <name>shore</name>
+          <description>a narrow zone bordering a waterbody which covers and uncovers at high and low water, respectively</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SHRN</code>
+          <name>shrine</name>
+          <description>a structure or place memorializing a person or religious concept</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SILL</code>
+          <name>sill</name>
+          <description>the low part of a gap or saddle separating basins</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SINK</code>
+          <name>sinkhole</name>
+          <description>a small crater-shape depression in a karst area</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ESTSL</code>
+          <name>sisal plantation</name>
+          <description>an estate that specializes in growing sisal</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SLID</code>
+          <name>slide</name>
+          <description>a mound of earth material, at the base of a slope and the associated scoured area</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SLP</code>
+          <name>slope(s)</name>
+          <description>a surface with a relatively uniform slope angle</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SLCE</code>
+          <name>sluice</name>
+          <description>a conduit or passage for carrying off surplus water from a waterbody, usually regulated by means of a sluice gate</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SNOW</code>
+          <name>snowfield</name>
+          <description>an area of permanent snow and ice forming the accumulation area of a glacier</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SD</code>
+          <name>sound</name>
+          <description>a long arm of the sea forming a channel between the mainland and an island or islands; or connecting two larger bodies of water</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SPA</code>
+          <name>spa</name>
+          <description>a resort area usually developed around a medicinal spring</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CTRS</code>
+          <name>space center</name>
+          <description>a facility for launching, tracking, or controlling satellites and space vehicles</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SPLY</code>
+          <name>spillway</name>
+          <description>a passage or outlet through which surplus water flows over, around or through a dam</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SPIT</code>
+          <name>spit</name>
+          <description>a narrow, straight or curved continuation of a beach into a waterbody</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SPNG</code>
+          <name>spring(s)</name>
+          <description>a place where ground water flows naturally out of the ground</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SPUR</code>
+          <name>spur(s)</name>
+          <description>a subordinate ridge projecting outward from a hill, mountain or other elevation</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SQR</code>
+          <name>square</name>
+          <description>a broad, open, public area near the center of a town or city</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STBL</code>
+          <name>stable</name>
+          <description>a building for the shelter and feeding of farm animals, especially horses</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STDM</code>
+          <name>stadium</name>
+          <description>a structure with an enclosure for athletic games with tiers of seats for spectators</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STPS</code>
+          <name>steps</name>
+          <description>stones or slabs placed for ease in ascending or descending a steep slope</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STKR</code>
+          <name>stock route</name>
+          <description>a route taken by livestock herds</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>REG</code>
+          <name>stony desert</name>
+          <description>a desert plain characterized by a surface veneer of gravel and stones</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RET</code>
+          <name>store</name>
+          <description>a building where goods and/or services are offered for sale</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SHSE</code>
+          <name>storehouse</name>
+          <description>a building for storing goods, especially provisions</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STRT</code>
+          <name>strait</name>
+          <description>a relatively narrow waterway, usually narrower and less extensive than a sound, connecting two larger bodies of water</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STM</code>
+          <name>stream</name>
+          <description>a body of running water moving to a lower level in a channel on land</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BNKR</code>
+          <name>stream bank</name>
+          <description>a sloping margin of a stream channel which normally confines the stream to its channel on land</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMB</code>
+          <name>stream bend</name>
+          <description>a conspicuously curved or bent segment of a stream</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMGS</code>
+          <name>stream gauging station</name>
+          <description>named place where a measuring station for a watercourse, reservoir or other water body exists</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMM</code>
+          <name>stream mouth(s)</name>
+          <description>a place where a stream discharges into a lagoon, lake, or the sea</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STMS</code>
+          <name>streams</name>
+          <description>bodies of running water moving to a lower level in a channel on land</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ST</code>
+          <name>street</name>
+          <description>a paved urban thoroughfare</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>DAMSB</code>
+          <name>sub-surface dam</name>
+          <description>a dam put down to bedrock in a sand river</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SUBW</code>
+          <name>subway</name>
+          <description>a railroad used for mass public transportation primarily in urban areas, all or part of the system may be located below, above, or at ground level</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SUBS</code>
+          <name>subway station</name>
+          <description>a facility comprising ticket office, platforms, etc. for loading and unloading subway passengers</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MLSG</code>
+          <name>sugar mill</name>
+          <description>a facility where sugar cane is processed into raw sugar</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ESTSG</code>
+          <name>sugar plantation</name>
+          <description>an estate that specializes in growing sugar cane</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MFGSG</code>
+          <name>sugar refinery</name>
+          <description>a facility for converting raw sugar into refined sugar</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SPNS</code>
+          <name>sulphur spring(s)</name>
+          <description>a place where sulphur ground water flows naturally out of the ground</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SWMP</code>
+          <name>swamp</name>
+          <description>a wetland dominated by tree vegetation</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SYG</code>
+          <name>synagogue</name>
+          <description>a place for Jewish worship and religious instruction</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TMTU</code>
+          <name>tablemount (or guyot)</name>
+          <description>a seamount having a comparatively smooth, flat top</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TMSU</code>
+          <name>tablemounts (or guyots)</name>
+          <description>seamounts having a comparatively smooth, flat top</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TAL</code>
+          <name>talus slope</name>
+          <description>a steep concave slope formed by an accumulation of loose rock fragments at the base of a cliff or steep slope</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>OILT</code>
+          <name>tank farm</name>
+          <description>a tract of land occupied by large, cylindrical, metal tanks in which oil or liquid petrochemicals are stored</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ESTT</code>
+          <name>tea plantation</name>
+          <description>an estate which specializes in growing tea bushes</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SCHT</code>
+          <name>technical school</name>
+          <description>post-secondary school with a specifically technical or vocational curriculum</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TMPL</code>
+          <name>temple(s)</name>
+          <description>an edifice dedicated to religious worship</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>AIRT</code>
+          <name>terminal</name>
+          <description>airport facilities for the handling of freight and passengers</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TRR</code>
+          <name>terrace</name>
+          <description>a long, narrow alluvial platform bounded by steeper slopes above and below, usually overlooking a waterbody</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TERR</code>
+          <name>territory</name>
+          <description>territory</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ADM3</code>
+          <name>third-order administrative division</name>
+          <description>a subdivision of a second-order administrative division</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CRKT</code>
+          <name>tidal creek(s)</name>
+          <description>a meandering channel in a coastal wetland subject to bi-directional tidal currents</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FLTT</code>
+          <name>tidal flat(s)</name>
+          <description>a large flat area of mud or sand attached to the shore and alternately covered and uncovered by the tide</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNSN</code>
+          <name>tin mine(s)</name>
+          <description>a mine where tin ore is extracted</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TOLL</code>
+          <name>toll gate/barrier</name>
+          <description>highway toll collection station</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TMB</code>
+          <name>tomb(s)</name>
+          <description>a structure for interring bodies</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TOWR</code>
+          <name>tower</name>
+          <description>a high conspicuous structure, typically much higher than its diameter</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDCR</code>
+          <name>traffic circle</name>
+          <description>a road junction formed around a central circle about which traffic moves in one direction only</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TRL</code>
+          <name>trail</name>
+          <description>a path, track, or route used by pedestrians, animals, or off-road vehicles</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TRANT</code>
+          <name>transit terminal</name>
+          <description>facilities for the handling of vehicular freight and passengers</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TREE</code>
+          <name>tree(s)</name>
+          <description>a conspicuous tree used as a landmark</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TRIG</code>
+          <name>triangulation station</name>
+          <description>a point on the earth whose position has been determined by triangulation</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TRB</code>
+          <name>tribal area</name>
+          <description>a tract of land used by nomadic or other tribes</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TUND</code>
+          <name>tundra</name>
+          <description>a marshy, treeless, high latitude plain, dominated by mosses, lichens, and low shrub vegetation under permafrost conditions</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TNL</code>
+          <name>tunnel</name>
+          <description>a subterranean passageway for transportation</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TNLS</code>
+          <name>tunnels</name>
+          <description>subterranean passageways for transportation</description>
+          <category>R</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNLSB</code>
+          <name>underground irrigation canal(s)</name>
+          <description>a gently inclined underground tunnel bringing water for irrigation from aquifers</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LKSB</code>
+          <name>underground lake</name>
+          <description>a standing body of water in a cave</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>APNU</code>
+          <name>undersea apron</name>
+          <description>a gentle slope, with a generally smooth surface, particularly found around groups of islands and seamounts</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ARCU</code>
+          <name>undersea arch</name>
+          <description>a low bulge around the southeastern end of the island of Hawaii</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ARRU</code>
+          <name>undersea arrugado</name>
+          <description>an area of subdued corrugations off Baja California</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BNKU</code>
+          <name>undersea bank</name>
+          <description>an elevation, typically located on a shelf, over which the depth of water is relatively shallow but sufficient for safe surface navigation</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BKSU</code>
+          <name>undersea banks</name>
+          <description>elevations, typically located on a shelf, over which the depth of water is relatively shallow but sufficient for safe surface navigation</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BSNU</code>
+          <name>undersea basin</name>
+          <description>a depression more or less equidimensional in plan and of variable extent</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BNCU</code>
+          <name>undersea bench</name>
+          <description>a small terrace</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>BDLU</code>
+          <name>undersea borderland</name>
+          <description>a region adjacent to a continent, normally occupied by or bordering a shelf, that is highly irregular with depths well in excess of those typical of a shelf</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNYU</code>
+          <name>undersea canyon</name>
+          <description>a relatively narrow, deep depression with steep sides, the bottom of which generally has a continuous slope</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CNSU</code>
+          <name>undersea canyons</name>
+          <description>relatively narrow, deep depressions with steep sides, the bottom of which generally has a continuous slope</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>CDAU</code>
+          <name>undersea cordillera</name>
+          <description>an entire mountain system including the subordinate ranges, interior plateaus, and basins</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ESCU</code>
+          <name>undersea escarpment (or scarp)</name>
+          <description>an elongated and comparatively steep slope separating flat or gently sloping areas</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FANU</code>
+          <name>undersea fan</name>
+          <description>a relatively smooth feature normally sloping away from the lower termination of a canyon or canyon system</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FLTU</code>
+          <name>undersea flat</name>
+          <description>a small level or nearly level area</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FRKU</code>
+          <name>undersea fork</name>
+          <description>a branch of a canyon or valley</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FRSU</code>
+          <name>undersea forks</name>
+          <description>a branch of a canyon or valley</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FRZU</code>
+          <name>undersea fracture zone</name>
+          <description>an extensive linear zone of irregular topography of the sea floor, characterized by steep-sided or asymmetrical ridges, troughs, or escarpments</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FURU</code>
+          <name>undersea furrow</name>
+          <description>a closed, linear, narrow, shallow depression</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GAPU</code>
+          <name>undersea gap</name>
+          <description>a narrow break in a ridge or rise</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>GLYU</code>
+          <name>undersea gully</name>
+          <description>a small valley-like feature</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HLLU</code>
+          <name>undersea hill</name>
+          <description>an elevation rising generally less than 500 meters</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HLSU</code>
+          <name>undersea hills</name>
+          <description>elevations rising generally less than 500 meters</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>HOLU</code>
+          <name>undersea hole</name>
+          <description>a small depression of the sea floor</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>KNLU</code>
+          <name>undersea knoll</name>
+          <description>an elevation rising generally more than 500 meters and less than 1,000 meters and of limited extent across the summit</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>KNSU</code>
+          <name>undersea knolls</name>
+          <description>elevations rising generally more than 500 meters and less than 1,000 meters and of limited extent across the summits</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LDGU</code>
+          <name>undersea ledge</name>
+          <description>a rocky projection or outcrop, commonly linear and near shore</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>LEVU</code>
+          <name>undersea levee</name>
+          <description>an embankment bordering a canyon, valley, or seachannel</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MDVU</code>
+          <name>undersea median valley</name>
+          <description>the axial depression of the mid-oceanic ridge system</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MESU</code>
+          <name>undersea mesa</name>
+          <description>an isolated, extensive, flat-topped elevation on the shelf, with relatively steep sides</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MOTU</code>
+          <name>undersea moat</name>
+          <description>an annular depression that may not be continuous, located at the base of many seamounts, islands, and other isolated elevations</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MNDU</code>
+          <name>undersea mound</name>
+          <description>a low, isolated, rounded hill</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MTU</code>
+          <name>undersea mountain</name>
+          <description>a well-delineated subdivision of a large and complex positive feature</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MTSU</code>
+          <name>undersea mountains</name>
+          <description>well-delineated subdivisions of a large and complex positive feature</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PKU</code>
+          <name>undersea peak</name>
+          <description>a prominent elevation, part of a larger feature, either pointed or of very limited extent across the summit</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PKSU</code>
+          <name>undersea peaks</name>
+          <description>prominent elevations, part of a larger feature, either pointed or of very limited extent across the summit</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PNLU</code>
+          <name>undersea pinnacle</name>
+          <description>a high tower or spire-shaped pillar of rock or coral, alone or cresting a summit</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PLNU</code>
+          <name>undersea plain</name>
+          <description>a flat, gently sloping or nearly level region</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PLTU</code>
+          <name>undersea plateau</name>
+          <description>a comparatively flat-topped feature of considerable extent, dropping off abruptly on one or more sides</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PLFU</code>
+          <name>undersea platform</name>
+          <description>a flat or gently sloping underwater surface extending seaward from the shore</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PRVU</code>
+          <name>undersea province</name>
+          <description>a region identifiable by a group of similar physiographic features whose characteristics are markedly in contrast with surrounding areas</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RMPU</code>
+          <name>undersea ramp</name>
+          <description>a gentle slope connecting areas of different elevations</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RNGU</code>
+          <name>undersea range</name>
+          <description>a series of associated ridges or seamounts</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RAVU</code>
+          <name>undersea ravine</name>
+          <description>a small canyon</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RFU</code>
+          <name>undersea reef</name>
+          <description>a surface-navigation hazard composed of consolidated material</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RFSU</code>
+          <name>undersea reefs</name>
+          <description>surface-navigation hazards composed of consolidated material</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDGU</code>
+          <name>undersea ridge</name>
+          <description>a long narrow elevation with steep sides</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RDSU</code>
+          <name>undersea ridges</name>
+          <description>long narrow elevations with steep sides</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RISU</code>
+          <name>undersea rise</name>
+          <description>a broad elevation that rises gently, and generally smoothly, from the sea floor</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SDLU</code>
+          <name>undersea saddle</name>
+          <description>a low part, resembling in shape a saddle, in a ridge or between contiguous seamounts</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SHFU</code>
+          <name>undersea shelf</name>
+          <description>a zone adjacent to a continent (or around an island) that extends from the low water line to a depth at which there is usually a marked increase of slope towards oceanic depths</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>EDGU</code>
+          <name>undersea shelf edge</name>
+          <description>a line along which there is a marked increase of slope at the outer margin of a continental shelf or island shelf</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SHVU</code>
+          <name>undersea shelf valley</name>
+          <description>a valley on the shelf, generally the shoreward extension of a canyon</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SHLU</code>
+          <name>undersea shoal</name>
+          <description>a surface-navigation hazard composed of unconsolidated material</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SHSU</code>
+          <name>undersea shoals</name>
+          <description>hazards to surface navigation composed of unconsolidated material</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SILU</code>
+          <name>undersea sill</name>
+          <description>the low part of an underwater gap or saddle separating basins, including a similar feature at the mouth of a fjord</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SLPU</code>
+          <name>undersea slope</name>
+          <description>the slope seaward from the shelf edge to the beginning of a continental rise or the point where there is a general reduction in slope</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>SPRU</code>
+          <name>undersea spur</name>
+          <description>a subordinate elevation, ridge, or rise projecting outward from a larger feature</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TERU</code>
+          <name>undersea terrace</name>
+          <description>a relatively flat horizontal or gently inclined surface, sometimes long and narrow, which is bounded by a steeper ascending slope on one side and by a steep descending slope on the opposite side</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TNGU</code>
+          <name>undersea tongue</name>
+          <description>an elongate (tongue-like) extension of a flat sea floor into an adjacent higher feature</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TRNU</code>
+          <name>undersea trench</name>
+          <description>a long, narrow, characteristically very deep and asymmetrical depression of the sea floor, with relatively steep sides</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>TRGU</code>
+          <name>undersea trough</name>
+          <description>a long depression of the sea floor characteristically flat bottomed and steep sided, and normally shallower than a trench</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>VALU</code>
+          <name>undersea valley</name>
+          <description>a relatively shallow, wide depression, the bottom of which usually has a continuous gradient</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>VLSU</code>
+          <name>undersea valleys</name>
+          <description>a relatively shallow, wide depression, the bottom of which usually has a continuous gradient</description>
+          <category>U</category>
+       </codelist-item>
+       <codelist-item>
+          <code>USGE</code>
+          <name>United States Government Establishment</name>
+          <description>a facility operated by the United States Government in Panama</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>UPLD</code>
+          <name>upland</name>
+          <description>an extensive interior region of high land with low to moderate surface relief</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>VAL</code>
+          <name>valley</name>
+          <description>an elongated depression usually traversed by a stream</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>VALS</code>
+          <name>valleys</name>
+          <description>elongated depressions usually traversed by a stream</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>VETF</code>
+          <name>veterinary facility</name>
+          <description>a building or camp at which veterinary services are available</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>VIN</code>
+          <name>vineyard</name>
+          <description>a planting of grapevines</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>VINS</code>
+          <name>vineyards</name>
+          <description>plantings of grapevines</description>
+          <category>V</category>
+       </codelist-item>
+       <codelist-item>
+          <code>VLC</code>
+          <name>volcano</name>
+          <description>a conical elevation composed of volcanic materials with a crater at the top</description>
+          <category>T</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WAD</code>
+          <name>wadi</name>
+          <description>a valley or ravine, bounded by relatively steep banks, which in the rainy season becomes a watercourse; found primarily in North Africa and the Middle East</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WADB</code>
+          <name>wadi bend</name>
+          <description>a conspicuously curved or bent segment of a wadi</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WADJ</code>
+          <name>wadi junction</name>
+          <description>a place where two or more wadies join</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WADM</code>
+          <name>wadi mouth</name>
+          <description>the lower terminus of a wadi where it widens into an adjoining floodplain, depression, or waterbody</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WADS</code>
+          <name>wadies</name>
+          <description>valleys or ravines, bounded by relatively steep banks, which in the rainy season become watercourses; found primarily in North Africa and the Middle East</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WALL</code>
+          <name>wall</name>
+          <description>a thick masonry structure, usually enclosing a field or building, or forming the side of a structure</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MLWTR</code>
+          <name>water mill</name>
+          <description>a mill powered by running water</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>PMPW</code>
+          <name>water pumping station</name>
+          <description>a facility for pumping water from a major well or through a pipeline</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RSVT</code>
+          <name>water tank</name>
+          <description>a contained pool or tank of water at, below, or above ground level</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WTRC</code>
+          <name>watercourse</name>
+          <description>a natural, well-defined channel produced by flowing water, or an artificial channel designed to carry flowing water</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>FLLS</code>
+          <name>waterfall(s)</name>
+          <description>a perpendicular or very steep descent of the water of a stream</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WTRH</code>
+          <name>waterhole(s)</name>
+          <description>a natural hole, hollow, or small depression that contains water, used by man and animals, especially in arid areas</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WTRW</code>
+          <name>waterworks</name>
+          <description>a facility for supplying potable water through a water source and a system of pumps and filtration beds</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WEIR</code>
+          <name>weir(s)</name>
+          <description>a small dam in a stream, designed to raise the water level or to divert stream flow through a desired channel</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WLL</code>
+          <name>well</name>
+          <description>a cylindrical hole, pit, or tunnel drilled or dug down to a depth from which water, oil, or gas can be pumped or brought to the surface</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WLLS</code>
+          <name>wells</name>
+          <description>cylindrical holes, pits, or tunnels drilled or dug down to a depth from which water, oil, or gas can be pumped or brought to the surface</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WTLD</code>
+          <name>wetland</name>
+          <description>an area subject to inundation, usually characterized by bog, marsh, or swamp vegetation</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>STNW</code>
+          <name>whaling station</name>
+          <description>a facility for butchering whales and processing train oil</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WHRF</code>
+          <name>wharf(-ves)</name>
+          <description>a structure of open rather than solid construction along a shore or a bank which provides berthing for ships and cargo-handling facilities</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WHRL</code>
+          <name>whirlpool</name>
+          <description>a turbulent, rotating movement of water in a stream</description>
+          <category>H</category>
+       </codelist-item>
+       <codelist-item>
+          <code>RESW</code>
+          <name>wildlife reserve</name>
+          <description>a tract of public land reserved for the preservation of wildlife</description>
+          <category>L</category>
+       </codelist-item>
+       <codelist-item>
+          <code>MLWND</code>
+          <name>windmill</name>
+          <description>a mill or water pump powered by wind</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>WRCK</code>
+          <name>wreck</name>
+          <description>the site of the remains of a wrecked vessel</description>
+          <category>S</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ZN</code>
+          <name>zone</name>
+          <description>zone</description>
+          <category>A</category>
+       </codelist-item>
+       <codelist-item>
+          <code>ZOO</code>
+          <name>zoo</name>
+          <description>a zoological garden or park where wild animals are kept for exhibition</description>
+          <category>S</category>
+       </codelist-item>
+    </codelist-items>
+</codelist>
