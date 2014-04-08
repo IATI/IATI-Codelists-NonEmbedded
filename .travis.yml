@@ -2,5 +2,5 @@ before_install:
     - sudo apt-get update -qq
     - sudo apt-get install -qq libxml2-utils
 script:
-    - wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/1.04dev/codelist.xsd"; wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/1.04dev/xml.xsd"; xmllint --schema codelist.xsd --noout xml/*
+    - wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-1.04/codelist.xsd"; wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-1.04/xml.xsd"; xmllint --schema codelist.xsd --noout xml/*
 
