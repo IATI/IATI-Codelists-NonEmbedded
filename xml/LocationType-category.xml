@@ -1,6 +1,6 @@
-<codelist name="GeographicFeatureDesignation-category" xml:lang="en" complete="1">
+<codelist name="LocationType-category" xml:lang="en" complete="1">
     <metadata>
-        <name>Geographic Feature Designation (category)</name>
+        <name>Location Type (category)</name>
         <description>This category is equivalent to US NGA's "Feature Class"</description>
         <url>http://geonames.nga.mil/ggmagaz/</url>
     </metadata>

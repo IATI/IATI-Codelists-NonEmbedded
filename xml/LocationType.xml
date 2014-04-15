@@ -1,6 +1,6 @@
-<codelist name="GeographicFeatureDesignation" xml:lang="en" category-codelist="GeographicFeatureDesignation-category" complete="1">
+<codelist name="LocationType" xml:lang="en" category-codelist="LocationType-category" complete="1">
     <metadata>
-        <name>Geographic Feature Designation</name>
+        <name>Location Type</name>
         <description>
             US NGA Feature Designation Codes
             
