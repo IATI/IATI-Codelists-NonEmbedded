@@ -3,16 +3,20 @@
   <metadata>
     <name>Organisation Registration Agency</name>
     <description>
-        Organisation registry agencies and their code. These are used the
+        Organisation registry agencies and their code. These can be used as the
         prefix for an organisation identifier.
 
         In this list, description contains IATI specific usage notes, rather
         than a general description of the regsitration agency.
 
-        The codes on this list are based on the ISO Country codes, except for
-        XM which is used to indicate Multilateral/International Agency. This
-        follows ISO's convention of resrving codes starting with X for "private
-        use".
+        The categories on this list are ISO Country codes, except for XM which
+        is used to indicate Multilateral/International Agency. This follows
+        ISO's convention of reserving codes starting with X for "private use".
+
+        This list is maintained by the IATI Secretariat, but is not an
+        "Embedded" part of the IATI Standard - ie. changes may be made outside
+        of the usual upgrade process. If a Registation Agency that you wish to
+        use is not on this list, please contact support@iatistandard.org
         
         This list was previously located at:
         https://docs.google.com/spreadsheet/ccc?key=0AnWngmdQt3stdFppMWdkcXJqVTRWTk9menR1N0FXNGc&amp;usp=drive_web#gid=0
