@@ -633,6 +633,10 @@
             <name>NETHERLANDS</name>
         </codelist-item>
         <codelist-item>
+             <code>AN</code>
+             <name>NETHERLAND ANTILLES</name>
+        </codelist-item>
+        <codelist-item>
             <code>NC</code>
             <name>NEW CALEDONIA</name>
         </codelist-item>

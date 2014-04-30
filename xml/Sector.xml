@@ -425,6 +425,40 @@
             <category>151</category>
         </codelist-item>
         <codelist-item>
+            <code>15161</code>
+            <name>Elections</name>
+            <description>Electoral assistance and monitoring, voters' education
+            [other than in connection with UN peace building
+            (15230)].</description>
+            <category>151</category>
+        </codelist-item>
+        <codelist-item>
+            <code>15162</code>
+            <name>Human rights</name>
+            <description>Monitoring of human rights performance; support for
+            national and regional human rights bodies; protection of ethnic,
+            religious and cultural minorities [other than in connection with un
+            peace building (15230)].</description>
+            <category>151</category>
+        </codelist-item>
+        <codelist-item>
+            <code>15163</code>
+            <name>Free flow of information</name>
+            <description>Uncensored flow of information on public issues,
+            including activities that increase the professionalism, skills and
+            integrity of the print and broadcast media (e.g. training of
+            journalists).</description>
+            <category>151</category>
+        </codelist-item>
+        <codelist-item>
+            <code>15164</code>
+            <name>Women's equality organisations and institutions</name>
+            <description>Support for institutions and organisations
+            (governmental and non-governmental) working for gender equality and
+            women's empowerment.</description>
+            <category>151</category>
+        </codelist-item>
+        <codelist-item>
             <code>15170</code>
             <name>Women's equality organisations and institutions *</name>
             <description>
