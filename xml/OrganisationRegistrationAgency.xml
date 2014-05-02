@@ -6,6 +6,8 @@
         Organisation registry agencies and their code. These can be used as the
         prefix for an organisation identifier.
 
+        For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/
+
         In this list, description contains IATI specific usage notes, rather
         than a general description of the regsitration agency.
 
