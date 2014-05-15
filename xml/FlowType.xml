@@ -2,6 +2,7 @@
     <metadata>
         <name>Flow Type</name>
         <description>DAC/CRS distinction between ODA (official development assistance) and other types of resource flow.</description>
+        <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
     </metadata>
     <codelist-items>
         <codelist-item>
