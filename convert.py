@@ -2,11 +2,17 @@
 
 Converts codelist files from external sources into the format used by IATI.
 
-Currently only supports the IANA Media Types code list (FileFormat).
+Note not all external codelists are converted automatically yet.
 
 """
 
 from lxml import etree as ET
+
+"""
+
+IANA Media Types (FileFormat)
+
+"""
 
 template = ET.parse('templates/FileFormat.xml', ET.XMLParser(remove_blank_text=True))
 codelist_items = template.find('codelist-items')
@@ -46,4 +52,44 @@ def indent(elem, level=0, shift=2):
 indent(template.getroot(), 0, 4)
 
 template.write('xml/FileFormat.xml', pretty_print=True)
+
+
+
+"""
+
+ISO Country Alpha 2
+
+"""
+
+XML_LANG = '{http://www.w3.org/XML/1998/namespace}lang'
+
+template = ET.parse('templates/Country.xml', ET.XMLParser(remove_blank_text=True))
+codelist_items = template.find('codelist-items')
+
+countries = ET.parse('source/iso_country_codes.xml')
+for country in countries.findall('country'):
+    if country.find('status').text == 'officially-assigned':
+        codelist_item = ET.Element('codelist-item')
+
+        code = ET.Element('code')
+        code.text = country.find('alpha-2-code').text
+        codelist_item.append(code)
+        
+        for short_name in country.findall('short-name'):
+            if XML_LANG in short_name.attrib:
+                name = ET.Element('name')
+                name.attrib[XML_LANG] = short_name.attrib[XML_LANG]
+                name.text = short_name.text
+                codelist_item.append(name)
+
+        for full_name in country.findall('full-name'):
+            if XML_LANG in full_name.attrib:
+                description = ET.Element('description')
+                description.attrib[XML_LANG] = full_name.attrib[XML_LANG]
+                description.text = full_name.text
+                codelist_item.append(description)
+
+        codelist_items.append(codelist_item)
+
+template.write('xml/Country.xml', pretty_print=True)
 
