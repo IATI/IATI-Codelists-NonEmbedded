@@ -97,3 +97,41 @@ for country in countries.findall('country'):
 indent(template.getroot(), 0, 4)
 template.write('xml/Country.xml', pretty_print=True)
 
+
+
+"""
+
+ISO Currency Alpha Code
+
+"""
+
+template = ET.parse('templates/Currency.xml', ET.XMLParser(remove_blank_text=True))
+codelist_items = template.find('codelist-items')
+
+currency_codes = {}
+country_currencies = ET.parse('source/table_a1.xml')
+for country_currency in country_currencies.find('CcyTbl').findall('CcyNtry'):
+    currency_name = country_currency.find('CcyNm').text
+    if currency_name == 'No universal currency':
+        continue
+    currency_code = country_currency.find('Ccy').text
+    if currency_code in currency_codes:
+        assert currency_codes[currency_code] == currency_name
+    else:
+        currency_codes[currency_code] = currency_name
+
+for currency_code, currency_name in sorted(currency_codes.items()):
+    codelist_item = ET.Element('codelist-item')
+
+    code = ET.Element('code')
+    code.text = currency_code
+    codelist_item.append(code)
+    
+    name = ET.Element('name')
+    name.text = currency_name
+    codelist_item.append(name)
+
+    codelist_items.append(codelist_item)
+
+template.write('xml/Currency.xml', pretty_print=True)
+
