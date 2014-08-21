@@ -1,6 +1,13 @@
 <codelist name="Country"   xml:lang="en" complete="0">
     <metadata>
         <name>Country</name>
+        <description>
+            The Country codelist is generated from the ISO 3166-1 part of the
+            ISO 3166 standard. The standard makes allowance, alongside the
+            officially assigned codes, for code elements to be expanded by
+            using either reserved codes or user-assigned codes. IATI currently
+            defines additional codes in the XA -XZ range.
+        </description>
         <url>http://www.iso.org/iso/home/standards/country_codes.htm</url>
     </metadata>
     <codelist-items>
@@ -479,6 +486,10 @@
         <codelist-item>
             <code>KR</code>
             <name>KOREA, REPUBLIC OF</name>
+        </codelist-item>
+        <codelist-item>
+            <code>XK</code>
+            <name>KOSOVO</name>
         </codelist-item>
         <codelist-item>
             <code>KW</code>
