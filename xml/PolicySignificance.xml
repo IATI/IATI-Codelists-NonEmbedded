@@ -24,5 +24,9 @@
             <name>principal objective AND in support of an action programme</name>
             <description>For desertification-related aid only</description>
         </codelist-item>
+        <codelist-item>
+            <code>4</code>
+            <name>Explicit primary objective</name>
+        </codelist-item>
     </codelist-items>
 </codelist>
