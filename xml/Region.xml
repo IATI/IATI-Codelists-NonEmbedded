@@ -1,72 +1,106 @@
-<codelist name="Region"   xml:lang="en" complete="1">
+<codelist name="Region" xml:lang="en" complete="1">
     <metadata>
-        <name>Region</name>
+        <name>
+            <narrative>Region</narrative>
+        </name>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
     </metadata>
     <codelist-items>
         <codelist-item>
             <code>89</code>
-            <name>Europe, regional</name>
+            <name>
+                <narrative>Europe, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>189</code>
-            <name>North of Sahara, regional</name>
+            <name>
+                <narrative>North of Sahara, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>289</code>
-            <name>South of Sahara, regional</name>
+            <name>
+                <narrative>South of Sahara, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>298</code>
-            <name>Africa, regional</name>
+            <name>
+                <narrative>Africa, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>380</code>
-            <name>West Indies, regional</name>
+            <name>
+                <narrative>West Indies, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>389</code>
-            <name>North and Central America, regional</name>
+            <name>
+                <narrative>North and Central America, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>489</code>
-            <name>South America, regional</name>
+            <name>
+                <narrative>South America, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>498</code>
-            <name>America, regional</name>
+            <name>
+                <narrative>America, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>589</code>
-            <name>Middle East, regional</name>
+            <name>
+                <narrative>Middle East, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>619</code>
-            <name>Central Asia, regional</name>
+            <name>
+                <narrative>Central Asia, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>679</code>
-            <name>South Asia, regional</name>
+            <name>
+                <narrative>South Asia, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>689</code>
-            <name>South and Central Asia, regional</name>
+            <name>
+                <narrative>South and Central Asia, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>789</code>
-            <name>Far East Asia, regional</name>
+            <name>
+                <narrative>Far East Asia, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>798</code>
-            <name>Asia, regional</name>
+            <name>
+                <narrative>Asia, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>889</code>
-            <name>Oceania, regional</name>
+            <name>
+                <narrative>Oceania, regional</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>998</code>
-            <name>Bilateral, unspecified</name>
+            <name>
+                <narrative>Bilateral, unspecified</narrative>
+            </name>
         </codelist-item>
     </codelist-items>
 </codelist>

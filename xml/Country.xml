@@ -1,1019 +1,1525 @@
-<codelist name="Country"   xml:lang="en" complete="0">
+<codelist name="Country" xml:lang="en" complete="0">
     <metadata>
-        <name>Country</name>
+        <name>
+            <narrative>Country</narrative>
+        </name>
         <description>
+            <narrative>
             The Country codelist is generated from the ISO 3166-1 part of the
             ISO 3166 standard. The standard makes allowance, alongside the
             officially assigned codes, for code elements to be expanded by
             using either reserved codes or user-assigned codes. IATI currently
             defines additional codes in the XA -XZ range.
+        </narrative>
         </description>
         <url>http://www.iso.org/iso/home/standards/country_codes.htm</url>
     </metadata>
     <codelist-items>
         <codelist-item>
             <code>AF</code>
-            <name>AFGHANISTAN</name>
+            <name>
+                <narrative>AFGHANISTAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AX</code>
-            <name>ÅLAND ISLANDS</name>
+            <name>
+                <narrative>ÅLAND ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AL</code>
-            <name>ALBANIA</name>
+            <name>
+                <narrative>ALBANIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>DZ</code>
-            <name>ALGERIA</name>
+            <name>
+                <narrative>ALGERIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AS</code>
-            <name>AMERICAN SAMOA</name>
+            <name>
+                <narrative>AMERICAN SAMOA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AD</code>
-            <name>ANDORRA</name>
+            <name>
+                <narrative>ANDORRA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AO</code>
-            <name>ANGOLA</name>
+            <name>
+                <narrative>ANGOLA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AI</code>
-            <name>ANGUILLA</name>
+            <name>
+                <narrative>ANGUILLA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AQ</code>
-            <name>ANTARCTICA</name>
+            <name>
+                <narrative>ANTARCTICA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AG</code>
-            <name>ANTIGUA AND BARBUDA</name>
+            <name>
+                <narrative>ANTIGUA AND BARBUDA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AR</code>
-            <name>ARGENTINA</name>
+            <name>
+                <narrative>ARGENTINA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AM</code>
-            <name>ARMENIA</name>
+            <name>
+                <narrative>ARMENIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AW</code>
-            <name>ARUBA</name>
+            <name>
+                <narrative>ARUBA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AU</code>
-            <name>AUSTRALIA</name>
+            <name>
+                <narrative>AUSTRALIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AT</code>
-            <name>AUSTRIA</name>
+            <name>
+                <narrative>AUSTRIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AZ</code>
-            <name>AZERBAIJAN</name>
+            <name>
+                <narrative>AZERBAIJAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BS</code>
-            <name>BAHAMAS</name>
+            <name>
+                <narrative>BAHAMAS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BH</code>
-            <name>BAHRAIN</name>
+            <name>
+                <narrative>BAHRAIN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BD</code>
-            <name>BANGLADESH</name>
+            <name>
+                <narrative>BANGLADESH</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BB</code>
-            <name>BARBADOS</name>
+            <name>
+                <narrative>BARBADOS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BY</code>
-            <name>BELARUS</name>
+            <name>
+                <narrative>BELARUS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BE</code>
-            <name>BELGIUM</name>
+            <name>
+                <narrative>BELGIUM</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BZ</code>
-            <name>BELIZE</name>
+            <name>
+                <narrative>BELIZE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BJ</code>
-            <name>BENIN</name>
+            <name>
+                <narrative>BENIN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BM</code>
-            <name>BERMUDA</name>
+            <name>
+                <narrative>BERMUDA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BT</code>
-            <name>BHUTAN</name>
+            <name>
+                <narrative>BHUTAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BO</code>
-            <name>BOLIVIA, PLURINATIONAL STATE OF</name>
+            <name>
+                <narrative>BOLIVIA, PLURINATIONAL STATE OF</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BQ</code>
-            <name>BONAIRE, SAINT EUSTATIUS AND SABA</name>
+            <name>
+                <narrative>BONAIRE, SAINT EUSTATIUS AND SABA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BA</code>
-            <name>BOSNIA AND HERZEGOVINA</name>
+            <name>
+                <narrative>BOSNIA AND HERZEGOVINA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BW</code>
-            <name>BOTSWANA</name>
+            <name>
+                <narrative>BOTSWANA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BV</code>
-            <name>BOUVET ISLAND</name>
+            <name>
+                <narrative>BOUVET ISLAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BR</code>
-            <name>BRAZIL</name>
+            <name>
+                <narrative>BRAZIL</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IO</code>
-            <name>BRITISH INDIAN OCEAN TERRITORY</name>
+            <name>
+                <narrative>BRITISH INDIAN OCEAN TERRITORY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BN</code>
-            <name>BRUNEI DARUSSALAM</name>
+            <name>
+                <narrative>BRUNEI DARUSSALAM</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BG</code>
-            <name>BULGARIA</name>
+            <name>
+                <narrative>BULGARIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BF</code>
-            <name>BURKINA FASO</name>
+            <name>
+                <narrative>BURKINA FASO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BI</code>
-            <name>BURUNDI</name>
+            <name>
+                <narrative>BURUNDI</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KH</code>
-            <name>CAMBODIA</name>
+            <name>
+                <narrative>CAMBODIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CM</code>
-            <name>CAMEROON</name>
+            <name>
+                <narrative>CAMEROON</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CA</code>
-            <name>CANADA</name>
+            <name>
+                <narrative>CANADA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CV</code>
-            <name>CAPE VERDE</name>
+            <name>
+                <narrative>CAPE VERDE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KY</code>
-            <name>CAYMAN ISLANDS</name>
+            <name>
+                <narrative>CAYMAN ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CF</code>
-            <name>CENTRAL AFRICAN REPUBLIC</name>
+            <name>
+                <narrative>CENTRAL AFRICAN REPUBLIC</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TD</code>
-            <name>CHAD</name>
+            <name>
+                <narrative>CHAD</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CL</code>
-            <name>CHILE</name>
+            <name>
+                <narrative>CHILE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CN</code>
-            <name>CHINA</name>
+            <name>
+                <narrative>CHINA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CX</code>
-            <name>CHRISTMAS ISLAND</name>
+            <name>
+                <narrative>CHRISTMAS ISLAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CC</code>
-            <name>COCOS (KEELING) ISLANDS</name>
+            <name>
+                <narrative>COCOS (KEELING) ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CO</code>
-            <name>COLOMBIA</name>
+            <name>
+                <narrative>COLOMBIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KM</code>
-            <name>COMOROS</name>
+            <name>
+                <narrative>COMOROS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CG</code>
-            <name>CONGO</name>
+            <name>
+                <narrative>CONGO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CD</code>
-            <name>CONGO, THE DEMOCRATIC REPUBLIC OF THE</name>
+            <name>
+                <narrative>CONGO, THE DEMOCRATIC REPUBLIC OF THE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CK</code>
-            <name>COOK ISLANDS</name>
+            <name>
+                <narrative>COOK ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CR</code>
-            <name>COSTA RICA</name>
+            <name>
+                <narrative>COSTA RICA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CI</code>
-            <name>CÔTE D'IVOIRE</name>
+            <name>
+                <narrative>CÔTE D'IVOIRE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HR</code>
-            <name>CROATIA</name>
+            <name>
+                <narrative>CROATIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CU</code>
-            <name>CUBA</name>
+            <name>
+                <narrative>CUBA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CW</code>
-            <name>CURAÇAO</name>
+            <name>
+                <narrative>CURAÇAO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CY</code>
-            <name>CYPRUS</name>
+            <name>
+                <narrative>CYPRUS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CZ</code>
-            <name>CZECH REPUBLIC</name>
+            <name>
+                <narrative>CZECH REPUBLIC</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>DK</code>
-            <name>DENMARK</name>
+            <name>
+                <narrative>DENMARK</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>DJ</code>
-            <name>DJIBOUTI</name>
+            <name>
+                <narrative>DJIBOUTI</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>DM</code>
-            <name>DOMINICA</name>
+            <name>
+                <narrative>DOMINICA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>DO</code>
-            <name>DOMINICAN REPUBLIC</name>
+            <name>
+                <narrative>DOMINICAN REPUBLIC</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>EC</code>
-            <name>ECUADOR</name>
+            <name>
+                <narrative>ECUADOR</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>EG</code>
-            <name>EGYPT</name>
+            <name>
+                <narrative>EGYPT</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SV</code>
-            <name>EL SALVADOR</name>
+            <name>
+                <narrative>EL SALVADOR</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GQ</code>
-            <name>EQUATORIAL GUINEA</name>
+            <name>
+                <narrative>EQUATORIAL GUINEA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ER</code>
-            <name>ERITREA</name>
+            <name>
+                <narrative>ERITREA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>EE</code>
-            <name>ESTONIA</name>
+            <name>
+                <narrative>ESTONIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ET</code>
-            <name>ETHIOPIA</name>
+            <name>
+                <narrative>ETHIOPIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>FK</code>
-            <name>FALKLAND ISLANDS (MALVINAS)</name>
+            <name>
+                <narrative>FALKLAND ISLANDS (MALVINAS)</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>FO</code>
-            <name>FAROE ISLANDS</name>
+            <name>
+                <narrative>FAROE ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>FJ</code>
-            <name>FIJI</name>
+            <name>
+                <narrative>FIJI</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>FI</code>
-            <name>FINLAND</name>
+            <name>
+                <narrative>FINLAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>FR</code>
-            <name>FRANCE</name>
+            <name>
+                <narrative>FRANCE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GF</code>
-            <name>FRENCH GUIANA</name>
+            <name>
+                <narrative>FRENCH GUIANA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PF</code>
-            <name>FRENCH POLYNESIA</name>
+            <name>
+                <narrative>FRENCH POLYNESIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TF</code>
-            <name>FRENCH SOUTHERN TERRITORIES</name>
+            <name>
+                <narrative>FRENCH SOUTHERN TERRITORIES</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GA</code>
-            <name>GABON</name>
+            <name>
+                <narrative>GABON</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GM</code>
-            <name>GAMBIA</name>
+            <name>
+                <narrative>GAMBIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GE</code>
-            <name>GEORGIA</name>
+            <name>
+                <narrative>GEORGIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>DE</code>
-            <name>GERMANY</name>
+            <name>
+                <narrative>GERMANY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GH</code>
-            <name>GHANA</name>
+            <name>
+                <narrative>GHANA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GI</code>
-            <name>GIBRALTAR</name>
+            <name>
+                <narrative>GIBRALTAR</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GR</code>
-            <name>GREECE</name>
+            <name>
+                <narrative>GREECE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GL</code>
-            <name>GREENLAND</name>
+            <name>
+                <narrative>GREENLAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GD</code>
-            <name>GRENADA</name>
+            <name>
+                <narrative>GRENADA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GP</code>
-            <name>GUADELOUPE</name>
+            <name>
+                <narrative>GUADELOUPE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GU</code>
-            <name>GUAM</name>
+            <name>
+                <narrative>GUAM</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GT</code>
-            <name>GUATEMALA</name>
+            <name>
+                <narrative>GUATEMALA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GG</code>
-            <name>GUERNSEY</name>
+            <name>
+                <narrative>GUERNSEY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GN</code>
-            <name>GUINEA</name>
+            <name>
+                <narrative>GUINEA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GW</code>
-            <name>GUINEA-BISSAU</name>
+            <name>
+                <narrative>GUINEA-BISSAU</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GY</code>
-            <name>GUYANA</name>
+            <name>
+                <narrative>GUYANA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HT</code>
-            <name>HAITI</name>
+            <name>
+                <narrative>HAITI</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HM</code>
-            <name>HEARD ISLAND AND MCDONALD ISLANDS</name>
+            <name>
+                <narrative>HEARD ISLAND AND MCDONALD ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>VA</code>
-            <name>HOLY SEE (VATICAN CITY STATE)</name>
+            <name>
+                <narrative>HOLY SEE (VATICAN CITY STATE)</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HN</code>
-            <name>HONDURAS</name>
+            <name>
+                <narrative>HONDURAS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HK</code>
-            <name>HONG KONG</name>
+            <name>
+                <narrative>HONG KONG</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HU</code>
-            <name>HUNGARY</name>
+            <name>
+                <narrative>HUNGARY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IS</code>
-            <name>ICELAND</name>
+            <name>
+                <narrative>ICELAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IN</code>
-            <name>INDIA</name>
+            <name>
+                <narrative>INDIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ID</code>
-            <name>INDONESIA</name>
+            <name>
+                <narrative>INDONESIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IR</code>
-            <name>IRAN, ISLAMIC REPUBLIC OF</name>
+            <name>
+                <narrative>IRAN, ISLAMIC REPUBLIC OF</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IQ</code>
-            <name>IRAQ</name>
+            <name>
+                <narrative>IRAQ</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IE</code>
-            <name>IRELAND</name>
+            <name>
+                <narrative>IRELAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IM</code>
-            <name>ISLE OF MAN</name>
+            <name>
+                <narrative>ISLE OF MAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IL</code>
-            <name>ISRAEL</name>
+            <name>
+                <narrative>ISRAEL</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IT</code>
-            <name>ITALY</name>
+            <name>
+                <narrative>ITALY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>JM</code>
-            <name>JAMAICA</name>
+            <name>
+                <narrative>JAMAICA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>JP</code>
-            <name>JAPAN</name>
+            <name>
+                <narrative>JAPAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>JE</code>
-            <name>JERSEY</name>
+            <name>
+                <narrative>JERSEY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>JO</code>
-            <name>JORDAN</name>
+            <name>
+                <narrative>JORDAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KZ</code>
-            <name>KAZAKHSTAN</name>
+            <name>
+                <narrative>KAZAKHSTAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KE</code>
-            <name>KENYA</name>
+            <name>
+                <narrative>KENYA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KI</code>
-            <name>KIRIBATI</name>
+            <name>
+                <narrative>KIRIBATI</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KP</code>
-            <name>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</name>
+            <name>
+                <narrative>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KR</code>
-            <name>KOREA, REPUBLIC OF</name>
+            <name>
+                <narrative>KOREA, REPUBLIC OF</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>XK</code>
-            <name>KOSOVO</name>
+            <name>
+                <narrative>KOSOVO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KW</code>
-            <name>KUWAIT</name>
+            <name>
+                <narrative>KUWAIT</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KG</code>
-            <name>KYRGYZSTAN</name>
+            <name>
+                <narrative>KYRGYZSTAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LA</code>
-            <name>LAO PEOPLE'S DEMOCRATIC REPUBLIC</name>
+            <name>
+                <narrative>LAO PEOPLE'S DEMOCRATIC REPUBLIC</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LV</code>
-            <name>LATVIA</name>
+            <name>
+                <narrative>LATVIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LB</code>
-            <name>LEBANON</name>
+            <name>
+                <narrative>LEBANON</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LS</code>
-            <name>LESOTHO</name>
+            <name>
+                <narrative>LESOTHO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LR</code>
-            <name>LIBERIA</name>
+            <name>
+                <narrative>LIBERIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LY</code>
-            <name>LIBYAN ARAB JAMAHIRIYA</name>
+            <name>
+                <narrative>LIBYAN ARAB JAMAHIRIYA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LI</code>
-            <name>LIECHTENSTEIN</name>
+            <name>
+                <narrative>LIECHTENSTEIN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LT</code>
-            <name>LITHUANIA</name>
+            <name>
+                <narrative>LITHUANIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LU</code>
-            <name>LUXEMBOURG</name>
+            <name>
+                <narrative>LUXEMBOURG</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MO</code>
-            <name>MACAO</name>
+            <name>
+                <narrative>MACAO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MK</code>
-            <name>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</name>
+            <name>
+                <narrative>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MG</code>
-            <name>MADAGASCAR</name>
+            <name>
+                <narrative>MADAGASCAR</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MW</code>
-            <name>MALAWI</name>
+            <name>
+                <narrative>MALAWI</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MY</code>
-            <name>MALAYSIA</name>
+            <name>
+                <narrative>MALAYSIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MV</code>
-            <name>MALDIVES</name>
+            <name>
+                <narrative>MALDIVES</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ML</code>
-            <name>MALI</name>
+            <name>
+                <narrative>MALI</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MT</code>
-            <name>MALTA</name>
+            <name>
+                <narrative>MALTA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MH</code>
-            <name>MARSHALL ISLANDS</name>
+            <name>
+                <narrative>MARSHALL ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MQ</code>
-            <name>MARTINIQUE</name>
+            <name>
+                <narrative>MARTINIQUE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MR</code>
-            <name>MAURITANIA</name>
+            <name>
+                <narrative>MAURITANIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MU</code>
-            <name>MAURITIUS</name>
+            <name>
+                <narrative>MAURITIUS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>YT</code>
-            <name>MAYOTTE</name>
+            <name>
+                <narrative>MAYOTTE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MX</code>
-            <name>MEXICO</name>
+            <name>
+                <narrative>MEXICO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>FM</code>
-            <name>MICRONESIA, FEDERATED STATES OF</name>
+            <name>
+                <narrative>MICRONESIA, FEDERATED STATES OF</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MD</code>
-            <name>MOLDOVA, REPUBLIC OF</name>
+            <name>
+                <narrative>MOLDOVA, REPUBLIC OF</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MC</code>
-            <name>MONACO</name>
+            <name>
+                <narrative>MONACO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MN</code>
-            <name>MONGOLIA</name>
+            <name>
+                <narrative>MONGOLIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ME</code>
-            <name>MONTENEGRO</name>
+            <name>
+                <narrative>MONTENEGRO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MS</code>
-            <name>MONTSERRAT</name>
+            <name>
+                <narrative>MONTSERRAT</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MA</code>
-            <name>MOROCCO</name>
+            <name>
+                <narrative>MOROCCO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MZ</code>
-            <name>MOZAMBIQUE</name>
+            <name>
+                <narrative>MOZAMBIQUE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MM</code>
-            <name>MYANMAR</name>
+            <name>
+                <narrative>MYANMAR</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NA</code>
-            <name>NAMIBIA</name>
+            <name>
+                <narrative>NAMIBIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NR</code>
-            <name>NAURU</name>
+            <name>
+                <narrative>NAURU</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NP</code>
-            <name>NEPAL</name>
+            <name>
+                <narrative>NEPAL</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NL</code>
-            <name>NETHERLANDS</name>
+            <name>
+                <narrative>NETHERLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
-             <code>AN</code>
-             <name>NETHERLAND ANTILLES</name>
+            <code>AN</code>
+            <name>
+                <narrative>NETHERLAND ANTILLES</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NC</code>
-            <name>NEW CALEDONIA</name>
+            <name>
+                <narrative>NEW CALEDONIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NZ</code>
-            <name>NEW ZEALAND</name>
+            <name>
+                <narrative>NEW ZEALAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NI</code>
-            <name>NICARAGUA</name>
+            <name>
+                <narrative>NICARAGUA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NE</code>
-            <name>NIGER</name>
+            <name>
+                <narrative>NIGER</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NG</code>
-            <name>NIGERIA</name>
+            <name>
+                <narrative>NIGERIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NU</code>
-            <name>NIUE</name>
+            <name>
+                <narrative>NIUE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NF</code>
-            <name>NORFOLK ISLAND</name>
+            <name>
+                <narrative>NORFOLK ISLAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MP</code>
-            <name>NORTHERN MARIANA ISLANDS</name>
+            <name>
+                <narrative>NORTHERN MARIANA ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NO</code>
-            <name>NORWAY</name>
+            <name>
+                <narrative>NORWAY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>OM</code>
-            <name>OMAN</name>
+            <name>
+                <narrative>OMAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PK</code>
-            <name>PAKISTAN</name>
+            <name>
+                <narrative>PAKISTAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PW</code>
-            <name>PALAU</name>
+            <name>
+                <narrative>PALAU</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PS</code>
-            <name>PALESTINIAN TERRITORY, OCCUPIED</name>
+            <name>
+                <narrative>PALESTINIAN TERRITORY, OCCUPIED</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PA</code>
-            <name>PANAMA</name>
+            <name>
+                <narrative>PANAMA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PG</code>
-            <name>PAPUA NEW GUINEA</name>
+            <name>
+                <narrative>PAPUA NEW GUINEA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PY</code>
-            <name>PARAGUAY</name>
+            <name>
+                <narrative>PARAGUAY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PE</code>
-            <name>PERU</name>
+            <name>
+                <narrative>PERU</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PH</code>
-            <name>PHILIPPINES</name>
+            <name>
+                <narrative>PHILIPPINES</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PN</code>
-            <name>PITCAIRN</name>
+            <name>
+                <narrative>PITCAIRN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PL</code>
-            <name>POLAND</name>
+            <name>
+                <narrative>POLAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PT</code>
-            <name>PORTUGAL</name>
+            <name>
+                <narrative>PORTUGAL</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PR</code>
-            <name>PUERTO RICO</name>
+            <name>
+                <narrative>PUERTO RICO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>QA</code>
-            <name>QATAR</name>
+            <name>
+                <narrative>QATAR</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>RE</code>
-            <name>REUNION</name>
+            <name>
+                <narrative>REUNION</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>RO</code>
-            <name>ROMANIA</name>
+            <name>
+                <narrative>ROMANIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>RU</code>
-            <name>RUSSIAN FEDERATION</name>
+            <name>
+                <narrative>RUSSIAN FEDERATION</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>RW</code>
-            <name>RWANDA</name>
+            <name>
+                <narrative>RWANDA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BL</code>
-            <name>SAINT BARTHÉLEMY</name>
+            <name>
+                <narrative>SAINT BARTHÉLEMY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SH</code>
-            <name>SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</name>
+            <name>
+                <narrative>SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KN</code>
-            <name>SAINT KITTS AND NEVIS</name>
+            <name>
+                <narrative>SAINT KITTS AND NEVIS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LC</code>
-            <name>SAINT LUCIA</name>
+            <name>
+                <narrative>SAINT LUCIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MF</code>
-            <name>SAINT MARTIN (FRENCH PART)</name>
+            <name>
+                <narrative>SAINT MARTIN (FRENCH PART)</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PM</code>
-            <name>SAINT PIERRE AND MIQUELON</name>
+            <name>
+                <narrative>SAINT PIERRE AND MIQUELON</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>VC</code>
-            <name>SAINT VINCENT AND THE GRENADINES</name>
+            <name>
+                <narrative>SAINT VINCENT AND THE GRENADINES</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>WS</code>
-            <name>SAMOA</name>
+            <name>
+                <narrative>SAMOA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SM</code>
-            <name>SAN MARINO</name>
+            <name>
+                <narrative>SAN MARINO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ST</code>
-            <name>SAO TOME AND PRINCIPE</name>
+            <name>
+                <narrative>SAO TOME AND PRINCIPE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SA</code>
-            <name>SAUDI ARABIA</name>
+            <name>
+                <narrative>SAUDI ARABIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SN</code>
-            <name>SENEGAL</name>
+            <name>
+                <narrative>SENEGAL</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>RS</code>
-            <name>SERBIA</name>
+            <name>
+                <narrative>SERBIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SC</code>
-            <name>SEYCHELLES</name>
+            <name>
+                <narrative>SEYCHELLES</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SL</code>
-            <name>SIERRA LEONE</name>
+            <name>
+                <narrative>SIERRA LEONE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SG</code>
-            <name>SINGAPORE</name>
+            <name>
+                <narrative>SINGAPORE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SX</code>
-            <name>SINT MAARTEN (DUTCH PART)</name>
+            <name>
+                <narrative>SINT MAARTEN (DUTCH PART)</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SK</code>
-            <name>SLOVAKIA</name>
+            <name>
+                <narrative>SLOVAKIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SI</code>
-            <name>SLOVENIA</name>
+            <name>
+                <narrative>SLOVENIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SB</code>
-            <name>SOLOMON ISLANDS</name>
+            <name>
+                <narrative>SOLOMON ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SO</code>
-            <name>SOMALIA</name>
+            <name>
+                <narrative>SOMALIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ZA</code>
-            <name>SOUTH AFRICA</name>
+            <name>
+                <narrative>SOUTH AFRICA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GS</code>
-            <name>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</name>
+            <name>
+                <narrative>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SS</code>
-            <name>SOUTH SUDAN</name>
+            <name>
+                <narrative>SOUTH SUDAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ES</code>
-            <name>SPAIN</name>
+            <name>
+                <narrative>SPAIN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LK</code>
-            <name>SRI LANKA</name>
+            <name>
+                <narrative>SRI LANKA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SD</code>
-            <name>SUDAN</name>
+            <name>
+                <narrative>SUDAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SR</code>
-            <name>SURINAME</name>
+            <name>
+                <narrative>SURINAME</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SJ</code>
-            <name>SVALBARD AND JAN MAYEN</name>
+            <name>
+                <narrative>SVALBARD AND JAN MAYEN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SZ</code>
-            <name>SWAZILAND</name>
+            <name>
+                <narrative>SWAZILAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SE</code>
-            <name>SWEDEN</name>
+            <name>
+                <narrative>SWEDEN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CH</code>
-            <name>SWITZERLAND</name>
+            <name>
+                <narrative>SWITZERLAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SY</code>
-            <name>SYRIAN ARAB REPUBLIC</name>
+            <name>
+                <narrative>SYRIAN ARAB REPUBLIC</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TW</code>
-            <name>TAIWAN, PROVINCE OF CHINA</name>
+            <name>
+                <narrative>TAIWAN, PROVINCE OF CHINA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TJ</code>
-            <name>TAJIKISTAN</name>
+            <name>
+                <narrative>TAJIKISTAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TZ</code>
-            <name>TANZANIA, UNITED REPUBLIC OF</name>
+            <name>
+                <narrative>TANZANIA, UNITED REPUBLIC OF</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TH</code>
-            <name>THAILAND</name>
+            <name>
+                <narrative>THAILAND</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TL</code>
-            <name>TIMOR-LESTE</name>
+            <name>
+                <narrative>TIMOR-LESTE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TG</code>
-            <name>TOGO</name>
+            <name>
+                <narrative>TOGO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TK</code>
-            <name>TOKELAU</name>
+            <name>
+                <narrative>TOKELAU</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TO</code>
-            <name>TONGA</name>
+            <name>
+                <narrative>TONGA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TT</code>
-            <name>TRINIDAD AND TOBAGO</name>
+            <name>
+                <narrative>TRINIDAD AND TOBAGO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TN</code>
-            <name>TUNISIA</name>
+            <name>
+                <narrative>TUNISIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TR</code>
-            <name>TURKEY</name>
+            <name>
+                <narrative>TURKEY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TM</code>
-            <name>TURKMENISTAN</name>
+            <name>
+                <narrative>TURKMENISTAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TC</code>
-            <name>TURKS AND CAICOS ISLANDS</name>
+            <name>
+                <narrative>TURKS AND CAICOS ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TV</code>
-            <name>TUVALU</name>
+            <name>
+                <narrative>TUVALU</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>UG</code>
-            <name>UGANDA</name>
+            <name>
+                <narrative>UGANDA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>UA</code>
-            <name>UKRAINE</name>
+            <name>
+                <narrative>UKRAINE</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AE</code>
-            <name>UNITED ARAB EMIRATES</name>
+            <name>
+                <narrative>UNITED ARAB EMIRATES</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GB</code>
-            <name>UNITED KINGDOM</name>
+            <name>
+                <narrative>UNITED KINGDOM</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>US</code>
-            <name>UNITED STATES</name>
+            <name>
+                <narrative>UNITED STATES</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>UM</code>
-            <name>UNITED STATES MINOR OUTLYING ISLANDS</name>
+            <name>
+                <narrative>UNITED STATES MINOR OUTLYING ISLANDS</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>UY</code>
-            <name>URUGUAY</name>
+            <name>
+                <narrative>URUGUAY</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>UZ</code>
-            <name>UZBEKISTAN</name>
+            <name>
+                <narrative>UZBEKISTAN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>VU</code>
-            <name>VANUATU</name>
+            <name>
+                <narrative>VANUATU</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>VE</code>
-            <name>VENEZUELA, BOLIVARIAN REPUBLIC OF</name>
+            <name>
+                <narrative>VENEZUELA, BOLIVARIAN REPUBLIC OF</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>VN</code>
-            <name>VIET NAM</name>
+            <name>
+                <narrative>VIET NAM</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>VG</code>
-            <name>VIRGIN ISLANDS, BRITISH</name>
+            <name>
+                <narrative>VIRGIN ISLANDS, BRITISH</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>VI</code>
-            <name>VIRGIN ISLANDS, U.S.</name>
+            <name>
+                <narrative>VIRGIN ISLANDS, U.S.</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>WF</code>
-            <name>WALLIS AND FUTUNA</name>
+            <name>
+                <narrative>WALLIS AND FUTUNA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>EH</code>
-            <name>WESTERN SAHARA</name>
+            <name>
+                <narrative>WESTERN SAHARA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>YE</code>
-            <name>YEMEN</name>
+            <name>
+                <narrative>YEMEN</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ZM</code>
-            <name>ZAMBIA</name>
+            <name>
+                <narrative>ZAMBIA</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ZW</code>
-            <name>ZIMBABWE</name>
+            <name>
+                <narrative>ZIMBABWE</narrative>
+            </name>
         </codelist-item>
     </codelist-items>
 </codelist>

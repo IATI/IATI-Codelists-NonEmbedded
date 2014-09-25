@@ -1,732 +1,1096 @@
-<codelist name="Language"   xml:lang="en" complete="0">
+<codelist name="Language" xml:lang="en" complete="0">
     <metadata>
-        <name>Language</name>
+        <name>
+            <narrative>Language</narrative>
+        </name>
         <url>http://www.iso.org/iso/home/standards/language_codes.htm</url>
     </metadata>
     <codelist-items>
         <codelist-item>
             <code>aa</code>
-            <name>Afar</name>
+            <name>
+                <narrative>Afar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ab</code>
-            <name>Abkhazian</name>
+            <name>
+                <narrative>Abkhazian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ae</code>
-            <name>Avestan</name>
+            <name>
+                <narrative>Avestan</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>af</code>
-            <name>Afrikaans</name>
+            <name>
+                <narrative>Afrikaans</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ak</code>
-            <name>Akan</name>
+            <name>
+                <narrative>Akan</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>am</code>
-            <name>Amharic</name>
+            <name>
+                <narrative>Amharic</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>an</code>
-            <name>Aragonese</name>
+            <name>
+                <narrative>Aragonese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ar</code>
-            <name>Arabic</name>
+            <name>
+                <narrative>Arabic</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>as</code>
-            <name>Assamese</name>
+            <name>
+                <narrative>Assamese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>av</code>
-            <name>Avaric</name>
+            <name>
+                <narrative>Avaric</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ay</code>
-            <name>Aymara</name>
+            <name>
+                <narrative>Aymara</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>az</code>
-            <name>Azerbaijani</name>
+            <name>
+                <narrative>Azerbaijani</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ba</code>
-            <name>Bashkir</name>
+            <name>
+                <narrative>Bashkir</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>be</code>
-            <name>Belarusian</name>
+            <name>
+                <narrative>Belarusian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>bg</code>
-            <name>Bulgarian</name>
+            <name>
+                <narrative>Bulgarian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>bh</code>
-            <name>Bihari languages</name>
+            <name>
+                <narrative>Bihari languages</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>bi</code>
-            <name>Bislama</name>
+            <name>
+                <narrative>Bislama</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>bm</code>
-            <name>Bambara</name>
+            <name>
+                <narrative>Bambara</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>bn</code>
-            <name>Bengali</name>
+            <name>
+                <narrative>Bengali</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>bo</code>
-            <name>Tibetan</name>
+            <name>
+                <narrative>Tibetan</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>br</code>
-            <name>Breton</name>
+            <name>
+                <narrative>Breton</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>bs</code>
-            <name>Bosnian</name>
+            <name>
+                <narrative>Bosnian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ca</code>
-            <name>Catalan; Valencian</name>
+            <name>
+                <narrative>Catalan; Valencian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ce</code>
-            <name>Chechen</name>
+            <name>
+                <narrative>Chechen</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ch</code>
-            <name>Chamorro</name>
+            <name>
+                <narrative>Chamorro</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>co</code>
-            <name>Corsican</name>
+            <name>
+                <narrative>Corsican</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>cr</code>
-            <name>Cree</name>
+            <name>
+                <narrative>Cree</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>cs</code>
-            <name>Czech</name>
+            <name>
+                <narrative>Czech</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>cv</code>
-            <name>Chuvash</name>
+            <name>
+                <narrative>Chuvash</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>cy</code>
-            <name>Welsh</name>
+            <name>
+                <narrative>Welsh</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>da</code>
-            <name>Danish</name>
+            <name>
+                <narrative>Danish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>de</code>
-            <name>German</name>
+            <name>
+                <narrative>German</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>dv</code>
-            <name>Divehi; Dhivehi; Maldivian</name>
+            <name>
+                <narrative>Divehi; Dhivehi; Maldivian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>dz</code>
-            <name>Dzongkha</name>
+            <name>
+                <narrative>Dzongkha</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ee</code>
-            <name>Ewe</name>
+            <name>
+                <narrative>Ewe</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>el</code>
-            <name>Greek</name>
+            <name>
+                <narrative>Greek</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>en</code>
-            <name>English</name>
+            <name>
+                <narrative>English</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>eo</code>
-            <name>Esperanto</name>
+            <name>
+                <narrative>Esperanto</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>es</code>
-            <name>Spanish; Castilian</name>
+            <name>
+                <narrative>Spanish; Castilian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>et</code>
-            <name>Estonian</name>
+            <name>
+                <narrative>Estonian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>eu</code>
-            <name>Basque</name>
+            <name>
+                <narrative>Basque</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>fa</code>
-            <name>Persian</name>
+            <name>
+                <narrative>Persian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ff</code>
-            <name>Fulah</name>
+            <name>
+                <narrative>Fulah</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>fi</code>
-            <name>Finnish</name>
+            <name>
+                <narrative>Finnish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>fj</code>
-            <name>Fijian</name>
+            <name>
+                <narrative>Fijian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>fo</code>
-            <name>Faroese</name>
+            <name>
+                <narrative>Faroese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>fr</code>
-            <name>French</name>
+            <name>
+                <narrative>French</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>fy</code>
-            <name>Western Frisian</name>
+            <name>
+                <narrative>Western Frisian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ga</code>
-            <name>Irish</name>
+            <name>
+                <narrative>Irish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>gd</code>
-            <name>Gaelic; Scottish Gaelic</name>
+            <name>
+                <narrative>Gaelic; Scottish Gaelic</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>gl</code>
-            <name>Galician</name>
+            <name>
+                <narrative>Galician</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>gn</code>
-            <name>Guarani</name>
+            <name>
+                <narrative>Guarani</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>gu</code>
-            <name>Gujarati</name>
+            <name>
+                <narrative>Gujarati</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>gv</code>
-            <name>Manx</name>
+            <name>
+                <narrative>Manx</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ha</code>
-            <name>Hausa</name>
+            <name>
+                <narrative>Hausa</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>he</code>
-            <name>Hebrew</name>
+            <name>
+                <narrative>Hebrew</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>hi</code>
-            <name>Hindi</name>
+            <name>
+                <narrative>Hindi</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ho</code>
-            <name>Hiri Motu</name>
+            <name>
+                <narrative>Hiri Motu</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>hr</code>
-            <name>Croatian</name>
+            <name>
+                <narrative>Croatian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ht</code>
-            <name>Haitian; Haitian Creole</name>
+            <name>
+                <narrative>Haitian; Haitian Creole</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>hu</code>
-            <name>Hungarian</name>
+            <name>
+                <narrative>Hungarian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>hy</code>
-            <name>Armenian</name>
+            <name>
+                <narrative>Armenian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>hz</code>
-            <name>Herero</name>
+            <name>
+                <narrative>Herero</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>id</code>
-            <name>Indonesian</name>
+            <name>
+                <narrative>Indonesian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ig</code>
-            <name>Igbo</name>
+            <name>
+                <narrative>Igbo</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ii</code>
-            <name>Sichuan Yi; Nuosu</name>
+            <name>
+                <narrative>Sichuan Yi; Nuosu</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ik</code>
-            <name>Inupiaq</name>
+            <name>
+                <narrative>Inupiaq</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>io</code>
-            <name>Ido</name>
+            <name>
+                <narrative>Ido</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>is</code>
-            <name>Icelandic</name>
+            <name>
+                <narrative>Icelandic</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>it</code>
-            <name>Italian</name>
+            <name>
+                <narrative>Italian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>iu</code>
-            <name>Inuktitut</name>
+            <name>
+                <narrative>Inuktitut</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ja</code>
-            <name>Japanese</name>
+            <name>
+                <narrative>Japanese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>jv</code>
-            <name>Javanese</name>
+            <name>
+                <narrative>Javanese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ka</code>
-            <name>Georgian</name>
+            <name>
+                <narrative>Georgian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>kg</code>
-            <name>Kongo</name>
+            <name>
+                <narrative>Kongo</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ki</code>
-            <name>Kikuyu; Gikuyu</name>
+            <name>
+                <narrative>Kikuyu; Gikuyu</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>kj</code>
-            <name>Kuanyama; Kwanyama</name>
+            <name>
+                <narrative>Kuanyama; Kwanyama</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>kk</code>
-            <name>Kazakh</name>
+            <name>
+                <narrative>Kazakh</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>kl</code>
-            <name>Kalaallisut; Greenlandic</name>
+            <name>
+                <narrative>Kalaallisut; Greenlandic</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>km</code>
-            <name>Central Khmer</name>
+            <name>
+                <narrative>Central Khmer</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>kn</code>
-            <name>Kannada</name>
+            <name>
+                <narrative>Kannada</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ko</code>
-            <name>Korean</name>
+            <name>
+                <narrative>Korean</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>kr</code>
-            <name>Kanuri</name>
+            <name>
+                <narrative>Kanuri</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ks</code>
-            <name>Kashmiri</name>
+            <name>
+                <narrative>Kashmiri</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ku</code>
-            <name>Kurdish</name>
+            <name>
+                <narrative>Kurdish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>kv</code>
-            <name>Komi</name>
+            <name>
+                <narrative>Komi</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>kw</code>
-            <name>Cornish</name>
+            <name>
+                <narrative>Cornish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ky</code>
-            <name>Kirghiz; Kyrgyz</name>
+            <name>
+                <narrative>Kirghiz; Kyrgyz</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>la</code>
-            <name>Latin</name>
+            <name>
+                <narrative>Latin</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>lb</code>
-            <name>Luxembourgish; Letzeburgesch</name>
+            <name>
+                <narrative>Luxembourgish; Letzeburgesch</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>lg</code>
-            <name>Ganda</name>
+            <name>
+                <narrative>Ganda</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>li</code>
-            <name>Limburgan; Limburger; Limburgish</name>
+            <name>
+                <narrative>Limburgan; Limburger; Limburgish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ln</code>
-            <name>Lingala</name>
+            <name>
+                <narrative>Lingala</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>lo</code>
-            <name>Lao</name>
+            <name>
+                <narrative>Lao</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>lt</code>
-            <name>Lithuanian</name>
+            <name>
+                <narrative>Lithuanian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>lu</code>
-            <name>Luba-Katanga</name>
+            <name>
+                <narrative>Luba-Katanga</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>lv</code>
-            <name>Latvian</name>
+            <name>
+                <narrative>Latvian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>mg</code>
-            <name>Malagasy</name>
+            <name>
+                <narrative>Malagasy</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>mh</code>
-            <name>Marshallese</name>
+            <name>
+                <narrative>Marshallese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>mi</code>
-            <name>Maori</name>
+            <name>
+                <narrative>Maori</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>mk</code>
-            <name>Macedonian</name>
+            <name>
+                <narrative>Macedonian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ml</code>
-            <name>Malayalam</name>
+            <name>
+                <narrative>Malayalam</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>mn</code>
-            <name>Mongolian</name>
+            <name>
+                <narrative>Mongolian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>mr</code>
-            <name>Marathi</name>
+            <name>
+                <narrative>Marathi</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ms</code>
-            <name>Malay</name>
+            <name>
+                <narrative>Malay</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>mt</code>
-            <name>Maltese</name>
+            <name>
+                <narrative>Maltese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>my</code>
-            <name>Burmese</name>
+            <name>
+                <narrative>Burmese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>na</code>
-            <name>Nauru</name>
+            <name>
+                <narrative>Nauru</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>nb</code>
-            <name>Bokmål, Norwegian; Norwegian Bokmål</name>
+            <name>
+                <narrative>Bokmål, Norwegian; Norwegian Bokmål</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>nd</code>
-            <name>Ndebele, North; North Ndebele</name>
+            <name>
+                <narrative>Ndebele, North; North Ndebele</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ne</code>
-            <name>Nepali</name>
+            <name>
+                <narrative>Nepali</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ng</code>
-            <name>Ndonga</name>
+            <name>
+                <narrative>Ndonga</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>nl</code>
-            <name>Dutch; Flemish</name>
+            <name>
+                <narrative>Dutch; Flemish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>nn</code>
-            <name>Norwegian Nynorsk; Nynorsk, Norwegian</name>
+            <name>
+                <narrative>Norwegian Nynorsk; Nynorsk, Norwegian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>no</code>
-            <name>Norwegian</name>
+            <name>
+                <narrative>Norwegian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>nr</code>
-            <name>Ndebele, South; South Ndebele</name>
+            <name>
+                <narrative>Ndebele, South; South Ndebele</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>nv</code>
-            <name>Navajo; Navaho</name>
+            <name>
+                <narrative>Navajo; Navaho</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ny</code>
-            <name>Chichewa; Chewa; Nyanja</name>
+            <name>
+                <narrative>Chichewa; Chewa; Nyanja</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>oc</code>
-            <name>Occitan (post 1500)</name>
+            <name>
+                <narrative>Occitan (post 1500)</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>oj</code>
-            <name>Ojibwa</name>
+            <name>
+                <narrative>Ojibwa</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>om</code>
-            <name>Oromo</name>
+            <name>
+                <narrative>Oromo</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>or</code>
-            <name>Oriya</name>
+            <name>
+                <narrative>Oriya</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>os</code>
-            <name>Ossetian; Ossetic</name>
+            <name>
+                <narrative>Ossetian; Ossetic</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>pa</code>
-            <name>Panjabi; Punjabi</name>
+            <name>
+                <narrative>Panjabi; Punjabi</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>pi</code>
-            <name>Pali</name>
+            <name>
+                <narrative>Pali</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>pl</code>
-            <name>Polish</name>
+            <name>
+                <narrative>Polish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ps</code>
-            <name>Pushto; Pashto</name>
+            <name>
+                <narrative>Pushto; Pashto</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>pt</code>
-            <name>Portuguese</name>
+            <name>
+                <narrative>Portuguese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>qu</code>
-            <name>Quechua</name>
+            <name>
+                <narrative>Quechua</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>rm</code>
-            <name>Romansh</name>
+            <name>
+                <narrative>Romansh</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>rn</code>
-            <name>Rundi</name>
+            <name>
+                <narrative>Rundi</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ro</code>
-            <name>Romanian; Moldavian; Moldovan</name>
+            <name>
+                <narrative>Romanian; Moldavian; Moldovan</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ru</code>
-            <name>Russian</name>
+            <name>
+                <narrative>Russian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>rw</code>
-            <name>Kinyarwanda</name>
+            <name>
+                <narrative>Kinyarwanda</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sa</code>
-            <name>Sanskrit</name>
+            <name>
+                <narrative>Sanskrit</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sc</code>
-            <name>Sardinian</name>
+            <name>
+                <narrative>Sardinian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sd</code>
-            <name>Sindhi</name>
+            <name>
+                <narrative>Sindhi</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>se</code>
-            <name>Northern Sami</name>
+            <name>
+                <narrative>Northern Sami</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sg</code>
-            <name>Sango</name>
+            <name>
+                <narrative>Sango</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>si</code>
-            <name>Sinhala; Sinhalese</name>
+            <name>
+                <narrative>Sinhala; Sinhalese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sk</code>
-            <name>Slovak</name>
+            <name>
+                <narrative>Slovak</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sl</code>
-            <name>Slovenian</name>
+            <name>
+                <narrative>Slovenian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sm</code>
-            <name>Samoan</name>
+            <name>
+                <narrative>Samoan</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sn</code>
-            <name>Shona</name>
+            <name>
+                <narrative>Shona</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>so</code>
-            <name>Somali</name>
+            <name>
+                <narrative>Somali</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sq</code>
-            <name>Albanian</name>
+            <name>
+                <narrative>Albanian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sr</code>
-            <name>Serbian</name>
+            <name>
+                <narrative>Serbian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ss</code>
-            <name>Swati</name>
+            <name>
+                <narrative>Swati</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>st</code>
-            <name>Sotho, Southern</name>
+            <name>
+                <narrative>Sotho, Southern</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>su</code>
-            <name>Sundanese</name>
+            <name>
+                <narrative>Sundanese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sv</code>
-            <name>Swedish</name>
+            <name>
+                <narrative>Swedish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>sw</code>
-            <name>Swahili</name>
+            <name>
+                <narrative>Swahili</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ta</code>
-            <name>Tamil</name>
+            <name>
+                <narrative>Tamil</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>te</code>
-            <name>Telugu</name>
+            <name>
+                <narrative>Telugu</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>tg</code>
-            <name>Tajik</name>
+            <name>
+                <narrative>Tajik</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>th</code>
-            <name>Thai</name>
+            <name>
+                <narrative>Thai</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ti</code>
-            <name>Tigrinya</name>
+            <name>
+                <narrative>Tigrinya</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>tk</code>
-            <name>Turkmen</name>
+            <name>
+                <narrative>Turkmen</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>tl</code>
-            <name>Tagalog</name>
+            <name>
+                <narrative>Tagalog</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>tn</code>
-            <name>Tswana</name>
+            <name>
+                <narrative>Tswana</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>to</code>
-            <name>Tonga (Tonga Islands)</name>
+            <name>
+                <narrative>Tonga (Tonga Islands)</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>tr</code>
-            <name>Turkish</name>
+            <name>
+                <narrative>Turkish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ts</code>
-            <name>Tsonga</name>
+            <name>
+                <narrative>Tsonga</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>tt</code>
-            <name>Tatar</name>
+            <name>
+                <narrative>Tatar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>tw</code>
-            <name>Twi</name>
+            <name>
+                <narrative>Twi</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ty</code>
-            <name>Tahitian</name>
+            <name>
+                <narrative>Tahitian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ug</code>
-            <name>Uighur; Uyghur</name>
+            <name>
+                <narrative>Uighur; Uyghur</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>uk</code>
-            <name>Ukrainian</name>
+            <name>
+                <narrative>Ukrainian</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ur</code>
-            <name>Urdu</name>
+            <name>
+                <narrative>Urdu</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>uz</code>
-            <name>Uzbek</name>
+            <name>
+                <narrative>Uzbek</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ve</code>
-            <name>Venda</name>
+            <name>
+                <narrative>Venda</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>vi</code>
-            <name>Vietnamese</name>
+            <name>
+                <narrative>Vietnamese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>vo</code>
-            <name>Volapük</name>
+            <name>
+                <narrative>Volapük</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>wa</code>
-            <name>Walloon</name>
+            <name>
+                <narrative>Walloon</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>wo</code>
-            <name>Wolof</name>
+            <name>
+                <narrative>Wolof</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>xh</code>
-            <name>Xhosa</name>
+            <name>
+                <narrative>Xhosa</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>yi</code>
-            <name>Yiddish</name>
+            <name>
+                <narrative>Yiddish</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>yo</code>
-            <name>Yoruba</name>
+            <name>
+                <narrative>Yoruba</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>za</code>
-            <name>Zhuang; Chuang</name>
+            <name>
+                <narrative>Zhuang; Chuang</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>zh</code>
-            <name>Chinese</name>
+            <name>
+                <narrative>Chinese</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>zu</code>
-            <name>Zulu</name>
+            <name>
+                <narrative>Zulu</narrative>
+            </name>
         </codelist-item>
     </codelist-items>
 </codelist>
