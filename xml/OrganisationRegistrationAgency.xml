@@ -76,6 +76,13 @@
       <description>Charities are registered but no openly searchable database yet available. </description>
     </codelist-item>
     <codelist-item public-database="1">
+      <code>FI-PRO</code>
+      <category>FI</category>
+      <name>Finnish Patient and Registration office</name>
+      <url>http://www.prh.fi/en/index.html</url>
+      <description />
+    </codelist-item>
+    <codelist-item public-database="1">
       <code>FR-RCS</code>
       <category>FR</category>
       <name>Registre de Commerce et des Societies /Trade and Companies Register - Commercial Court Registry</name>
