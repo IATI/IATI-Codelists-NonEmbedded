@@ -37,7 +37,7 @@
         <codelist-item>
             <code>389</code>
             <name>North and Central America, regional</name>
-            <name xml:lang="fr">Amérique N.& C., régional</name>
+            <name xml:lang="fr">Amérique N. &amp; C., régional</name>
         </codelist-item>
         <codelist-item>
             <code>489</code>
@@ -67,7 +67,7 @@
         <codelist-item>
             <code>689</code>
             <name>South and Central Asia, regional</name>
-            <name xml:lang="fr">Asie du Sud & C., régional</name>
+            <name xml:lang="fr">Asie du Sud &amp; C., régional</name>
         </codelist-item>
         <codelist-item>
             <code>789</code>
