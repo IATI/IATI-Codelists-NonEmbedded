@@ -5,68 +5,89 @@
     </metadata>
     <codelist-items>
         <codelist-item>
+            <code>88</code>
+            <name>States Ex-Yugoslavia unspecified</name>
+            <name xml:lang="fr">Etats ex-Yougoslavie non spécifié</name>
+        </codelist-item>		
+        <codelist-item>
             <code>89</code>
             <name>Europe, regional</name>
+            <name xml:lang="fr">Europe, régional</name>
         </codelist-item>
         <codelist-item>
             <code>189</code>
             <name>North of Sahara, regional</name>
+            <name xml:lang="fr">Nord du Sahara, régional</name>
         </codelist-item>
         <codelist-item>
             <code>289</code>
             <name>South of Sahara, regional</name>
+            <name xml:lang="fr">Sud du Sahara, régional</name>
         </codelist-item>
         <codelist-item>
             <code>298</code>
             <name>Africa, regional</name>
+            <name xml:lang="fr">Afrique, régional</name>
         </codelist-item>
         <codelist-item>
             <code>380</code>
             <name>West Indies, regional</name>
+            <name xml:lang="fr">Indes occ., régional</name>
         </codelist-item>
         <codelist-item>
             <code>389</code>
             <name>North and Central America, regional</name>
+            <name xml:lang="fr">Amérique N. &amp; C., régional</name>
         </codelist-item>
         <codelist-item>
             <code>489</code>
             <name>South America, regional</name>
+            <name xml:lang="fr">Amérique du Sud, régional</name>
         </codelist-item>
         <codelist-item>
             <code>498</code>
             <name>America, regional</name>
+            <name xml:lang="fr">Amérique, régional</name>
         </codelist-item>
         <codelist-item>
             <code>589</code>
             <name>Middle East, regional</name>
+            <name xml:lang="fr">Moyen-Orient, régional</name>
         </codelist-item>
         <codelist-item>
             <code>619</code>
             <name>Central Asia, regional</name>
+            <name xml:lang="fr">Asie centrale, régional</name>
         </codelist-item>
         <codelist-item>
             <code>679</code>
             <name>South Asia, regional</name>
+            <name xml:lang="fr">Asie du Sud, régional</name>
         </codelist-item>
         <codelist-item>
             <code>689</code>
             <name>South and Central Asia, regional</name>
+            <name xml:lang="fr">Asie du Sud &amp; C., régional</name>
         </codelist-item>
         <codelist-item>
             <code>789</code>
             <name>Far East Asia, regional</name>
+            <name xml:lang="fr">Extrême-Orient, régional</name>
         </codelist-item>
         <codelist-item>
             <code>798</code>
             <name>Asia, regional</name>
+            <name xml:lang="fr">Asie, régional</name>
         </codelist-item>
         <codelist-item>
             <code>889</code>
             <name>Oceania, regional</name>
+            <name xml:lang="fr">Océanie, régional</name>
         </codelist-item>
         <codelist-item>
             <code>998</code>
-            <name>Bilateral, unspecified</name>
+            <name>Developing countries, unspecified</name>
+            <name xml:lang="fr">Pays en développement, non spécifié</name>
         </codelist-item>
     </codelist-items>
 </codelist>
