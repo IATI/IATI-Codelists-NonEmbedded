@@ -28,7 +28,7 @@
         <codelist-item>
             <code>4</code>
             <name>Multilateral outflows</name>
-            <description  xml:lang="fr">Aid activities financed from the multilateral institutions' regular budgets.</description>
+            <description>Aid activities financed from the multilateral institutions' regular budgets.</description>
             <name  xml:lang="fr">apports des agences multilatérales</name>   
         </codelist-item>
         <codelist-item>
@@ -39,7 +39,7 @@
         </codelist-item>
         <codelist-item>
             <code>7</code>
-            <name>Bilateral, ex-post reporting on NGOs’ activities funded through core contributions</name>
+            <name>Bilateral, ex-post reporting on NGOs' activities funded through core contributions</name>
             <description></description>
             <name  xml:lang="fr">Contributions bilatérales, notification ex post des activités des ONG financées par des contributions des donneurs au budget général de l'ONG.</name> 
         </codelist-item>
