@@ -77,6 +77,13 @@
       <description>Charities are registered but no openly searchable database yet available. </description>
     </codelist-item>
     <codelist-item public-database="1">
+      <code>FI-PRO</code>
+      <category>FI</category>
+      <name>Finnish Patent and Registration office</name>
+      <url>http://www.prh.fi/en/index.html</url>
+      <description />
+    </codelist-item>
+    <codelist-item public-database="1">
       <code>FR-RCS</code>
       <category>FR</category>
       <name>Registre de Commerce et des Societies /Trade and Companies Register - Commercial Court Registry</name>
@@ -305,7 +312,7 @@
       <category>US</category>
       <name>Corporation registration is the responsibility of each state (see link)</name>
       <url>http://www.companieshouse.gov.uk/links/usaLink.shtml</url>
-      <description>Added by WR 15/10/2013</description>
+      <description />
     </codelist-item>
     <codelist-item public-database=" ">
       <code>US-EIN</code>
@@ -361,7 +368,7 @@
       <category>ZM</category>
       <name>Non Governmental Organisation Registration Board</name>
       <url/>
-      <description>Added by WR 15/10/13. Only just set up in Spring 2013 and is currently facing a lot of objection</description>
+      <description />
     </codelist-item>
     <codelist-item public-database="0">
       <code>ZM-PCR</code>
