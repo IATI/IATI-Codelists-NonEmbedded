@@ -331,9 +331,9 @@
     <codelist-item public-database="1">
       <code>XI-IATI</code>
       <category>XI</category>
-      <name>International Aid Transparency Initiative</name>
-      <url></url>
-      <description></description>
+      <name>International Aid Transparency Initiative Organisation Identifier</name>
+      <url>http://iatistandard.org/codelists/IATIOrganisationIdentifier/</url>
+      <description>XI-IATI is a list of organisation identifiers that is maintained by the IATI Secretariat. Any publisher may apply to the IATI Technical Team for an identifier to be generated.</description>
     </codelist-item>
     <codelist-item public-database="1">
       <code>XM-DAC</code>
