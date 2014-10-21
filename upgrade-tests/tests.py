@@ -10,10 +10,13 @@ from lxml import etree as ET
 #  @param value         The value we want to check the existence of
 #  @return yes/no
 # 
-def check_value_exists (filepath, xpathString, value):
-  
-  for items in ET.parse(filepath).getroot().findall('codelist-items'):
+def check_value_exists (filepath, xpathString, value, root=None):
+  if root is None:
+    root = 'codelist-items'
+  #print(root)
+  for items in ET.parse(filepath).getroot().findall(root):
     values = items.xpath(xpathString)
+    #print(values)
     #print (', '.join(values))
     if value.decode('utf-8') in values:
       print ('pass')
