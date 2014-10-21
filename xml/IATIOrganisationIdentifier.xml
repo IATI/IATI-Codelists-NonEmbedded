@@ -3,6 +3,16 @@
         <name>
             <narrative>IATI Organisation Identifier</narrative>
         </name>
+        <description>
+            <narrative>
+            This is a list of organisation identifiers that is maintained by the IATI Secretariat.
+            The prefix for organisations on this list is XI-IATI 
+            Any publisher may apply to the IATI Technical Team for an identifier to be generated.
+            While some of these identifiers have been derived from DAC codes, this 'meaning' is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.
+            
+            For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/
+            </narrative>
+        </description>
     </metadata>
     <codelist-items>
     </codelist-items>
