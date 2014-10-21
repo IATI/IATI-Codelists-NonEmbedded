@@ -12,8 +12,9 @@
         than a general description of the regsitration agency.
 
         The categories on this list are ISO Country codes, except for XM which
-        is used to indicate Multilateral/International Agency. This follows
-        ISO's convention of reserving codes starting with X for "private use".
+        is used to indicate Multilateral/International Agency, and XI which is 
+        used to indicate International Organisations. This follows ISO's 
+        convention of reserving codes starting with X for "private use".
 
         This list is maintained by the IATI Secretariat, but is a "NonEmbedded"
         codelist - which means changes and additions may be made at short
@@ -326,6 +327,13 @@
       <name>Index of U.S. Government Departments and Agencies</name>
       <url>http://www.usa.gov/directory/federal/index.shtml</url>
       <description>Use the final segment of the url (below /federal and excluding the extension) as the "registration number", converting all "-" to "_". Keep "registration number" portion all lowercase. </description>
+    </codelist-item>
+    <codelist-item public-database="1">
+      <code>XI-IATI</code>
+      <category>XI</category>
+      <name>International Aid Transparency Initiative Organisation Identifier</name>
+      <url>http://iatistandard.org/codelists/IATIOrganisationIdentifier/</url>
+      <description>XI-IATI is a list of organisation identifiers that is maintained by the IATI Secretariat. Any publisher may apply to the IATI Technical Team for an identifier to be generated.</description>
     </codelist-item>
     <codelist-item public-database="1">
       <code>XM-DAC</code>
