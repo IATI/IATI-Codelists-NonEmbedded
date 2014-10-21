@@ -1,677 +1,1015 @@
-<codelist name="Currency"   xml:lang="en" complete="1">
+<codelist name="Currency" xml:lang="en" complete="1">
     <metadata>
-        <name>Currency</name>
-        <description>ISO 4217 Currency used for all transactions and budgets</description>
+        <name>
+            <narrative>Currency</narrative>
+        </name>
+        <description>
+            <narrative>ISO 4217 Currency used for all transactions and budgets</narrative>
+        </description>
         <url>http://www.iso.org/iso/home/standards/currency_codes.htm</url>
     </metadata>
     <codelist-items>
         <codelist-item>
             <code>AED</code>
-            <name>UAE Dirham</name>
+            <name>
+                <narrative>UAE Dirham</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AFN</code>
-            <name>Afghani</name>
+            <name>
+                <narrative>Afghani</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ALL</code>
-            <name>Lek</name>
+            <name>
+                <narrative>Lek</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AMD</code>
-            <name>Armenian Dram</name>
+            <name>
+                <narrative>Armenian Dram</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ANG</code>
-            <name>Netherlands Antillian Guilder</name>
+            <name>
+                <narrative>Netherlands Antillian Guilder</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AOA</code>
-            <name>Kwanza</name>
+            <name>
+                <narrative>Kwanza</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ARS</code>
-            <name>Argentine Peso</name>
+            <name>
+                <narrative>Argentine Peso</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AUD</code>
-            <name>Australian Dollar</name>
+            <name>
+                <narrative>Australian Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AWG</code>
-            <name>Aruban Guilder</name>
+            <name>
+                <narrative>Aruban Guilder</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>AZN</code>
-            <name>Azerbaijanian Manat</name>
+            <name>
+                <narrative>Azerbaijanian Manat</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BAM</code>
-            <name>Convertible Marks</name>
+            <name>
+                <narrative>Convertible Marks</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BBD</code>
-            <name>Barbados Dollar</name>
+            <name>
+                <narrative>Barbados Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BDT</code>
-            <name>Taka</name>
+            <name>
+                <narrative>Taka</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BGN</code>
-            <name>Bulgarian Lev</name>
+            <name>
+                <narrative>Bulgarian Lev</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BHD</code>
-            <name>Bahraini Dinar</name>
+            <name>
+                <narrative>Bahraini Dinar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BIF</code>
-            <name>Burundi Franc</name>
+            <name>
+                <narrative>Burundi Franc</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BMD</code>
-            <name>Bermudian Dollar</name>
+            <name>
+                <narrative>Bermudian Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BND</code>
-            <name>Brunei Dollar</name>
+            <name>
+                <narrative>Brunei Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BOB</code>
-            <name>Boliviano</name>
+            <name>
+                <narrative>Boliviano</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BOV</code>
-            <name>Mvdol</name>
+            <name>
+                <narrative>Mvdol</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BRL</code>
-            <name>Brazilian Real</name>
+            <name>
+                <narrative>Brazilian Real</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BSD</code>
-            <name>Bahamian Dollar</name>
+            <name>
+                <narrative>Bahamian Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BTN</code>
-            <name>Ngultrum</name>
+            <name>
+                <narrative>Ngultrum</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BWP</code>
-            <name>Pula</name>
+            <name>
+                <narrative>Pula</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BYR</code>
-            <name>Belarussian Ruble</name>
+            <name>
+                <narrative>Belarussian Ruble</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>BZD</code>
-            <name>Belize Dollar</name>
+            <name>
+                <narrative>Belize Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CAD</code>
-            <name>Canadian Dollar</name>
+            <name>
+                <narrative>Canadian Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CDF</code>
-            <name>Congolese Franc</name>
+            <name>
+                <narrative>Congolese Franc</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CHF</code>
-            <name>Swiss Franc</name>
+            <name>
+                <narrative>Swiss Franc</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CLF</code>
-            <name>Unidades de fomento</name>
+            <name>
+                <narrative>Unidades de fomento</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CLP</code>
-            <name>Chilean Peso</name>
+            <name>
+                <narrative>Chilean Peso</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CNY</code>
-            <name>Yuan Renminbi</name>
+            <name>
+                <narrative>Yuan Renminbi</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>COP</code>
-            <name>Colombian Peso</name>
+            <name>
+                <narrative>Colombian Peso</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>COU</code>
-            <name>Unidad de Valor Real</name>
+            <name>
+                <narrative>Unidad de Valor Real</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CRC</code>
-            <name>Costa Rican Colon</name>
+            <name>
+                <narrative>Costa Rican Colon</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CUC</code>
-            <name>Peso Convertible</name>
+            <name>
+                <narrative>Peso Convertible</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CUP</code>
-            <name>Cuban Peso</name>
+            <name>
+                <narrative>Cuban Peso</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CVE</code>
-            <name>Cape Verde Escudo</name>
+            <name>
+                <narrative>Cape Verde Escudo</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>CZK</code>
-            <name>Czech Koruna</name>
+            <name>
+                <narrative>Czech Koruna</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>DJF</code>
-            <name>Djibouti Franc</name>
+            <name>
+                <narrative>Djibouti Franc</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>DKK</code>
-            <name>Danish Krone</name>
+            <name>
+                <narrative>Danish Krone</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>DOP</code>
-            <name>Dominican Peso</name>
+            <name>
+                <narrative>Dominican Peso</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>DZD</code>
-            <name>Algerian Dinar</name>
+            <name>
+                <narrative>Algerian Dinar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>EEK</code>
-            <name>Kroon</name>
+            <name>
+                <narrative>Kroon</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>EGP</code>
-            <name>Egyptian Pound</name>
+            <name>
+                <narrative>Egyptian Pound</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ERN</code>
-            <name>Nakfa</name>
+            <name>
+                <narrative>Nakfa</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ETB</code>
-            <name>Ethiopian Birr</name>
+            <name>
+                <narrative>Ethiopian Birr</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>EUR</code>
-            <name>Euro</name>
+            <name>
+                <narrative>Euro</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>FJD</code>
-            <name>Fiji Dollar</name>
+            <name>
+                <narrative>Fiji Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>FKP</code>
-            <name>Falkland Islands Pound</name>
+            <name>
+                <narrative>Falkland Islands Pound</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GBP</code>
-            <name>Pound Sterling</name>
+            <name>
+                <narrative>Pound Sterling</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GEL</code>
-            <name>Lari</name>
+            <name>
+                <narrative>Lari</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GHS</code>
-            <name>Cedi</name>
+            <name>
+                <narrative>Cedi</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GIP</code>
-            <name>Gibraltar Pound</name>
+            <name>
+                <narrative>Gibraltar Pound</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GMD</code>
-            <name>Dalasi</name>
+            <name>
+                <narrative>Dalasi</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GNF</code>
-            <name>Guinea Franc</name>
+            <name>
+                <narrative>Guinea Franc</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GTQ</code>
-            <name>Quetzal</name>
+            <name>
+                <narrative>Quetzal</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>GYD</code>
-            <name>Guyana Dollar</name>
+            <name>
+                <narrative>Guyana Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HKD</code>
-            <name>Hong Kong Dollar</name>
+            <name>
+                <narrative>Hong Kong Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HNL</code>
-            <name>Lempira</name>
+            <name>
+                <narrative>Lempira</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HRK</code>
-            <name>Croatian Kuna</name>
+            <name>
+                <narrative>Croatian Kuna</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HTG</code>
-            <name>Gourde</name>
+            <name>
+                <narrative>Gourde</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>HUF</code>
-            <name>Forint</name>
+            <name>
+                <narrative>Forint</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IDR</code>
-            <name>Rupiah</name>
+            <name>
+                <narrative>Rupiah</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ILS</code>
-            <name>New Israeli Sheqel</name>
+            <name>
+                <narrative>New Israeli Sheqel</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>INR</code>
-            <name>Indian Rupee</name>
+            <name>
+                <narrative>Indian Rupee</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IQD</code>
-            <name>Iraqi Dinar</name>
+            <name>
+                <narrative>Iraqi Dinar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>IRR</code>
-            <name>Iranian Rial</name>
+            <name>
+                <narrative>Iranian Rial</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ISK</code>
-            <name>Iceland Krona</name>
+            <name>
+                <narrative>Iceland Krona</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>JMD</code>
-            <name>Jamaican Dollar</name>
+            <name>
+                <narrative>Jamaican Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>JOD</code>
-            <name>Jordanian Dinar</name>
+            <name>
+                <narrative>Jordanian Dinar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>JPY</code>
-            <name>Yen</name>
+            <name>
+                <narrative>Yen</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KES</code>
-            <name>Kenyan Shilling</name>
+            <name>
+                <narrative>Kenyan Shilling</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KGS</code>
-            <name>Som</name>
+            <name>
+                <narrative>Som</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KHR</code>
-            <name>Riel</name>
+            <name>
+                <narrative>Riel</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KMF</code>
-            <name>Comoro Franc</name>
+            <name>
+                <narrative>Comoro Franc</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KPW</code>
-            <name>North Korean Won</name>
+            <name>
+                <narrative>North Korean Won</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KRW</code>
-            <name>Won</name>
+            <name>
+                <narrative>Won</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KWD</code>
-            <name>Kuwaiti Dinar</name>
+            <name>
+                <narrative>Kuwaiti Dinar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KYD</code>
-            <name>Cayman Islands Dollar</name>
+            <name>
+                <narrative>Cayman Islands Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>KZT</code>
-            <name>Tenge</name>
+            <name>
+                <narrative>Tenge</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LAK</code>
-            <name>Kip</name>
+            <name>
+                <narrative>Kip</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LBP</code>
-            <name>Lebanese Pound</name>
+            <name>
+                <narrative>Lebanese Pound</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LKR</code>
-            <name>Sri Lanka Rupee</name>
+            <name>
+                <narrative>Sri Lanka Rupee</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LRD</code>
-            <name>Liberian Dollar</name>
+            <name>
+                <narrative>Liberian Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LSL</code>
-            <name>Loti</name>
+            <name>
+                <narrative>Loti</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LTL</code>
-            <name>Lithuanian Litas</name>
+            <name>
+                <narrative>Lithuanian Litas</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LVL</code>
-            <name>Latvian Lats</name>
+            <name>
+                <narrative>Latvian Lats</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>LYD</code>
-            <name>Libyan Dinar</name>
+            <name>
+                <narrative>Libyan Dinar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MAD</code>
-            <name>Moroccan Dirham</name>
+            <name>
+                <narrative>Moroccan Dirham</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MDL</code>
-            <name>Moldovan Leu</name>
+            <name>
+                <narrative>Moldovan Leu</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MGA</code>
-            <name>Malagasy Ariary</name>
+            <name>
+                <narrative>Malagasy Ariary</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MKD</code>
-            <name>Denar</name>
+            <name>
+                <narrative>Denar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MMK</code>
-            <name>Kyat</name>
+            <name>
+                <narrative>Kyat</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MNT</code>
-            <name>Tugrik</name>
+            <name>
+                <narrative>Tugrik</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MOP</code>
-            <name>Pataca</name>
+            <name>
+                <narrative>Pataca</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MRO</code>
-            <name>Ouguiya</name>
+            <name>
+                <narrative>Ouguiya</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MUR</code>
-            <name>Mauritius Rupee</name>
+            <name>
+                <narrative>Mauritius Rupee</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MVR</code>
-            <name>Rufiyaa</name>
+            <name>
+                <narrative>Rufiyaa</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MWK</code>
-            <name>Malawi Kwacha</name>
+            <name>
+                <narrative>Malawi Kwacha</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MXN</code>
-            <name>Mexican Peso</name>
+            <name>
+                <narrative>Mexican Peso</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MXV</code>
-            <name>Mexican Unidad de Inversion (UDI)</name>
+            <name>
+                <narrative>Mexican Unidad de Inversion (UDI)</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MYR</code>
-            <name>Malaysian Ringgit</name>
+            <name>
+                <narrative>Malaysian Ringgit</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>MZN</code>
-            <name>Metical</name>
+            <name>
+                <narrative>Metical</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NAD</code>
-            <name>Namibia Dollar</name>
+            <name>
+                <narrative>Namibia Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NGN</code>
-            <name>Naira</name>
+            <name>
+                <narrative>Naira</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NIO</code>
-            <name>Cordoba Oro</name>
+            <name>
+                <narrative>Cordoba Oro</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NOK</code>
-            <name>Norwegian Krone</name>
+            <name>
+                <narrative>Norwegian Krone</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NPR</code>
-            <name>Nepalese Rupee</name>
+            <name>
+                <narrative>Nepalese Rupee</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>NZD</code>
-            <name>New Zealand Dollar</name>
+            <name>
+                <narrative>New Zealand Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>OMR</code>
-            <name>Rial Omani</name>
+            <name>
+                <narrative>Rial Omani</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PAB</code>
-            <name>Balboa</name>
+            <name>
+                <narrative>Balboa</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PEN</code>
-            <name>Nuevo Sol</name>
+            <name>
+                <narrative>Nuevo Sol</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PGK</code>
-            <name>Kina</name>
+            <name>
+                <narrative>Kina</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PHP</code>
-            <name>Philippine Peso</name>
+            <name>
+                <narrative>Philippine Peso</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PKR</code>
-            <name>Pakistan Rupee</name>
+            <name>
+                <narrative>Pakistan Rupee</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PLN</code>
-            <name>Zloty</name>
+            <name>
+                <narrative>Zloty</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>PYG</code>
-            <name>Guarani</name>
+            <name>
+                <narrative>Guarani</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>QAR</code>
-            <name>Qatari Rial</name>
+            <name>
+                <narrative>Qatari Rial</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>RON</code>
-            <name>New Leu</name>
+            <name>
+                <narrative>New Leu</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>RSD</code>
-            <name>Serbian Dinar</name>
+            <name>
+                <narrative>Serbian Dinar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>RUB</code>
-            <name>Russian Ruble</name>
+            <name>
+                <narrative>Russian Ruble</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>RWF</code>
-            <name>Rwanda Franc</name>
+            <name>
+                <narrative>Rwanda Franc</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SAR</code>
-            <name>Saudi Riyal</name>
+            <name>
+                <narrative>Saudi Riyal</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SBD</code>
-            <name>Solomon Islands Dollar</name>
+            <name>
+                <narrative>Solomon Islands Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SCR</code>
-            <name>Seychelles Rupee</name>
+            <name>
+                <narrative>Seychelles Rupee</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SDG</code>
-            <name>Sudanese Pound</name>
+            <name>
+                <narrative>Sudanese Pound</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SEK</code>
-            <name>Swedish Krona</name>
+            <name>
+                <narrative>Swedish Krona</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SGD</code>
-            <name>Singapore Dollar</name>
+            <name>
+                <narrative>Singapore Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SHP</code>
-            <name>Saint Helena Pound</name>
+            <name>
+                <narrative>Saint Helena Pound</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SLL</code>
-            <name>Leone</name>
+            <name>
+                <narrative>Leone</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SOS</code>
-            <name>Somali Shilling</name>
+            <name>
+                <narrative>Somali Shilling</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SSP</code>
-            <name>South Sudanese Pound</name>
+            <name>
+                <narrative>South Sudanese Pound</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SRD</code>
-            <name>Surinam Dollar</name>
+            <name>
+                <narrative>Surinam Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>STD</code>
-            <name>Dobra</name>
+            <name>
+                <narrative>Dobra</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SVC</code>
-            <name>El Salvador Colon</name>
+            <name>
+                <narrative>El Salvador Colon</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SYP</code>
-            <name>Syrian Pound</name>
+            <name>
+                <narrative>Syrian Pound</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SZL</code>
-            <name>Lilangeni</name>
+            <name>
+                <narrative>Lilangeni</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>THB</code>
-            <name>Baht</name>
+            <name>
+                <narrative>Baht</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TJS</code>
-            <name>Somoni</name>
+            <name>
+                <narrative>Somoni</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TMT</code>
-            <name>Manat</name>
+            <name>
+                <narrative>Manat</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TND</code>
-            <name>Tunisian Dinar</name>
+            <name>
+                <narrative>Tunisian Dinar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TOP</code>
-            <name>Paanga</name>
+            <name>
+                <narrative>Paanga</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TRY</code>
-            <name>Turkish Lira</name>
+            <name>
+                <narrative>Turkish Lira</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TTD</code>
-            <name>Trinidad and Tobago Dollar</name>
+            <name>
+                <narrative>Trinidad and Tobago Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TWD</code>
-            <name>New Taiwan Dollar</name>
+            <name>
+                <narrative>New Taiwan Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>TZS</code>
-            <name>Tanzanian Shilling</name>
+            <name>
+                <narrative>Tanzanian Shilling</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>UAH</code>
-            <name>Hryvnia</name>
+            <name>
+                <narrative>Hryvnia</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>UGX</code>
-            <name>Uganda Shilling</name>
+            <name>
+                <narrative>Uganda Shilling</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>USD</code>
-            <name>US Dollar</name>
+            <name>
+                <narrative>US Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>USN</code>
-            <name>US Dollar (Next day)</name>
+            <name>
+                <narrative>US Dollar (Next day)</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>USS</code>
-            <name>US Dollar (Same day)</name>
+            <name>
+                <narrative>US Dollar (Same day)</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>UYI</code>
-            <name>Uruguay Peso en Unidades Indexadas</name>
+            <name>
+                <narrative>Uruguay Peso en Unidades Indexadas</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>UYU</code>
-            <name>Peso Uruguayo</name>
+            <name>
+                <narrative>Peso Uruguayo</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>UZS</code>
-            <name>Uzbekistan Sum</name>
+            <name>
+                <narrative>Uzbekistan Sum</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>VEF</code>
-            <name>Bolivar</name>
+            <name>
+                <narrative>Bolivar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>VND</code>
-            <name>Dong</name>
+            <name>
+                <narrative>Dong</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>VUV</code>
-            <name>Vatu</name>
+            <name>
+                <narrative>Vatu</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>WST</code>
-            <name>Tala</name>
+            <name>
+                <narrative>Tala</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>XAF</code>
-            <name>CFA Franc BEAC</name>
+            <name>
+                <narrative>CFA Franc BEAC</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>XCD</code>
-            <name>East Caribbean Dollar</name>
+            <name>
+                <narrative>East Caribbean Dollar</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>XOF</code>
-            <name>CFA Franc BCEAO</name>
+            <name>
+                <narrative>CFA Franc BCEAO</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>XPF</code>
-            <name>CFP Franc</name>
+            <name>
+                <narrative>CFP Franc</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>YER</code>
-            <name>Yemeni Rial</name>
+            <name>
+                <narrative>Yemeni Rial</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ZAR</code>
-            <name>Rand</name>
+            <name>
+                <narrative>Rand</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ZMK</code>
-            <name>Zambian Kwacha</name>
+            <name>
+                <narrative>Zambian Kwacha</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>ZWL</code>
-            <name>Zimbabwe Dollar</name>
+            <name>
+                <narrative>Zimbabwe Dollar</narrative>
+            </name>
         </codelist-item>
     </codelist-items>
 </codelist>
