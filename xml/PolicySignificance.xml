@@ -1,32 +1,52 @@
-<codelist name="PolicySignificance"   xml:lang="en" complete="1">
+<codelist name="PolicySignificance" xml:lang="en" complete="1">
     <metadata>
-        <name>Policy Significance</name>
+        <name>
+            <narrative>Policy Significance</narrative>
+        </name>
         <url>http://www.oecd.org/dataoecd/56/14/39186046.pdf</url>
     </metadata>
     <codelist-items>
         <codelist-item>
             <code>0</code>
-            <name>not targeted</name>
-            <description>The score "not targeted" means that the activity was examined but found not to target the policy objective.</description>
+            <name>
+                <narrative>not targeted</narrative>
+            </name>
+            <description>
+                <narrative>The score "not targeted" means that the activity was examined but found not to target the policy objective.</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>1</code>
-            <name>significant objective</name>
-            <description>Significant (secondary) policy objectives are those which, although important, were not the prime motivation for undertaking the activity.</description>
+            <name>
+                <narrative>significant objective</narrative>
+            </name>
+            <description>
+                <narrative>Significant (secondary) policy objectives are those which, although important, were not the prime motivation for undertaking the activity.</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>2</code>
-            <name>principal objective</name>
-            <description>Principal (primary) policy objectives are those which can be identified as being fundamental in the design and impact of the activity and which are an explicit objective of the activity. They may be selected by answering the question "Would the activity have been undertaken without this objective?"</description>
+            <name>
+                <narrative>principal objective</narrative>
+            </name>
+            <description>
+                <narrative>Principal (primary) policy objectives are those which can be identified as being fundamental in the design and impact of the activity and which are an explicit objective of the activity. They may be selected by answering the question "Would the activity have been undertaken without this objective?"</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>3</code>
-            <name>principal objective AND in support of an action programme</name>
-            <description>For desertification-related aid only</description>
+            <name>
+                <narrative>principal objective AND in support of an action programme</narrative>
+            </name>
+            <description>
+                <narrative>For desertification-related aid only</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>4</code>
-            <name>Explicit primary objective</name>
+            <name>
+                <narrative>Explicit primary objective</narrative>
+            </name>
         </codelist-item>
     </codelist-items>
 </codelist>

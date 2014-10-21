@@ -1,0 +1,9 @@
+<codelist name="IATIOrganisationIdentifier" xml:lang="en" complete="1">
+    <metadata>
+        <name>
+            <narrative>IATI Organisation Identifier</narrative>
+        </name>
+    </metadata>
+    <codelist-items>
+    </codelist-items>
+</codelist>
