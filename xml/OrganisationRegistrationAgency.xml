@@ -526,6 +526,17 @@
             <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>XM-OCHA</code>
+            <name>
+                <narrative>United Nations Office for the Coordination of Humanitarian Affairs</narrative>
+            </name>
+            <description>
+                <narrative>OCHA is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies.</narrative>
+            </description>
+            <category>XM</category>
+            <url>http://www.unocha.org</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>ZA-CIP</code>
             <name>
                 <narrative>Companies and Intellectual Property Commission (CIPC)</narrative>
