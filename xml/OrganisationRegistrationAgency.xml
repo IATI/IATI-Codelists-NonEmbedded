@@ -448,6 +448,17 @@
             <category>SE</category>
             <url>http://www.bolagsverket.se/</url>
         </codelist-item>
+        <codelist-item public-database="1">
+            <code>SK-ZRSR</code>
+            <name>
+                <narrative>Slovakia Ministry Of Interior Trade Register</narrative>
+            </name>
+            <description>
+                <narrative>Most organisations (including NGOs) have to be registered with the Ministry of Interior for the Trade Register Of The Slovak Republic (Živnostensky Register Slovenskej Republiky) and are allocated a unique registration number</narrative>
+            </description>
+            <category>SK</category>
+            <url>http://www.zrsr.sk/default.aspx?LANG=en</url>
+        </codelist-item>
         <codelist-item public-database="0">
             <code>UG-NGB</code>
             <name>
