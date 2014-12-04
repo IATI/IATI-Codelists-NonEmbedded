@@ -27,6 +27,10 @@
             <url>http://iatistandard.org/104/</url>
         </codelist-item>
         <codelist-item>
+            <code>1.05</code>
+            <url>http://iatistandard.org/105/</url>
+        </codelist-item>
+        <codelist-item>
             <code>2.01</code>
         </codelist-item>
     </codelist-items>
