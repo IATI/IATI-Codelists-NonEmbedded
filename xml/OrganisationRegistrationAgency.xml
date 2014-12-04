@@ -481,17 +481,6 @@
             <category>UG</category>
             <url>http://www.ursb.go.ug/</url>
         </codelist-item>
-        <codelist-item public-database="0">
-            <code>US-DOS</code>
-            <name>
-                <narrative>Corporation registration is the responsibility of each state (see link)</narrative>
-            </name>
-            <description>
-                <narrative/>
-            </description>
-            <category>US</category>
-            <url>http://www.companieshouse.gov.uk/links/usaLink.shtml</url>
-        </codelist-item>
         <codelist-item public-database=" ">
             <code>US-EIN</code>
             <name>
