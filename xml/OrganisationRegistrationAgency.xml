@@ -563,11 +563,9 @@
             <name>
                 <narrative>Association for Non-Profit Organisations</narrative>
             </name>
-            <description>
-                <narrative>Links thru to govt site http://www.npo.gov.za/PublicNpo/Npo</narrative>
-            </description>
+            <description/>
             <category>ZA</category>
-            <url>http://npo.org.za/index.htm</url>
+            <url>http://www.npo.gov.za/</url>
         </codelist-item>
         <codelist-item public-database="0">
             <code>ZA-PBO</code>
