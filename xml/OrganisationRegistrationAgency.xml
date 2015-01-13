@@ -459,6 +459,17 @@
             <category>SK</category>
             <url>http://www.zrsr.sk/default.aspx?LANG=en</url>
         </codelist-item>
+        <codelist-item public-database="1">
+            <code>UA-EDR</code>
+            <name>
+                <narrative>United State Register, Ukraine</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>UA</category>
+            <url>http://irc.gov.ua/ua/Poshuk-v-YeDR.html</url>
+        </codelist-item>
         <codelist-item public-database="0">
             <code>UG-NGB</code>
             <name>
