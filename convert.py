@@ -27,5 +27,23 @@ for registry in media_types.findall('{http://www.iana.org/assignments}registry')
 
         codelist_items.append(codelist_item)
 
+# Adapted from code at http://effbot.org/zone/element-lib.htm
+def indent(elem, level=0, shift=2):
+    i = "\n" + level*" "*shift
+    if len(elem):
+        if not elem.text or not elem.text.strip():
+            elem.text = i + " "*shift
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+        for elem in elem:
+            indent(elem, level+1, shift)
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+    else:
+        if level and (not elem.tail or not elem.tail.strip()):
+            elem.tail = i
+
+indent(template.getroot(), 0, 4)
+
 template.write('xml/FileFormat.xml', pretty_print=True)
 

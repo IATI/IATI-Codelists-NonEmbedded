@@ -14,7 +14,15 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/3gpdash-qoe-report+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/3gpp-ims+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/A2L</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -66,11 +74,23 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/AML</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/andrew-inset</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
             <code>application/applefile</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/ATF</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/ATFX</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -91,6 +111,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/atomsvc+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/ATXML</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -138,6 +162,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/CDFX+XML</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/cdmi-capability</code>
             <category>application</category>
         </codelist-item>
@@ -158,6 +186,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/CEA</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/cea-2018+xml</code>
             <category>application</category>
         </codelist-item>
@@ -175,6 +207,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/cnrp+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/coap-group+json</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -222,6 +258,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/DCD</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/dec-dx</code>
             <category>application</category>
         </codelist-item>
@@ -231,6 +271,14 @@
         </codelist-item>
         <codelist-item>
             <code>application/dicom</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/DII</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/DIT</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -283,6 +331,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/epp+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/epub+zip</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -418,6 +470,14 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/jose</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/jose+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/jrd+json</code>
             <category>application</category>
         </codelist-item>
@@ -427,6 +487,22 @@
         </codelist-item>
         <codelist-item>
             <code>application/json-patch+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/json-seq</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/jwk+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/jwk-set+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/jwt</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -455,6 +531,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/lostsync+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/LXF</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -554,11 +634,19 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/merge-patch+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/metalink4+xml</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
             <code>application/mets+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/MF4</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -822,6 +910,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/rdap+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/reginfo+xml</code>
             <category>application</category>
         </codelist-item>
@@ -895,6 +987,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/sbml+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/scaip+xml</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -978,7 +1074,7 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
-            <code>application/smil</code>
+            <code>application/smil - OBSOLETED in favor of application/smil+xml</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -1250,6 +1346,18 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/vnd.apache.thrift.binary</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.apache.thrift.compact</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.apache.thrift.json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/vnd.api+json</code>
             <category>application</category>
         </codelist-item>
@@ -1262,11 +1370,15 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
-            <code>application/vnd.arastra.swi</code>
+            <code>application/vnd.arastra.swi - OBSOLETED in favor of application/vnd.aristanetworks.swi</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
             <code>application/vnd.aristanetworks.swi</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.artsquare</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -1370,6 +1482,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/vnd.coffeescript</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/vnd.collection.doc+json</code>
             <category>application</category>
         </codelist-item>
@@ -1470,6 +1586,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/vnd.debian.binary-package</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/vnd.dece.data</code>
             <category>application</category>
         </codelist-item>
@@ -1515,6 +1635,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.dolby.mobile.2</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.doremir.scorecloud-binary-document</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -1622,6 +1746,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/vnd.dzr</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/vnd.easykaraoke.cdgdownload</code>
             <category>application</category>
         </codelist-item>
@@ -1659,6 +1787,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.enliven</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.enphase.envoy</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -1906,7 +2038,11 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
-            <code>application/vnd.geocube+xml</code>
+            <code>application/vnd.geo+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.geocube+xml - OBSOLETED by request</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -1942,7 +2078,7 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
-            <code>application/vnd.gmx</code>
+            <code>application/vnd.gmx - DEPRECATED</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -1951,6 +2087,14 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.google-earth.kmz</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.gov.sk.e-form+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.gov.sk.e-form+zip</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -2098,6 +2242,42 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/vnd.ims.imsccv1p1</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.ims.imsccv1p2</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.ims.imsccv1p3</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.ims.lis.v2.result+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.ims.lti.v2.toolconsumerprofile+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.ims.lti.v2.toolproxy.id+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.ims.lti.v2.toolproxy+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.ims.lti.v2.toolsettings+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.ims.lti.v2.toolsettings.simple+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/vnd.informedcontrol.rms+xml</code>
             <category>application</category>
         </codelist-item>
@@ -2110,7 +2290,7 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
-            <code>application/vnd.informix-visionary</code>
+            <code>application/vnd.informix-visionary - OBSOLETED in favor of application/vnd.visionary</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -2366,6 +2546,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/vnd.maxmind.maxmind-db</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/vnd.mcd</code>
             <category>application</category>
         </codelist-item>
@@ -2395,6 +2579,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.micrografx.igx</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.miele+json</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -2494,7 +2682,7 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
-            <code>application/vnd.mseq</code>
+            <code>application/vnd.ms-3mfdocument</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -2618,6 +2806,14 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/vnd.msa-disk-image</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.mseq</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/vnd.msign</code>
             <category>application</category>
         </codelist-item>
@@ -2734,7 +2930,7 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
-            <code>application/vnd.nokia.n-gage.symbian.install</code>
+            <code>application/vnd.nokia.n-gage.symbian.install - OBSOLETE; no replacement given</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -2771,6 +2967,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.ntt-local.file-transfer</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.ntt-local.ogw_remote-access</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -3362,6 +3562,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/vnd.oracle.resource+json</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/vnd.orange.indata</code>
             <category>application</category>
         </codelist-item>
@@ -3391,6 +3595,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.palm</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.panoply</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -3818,6 +4026,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/vnd.tmd.mediaflex.api+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/vnd.tmobile-livetv</code>
             <category>application</category>
         </codelist-item>
@@ -3911,6 +4123,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.uplanet.signal</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/vnd.valve.source.material</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -4114,6 +4330,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/vnd.yaoweme</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/vnd.yellowriver-custom-menu</code>
             <category>application</category>
         </codelist-item>
@@ -4166,6 +4386,10 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
+            <code>application/x-www-form-urlencoded</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
             <code>application/x400-bp</code>
             <category>application</category>
         </codelist-item>
@@ -4210,7 +4434,7 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
-            <code>application/xhtml-voice+xml</code>
+            <code>application/xhtml-voice+xml - OBSOLETE; no replacement given</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -4227,6 +4451,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/xml-external-parsed-entity</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item>
+            <code>application/xml-patch+xml</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -4290,7 +4518,11 @@
             <category>audio</category>
         </codelist-item>
         <codelist-item>
-            <code>audio/amr-wb</code>
+            <code>audio/amr-wb+</code>
+            <category>audio</category>
+        </codelist-item>
+        <codelist-item>
+            <code>audio/aptx</code>
             <category>audio</category>
         </codelist-item>
         <codelist-item>
@@ -4434,11 +4666,11 @@
             <category>audio</category>
         </codelist-item>
         <codelist-item>
-            <code>audio/G722</code>
+            <code>audio/G7221</code>
             <category>audio</category>
         </codelist-item>
         <codelist-item>
-            <code>audio/G7221</code>
+            <code>audio/G722</code>
             <category>audio</category>
         </codelist-item>
         <codelist-item>
@@ -4790,7 +5022,7 @@
             <category>audio</category>
         </codelist-item>
         <codelist-item>
-            <code>audio/vnd.qcelp</code>
+            <code>audio/vnd.qcelp - DEPRECATED in favor of audio/qcelp</code>
             <category>audio</category>
         </codelist-item>
         <codelist-item>
@@ -4990,6 +5222,10 @@
             <category>image</category>
         </codelist-item>
         <codelist-item>
+            <code>image/vnd.tencent.tap</code>
+            <category>image</category>
+        </codelist-item>
+        <codelist-item>
             <code>image/vnd.valve.source.texture</code>
             <category>image</category>
         </codelist-item>
@@ -5050,7 +5286,7 @@
             <category>message</category>
         </codelist-item>
         <codelist-item>
-            <code>message/news</code>
+            <code>message/news - OBSOLETED by RFC5537</code>
             <category>message</category>
         </codelist-item>
         <codelist-item>
@@ -5078,7 +5314,7 @@
             <category>message</category>
         </codelist-item>
         <codelist-item>
-            <code>message/vnd.si.simp</code>
+            <code>message/vnd.si.simp - OBSOLETED by request</code>
             <category>message</category>
         </codelist-item>
         <codelist-item>
@@ -5130,11 +5366,19 @@
             <category>model</category>
         </codelist-item>
         <codelist-item>
+            <code>model/vnd.opengex</code>
+            <category>model</category>
+        </codelist-item>
+        <codelist-item>
             <code>model/vnd.parasolid.transmit.binary</code>
             <category>model</category>
         </codelist-item>
         <codelist-item>
             <code>model/vnd.parasolid.transmit.text</code>
+            <category>model</category>
+        </codelist-item>
+        <codelist-item>
+            <code>model/vnd.valve.source.compiled-map</code>
             <category>model</category>
         </codelist-item>
         <codelist-item>
@@ -5214,7 +5458,15 @@
             <category>multipart</category>
         </codelist-item>
         <codelist-item>
+            <code>multipart/x-mixed-replace</code>
+            <category>multipart</category>
+        </codelist-item>
+        <codelist-item>
             <code>text/1d-interleaved-parityfec</code>
+            <category>text</category>
+        </codelist-item>
+        <codelist-item>
+            <code>text/cache-manifest</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
@@ -5230,7 +5482,11 @@
             <category>text</category>
         </codelist-item>
         <codelist-item>
-            <code>text/directory</code>
+            <code>text/csv-schema</code>
+            <category>text</category>
+        </codelist-item>
+        <codelist-item>
+            <code>text/directory - DEPRECATED by RFC6350</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
@@ -5238,7 +5494,7 @@
             <category>text</category>
         </codelist-item>
         <codelist-item>
-            <code>text/ecmascript</code>
+            <code>text/ecmascript - OBSOLETED in favor of application/ecmascript</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
@@ -5266,11 +5522,15 @@
             <category>text</category>
         </codelist-item>
         <codelist-item>
-            <code>text/javascript</code>
+            <code>text/javascript - OBSOLETED in favor of application/javascript</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
             <code>text/jcr-cnd</code>
+            <category>text</category>
+        </codelist-item>
+        <codelist-item>
+            <code>text/markdown (TEMPORARY - registered 2014-11-11, expires 2015-11-11)</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
@@ -5446,7 +5706,7 @@
             <category>text</category>
         </codelist-item>
         <codelist-item>
-            <code>text/vnd.si.uricatalogue</code>
+            <code>text/vnd.si.uricatalogue - OBSOLETED by request</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
@@ -5562,7 +5822,7 @@
             <category>video</category>
         </codelist-item>
         <codelist-item>
-            <code>video/MJ2</code>
+            <code>video/mj2</code>
             <category>video</category>
         </codelist-item>
         <codelist-item>
@@ -5787,3 +6047,4 @@
         </codelist-item>
     </codelist-items>
 </codelist>
+
