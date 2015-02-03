@@ -8,6 +8,22 @@ Note not all external codelists are converted automatically yet.
 
 from lxml import etree as ET
 
+# Adapted from code at http://effbot.org/zone/element-lib.htm
+def indent(elem, level=0, shift=2):
+    i = "\n" + level*" "*shift
+    if len(elem):
+        if not elem.text or not elem.text.strip():
+            elem.text = i + " "*shift
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+        for elem in elem:
+            indent(elem, level+1, shift)
+        if not elem.tail or not elem.tail.strip():
+            elem.tail = i
+    else:
+        if level and (not elem.tail or not elem.tail.strip()):
+            elem.tail = i
+
 """
 
 IANA Media Types (FileFormat)
@@ -33,24 +49,7 @@ for registry in media_types.findall('{http://www.iana.org/assignments}registry')
 
         codelist_items.append(codelist_item)
 
-# Adapted from code at http://effbot.org/zone/element-lib.htm
-def indent(elem, level=0, shift=2):
-    i = "\n" + level*" "*shift
-    if len(elem):
-        if not elem.text or not elem.text.strip():
-            elem.text = i + " "*shift
-        if not elem.tail or not elem.tail.strip():
-            elem.tail = i
-        for elem in elem:
-            indent(elem, level+1, shift)
-        if not elem.tail or not elem.tail.strip():
-            elem.tail = i
-    else:
-        if level and (not elem.tail or not elem.tail.strip()):
-            elem.tail = i
-
 indent(template.getroot(), 0, 4)
-
 template.write('xml/FileFormat.xml', pretty_print=True)
 
 
@@ -75,21 +74,26 @@ for country in countries.findall('country'):
         code.text = country.find('alpha-2-code').text
         codelist_item.append(code)
         
+        name = ET.Element('name')
+        codelist_item.append(name)
         for short_name in country.findall('short-name'):
             if XML_LANG in short_name.attrib:
-                name = ET.Element('name')
-                name.attrib[XML_LANG] = short_name.attrib[XML_LANG]
-                name.text = short_name.text
-                codelist_item.append(name)
+                narrative = ET.Element('narrative')
+                narrative.attrib[XML_LANG] = short_name.attrib[XML_LANG]
+                narrative.text = short_name.text
+                name.append(narrative)
 
+        description = ET.Element('description')
+        codelist_item.append(description)
         for full_name in country.findall('full-name'):
             if XML_LANG in full_name.attrib:
-                description = ET.Element('description')
-                description.attrib[XML_LANG] = full_name.attrib[XML_LANG]
-                description.text = full_name.text
-                codelist_item.append(description)
+                narrative = ET.Element('narrative')
+                narrative.attrib[XML_LANG] = full_name.attrib[XML_LANG]
+                narrative.text = full_name.text
+                description.append(narrative)
 
         codelist_items.append(codelist_item)
 
+indent(template.getroot(), 0, 4)
 template.write('xml/Country.xml', pretty_print=True)
 
