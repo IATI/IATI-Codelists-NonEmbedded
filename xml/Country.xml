@@ -7,6 +7,12 @@
     </metadata>
     <codelist-items>
         <codelist-item>
+            <code>XK</code>
+            <name>
+                <narrative xml:lang="en">Kosovo</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>AD</code>
             <name>
                 <narrative xml:lang="ca">Andorra</narrative>
