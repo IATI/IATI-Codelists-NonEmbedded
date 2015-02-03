@@ -1,7 +1,7 @@
 <codelist name="Currency" xml:lang="en" complete="1">
     <metadata>
         <name>
-            <narrative>Currency</narrative>
+            <narrative>&gt;Currency</narrative>
         </name>
         <description>
             <narrative>ISO 4217 Currency used for all transactions and budgets</narrative>
@@ -36,7 +36,7 @@
         <codelist-item>
             <code>ANG</code>
             <name>
-                <narrative>Netherlands Antillian Guilder</narrative>
+                <narrative>Netherlands Antillean Guilder</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -60,7 +60,7 @@
         <codelist-item>
             <code>AWG</code>
             <name>
-                <narrative>Aruban Guilder</narrative>
+                <narrative>Aruban Florin</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -72,7 +72,7 @@
         <codelist-item>
             <code>BAM</code>
             <name>
-                <narrative>Convertible Marks</narrative>
+                <narrative>Convertible Mark</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -178,15 +178,27 @@
             </name>
         </codelist-item>
         <codelist-item>
+            <code>CHE</code>
+            <name>
+                <narrative>WIR Euro</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>CHF</code>
             <name>
                 <narrative>Swiss Franc</narrative>
             </name>
         </codelist-item>
         <codelist-item>
+            <code>CHW</code>
+            <name>
+                <narrative>WIR Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>CLF</code>
             <name>
-                <narrative>Unidades de fomento</narrative>
+                <narrative>Unidad de Fomento</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -268,12 +280,6 @@
             </name>
         </codelist-item>
         <codelist-item>
-            <code>EEK</code>
-            <name>
-                <narrative>Kroon</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item>
             <code>EGP</code>
             <name>
                 <narrative>Egyptian Pound</narrative>
@@ -324,7 +330,7 @@
         <codelist-item>
             <code>GHS</code>
             <name>
-                <narrative>Cedi</narrative>
+                <narrative>Ghana Cedi</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -532,12 +538,6 @@
             </name>
         </codelist-item>
         <codelist-item>
-            <code>LVL</code>
-            <name>
-                <narrative>Latvian Lats</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item>
             <code>LYD</code>
             <name>
                 <narrative>Libyan Dinar</narrative>
@@ -606,7 +606,7 @@
         <codelist-item>
             <code>MWK</code>
             <name>
-                <narrative>Malawi Kwacha</narrative>
+                <narrative>Kwacha</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -630,7 +630,7 @@
         <codelist-item>
             <code>MZN</code>
             <name>
-                <narrative>Metical</narrative>
+                <narrative>Mozambique Metical</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -726,7 +726,7 @@
         <codelist-item>
             <code>RON</code>
             <name>
-                <narrative>New Leu</narrative>
+                <narrative>New Romanian Leu</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -802,15 +802,15 @@
             </name>
         </codelist-item>
         <codelist-item>
-            <code>SSP</code>
-            <name>
-                <narrative>South Sudanese Pound</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item>
             <code>SRD</code>
             <name>
                 <narrative>Surinam Dollar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>SSP</code>
+            <name>
+                <narrative>South Sudanese Pound</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -852,7 +852,7 @@
         <codelist-item>
             <code>TMT</code>
             <name>
-                <narrative>Manat</narrative>
+                <narrative>Turkmenistan New Manat</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -864,7 +864,7 @@
         <codelist-item>
             <code>TOP</code>
             <name>
-                <narrative>Paanga</narrative>
+                <narrative>Pa&#8217;anga</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -916,15 +916,9 @@
             </name>
         </codelist-item>
         <codelist-item>
-            <code>USS</code>
-            <name>
-                <narrative>US Dollar (Same day)</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item>
             <code>UYI</code>
             <name>
-                <narrative>Uruguay Peso en Unidades Indexadas</narrative>
+                <narrative>Uruguay Peso en Unidades Indexadas (URUIURUI)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -970,9 +964,51 @@
             </name>
         </codelist-item>
         <codelist-item>
+            <code>XAG</code>
+            <name>
+                <narrative>Silver</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XAU</code>
+            <name>
+                <narrative>Gold</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XBA</code>
+            <name>
+                <narrative>Bond Markets Unit European Composite Unit (EURCO)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XBB</code>
+            <name>
+                <narrative>Bond Markets Unit European Monetary Unit (E.M.U.-6)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XBC</code>
+            <name>
+                <narrative>Bond Markets Unit European Unit of Account 9 (E.U.A.-9)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XBD</code>
+            <name>
+                <narrative>Bond Markets Unit European Unit of Account 17 (E.U.A.-17)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>XCD</code>
             <name>
                 <narrative>East Caribbean Dollar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XDR</code>
+            <name>
+                <narrative>SDR (Special Drawing Right)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -982,9 +1018,45 @@
             </name>
         </codelist-item>
         <codelist-item>
+            <code>XPD</code>
+            <name>
+                <narrative>Palladium</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>XPF</code>
             <name>
                 <narrative>CFP Franc</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XPT</code>
+            <name>
+                <narrative>Platinum</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XSU</code>
+            <name>
+                <narrative>Sucre</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XTS</code>
+            <name>
+                <narrative>Codes specifically reserved for testing purposes</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XUA</code>
+            <name>
+                <narrative>ADB Unit of Account</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XXX</code>
+            <name>
+                <narrative>The codes assigned for transactions where no currency is involved</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1000,7 +1072,7 @@
             </name>
         </codelist-item>
         <codelist-item>
-            <code>ZMK</code>
+            <code>ZMW</code>
             <name>
                 <narrative>Zambian Kwacha</narrative>
             </name>
@@ -1013,3 +1085,4 @@
         </codelist-item>
     </codelist-items>
 </codelist>
+

@@ -1,8 +1,12 @@
-<codelist name="Currency"   xml:lang="en" complete="1">
-  <metadata>
-    <name>Currency</name>
-    <description>ISO 4217 Currency used for all transactions and budgets</description>
-    <url>http://www.iso.org/iso/home/standards/currency_codes.htm</url>
-  </metadata>
-  <codelist-items/>
+<codelist name="Currency"     xml:lang="en" complete="1">
+    <metadata>
+        <name>
+            <narrative>>Currency</narrative>
+        </name>
+        <description>
+            <narrative>ISO 4217 Currency used for all transactions and budgets</narrative>
+        </description>
+        <url>http://www.iso.org/iso/home/standards/currency_codes.htm</url>
+    </metadata>
+    <codelist-items/>
 </codelist>

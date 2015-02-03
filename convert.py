@@ -128,10 +128,13 @@ for currency_code, currency_name in sorted(currency_codes.items()):
     codelist_item.append(code)
     
     name = ET.Element('name')
-    name.text = currency_name
     codelist_item.append(name)
+    narrative = ET.Element('narrative')
+    narrative.text = currency_name
+    name.append(narrative)
 
     codelist_items.append(codelist_item)
 
+indent(template.getroot(), 0, 4)
 template.write('xml/Currency.xml', pretty_print=True)
 
