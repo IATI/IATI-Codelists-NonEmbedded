@@ -102,7 +102,7 @@ for country in countries.findall('country'):
 
 # Ensure that historic codes come after current codes
 for country in countries.findall('country'):
-    if country.find('status').text == 'formerly-used':
+    if country.find('status').text in ['formerly-used', 'transitionally-reserved']:
         add_code(country.find('alpha-2-code').text, country, country.find('validity-end-date').text)
         add_code(country.find('alpha-4-code').text, country, country.find('validity-end-date').text)
 

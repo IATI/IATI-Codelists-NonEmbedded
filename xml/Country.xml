@@ -2744,6 +2744,22 @@
             </name>
             <description/>
         </codelist-item>
+        <codelist-item withdrawn="2010-12-15">
+            <code>AN</code>
+            <name>
+                <narrative xml:lang="fr">Antilles n&#233;erlandaises (les&#160;) </narrative>
+                <narrative xml:lang="en">Netherlands Antilles</narrative>
+            </name>
+            <description/>
+        </codelist-item>
+        <codelist-item withdrawn="2010-12-15">
+            <code>ANHH</code>
+            <name>
+                <narrative xml:lang="fr">Antilles n&#233;erlandaises (les&#160;) </narrative>
+                <narrative xml:lang="en">Netherlands Antilles</narrative>
+            </name>
+            <description/>
+        </codelist-item>
         <codelist-item withdrawn="1981-05-15">
             <code>BQ</code>
             <name>
@@ -2760,6 +2776,22 @@
             </name>
             <description/>
         </codelist-item>
+        <codelist-item withdrawn="1989-12-15">
+            <code>BU</code>
+            <name>
+                <narrative xml:lang="en">Burma</narrative>
+                <narrative xml:lang="fr">Birmanie</narrative>
+            </name>
+            <description/>
+        </codelist-item>
+        <codelist-item withdrawn="1989-12-15">
+            <code>BUMM</code>
+            <name>
+                <narrative xml:lang="en">Burma</narrative>
+                <narrative xml:lang="fr">Birmanie</narrative>
+            </name>
+            <description/>
+        </codelist-item>
         <codelist-item withdrawn="1992-06-15">
             <code>BY</code>
             <name>
@@ -2773,6 +2805,22 @@
             <name>
                 <narrative xml:lang="en">Byelorussian SSR</narrative>
                 <narrative xml:lang="fr">Bi&#233;lorussie, RSS de</narrative>
+            </name>
+            <description/>
+        </codelist-item>
+        <codelist-item withdrawn="2006-09-26">
+            <code>CS</code>
+            <name>
+                <narrative xml:lang="en">Serbia and Montenegro</narrative>
+                <narrative xml:lang="fr">Serbie-et-Mont&#233;n&#233;gro</narrative>
+            </name>
+            <description/>
+        </codelist-item>
+        <codelist-item withdrawn="2006-09-26">
+            <code>CSXX</code>
+            <name>
+                <narrative xml:lang="en">Serbia and Montenegro</narrative>
+                <narrative xml:lang="fr">Serbie-et-Mont&#233;n&#233;gro</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -2952,6 +3000,22 @@
             </name>
             <description/>
         </codelist-item>
+        <codelist-item withdrawn="1993-07-12">
+            <code>NT</code>
+            <name>
+                <narrative xml:lang="en">Neutral Zone</narrative>
+                <narrative xml:lang="fr">Zone neutre</narrative>
+            </name>
+            <description/>
+        </codelist-item>
+        <codelist-item withdrawn="1993-07-12">
+            <code>NTHH</code>
+            <name>
+                <narrative xml:lang="en">Neutral Zone</narrative>
+                <narrative xml:lang="fr">Zone neutre</narrative>
+            </name>
+            <description/>
+        </codelist-item>
         <codelist-item withdrawn="1986-01-15">
             <code>PC</code>
             <name>
@@ -3032,6 +3096,22 @@
             </name>
             <description/>
         </codelist-item>
+        <codelist-item withdrawn="2002-05-20">
+            <code>TP</code>
+            <name>
+                <narrative xml:lang="en">East Timor</narrative>
+                <narrative xml:lang="fr">Timor oriental</narrative>
+            </name>
+            <description/>
+        </codelist-item>
+        <codelist-item withdrawn="2002-05-20">
+            <code>TPTL</code>
+            <name>
+                <narrative xml:lang="en">East Timor</narrative>
+                <narrative xml:lang="fr">Timor oriental</narrative>
+            </name>
+            <description/>
+        </codelist-item>
         <codelist-item withdrawn="1977-08-01">
             <code>VD</code>
             <name>
@@ -3077,6 +3157,38 @@
             <name>
                 <narrative xml:lang="fr">Y&#233;men d&#233;mocratique</narrative>
                 <narrative xml:lang="en">Yemen, Democratic</narrative>
+            </name>
+            <description/>
+        </codelist-item>
+        <codelist-item withdrawn="2003-07-23">
+            <code>YU</code>
+            <name>
+                <narrative xml:lang="fr">Yougoslavie</narrative>
+                <narrative xml:lang="en">Yugoslavia</narrative>
+            </name>
+            <description/>
+        </codelist-item>
+        <codelist-item withdrawn="2003-07-23">
+            <code>YUCS</code>
+            <name>
+                <narrative xml:lang="fr">Yougoslavie</narrative>
+                <narrative xml:lang="en">Yugoslavia</narrative>
+            </name>
+            <description/>
+        </codelist-item>
+        <codelist-item withdrawn="1997-07-14">
+            <code>ZR</code>
+            <name>
+                <narrative xml:lang="en">Zaire</narrative>
+                <narrative xml:lang="fr">Za&#239;re</narrative>
+            </name>
+            <description/>
+        </codelist-item>
+        <codelist-item withdrawn="1997-07-14">
+            <code>ZRCD</code>
+            <name>
+                <narrative xml:lang="en">Zaire</narrative>
+                <narrative xml:lang="fr">Za&#239;re</narrative>
             </name>
             <description/>
         </codelist-item>
