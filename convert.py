@@ -109,31 +109,42 @@ template = ET.parse('templates/Currency.xml', ET.XMLParser(remove_blank_text=Tru
 codelist_items = template.find('codelist-items')
 
 currency_codes = {}
-country_currencies = ET.parse('source/table_a1.xml')
-for country_currency in country_currencies.find('CcyTbl').findall('CcyNtry'):
-    currency_name = country_currency.find('CcyNm').text
-    if currency_name == 'No universal currency':
-        continue
-    currency_code = country_currency.find('Ccy').text
-    if currency_code in currency_codes:
-        assert currency_codes[currency_code] == currency_name
+for source_filename, historic in [ ('source/table_a1.xml', False), ('source/table_a3.xml', True) ]:
+    country_currency_xml = ET.parse(source_filename)
+    if historic:
+        country_currencies = country_currency_xml.find('HstrcCcyTbl').findall('HstrcCcyNtry')
     else:
-        currency_codes[currency_code] = currency_name
+        country_currencies = country_currency_xml.find('CcyTbl').findall('CcyNtry')
+    for country_currency in country_currencies:
+        currency_name = country_currency.find('CcyNm').text
+        if currency_name == 'No universal currency':
+            continue
+        currency_code = country_currency.find('Ccy').text
+        if currency_code in currency_codes:
+            if not currency_codes[currency_code][0] == currency_name:
+                print 'Duplicate found for code {}, using name "{}" instead of name "{}" because it occurs first'.format(currency_code, currency_codes[currency_code], currency_name)
+        else:
+            currency_codes[currency_code] = (currency_name, country_currency.find('WthdrwlDt').text if historic else None)
 
-for currency_code, currency_name in sorted(currency_codes.items()):
-    codelist_item = ET.Element('codelist-item')
+for histroic_section in [False, True]:
+    for currency_code, (currency_name, withdrawal_date) in sorted(currency_codes.items()):
+        if (withdrawal_date is None) == histroic_section:
+            continue
+        codelist_item = ET.Element('codelist-item')
+        if withdrawal_date:
+            codelist_item.attrib['withdrawn'] = withdrawal_date
 
-    code = ET.Element('code')
-    code.text = currency_code
-    codelist_item.append(code)
-    
-    name = ET.Element('name')
-    codelist_item.append(name)
-    narrative = ET.Element('narrative')
-    narrative.text = currency_name
-    name.append(narrative)
+        code = ET.Element('code')
+        code.text = currency_code
+        codelist_item.append(code)
+        
+        name = ET.Element('name')
+        codelist_item.append(name)
+        narrative = ET.Element('narrative')
+        narrative.text = currency_name
+        name.append(narrative)
 
-    codelist_items.append(codelist_item)
+        codelist_items.append(codelist_item)
 
 indent(template.getroot(), 0, 4)
 template.write('xml/Currency.xml', pretty_print=True)
