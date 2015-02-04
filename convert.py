@@ -65,34 +65,46 @@ XML_LANG = '{http://www.w3.org/XML/1998/namespace}lang'
 template = ET.parse('templates/Country.xml', ET.XMLParser(remove_blank_text=True))
 codelist_items = template.find('codelist-items')
 
+def add_code(code_text, country, withdrawn):
+    codelist_item = ET.Element('codelist-item')
+
+    if withdrawn:
+        codelist_item.attrib['withdrawn'] = withdrawn
+
+    code = ET.Element('code')
+    code.text = code_text
+    codelist_item.append(code)
+    
+    name = ET.Element('name')
+    codelist_item.append(name)
+    for short_name in country.findall('short-name'):
+        if XML_LANG in short_name.attrib:
+            narrative = ET.Element('narrative')
+            narrative.attrib[XML_LANG] = short_name.attrib[XML_LANG]
+            narrative.text = short_name.text
+            name.append(narrative)
+
+    description = ET.Element('description')
+    codelist_item.append(description)
+    for full_name in country.findall('full-name'):
+        if XML_LANG in full_name.attrib:
+            narrative = ET.Element('narrative')
+            narrative.attrib[XML_LANG] = full_name.attrib[XML_LANG]
+            narrative.text = full_name.text
+            description.append(narrative)
+
+    codelist_items.append(codelist_item)
+
 countries = ET.parse('source/iso_country_codes.xml')
 for country in countries.findall('country'):
     if country.find('status').text == 'officially-assigned':
-        codelist_item = ET.Element('codelist-item')
+        add_code(country.find('alpha-2-code').text, country, None)
 
-        code = ET.Element('code')
-        code.text = country.find('alpha-2-code').text
-        codelist_item.append(code)
-        
-        name = ET.Element('name')
-        codelist_item.append(name)
-        for short_name in country.findall('short-name'):
-            if XML_LANG in short_name.attrib:
-                narrative = ET.Element('narrative')
-                narrative.attrib[XML_LANG] = short_name.attrib[XML_LANG]
-                narrative.text = short_name.text
-                name.append(narrative)
-
-        description = ET.Element('description')
-        codelist_item.append(description)
-        for full_name in country.findall('full-name'):
-            if XML_LANG in full_name.attrib:
-                narrative = ET.Element('narrative')
-                narrative.attrib[XML_LANG] = full_name.attrib[XML_LANG]
-                narrative.text = full_name.text
-                description.append(narrative)
-
-        codelist_items.append(codelist_item)
+# Ensure that historic codes come after current codes
+for country in countries.findall('country'):
+    if country.find('status').text == 'formerly-used':
+        add_code(country.find('alpha-2-code').text, country, country.find('validity-end-date').text)
+        add_code(country.find('alpha-4-code').text, country, country.find('validity-end-date').text)
 
 indent(template.getroot(), 0, 4)
 template.write('xml/Country.xml', pretty_print=True)
@@ -126,6 +138,7 @@ for source_filename, historic in [ ('source/table_a1.xml', False), ('source/tabl
         else:
             currency_codes[currency_code] = (currency_name, country_currency.find('WthdrwlDt').text if historic else None)
 
+# Ensure that historic codes come after current codes
 for histroic_section in [False, True]:
     for currency_code, (currency_name, withdrawal_date) in sorted(currency_codes.items()):
         if (withdrawal_date is None) == histroic_section:
