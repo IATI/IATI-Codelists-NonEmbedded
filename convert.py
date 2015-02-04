@@ -40,7 +40,7 @@ for registry in media_types.findall('{http://www.iana.org/assignments}registry')
         codelist_item = ET.Element('codelist-item')
 
         code = ET.Element('code')
-        code.text = registry_id + '/' + record.find('{http://www.iana.org/assignments}name').text
+        code.text = registry_id + '/' + record.find('{http://www.iana.org/assignments}name').text.split(' ')[0]
         codelist_item.append(code)
 
         category = ET.Element('category')
