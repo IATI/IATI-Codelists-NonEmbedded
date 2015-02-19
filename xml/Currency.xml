@@ -1,7 +1,7 @@
 <codelist name="Currency" xml:lang="en" complete="1">
     <metadata>
         <name>
-            <narrative>&gt;Currency</narrative>
+            <narrative>Currency</narrative>
         </name>
         <description>
             <narrative>ISO 4217 Currency used for all transactions and budgets</narrative>
