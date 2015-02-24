@@ -307,6 +307,17 @@
             <url>http://www.gov.im/registries/courts/charities/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>IN-MCA</code>
+            <name>
+                <narrative>Government of India, Minstry of Corporate Affairs</narrative>
+            </name>
+            <description>
+                <narrative>MCA regulates corporate affairs in India through the Companies Act, 1956, 2013 and other allied Acts, Bills and Rules.</narrative>
+            </description>
+            <category>IN</category>
+            <url>http://www.mca.gov.in/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>KE-NCB</code>
             <name>
                 <narrative>NGO's Coordination Board</narrative>
