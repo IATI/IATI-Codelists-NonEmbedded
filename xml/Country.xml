@@ -2729,26 +2729,10 @@
             </description>
         </codelist-item>
         <codelist-item withdrawn="1978-07-15">
-            <code>AI</code>
-            <name>
-                <narrative xml:lang="en">French Afars and Issas</narrative>
-                <narrative xml:lang="fr">Afars et Issas</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1978-07-15">
             <code>AIDJ</code>
             <name>
                 <narrative xml:lang="en">French Afars and Issas</narrative>
                 <narrative xml:lang="fr">Afars et Issas</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="2010-12-15">
-            <code>AN</code>
-            <name>
-                <narrative xml:lang="fr">Antilles n&#233;erlandaises (les&#160;) </narrative>
-                <narrative xml:lang="en">Netherlands Antilles</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -2761,26 +2745,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1981-05-15">
-            <code>BQ</code>
-            <name>
-                <narrative xml:lang="en">British Antarctic Territory</narrative>
-                <narrative xml:lang="fr">Antarctique, Territoire britannique de l'</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1981-05-15">
             <code>BQAQ</code>
             <name>
                 <narrative xml:lang="en">British Antarctic Territory</narrative>
                 <narrative xml:lang="fr">Antarctique, Territoire britannique de l'</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1989-12-15">
-            <code>BU</code>
-            <name>
-                <narrative xml:lang="en">Burma</narrative>
-                <narrative xml:lang="fr">Birmanie</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -2793,26 +2761,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1992-06-15">
-            <code>BY</code>
-            <name>
-                <narrative xml:lang="en">Byelorussian SSR</narrative>
-                <narrative xml:lang="fr">Bi&#233;lorussie, RSS de</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1992-06-15">
             <code>BYAA</code>
             <name>
                 <narrative xml:lang="en">Byelorussian SSR</narrative>
                 <narrative xml:lang="fr">Bi&#233;lorussie, RSS de</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="2006-09-26">
-            <code>CS</code>
-            <name>
-                <narrative xml:lang="en">Serbia and Montenegro</narrative>
-                <narrative xml:lang="fr">Serbie-et-Mont&#233;n&#233;gro</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -2825,26 +2777,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1993-06-15">
-            <code>CS</code>
-            <name>
-                <narrative xml:lang="en">Czechoslovakia</narrative>
-                <narrative xml:lang="fr">Tch&#233;coslovaquie</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1993-06-15">
             <code>CSHH</code>
             <name>
                 <narrative xml:lang="en">Czechoslovakia</narrative>
                 <narrative xml:lang="fr">Tch&#233;coslovaquie</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1984-01-15">
-            <code>CT</code>
-            <name>
-                <narrative xml:lang="en">Canton and Enderbury Islands</narrative>
-                <narrative xml:lang="fr">Canton et Enderbury, &#206;les</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -2857,26 +2793,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1990-12-04">
-            <code>DD</code>
-            <name>
-                <narrative xml:lang="en">German Democratic Republic</narrative>
-                <narrative xml:lang="fr">Allemande, R&#233;publique d&#233;mocratique</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1990-12-04">
             <code>DDDE</code>
             <name>
                 <narrative xml:lang="en">German Democratic Republic</narrative>
                 <narrative xml:lang="fr">Allemande, R&#233;publique d&#233;mocratique</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1977-08-01">
-            <code>DY</code>
-            <name>
-                <narrative xml:lang="en">Dahomey</narrative>
-                <narrative xml:lang="fr">Dahomey</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -2889,26 +2809,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1981-05-15">
-            <code>FQ</code>
-            <name>
-                <narrative xml:lang="en">French Southern and Antarctic Territories</narrative>
-                <narrative xml:lang="fr">Australes et Antarctiques fran&#231;aises, Terres</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1981-05-15">
             <code>FQHH</code>
             <name>
                 <narrative xml:lang="en">French Southern and Antarctic Territories</narrative>
                 <narrative xml:lang="fr">Australes et Antarctiques fran&#231;aises, Terres</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1977-08-01">
-            <code>GE</code>
-            <name>
-                <narrative xml:lang="fr">Gilbert et Ellice, &#206;les</narrative>
-                <narrative xml:lang="en">Gilbert and Ellice Islands</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -2921,26 +2825,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1984-11-30">
-            <code>HV</code>
-            <name>
-                <narrative xml:lang="en">Upper Volta</narrative>
-                <narrative xml:lang="fr">Haute-Volta</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1984-11-30">
             <code>HVBF</code>
             <name>
                 <narrative xml:lang="en">Upper Volta</narrative>
                 <narrative xml:lang="fr">Haute-Volta</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1986-07-14">
-            <code>JT</code>
-            <name>
-                <narrative xml:lang="en">Johnston Island</narrative>
-                <narrative xml:lang="fr">Johnston, &#206;le</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -2953,26 +2841,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1986-07-14">
-            <code>MI</code>
-            <name>
-                <narrative xml:lang="en">Midway Islands</narrative>
-                <narrative xml:lang="fr">Midway, &#206;les</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1986-07-14">
             <code>MIUM</code>
             <name>
                 <narrative xml:lang="en">Midway Islands</narrative>
                 <narrative xml:lang="fr">Midway, &#206;les</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1980-01-15">
-            <code>NH</code>
-            <name>
-                <narrative xml:lang="en">New Hebrides</narrative>
-                <narrative xml:lang="fr">Nouvelles-H&#233;brides</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -2985,26 +2857,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1983-01-15">
-            <code>NQ</code>
-            <name>
-                <narrative xml:lang="en">Dronning Maud Land</narrative>
-                <narrative xml:lang="fr">Terre de la Reine Maud</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1983-01-15">
             <code>NQAQ</code>
             <name>
                 <narrative xml:lang="en">Dronning Maud Land</narrative>
                 <narrative xml:lang="fr">Terre de la Reine Maud</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1993-07-12">
-            <code>NT</code>
-            <name>
-                <narrative xml:lang="en">Neutral Zone</narrative>
-                <narrative xml:lang="fr">Zone neutre</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -3017,26 +2873,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1986-01-15">
-            <code>PC</code>
-            <name>
-                <narrative xml:lang="en">Pacific Islands (Trust Territory)</narrative>
-                <narrative xml:lang="fr">Pacifique, &#206;les du (territoire sous tutelle)</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1986-01-15">
             <code>PCHH</code>
             <name>
                 <narrative xml:lang="en">Pacific Islands (Trust Territory)</narrative>
                 <narrative xml:lang="fr">Pacifique, &#206;les du (territoire sous tutelle)</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1986-07-14">
-            <code>PU</code>
-            <name>
-                <narrative xml:lang="en">United States Miscellaneous Pacific Islands</narrative>
-                <narrative xml:lang="fr">Pacifique, Diverses &#238;les du (&#201;tats-Unis)</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -3049,26 +2889,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1981-05-15">
-            <code>PZ</code>
-            <name>
-                <narrative xml:lang="en">Panama Canal Zone</narrative>
-                <narrative xml:lang="fr">Panama, Zone du Canal de</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1981-05-15">
             <code>PZPA</code>
             <name>
                 <narrative xml:lang="en">Panama Canal Zone</narrative>
                 <narrative xml:lang="fr">Panama, Zone du Canal de</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1980-01-15">
-            <code>RH</code>
-            <name>
-                <narrative xml:lang="en">Southern Rhodesia</narrative>
-                <narrative xml:lang="fr">Rhod&#233;sie du Sud</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -3081,26 +2905,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1977-08-01">
-            <code>SK</code>
-            <name>
-                <narrative xml:lang="en">Sikkim</narrative>
-                <narrative xml:lang="fr">Sikkim</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1977-08-01">
             <code>SKIN</code>
             <name>
                 <narrative xml:lang="en">Sikkim</narrative>
                 <narrative xml:lang="fr">Sikkim</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="2002-05-20">
-            <code>TP</code>
-            <name>
-                <narrative xml:lang="en">East Timor</narrative>
-                <narrative xml:lang="fr">Timor oriental</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -3113,26 +2921,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1977-08-01">
-            <code>VD</code>
-            <name>
-                <narrative xml:lang="en">Viet-Nam, Democratic Republic of</narrative>
-                <narrative xml:lang="fr">Viet-Nam, R&#233;publique d&#233;mocratique du</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1977-08-01">
             <code>VDVN</code>
             <name>
                 <narrative xml:lang="en">Viet-Nam, Democratic Republic of</narrative>
                 <narrative xml:lang="fr">Viet-Nam, R&#233;publique d&#233;mocratique du</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1986-07-14">
-            <code>WK</code>
-            <name>
-                <narrative xml:lang="fr">Wake, &#206;le de</narrative>
-                <narrative xml:lang="en">Wake Island</narrative>
             </name>
             <description/>
         </codelist-item>
@@ -3145,14 +2937,6 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="1990-08-14">
-            <code>YD</code>
-            <name>
-                <narrative xml:lang="fr">Y&#233;men d&#233;mocratique</narrative>
-                <narrative xml:lang="en">Yemen, Democratic</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1990-08-14">
             <code>YDYE</code>
             <name>
                 <narrative xml:lang="fr">Y&#233;men d&#233;mocratique</narrative>
@@ -3161,26 +2945,10 @@
             <description/>
         </codelist-item>
         <codelist-item withdrawn="2003-07-23">
-            <code>YU</code>
-            <name>
-                <narrative xml:lang="fr">Yougoslavie</narrative>
-                <narrative xml:lang="en">Yugoslavia</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="2003-07-23">
             <code>YUCS</code>
             <name>
                 <narrative xml:lang="fr">Yougoslavie</narrative>
                 <narrative xml:lang="en">Yugoslavia</narrative>
-            </name>
-            <description/>
-        </codelist-item>
-        <codelist-item withdrawn="1997-07-14">
-            <code>ZR</code>
-            <name>
-                <narrative xml:lang="en">Zaire</narrative>
-                <narrative xml:lang="fr">Za&#239;re</narrative>
             </name>
             <description/>
         </codelist-item>
