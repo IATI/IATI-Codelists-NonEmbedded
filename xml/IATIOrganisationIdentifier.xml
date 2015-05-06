@@ -25,5 +25,15 @@
             </description>
             <url>http://www.coca-colacompany.com/</url>
         </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-EC_NEAR</code>
+            <name>
+                <narrative>European Commission - Neighbourhood and Enlargement Negotiations</narrative>
+            </name>
+            <description>
+                <narrative>The mission of DG NEAR is to take forward the EU's neighbourhood and enlargement policies, as well as coordinating relations with EEA-EFTA countries. By implementing assistance in Europe's eastern and southern neighbourhood, DG NEAR supports reform and democratic consolidation, and strengthens the prosperity, stability and security around Europe. In the enlargement area, DG NEAR assists those countries with a perspective to join the EU in meeting the criteria defined by the Treaty of European Union and the European Council.</narrative>
+            </description>
+            <url>http://ec.europa.eu/enlargement/index_en.htm</url>
+        </codelist-item>
     </codelist-items>
 </codelist>
