@@ -26,6 +26,16 @@
             <url>http://www.coca-colacompany.com/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-EC_FPI</code>
+            <name>
+                <narrative>European Commission – Service for Foreign Policy Instruments</narrative>
+            </name>
+            <description>
+                <narrative>The core task of the Service for Foreign Policy Instruments (FPI) is to run a number of EU foreign policy actions, managing operations and their financing.  Such areas include crisis response and prevention measures financed under the Instrument contributing to Stability and Peace (IcSP); the Common Foreign and Security Policy (CFSP) budget; and the Partnership Instrument (PI), designed to promote the Union's strategic interests worldwide.</narrative>
+            </description>
+            <url>http://ec.europa.eu/dgs/fpi/index_en.htm</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-EC_NEAR</code>
             <name>
                 <narrative>European Commission - Neighbourhood and Enlargement Negotiations</narrative>
