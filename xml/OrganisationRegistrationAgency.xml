@@ -207,6 +207,17 @@
             <category>GB</category>
             <url>http://www.oscr.org.uk/</url>
         </codelist-item>
+        <codelist-item public-database="1">
+            <code>GB-UKPRN</code>
+            <name>
+                <narrative>UK Register of Learning Providers</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>GB</category>
+            <url>https://www.ukrlp.co.uk/</url>
+        </codelist-item>
         <codelist-item public-database="0">
             <code>GH-DSW</code>
             <name>
