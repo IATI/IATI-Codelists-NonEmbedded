@@ -472,6 +472,17 @@
             <url>http://www.swc.org.np/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>PK-PCP</code>
+            <name>
+                <narrative>Pakistan Centre for Philanthropy</narrative>
+            </name>
+            <description>
+                <narrative>The PCP Certification Programme seeks to bring transparency, accountability and good governance in the nonprofit sector in Pakistan. The first initiative of its kind in South Asia; it involves the evaluation of a nonprofit organisation on standardised parameters of internal governance, financial management and programme delivery.<narrative/>
+            </description>
+            <category>PK</category>
+            <url>https://drive.google.com/file/d/0B67B7u-xqLazZFhHTkUtUVVRWXc/view</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>SE-BLV</code>
             <name>
                 <narrative>Bolagsverket / Swedish Companies Registration Office</narrative>
