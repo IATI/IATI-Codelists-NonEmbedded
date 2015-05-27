@@ -38,7 +38,7 @@
         <codelist-item>
             <code>XI-IATI-EC_ECHO</code>
             <name>
-                <narrative>European Commission - Humanitarian Aid & Civil Protection</narrative>
+                <narrative>European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
             </name>
             <description>
                 <narrative>The Directorate General for Humanitarian aid and Civil Protection (ECHO) is responsible for formulating EU humanitarian aid policy, for programming and implementing the EU’s humanitarian aid budget and for supporting the central and overall coordinating role of the United Nations in promoting a coherent international response; ECHO also works closely with Member States' civil protection authorities to improve disaster prevention, preparedness and response and facilitates the cooperation between the 32 States participating in the Civil Protection Mechanism.</narrative>
