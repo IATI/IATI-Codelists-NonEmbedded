@@ -26,6 +26,16 @@
             <url>http://www.coca-colacompany.com/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-EC_DEVCO</code>
+            <name>
+                <narrative>European Commission – Development and Cooperation</narrative>
+            </name>
+            <description>
+                <narrative>DG DEVCO is in charge of development cooperation policy in a wider framework of international cooperation with developing countries at different stages of development. DG DEVCO is responsible for formulating European Union development policy and thematic policies in order to reduce poverty in the world, to ensure sustainable economic, social and environmental development and to promote democracy, the rule of law, good governance and the respect of human rights; the work is carried out closely with Member States, other Commission services, and with the European External Action Service.</narrative>
+            </description>
+            <url>https://ec.europa.eu/europeaid/home_en</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-EC_ECHO</code>
             <name>
                 <narrative>European Commission - Humanitarian Aid & Civil Protection</narrative>
