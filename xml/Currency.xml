@@ -976,6 +976,12 @@
             </name>
         </codelist-item>
         <codelist-item>
+            <code>XDR</code>
+            <name>
+                <narrative>International Monetary Fund (IMF) Special Drawing Right (SDR)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>XOF</code>
             <name>
                 <narrative>CFA Franc BCEAO</narrative>
