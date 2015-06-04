@@ -1,0 +1,155 @@
+<codelist complete="1" name="IndicatorVocabulary" xml:lang="en">
+    <metadata>
+        <name>
+            <narrative>Indicator Vocabulary</narrative>
+        </name>
+        <description>
+            <narrative>
+                IATI codes for known vocabularies of development indicators.
+
+                The code is meaningful - an acronym of the entity that maintains the
+                indicator repository, along with an additional acronym if the entity
+                maintains multiple repositories (e.g. UN-MDG vs UN-SDG). 
+
+                In this list, description contains IATI specific usage notes and examples 
+                of valid codes within each vocabulary, along with a URL to a sample 
+                individual indicator definition if possible. 
+
+                This list is maintained by the IATI Secretariat, but is a "non-embedded"
+                codelist - which means changes and additions may be made at short
+                notice, outside of published decimal and integer upgrade schedules. If
+                an indicator repository that you wish to use is not on this list, please
+                contact support@iatistandard.org .
+            </narrative>
+        </description>
+    </metadata>
+    <codelist-items>
+
+        <codelist-item>
+            <code>WB-WDI</code>
+            <name>
+                <narrative>World Bank World Development Indicators</narrative>
+            </name>
+            <description>
+                <narrative>Example: &quot;SN.ITK.DEFC.ZS&quot; refers to &quot;Prevalence of undernourishment (% of population)&quot; 
+                    http://data.worldbank.org/indicator/SN.ITK.DEFC.ZS
+                 </narrative>
+            </description>
+            <url>http://data.worldbank.org/indicator</url>
+        </codelist-item>
+
+        <codelist-item>
+            <code>UN-MDG</code>
+            <name>
+                <narrative>United Nations Millennium Development Goals Indicators</narrative>
+            </name>
+            <description>
+                <narrative>Example: &quot;6.1&quot; refers to &quot;6.1 HIV prevalence among population aged 15-24 years&quot; 
+                    http://mdgs.un.org/unsd/mi/wiki/6-1-HIV-prevalence-among-population-aged-15-24-years.ashx
+                 </narrative>
+            </description>
+            <url>http://mdgs.un.org/unsd/mi/wiki/MainPage.ashx</url>
+        </codelist-item>
+
+        <codelist-item>
+            <code>UN-SDG</code>
+            <name>
+                <narrative>UN Sustainable Development Goals Indicators</narrative>
+            </name>
+            <description>
+                <narrative>Example: &quot;10&quot; refers to &quot;Prevalence of stunting and wasting in children under 5 years of age&quot; 
+                 </narrative>
+            </description>
+            <url>http://unsdsn.org/wp-content/uploads/2015/03/150320-SDSN-Indicator-Report.pdf</url>
+        </codelist-item>
+
+        <codelist-item>
+            <code>UNOCHA-HR</code>
+            <name>
+                <narrative>UNOCHA Humanitarian Response Indicators Registry</narrative>
+            </name>
+            <description>
+                <narrative>Example: &quot;E-1-05&quot; refers to &quot;Percentage of schools/learning spaces used as shelters in affected area&quot; 
+                    http://www.humanitarianresponse.info/en/applications/ir/indicator/e-1-05
+                 </narrative>
+            </description>
+            <url>http://www.humanitarianresponse.info/applications/ir/indicators</url>
+        </codelist-item>
+
+        <codelist-item>
+            <code>UNAIDS-IR</code>
+            <name>
+                <narrative>UNAIDS HIV Indicator Registry</narrative>
+            </name>
+            <description>
+                <narrative>Example: &quot;1044&quot; refers to &quot;Number of male circumcisions performed&quot; 
+                    http://www.indicatorregistry.org/?q=node/1044
+                 </narrative>
+            </description>
+            <url>http://www.indicatorregistry.org/</url>
+        </codelist-item>
+
+        <codelist-item>
+            <code>WHO-IMR</code>
+            <name>
+                <narrative>WHO Indicator and Measurement Registry</narrative>
+            </name>
+            <description>
+                <narrative>This registry does not provide a formal, authoritative code for an indicator. Recommend using the iid parameter in the query string. 
+                    Example: &quot;2245&quot; refers to &quot;Cholera case fatality rate&quot;
+                    http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=2445
+                 </narrative>
+            </description>
+            <url>http://apps.who.int/gho/indicatorregistry</url>
+        </codelist-item>
+
+        <codelist-item>
+            <code>US-F</code>
+            <name>
+                <narrative>U.S. Standard Foreign Assistance Indicators</narrative>
+            </name>
+            <description>
+                <narrative>Example: &quot;3.1.1-24&quot; refers to &quot;Number of individuals who received Testing and Counseling (T&amp;C) services for HIV and received their test results&quot; 
+                 </narrative>
+            </description>
+            <url>http://www.state.gov/f/indicators/</url>
+        </codelist-item>
+
+        <codelist-item>
+            <code>US-FTF</code>
+            <name>
+                <narrative>U.S. Feed The Future</narrative>
+            </name>
+            <description>
+                <narrative>Example: &quot;4.5.1(17)&quot; refers to &quot;Kilometers of roads improved or constructed&quot; 
+                 </narrative>
+            </description>WE ARE 
+            <url>http://feedthefuture.gov/sites/default/files/resource/files/ftf_handbook_indicators_october2014.pdf</url>
+        </codelist-item>
+
+        <codelist-item>
+            <code>US-PEPFAR</code>
+            <name>
+                <narrative>U.S. President's Emergency Plan for AIDS Relief</narrative>
+            </name>
+            <description>
+                <narrative>Example: &quot;C2.2.D&quot; refers to &quot;Number of HIV-positive persons receiving Cotrimoxizole (CTX) prophylaxis&quot; 
+                 </narrative>
+            </description>
+            <url>http://www.pepfar.gov/documents/organization/81097.pdf</url>
+        </codelist-item>
+
+        <codelist-item>
+            <code>PRIVATE</code>
+            <name>
+                <narrative>Reporting Organisation</narrative>
+            </name>
+            <description>
+                <narrative>
+                    The indicator code used references a private indicator vocabulary maintained by the reporting organisation for this activity.
+                </narrative>
+            </description>
+        </codelist-item>
+
+    </codelist-items>
+</codelist>
