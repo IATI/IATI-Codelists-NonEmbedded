@@ -970,6 +970,12 @@
             </name>
         </codelist-item>
         <codelist-item>
+            <code>XBT</code>
+            <name>
+                <narrative>Bitcoin</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>XCD</code>
             <name>
                 <narrative>East Caribbean Dollar</narrative>
