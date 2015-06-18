@@ -75,6 +75,17 @@
             <url>http://www.acnc.gov.au/ACNC/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>BD-NAB</code>
+            <name>
+                <narrative>Bangladesh NGO Affairs Bureau</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>BD</category>
+            <url>http://114.129.9.31/welcome/ngo_profile</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>BE-BCE_KBO</code>
             <name>
                 <narrative>Banque Carrefour des entreprises / Kruispuntbank van ondernemingen</narrative>
