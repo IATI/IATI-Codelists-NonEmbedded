@@ -427,6 +427,17 @@
             <category>MW</category>
             <url/>
         </codelist-item>
+        <codelist-item public-database="0">
+            <code>MZ-MOJ</code>
+            <name>
+                <narrative>Mozambique Ministry of Justice</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>MZ</category>
+            <url/>
+        </codelist-item>
         <codelist-item public-database="1">
             <code>NL-KVK</code>
             <name>
