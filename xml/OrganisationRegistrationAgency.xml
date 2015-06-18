@@ -175,6 +175,17 @@
             <url>http://www.companieshouse.gov.uk/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>GB-GOV</code>
+            <name>
+                <narrative>UK Government Departments Reference Numbers</narrative>
+            </name>
+            <description>
+                <narrative>Codes for use by IATI for UK Government Departments.</narrative>
+            </description>
+            <category>GB</category>
+            <url>http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>GB-GOVUK</code>
             <name>
                 <narrative>UK Government Departments, Agencies &amp; Public Bodies</narrative>
