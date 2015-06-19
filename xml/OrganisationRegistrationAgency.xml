@@ -75,6 +75,17 @@
             <url>http://www.acnc.gov.au/ACNC/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>BD-NAB</code>
+            <name>
+                <narrative>Bangladesh NGO Affairs Bureau</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>BD</category>
+            <url>http://114.129.9.31/welcome/ngo_profile</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>BE-BCE_KBO</code>
             <name>
                 <narrative>Banque Carrefour des entreprises / Kruispuntbank van ondernemingen</narrative>
@@ -162,6 +173,17 @@
             </description>
             <category>GB</category>
             <url>http://www.companieshouse.gov.uk/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>GB-GOV</code>
+            <name>
+                <narrative>UK Government Departments Reference Numbers</narrative>
+            </name>
+            <description>
+                <narrative>Codes for use by IATI for UK Government Departments.</narrative>
+            </description>
+            <category>GB</category>
+            <url>http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies</url>
         </codelist-item>
         <codelist-item public-database="1">
             <code>GB-GOVUK</code>
