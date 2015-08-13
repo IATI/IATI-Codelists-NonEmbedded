@@ -77,5 +77,15 @@
             </description>
             <url>http://ec.europa.eu/enlargement/index_en.htm</url>
         </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-IADB</code>
+            <name>
+                <narrative>Inter-American Development Bank</narrative>
+            </name>
+            <description>
+                <narrative>The Inter-American Development Bank works to improve lives in Latin America and the Caribbean. Through financial and technical support for countries working to reduce poverty and inequality, we help improve health and education, and advance infrastructure. Our aim is to achieve development in a sustainable, climate-friendly way.</narrative>
+            </description>
+            <url>http://www.iadb.org</url>
+        </codelist-item>
     </codelist-items>
 </codelist>
