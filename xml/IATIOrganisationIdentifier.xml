@@ -26,6 +26,16 @@
             <url>http://www.coca-colacompany.com/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-1002</code>
+            <name>
+                <narrative>United Mission to Nepal</narrative>
+            </name>
+            <description>
+                <narrative>The United Mission to Nepal (UMN) is a faith based INGO based in Kathmandu, and has worked in Nepal without interruption since 1954. UMN works through local partners in order to serve the people of Nepal, especially the poorest of those living in poverty, to pursue peace and justice for all and to address the root causes of their poverty. We do this by supporting communities in a transformation process focusing on health, education, sustainable livelihoods, peace-building and good governance.</narrative>
+            </description>
+            <url>http://www.umn.org.np/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-EBRD</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development</narrative>
