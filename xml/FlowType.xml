@@ -38,7 +38,7 @@
                 <narrative xml:lang="fr">Apports privés</narrative>
             </name>
             <description>
-                <narrative>made by NGOs and other civil society organisations (e.e. philantropic foundations) based in the reporting DAC country</narrative>
+                <narrative>Grants made by NGOs and other civil society organisations (e.e. philantropic foundations) based in the reporting DAC country</narrative>
                 <narrative xml:lang="fr">Dons fournis par les ONG et autres organismes privés (par exemple fondations philantropiques) résidents dans le pays donneur</narrative>
             </description>
         </codelist-item>
