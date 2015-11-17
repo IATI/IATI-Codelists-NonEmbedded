@@ -8,7 +8,6 @@
                 The Humanitarian Scope Vocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for humanitarian events and actions.
             </narrative>
         </description>
-        <url></url>
     </metadata>
     <codelist-items>
         <codelist-item>
@@ -22,6 +21,7 @@
             <name>
                 <narrative>Glide</narrative>
             </name>
+            <url>http://glidenumber.net/glide/public/search/search.jsp</url>
         </codelist-item>
         <codelist-item>
             <code>2-1</code>
@@ -34,12 +34,14 @@
             <name>
                 <narrative>Start Network</narrative>
             </name>
+            <url>http://glidenumber.net/glide/public/search/search.jsp</url>
         </codelist-item>
         <codelist-item>
             <code>2-3</code>
             <name>
                 <narrative>Disasters Emergency Committee</narrative>
             </name>
+            <url>http://www.dec.org.uk/appeals</url>
         </codelist-item>
         <codelist-item>
             <code>99</code>
