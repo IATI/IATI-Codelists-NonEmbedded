@@ -34,11 +34,11 @@
         <codelist-item>
             <code>30</code>
             <name>
-                <narrative>Private NGO and other private sources</narrative>
-                <narrative xml:lang="fr">Apports privés</narrative>
+                <narrative>Private grants</narrative>
+                <narrative xml:lang="fr">Dons privés</narrative>
             </name>
             <description>
-                <narrative>Grants made by NGOs and other civil society organisations (e.e. philantropic foundations) based in the reporting DAC country</narrative>
+                <narrative>made by NGOs and other civil society organisations (e.e. philantropic foundations) based in the reporting DAC country</narrative>
                 <narrative xml:lang="fr">Dons fournis par les ONG et autres organismes privés (par exemple fondations philantropiques) résidents dans le pays donneur</narrative>
             </description>
         </codelist-item>
@@ -71,7 +71,7 @@
                 <narrative xml:lang="fr">Autres apports</narrative>
             </name>
             <description>
-                <narrative>e.g. non-ODA component of peacebuilding operations</narrative>
+                <narrative>e.g. non-ODA component of peacebuilding operations)</narrative>
                 <narrative xml:lang="fr">ex : élément non APD des opérations de maintien de la paix</narrative>
             </description>
         </codelist-item>
