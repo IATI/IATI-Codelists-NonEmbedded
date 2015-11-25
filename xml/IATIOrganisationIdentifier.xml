@@ -97,5 +97,15 @@
             </description>
             <url>http://www.iadb.org</url>
         </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-IFDC</code>
+            <name>
+                <narrative>International Fertilizer Development Center</narrative>
+            </name>
+            <description>
+                <narrative>Since 1974, IFDC has focused on increasing and sustaining food security and agricultural productivity in over 100 developing countries through the development and transfer of effective and environmentally sound crop nutrient technology and agribusiness expertise.</narrative>
+            </description>
+            <url>http://www.ifdc.org</url>
+        </codelist-item>
     </codelist-items>
 </codelist>
