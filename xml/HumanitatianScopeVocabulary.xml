@@ -1,0 +1,53 @@
+<codelist name="HumanitatianScopeVocabulary" xml:lang="en" complete="0">
+    <metadata>
+        <name>
+            <narrative>Humanitarian Scope Vocabulary</narrative>
+        </name>
+        <description>
+            <narrative>
+                The Humanitarian Scope Vocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for humanitarian events and actions.
+            </narrative>
+        </description>
+    </metadata>
+    <codelist-items>
+        <codelist-item>
+            <code>1-1</code>
+            <name>
+                <narrative>UN OCHA FTS</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>1-2</code>
+            <name>
+                <narrative>Glide</narrative>
+            </name>
+            <url>http://glidenumber.net/glide/public/search/search.jsp</url>
+        </codelist-item>
+        <codelist-item>
+            <code>2-1</code>
+            <name>
+                <narrative>Humanitarian Plan</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>2-2</code>
+            <name>
+                <narrative>Start Network</narrative>
+            </name>
+            <url>http://www.start-network.org/resources/</url>
+        </codelist-item>
+        <codelist-item>
+            <code>2-3</code>
+            <name>
+                <narrative>Disasters Emergency Committee</narrative>
+            </name>
+            <url>http://www.dec.org.uk/appeals</url>
+        </codelist-item>
+        <codelist-item>
+            <code>99</code>
+            <name>
+                <narrative>Reporting Organisation</narrative>
+            </name>
+        </codelist-item>
+    </codelist-items>
+</codelist>
