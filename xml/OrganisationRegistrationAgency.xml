@@ -108,6 +108,17 @@
             <url>http://www.cra-arc.gc.ca/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>DK-CVR</code>
+            <name>
+                <narrative>Danish Central Business Register</narrative>
+            </name>
+            <description>
+                <narrative>The Central Business Register at Virk is available with English headings and categories. It can be used to search for information on all Danish businesses.</narrative>
+            </description>
+            <category>DK</category>
+            <url>https://datacvr.virk.dk/data/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>ES-DIR3</code>
             <name>
                 <narrative>Common Directory of Organizational Units and Offices - DIR3</narrative>
