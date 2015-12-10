@@ -240,6 +240,17 @@
             <category>GB</category>
             <url>https://www.ukrlp.co.uk/</url>
         </codelist-item>
+        <codelist-item public-database="1">
+            <code>GG-RCE</code>
+            <name>
+                <narrative>The Guernsey Registry at the Department of Commerce and Employment</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>GG</category>
+            <url>http://www.guernseyregistry.com/charities</url>
+        </codelist-item>
         <codelist-item public-database="0">
             <code>GH-DSW</code>
             <name>
@@ -349,6 +360,28 @@
             </description>
             <category>IN</category>
             <url>http://www.mca.gov.in/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>JE-CR</code>
+            <name>
+                <narrative>Jersey Companies Registry</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>JE</category>
+            <url>http://www.jerseyfsc.org/registry/</url>
+        </codelist-item>
+        <codelist-item public-database="0">
+            <code>JE-OAC</code>
+            <name>
+                <narrative>Jersey Overseas Aid Commission</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>JE</category>
+            <url>http://www.jerseyoverseasaid.org.je/</url>
         </codelist-item>
         <codelist-item public-database="1">
             <code>KE-NCB</code>
