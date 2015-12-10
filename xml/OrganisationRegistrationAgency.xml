@@ -582,6 +582,17 @@
             <url>http://www.zrsr.sk/default.aspx?LANG=en</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>TZ-BRLA</code>
+            <name>
+                <narrative>Tanzania Business Registrations and Licensing Agency</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>TZ</category>
+            <url>http://www.brela.go.tz/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>UA-EDR</code>
             <name>
                 <narrative>United State Register, Ukraine</narrative>
