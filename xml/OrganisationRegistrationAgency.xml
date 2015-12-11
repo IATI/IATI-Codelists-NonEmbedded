@@ -108,6 +108,17 @@
             <url>http://www.cra-arc.gc.ca/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>DK-CVR</code>
+            <name>
+                <narrative>Danish Central Business Register</narrative>
+            </name>
+            <description>
+                <narrative>The Central Business Register at Virk is available with English headings and categories. It can be used to search for information on all Danish businesses.</narrative>
+            </description>
+            <category>DK</category>
+            <url>https://datacvr.virk.dk/data/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>ES-DIR3</code>
             <name>
                 <narrative>Common Directory of Organizational Units and Offices - DIR3</narrative>
@@ -240,6 +251,17 @@
             <category>GB</category>
             <url>https://www.ukrlp.co.uk/</url>
         </codelist-item>
+        <codelist-item public-database="1">
+            <code>GG-RCE</code>
+            <name>
+                <narrative>The Guernsey Registry at the Department of Commerce and Employment</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>GG</category>
+            <url>http://www.guernseyregistry.com/charities</url>
+        </codelist-item>
         <codelist-item public-database="0">
             <code>GH-DSW</code>
             <name>
@@ -349,6 +371,28 @@
             </description>
             <category>IN</category>
             <url>http://www.mca.gov.in/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>JE-CR</code>
+            <name>
+                <narrative>Jersey Companies Registry</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>JE</category>
+            <url>http://www.jerseyfsc.org/registry/</url>
+        </codelist-item>
+        <codelist-item public-database="0">
+            <code>JE-OAC</code>
+            <name>
+                <narrative>Jersey Overseas Aid Commission</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>JE</category>
+            <url>http://www.jerseyoverseasaid.org.je/</url>
         </codelist-item>
         <codelist-item public-database="1">
             <code>KE-NCB</code>
@@ -536,6 +580,17 @@
             </description>
             <category>SK</category>
             <url>http://www.zrsr.sk/default.aspx?LANG=en</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>TZ-BRLA</code>
+            <name>
+                <narrative>Tanzania Business Registrations and Licensing Agency</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>TZ</category>
+            <url>http://www.brela.go.tz/</url>
         </codelist-item>
         <codelist-item public-database="1">
             <code>UA-EDR</code>
