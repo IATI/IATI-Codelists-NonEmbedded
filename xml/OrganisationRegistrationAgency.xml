@@ -505,6 +505,17 @@
             <url/>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>NG-CAC</code>
+            <name>
+                <narrative>Nigerian Corporate Affairs Commission</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>NG</category>
+            <url>http://new.cac.gov.ng/home/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>NL-KVK</code>
             <name>
                 <narrative>Kamer van Koophandel</narrative>
