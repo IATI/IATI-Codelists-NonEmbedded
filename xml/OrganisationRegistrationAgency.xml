@@ -107,6 +107,17 @@
             <category>CA</category>
             <url>http://www.cra-arc.gc.ca/</url>
         </codelist-item>
+        <codelist-item public-database="0">
+            <code>CO-CCB</code>
+            <name>
+                <narrative>Bogota Chamber of Commerce</narrative>
+            </name>
+            <description>
+                <narrative>The Bogota Chamber of Commerce is a private, non-for-profit organization whose goal is to foster a sustainable Bogota-Region in the long term, by promoting its residents' prosperity, through services which enhance and strengthen the enterprise capabilities present in the region, and which improve the business environment with an impact over public policies.</narrative>
+            </description>
+            <category>CO</category>
+            <url>http://www.ccb.org.co/</url>
+        </codelist-item>
         <codelist-item public-database="1">
             <code>DK-CVR</code>
             <name>
