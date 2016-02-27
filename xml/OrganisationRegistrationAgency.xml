@@ -680,17 +680,6 @@
             <category>UG</category>
             <url>http://www.ursb.go.ug/</url>
         </codelist-item>
-        <codelist-item public-database="0">
-            <code>US-DOS</code>
-            <name>
-                <narrative>Corporation registration is the responsibility of each state (see link)</narrative>
-            </name>
-            <description>
-                <narrative/>
-            </description>
-            <category>US</category>
-            <url>http://www.companieshouse.gov.uk/links/usaLink.shtml</url>
-        </codelist-item>
         <codelist-item public-database=" ">
             <code>US-EIN</code>
             <name>
@@ -831,6 +820,1029 @@
             </description>
             <category>ZW</category>
             <url/>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AE-AZ_ADCD</code>
+            <name>
+                <narrative>Abu Dhabi Commercial Directory</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  ae_az</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://business.abudhabi.ae</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AE-DU_DIFC</code>
+            <name>
+                <narrative>Dubai International Financial Centre</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  ae_du</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.difc.ae</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AL_ANRC</code>
+            <name>
+                <narrative>Albania National Registration Center</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  al</narrative>
+            </description>
+            <category>AL</category>
+            <url>http://www.qkr.gov.al</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AU_ASIC</code>
+            <name>
+                <narrative>Australian Securities &amp; Investments Commission</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  au</narrative>
+            </description>
+            <category>AU</category>
+            <url>https://connectonline.asic.gov.au</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AW_ACOCI</code>
+            <name>
+                <narrative>Aruba Chamber of Commerce &amp; Industry</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  aw</narrative>
+            </description>
+            <category>AW</category>
+            <url>http://www.kvk.aw</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>BB_BCAAIPO</code>
+            <name>
+                <narrative>Barbados Corporate Affairs and Intellectual Property Office</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  bb</narrative>
+            </description>
+            <category>BB</category>
+            <url>http://www.caipo.gov.bb</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>BD_BOOTROJSCAF</code>
+            <name>
+                <narrative>Bangladesh Office of the Registrar of Joint Stock Companies and Firms</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  bd</narrative>
+            </description>
+            <category>BD</category>
+            <url>http://www.roc.gov.bd</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>BH_BMOIAC</code>
+            <name>
+                <narrative>Bahrain Ministry Of Industry And Commerce</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  bh</narrative>
+            </description>
+            <category>BH</category>
+            <url>http://www.moic.gov.bh</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>BM_BROC</code>
+            <name>
+                <narrative>Bermuda Registrar of Companies</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  bm</narrative>
+            </description>
+            <category>BM</category>
+            <url>https://www.roc.gov.bm</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>BS_RGSDOTB</code>
+            <name>
+                <narrative>Registrar General's Department of the Bahamas</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  bs</narrative>
+            </description>
+            <category>BS</category>
+            <url>http://rgd.bahamas.gov.bs:8081</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>CA_CC</code>
+            <name>
+                <narrative>Corporations Canada</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  ca</narrative>
+            </description>
+            <category>CA</category>
+            <url>https://www.ic.gc.ca</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>CA-NB_NBCARD</code>
+            <name>
+                <narrative>New Brunswick Corporate Affairs Registry Database</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  ca_nb</narrative>
+            </description>
+            <category>CA</category>
+            <url>https://www.pxw2.snb.ca</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>CA-NL_GONLROC</code>
+            <name>
+                <narrative>Government of Newfoundland &amp; Labrador Registry of Companies</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  ca_nl</narrative>
+            </description>
+            <category>CA</category>
+            <url>https://cado.eservices.gov.nl.ca</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>CA-NS_NSROJSC</code>
+            <name>
+                <narrative>Nova Scotia Registry of Joint Stock Companies</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  ca_ns</narrative>
+            </description>
+            <category>CA</category>
+            <url>https://rjsc.gov.ns.ca</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>CA-PE_PEICBNR</code>
+            <name>
+                <narrative>Prince Edward Island Corporate/Business Names Registry</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  ca_pe</narrative>
+            </description>
+            <category>CA</category>
+            <url>http://www.gov.pe.ca</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>CA-QC_QRDE</code>
+            <name>
+                <narrative>Quebec Registraire des entreprises</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  ca_qc</narrative>
+            </description>
+            <category>CA</category>
+            <url>http://www.registreentreprises.gouv.qc.ca</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>CY_CDOROCAOR</code>
+            <name>
+                <narrative>Cyprus Department of Registrar of Companies and Official Receiver</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  cy</narrative>
+            </description>
+            <category>CY</category>
+            <url>http://www.drcor.mcit.gov.cy</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>DK_DCV</code>
+            <name>
+                <narrative>Det centrale virksomhedsregister</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  dk</narrative>
+            </description>
+            <category>DK</category>
+            <url>http://www.cvr.dk</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>DO_ONDLPI</code>
+            <name>
+                <narrative>Oficina Nacional de la Propiedad Industrial</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  do</narrative>
+            </description>
+            <category>DO</category>
+            <url>https://www.onapi.gob.do</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>ES_SMR</code>
+            <name>
+                <narrative>Spanish Mercantile Registry</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  es</narrative>
+            </description>
+            <category>ES</category>
+            <url>https://www.registradores.org</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>FI_FBIS</code>
+            <name>
+                <narrative>Finnish Business Information System</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  fi</narrative>
+            </description>
+            <category>FI</category>
+            <url>https://www.ytj.fi</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>GI_CHG</code>
+            <name>
+                <narrative>Companies House Gibraltar</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  gi</narrative>
+            </description>
+            <category>GI</category>
+            <url>http://www.companieshouse.gi</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>GL_DGE</code>
+            <name>
+                <narrative>Det gr&#xF8;nlandske erhvervsregister</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  gl</narrative>
+            </description>
+            <category>GL</category>
+            <url>http://soeg.ger.gl</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>HK_HKCR</code>
+            <name>
+                <narrative>Hong Kong Companies Registry</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  hk</narrative>
+            </description>
+            <category>HK</category>
+            <url>http://www.icris.cr.gov.hk</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>HR_CCOC</code>
+            <name>
+                <narrative>Croatian Chamber of Commerce</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  hr</narrative>
+            </description>
+            <category>HR</category>
+            <url>http://www1.biznet.hr</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>IN_IMOCA</code>
+            <name>
+                <narrative>India Ministry of Corporate Affairs</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  in</narrative>
+            </description>
+            <category>IN</category>
+            <url>http://www.mca.gov.in</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>IS_TITOR</code>
+            <name>
+                <narrative>The Icelandic Tax Office (RSK)</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  is</narrative>
+            </description>
+            <category>IS</category>
+            <url>http://www.rsk.is</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>JE_JFSC</code>
+            <name>
+                <narrative>Jersey Financial Services Commission</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  je</narrative>
+            </description>
+            <category>JE</category>
+            <url>https://www.jerseyfsc.org</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>JM_COOJ</code>
+            <name>
+                <narrative>Companies Office of Jamaica</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  jm</narrative>
+            </description>
+            <category>JM</category>
+            <url>http://www.orcjamaica.com</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>LI_LL</code>
+            <name>
+                <narrative>Liechtensteinische Landesverwaltung</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  li</narrative>
+            </description>
+            <category>LI</category>
+            <url>http://www.oera.li</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>LU_RDCEDSL</code>
+            <name>
+                <narrative>Registre de Commerce et des Soci&#xE9;t&#xE9;s (Luxembourg)</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  lu</narrative>
+            </description>
+            <category>LU</category>
+            <url>https://www.rcsl.lu</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>LV_LDOE</code>
+            <name>
+                <narrative>Latvia Database of enterprises</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  lv</narrative>
+            </description>
+            <category>LV</category>
+            <url>http://dati.ur.gov.lv</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>ME_MCROBE</code>
+            <name>
+                <narrative>Montenegro Central Registry of Business Entities</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  me</narrative>
+            </description>
+            <category>ME</category>
+            <url>http://www.crps.me</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>MM_MDOIACA</code>
+            <name>
+                <narrative>Myanamar Directorate of Investment and Company Administration</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  mm</narrative>
+            </description>
+            <category>MM</category>
+            <url>http://dica.x-aas.net</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>MT_TMFSA</code>
+            <name>
+                <narrative>The Malta Financial Services Authority</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  mt</narrative>
+            </description>
+            <category>MT</category>
+            <url>http://rocsupport.mfsa.com.mt</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>MU_MMOFEDCD</code>
+            <name>
+                <narrative>Mauritius Ministry of Finance &amp; Economic Developement, Companies Division</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  mu</narrative>
+            </description>
+            <category>MU</category>
+            <url>https://mns-portal.intnet.mu</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>MX_SDIEM</code>
+            <name>
+                <narrative>Sistema de Informaci&#xF3;n Empresarial Mexicano</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  mx</narrative>
+            </description>
+            <category>MX</category>
+            <url>http://www.siem.gob.mx</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>NZ_NZCO</code>
+            <name>
+                <narrative>New Zealand Companies Office</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  nz</narrative>
+            </description>
+            <category>NZ</category>
+            <url>http://www.business.govt.nz</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>PA_RPDP</code>
+            <name>
+                <narrative>Registro P&#xFA;blico de Panam&#xE1;</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  pa</narrative>
+            </description>
+            <category>PA</category>
+            <url>https://www.registro-publico.gob.pa</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>PK_SECOP</code>
+            <name>
+                <narrative>Securities &amp; Exchange Commission of Pakistan</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  pk</narrative>
+            </description>
+            <category>PK</category>
+            <url>http://www.secp.gov.pk</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>PL_PNCR</code>
+            <name>
+                <narrative>Polish National Court Register</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  pl</narrative>
+            </description>
+            <category>PL</category>
+            <url>https://ems.ms.gov.pl</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>PR_PRDOS</code>
+            <name>
+                <narrative>Puerto Rico Department of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  pr</narrative>
+            </description>
+            <category>PR</category>
+            <url>https://prcorpfiling.f1hst.com</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>RO_ONARC</code>
+            <name>
+                <narrative>Oficiul Na?ional al Registrului Comer?ului</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  ro</narrative>
+            </description>
+            <category>RO</category>
+            <url>http://data.gov.ro</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>RW_ROOTRG</code>
+            <name>
+                <narrative>Rwanda Office of the Registrar General</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  rw</narrative>
+            </description>
+            <category>RW</category>
+            <url>http://org.rdb.rw</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>SG_SAACRA</code>
+            <name>
+                <narrative>Singapore Accounting and Corporate Regulatory Authority</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  sg</narrative>
+            </description>
+            <category>SG</category>
+            <url>https://www.psi.gov.sg</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>SI_SMOF</code>
+            <name>
+                <narrative>Slovenia Ministry Of Finance</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  si</narrative>
+            </description>
+            <category>SI</category>
+            <url>http://www.durs.gov.si</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>TH_TDOBD</code>
+            <name>
+                <narrative>Thailand Department of Business Development</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  th</narrative>
+            </description>
+            <category>TH</category>
+            <url>http://www.dbd.go.th</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>TJ_</code>
+            <name>
+                <narrative/>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  tj</narrative>
+            </description>
+            <category>TJ</category>
+            <url/>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>TN_RDCDT</code>
+            <name>
+                <narrative>Registre de Commerce de Tunisie</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  tn</narrative>
+            </description>
+            <category>TN</category>
+            <url>http://www.registre-commerce.tn</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>TO_KOTCO</code>
+            <name>
+                <narrative>Kingdom of Tonga Companies Office</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  to</narrative>
+            </description>
+            <category>TO</category>
+            <url>http://www.companies.gov.to</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>TZ_TBRALA</code>
+            <name>
+                <narrative>Tanzania Business Registrations and Licensing Agency</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  tz</narrative>
+            </description>
+            <category>TZ</category>
+            <url>http://www.brela-tz.org</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>UG_URSB</code>
+            <name>
+                <narrative>Uganda Registration Services Bureau</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  ug</narrative>
+            </description>
+            <category>UG</category>
+            <url>http://www.ursb.go.ug</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-AK_ADOC</code>
+            <name>
+                <narrative>Alaska Department of Commerce</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ak</narrative>
+            </description>
+            <category>US</category>
+            <url>http://commerce.alaska.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-AL_ASOS</code>
+            <name>
+                <narrative>Alabama Secretary of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_al</narrative>
+            </description>
+            <category>US</category>
+            <url>http://arc-sos.state.al.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-AR_ASOS</code>
+            <name>
+                <narrative>Arkansas Secretary Of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ar</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www.sos.arkansas.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-AZ_ACC</code>
+            <name>
+                <narrative>Arizona Corporation Commission</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_az</narrative>
+            </description>
+            <category>US</category>
+            <url>http://starpas.azcc.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-CA_CSOS</code>
+            <name>
+                <narrative>California Secretary of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ca</narrative>
+            </description>
+            <category>US</category>
+            <url>http://kepler.sos.ca.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-CT_CSOSCRD</code>
+            <name>
+                <narrative>Connecticut Secretary Of State, Commercial Recording Division</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ct</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www.concord-sots.ct.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-DC_DOCDOCARA</code>
+            <name>
+                <narrative>District of Columbia Department of Consumer and Regulatory Affairs</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_dc</narrative>
+            </description>
+            <category>US</category>
+            <url>http://mblr.dc.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-FL_FDOSDOC</code>
+            <name>
+                <narrative>Florida Department of State Division of Corporations</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_fl</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www.sunbiz.org</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-GA_GSOS</code>
+            <name>
+                <narrative>Georgia Secretary of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ga</narrative>
+            </description>
+            <category>US</category>
+            <url>http://corp.sos.state.ga.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-HI_HDOCCA</code>
+            <name>
+                <narrative>Hawaii Department Of Commerce &amp; Consumer Affairs</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_hi</narrative>
+            </description>
+            <category>US</category>
+            <url>https://hbe.ehawaii.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-IA_ISOS</code>
+            <name>
+                <narrative>Iowa Secretary of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ia</narrative>
+            </description>
+            <category>US</category>
+            <url>http://sos.iowa.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-ID_ISOS</code>
+            <name>
+                <narrative>Idaho Secretary of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_id</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www.accessidaho.org</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-KS_KBC</code>
+            <name>
+                <narrative>Kansas Business Center</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ks</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www.kansas.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-LA_LSOSCD</code>
+            <name>
+                <narrative>Louisiana Secretary Of State, Commercial Division</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_la</narrative>
+            </description>
+            <category>US</category>
+            <url>http://coraweb.sos.la.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-MA_MSOTCCD</code>
+            <name>
+                <narrative>Massachusetts Secretary of the Commonwealth, Corporations Division</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ma</narrative>
+            </description>
+            <category>US</category>
+            <url>http://corp.sec.state.ma.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-MD_MDOAT</code>
+            <name>
+                <narrative>Maryland Department of Assessments &amp; Taxation</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_md</narrative>
+            </description>
+            <category>US</category>
+            <url>http://sdatcert3.resiusa.org</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-ME_MBOCEAC</code>
+            <name>
+                <narrative>Maine Bureau of Corporations, Elections and Commissions</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_me</narrative>
+            </description>
+            <category>US</category>
+            <url>https://icrs.informe.org</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-MI_MDOELEG</code>
+            <name>
+                <narrative>Michigan Department of Energy, Labor &amp; Economic Growth</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_mi</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www.dleg.state.mi.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-MO_MSOS</code>
+            <name>
+                <narrative>Missouri Secretary of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_mo</narrative>
+            </description>
+            <category>US</category>
+            <url>https://www.sos.mo.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-MS_MSOS</code>
+            <name>
+                <narrative>Mississippi Secretary of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ms</narrative>
+            </description>
+            <category>US</category>
+            <url>https://business.sos.state.ms.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-NC_NCSOSCD</code>
+            <name>
+                <narrative>North Carolina Secretary of State, Corporations Division</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_nc</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www.secretary.state.nc.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-NH_NHSOSCD</code>
+            <name>
+                <narrative>New Hampshire Secretary Of State Corporation Division</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_nh</narrative>
+            </description>
+            <category>US</category>
+            <url>https://www.sos.nh.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-NJ_SONJDOR</code>
+            <name>
+                <narrative>State of New Jersey Division of Revenue</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_nj</narrative>
+            </description>
+            <category>US</category>
+            <url>https://www.njportal.com</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-NM_NMPRCCD</code>
+            <name>
+                <narrative>New Mexico Public Regulation Commission (Corporations Division)</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_nm</narrative>
+            </description>
+            <category>US</category>
+            <url>https://portal.sos.state.nm.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-NY_NYDOS</code>
+            <name>
+                <narrative>New York Department of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ny</narrative>
+            </description>
+            <category>US</category>
+            <url>https://data.ny.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-OH_OSOS</code>
+            <name>
+                <narrative>Ohio Secretary of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_oh</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www2.sos.state.oh.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-OK_OSOS</code>
+            <name>
+                <narrative>Oklahoma Secretary Of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ok</narrative>
+            </description>
+            <category>US</category>
+            <url>https://www.sos.ok.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-OR_OSOSCD</code>
+            <name>
+                <narrative>Oregon Secretary of State (Corporation Division)</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_or</narrative>
+            </description>
+            <category>US</category>
+            <url>http://egov.sos.state.or.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-PA_PDOS</code>
+            <name>
+                <narrative>Pennsylvania Department of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_pa</narrative>
+            </description>
+            <category>US</category>
+            <url>https://www.corporations.state.pa.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-RI_RISOSDOBS</code>
+            <name>
+                <narrative>Rhode Island Secretary of State, Division Of Business Services</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ri</narrative>
+            </description>
+            <category>US</category>
+            <url>http://ucc.state.ri.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-SC_SCSOS</code>
+            <name>
+                <narrative>South Carolina Secretary Of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_sc</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www.sos.sc.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-SD_SDSOS</code>
+            <name>
+                <narrative>South Dakota Secretary of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_sd</narrative>
+            </description>
+            <category>US</category>
+            <url>https://sos.sd.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-TN_TSOSDOBS</code>
+            <name>
+                <narrative>Tennessee Secretary of State, Division of Business Services</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_tn</narrative>
+            </description>
+            <category>US</category>
+            <url>https://tnbear.tn.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-UT_UDOC</code>
+            <name>
+                <narrative>Utah Department of Commerce</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_ut</narrative>
+            </description>
+            <category>US</category>
+            <url>https://secure.utah.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-VA_COVSCC</code>
+            <name>
+                <narrative>Commonwealth Of Virginia State Corporation Commission</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_va</narrative>
+            </description>
+            <category>US</category>
+            <url>https://sccefile.scc.virginia.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-VT_VSOSCD</code>
+            <name>
+                <narrative>Vermont Secretary of State: Corporations Division</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_vt</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www.sec.state.vt.us</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-WA_WSOSCD</code>
+            <name>
+                <narrative>Washington Secretary of State - Corporations Division</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_wa</narrative>
+            </description>
+            <category>US</category>
+            <url>http://www.sos.wa.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-WV_WVSOS</code>
+            <name>
+                <narrative>West Virginia Secretary of State</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_wv</narrative>
+            </description>
+            <category>US</category>
+            <url>http://apps.sos.wv.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>US-WY_WSOSSO</code>
+            <name>
+                <narrative>Wyoming Secretary of State's Office</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  us_wy</narrative>
+            </description>
+            <category>US</category>
+            <url>https://wyobiz.wy.gov</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>VN_VNBRS</code>
+            <name>
+                <narrative>Vietnam National Business Registration System</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  vn</narrative>
+            </description>
+            <category>VN</category>
+            <url>https://dichvuthongtin.dkkd.gov.vn</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>VU_VFSC</code>
+            <name>
+                <narrative>Vanuatu Financial Services Commission</narrative>
+            </name>
+            <description>
+                <narrative>Opencorporates jurisdiction code:  vu</narrative>
+            </description>
+            <category>VU</category>
+            <url>http://vfsc.vu</url>
         </codelist-item>
     </codelist-items>
 </codelist>
