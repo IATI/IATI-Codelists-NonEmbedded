@@ -548,7 +548,7 @@
             <category>NO</category>
             <url>http://www.brreg.no/</url>
         </codelist-item>
-        <codelist-item public-database=" ">
+        <codelist-item public-database="1">
             <code>NP-CRO</code>
             <name>
                 <narrative>Company Registrar Office</narrative>
@@ -691,7 +691,7 @@
             <category>US</category>
             <url>http://www.companieshouse.gov.uk/links/usaLink.shtml</url>
         </codelist-item>
-        <codelist-item public-database=" ">
+        <codelist-item public-database="0">
             <code>US-EIN</code>
             <name>
                 <narrative>Internal Revenue Service / Employer Identification Number</narrative>
