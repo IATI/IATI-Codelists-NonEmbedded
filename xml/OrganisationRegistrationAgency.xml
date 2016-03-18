@@ -669,7 +669,7 @@
             <category>UG</category>
             <url>http://www.mia.go.ug/?page_id=62</url>
         </codelist-item>
-        <codelist-item public-database="0">
+        <codelist-item public-database="1">
             <code>UG-RSB</code>
             <name>
                 <narrative>Registration Services Bureau</narrative>
