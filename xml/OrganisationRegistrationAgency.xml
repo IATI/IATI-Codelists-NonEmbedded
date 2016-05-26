@@ -417,6 +417,17 @@
             <url>http://www.cro.ie/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>IL-ROC</code>
+            <name>
+                <narrative>Israeli Corporations Authority (Department of Justice) also known as The Registrar of Companies (ROC)</narrative>
+            </name>
+            <description>
+                <narrative>The register can be searched at http://havarot.justice.gov.il/ using part or all of a company name in English or Hebrew, or by entering the company number. The search interface and the results are in Hebrew. Free information on a company includes type of company, address, legal status and purpose of the company. Additional information such as details of directors, total authorized capital, division of share capital, shareholders, charges and liabilities is priced.</narrative>
+            </description>
+            <category>IL</category>
+            <url>http://havarot.justice.gov.il/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>IM-CR</code>
             <name>
                 <narrative>Isle of Man Companies Registry</narrative>
