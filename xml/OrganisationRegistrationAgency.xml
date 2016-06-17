@@ -252,6 +252,17 @@
             <url>http://www.companieshouse.gov.uk/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>GB-EDU</code>
+            <name>
+                <narrative>Edubase, by the Department of Education</narrative>
+            </name>
+            <description>
+                <narrative>Edubase is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales</narrative>
+            </description>
+            <category>GB</category>
+            <url>http://www.education.gov.uk/edubase/home.xhtml</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>GB-GOV</code>
             <name>
                 <narrative>UK Government Departments Reference Numbers</narrative>
