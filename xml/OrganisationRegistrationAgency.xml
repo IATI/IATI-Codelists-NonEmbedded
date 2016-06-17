@@ -703,6 +703,17 @@
             <url>http://www.bolagsverket.se/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>SG-ACRA</code>
+            <name>
+                <narrative>Accounting and Corporate Regulatory Authority (ACRA)</narrative>
+            </name>
+            <description>
+                <narrative>The Accounting and Corporate Regulatory Authority (ACRA) is the national regulator of business entities, public accountants and corporate service providers in Singapore</narrative>
+            </description>
+            <category>SG</category>
+            <url>http://www.acra.gov.sg/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>SK-ZRSR</code>
             <name>
                 <narrative>Slovakia Ministry Of Interior Trade Register</narrative>
