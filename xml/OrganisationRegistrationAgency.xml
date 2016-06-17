@@ -96,6 +96,17 @@
             <category>BE</category>
             <url>economie.fgov.be/fr/entreprises/BCE</url>
         </codelist-item>
+        <codelist-item public-database="0">
+            <code>BE-GTCF</code>
+            <name>
+                <narrative>Au Greffe du Tribunal de Commerce Francophone de Bruxelles</narrative>
+            </name>
+            <description>
+                <narrative>The Registry of the Francophone Brussels Commercial Court</narrative>
+            </description>
+            <category>BE</category>
+            <url>http://www.juridat.be/tribunal_commerce/bruxelles/index.htm</url>
+        </codelist-item>
         <codelist-item public-database="1">
             <code>CA-CRA_ACR</code>
             <name>
