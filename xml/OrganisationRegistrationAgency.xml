@@ -207,6 +207,17 @@
             <category>FI</category>
             <url>http://www.prh.fi/en/index.html</url>
         </codelist-item>
+        <codelist-item public-database="0">
+            <code>FR-INSEE</code>
+            <name>
+                <narrative>The National Institute of Statistics and Economic Studies / Institute National de la Statistique et des etudes economiques</narrative>
+            </name>
+            <description>
+                <narrative>The National Institute of Statistics and Economic Studies provide a registration service for companies and associations with details being held on the SIRENE database</narrative>
+            </description>
+            <category>FR</category>
+            <url>http://www.insee.fr/fr/service/default.asp?page=entreprises/entreprise.htm</url>
+        </codelist-item>
         <codelist-item public-database="1">
             <code>FR-RCS</code>
             <name>
