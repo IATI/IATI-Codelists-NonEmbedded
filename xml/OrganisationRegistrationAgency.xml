@@ -185,6 +185,17 @@
             <category>ES</category>
             <url>http://administracionelectronica.gob.es/ctt/dir3/descargas</url>
         </codelist-item>
+        <codelist-item public-database="1">
+            <code>ES-RMS</code>
+            <name>
+                <narrative>Commercial Register of the Kingdom of Spain</narrative>
+            </name>
+            <description>
+                <narrative>The Central Mercantile Register offers two methods of obtaining information about registered companies and/or company names: 1) USERS WITHOUT AGREEMENT. - They should pay the corresponding legal tax by credit card. 2) USERS WITH AGREEMENT.- They must use the password assigned by the Central Mercantile Register after the Agreement has been signed.</narrative>
+            </description>
+            <category>ES</category>
+            <url>http://www.rmc.es/Home.aspx</url>
+        </codelist-item>
         <codelist-item public-database="0">
             <code>ET-MFA</code>
             <name>
