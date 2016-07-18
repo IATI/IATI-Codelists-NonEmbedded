@@ -141,6 +141,17 @@
             <url>http://www.ccb.org.co/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>CY-DRCOR</code>
+            <name>
+                <narrative>Cyprus Department of Registrar of Companies and Official Receiver (DRCOR)</narrative>
+            </name>
+            <description>
+                <narrative>Data includes: Name, Reg. Number, Type, Registration Date, Organisation Status</narrative>
+            </description>
+            <category>CY</category>
+            <url>https://efiling.drcor.mcit.gov.cy/DrcorPublic/Default.aspx?cultureInfo=en-AU</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>CZ-ICO</code>
             <name>
                 <narrative>Access to Registers of Economic Subjects / Entities (ARES)</narrative>
