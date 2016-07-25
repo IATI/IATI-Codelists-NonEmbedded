@@ -20,13 +20,7 @@
                 <narrative xml:lang="fr">Gouvernement du donneur</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="active" activation-date="2015-12-07">
-            <code>12000</code>
-            <name>
-                <narrative>Recipient Government</narrative>
-                <narrative xml:lang="fr">Gouvernement du bénéficiaire</narrative>
-            </name>
-        </codelist-item>
+        
         <codelist-item status="active" activation-date="2015-12-07">
             <code>13000</code>
             <name>
