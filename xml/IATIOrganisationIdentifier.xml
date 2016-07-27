@@ -48,6 +48,16 @@
             <url>http://www.ebrd.com/home</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-CABI</code>
+            <name>
+                <narrative>CABI</narrative>
+            </name>
+            <description>
+                <narrative>CABI (Centre for Agriculture and Biosciences International) is an international not-for-profit organization that improves people’s lives worldwide by providing information and applying scientific expertise to solve problems in agriculture and the environment. It's approach involves putting information, skills and tools into people’s hands. CABI’s member countries guide and influence our work which is delivered by scientific staff based in our global network of centres.</narrative>
+            </description>
+            <url>http://www.cabi.org/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-EC_DEVCO</code>
             <name>
                 <narrative>European Commission – Development and Cooperation</narrative>
@@ -106,6 +116,16 @@
                 <narrative>Since 1974, IFDC has focused on increasing and sustaining food security and agricultural productivity in over 100 developing countries through the development and transfer of effective and environmentally sound crop nutrient technology and agribusiness expertise.</narrative>
             </description>
             <url>http://www.ifdc.org</url>
+        </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-IKI</code>
+            <name>
+                <narrative>International Climate Initiative (IKI)</narrative>
+            </name>
+            <description>
+                <narrative>Since 2008, the International Climate Initiative (IKI) of the Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety (BMUB) has been financing climate and biodiversity projects in developing and newly industrialising countries, as well as in countries in transition.</narrative>
+            </description>
+            <url>https://www.international-climate-initiative.com/</url>
         </codelist-item>
     </codelist-items>
 </codelist>
