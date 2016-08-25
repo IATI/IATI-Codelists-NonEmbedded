@@ -285,6 +285,17 @@
             <url>https://www.gov.uk/government/organisations</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>GB-IRN</code>
+            <name>
+                <narrative>Department of Education, Northern Ireland</narrative>
+            </name>
+            <description>
+                <narrative>The Department of Education, Northern Ireland issues a unique IRN (Institution Reference Number) to schools in Northern Ireland. The registry can be searched at http://apps.education-ni.gov.uk/appinstitutes/instmain.aspx and includes contact details and statistics for the schools. </narrative>
+            </description>
+            <category>GB</category>
+            <url>http://apps.education-ni.gov.uk/appinstitutes/instmain.aspx</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>GB-NIC</code>
             <name>
                 <narrative>The Charity Commission for Northern Ireland</narrative>
@@ -316,6 +327,17 @@
             </description>
             <category>GB</category>
             <url>http://www.oscr.org.uk/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>GB-SEED</code>
+            <name>
+                <narrative>Education Scotland</narrative>
+            </name>
+            <description>
+                <narrative>Education Scotland issues a unique seven-digit number to every Scottish school: http://www.educationscotland.gov.uk/parentzone/myschool/glossary.asp#seedno - The registry can be searched at http://www.educationscotland.gov.uk/parentzone/myschool/findaschool/index.asp and includes contact details of the schools.</narrative>
+            </description>
+            <category>GB</category>
+            <url>http://www.educationscotland.gov.uk/parentzone/myschool/findaschool/index.asp</url>
         </codelist-item>
         <codelist-item public-database="1">
             <code>GB-UKPRN</code>
