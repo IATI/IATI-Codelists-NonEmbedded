@@ -137,5 +137,15 @@
             </description>
             <url>https://www.international-climate-initiative.com/</url>
         </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-NSO</code>
+            <name>
+                <narrative>Netherlands Space Office</narrative>
+            </name>
+            <description>
+                <narrative>The Netherlands Space Office (NSO) is the governmental space agency of the Netherlands. Its primary task is to develop and execute the national space policy. NSO is the main point of contact for national and international space affairs.</narrative>
+            </description>
+            <url>http://www.spaceoffice.nl/</url>
+        </codelist-item>
     </codelist-items>
 </codelist>
