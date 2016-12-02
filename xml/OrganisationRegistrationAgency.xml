@@ -724,6 +724,17 @@
             <category>SE</category>
             <url>http://www.bolagsverket.se/</url>
         </codelist-item>
+        <codelist-item public-database="0">
+            <code>SE-KK</code>
+            <name>
+                <narrative>Legal, Financial and Administrative Services Agency (Kammarkollegiet)</narrative>
+            </name>
+            <description>
+                <narrative>A Swedish administrative authority under the Ministry of Finance, which is responsible for the registration of religious communities and organisational units of religious communities.</narrative>
+            </description>
+            <category>SE</category>
+            <url>http://www.kammarkollegiet.se/en</url>
+        </codelist-item>
         <codelist-item public-database="1">
             <code>SG-ACRA</code>
             <name>
