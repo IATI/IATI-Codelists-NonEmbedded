@@ -36,6 +36,16 @@
             <url>http://www.umn.org.np/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-CWSEC</code>
+            <name>
+                <narrative>The Commonwealth Secretariat</narrative>
+            </name>
+            <description>
+                <narrative>The Commonwealth is a voluntary association of 52 independent and equal sovereign states. Its guiding principles are contained in their Commonwealth Charter.</narrative>
+            </description>
+            <url>http://thecommonwealth.org/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-EBRD</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development</narrative>
