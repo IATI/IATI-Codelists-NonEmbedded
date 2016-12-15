@@ -7,7 +7,9 @@
             <narrative>
             This is a list of organisation identifiers that is maintained by the IATI Secretariat.
             The prefix for organisations on this list is XI-IATI 
-            Any publisher may apply to the IATI Technical Team for an identifier to be generated.
+
+            If a bona fide organisation is not registered with any recognised or appropriate registration agency (http://iatistandard.org/202/codelists/OrganisationRegistrationAgency/) they should contact the IATI Technical Team who will exceptionally allocate an organisation identifier using the XI-IATI prefix.
+
             While some of these identifiers have been derived from DAC codes, this 'meaning' is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.
             
             For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/
@@ -146,6 +148,16 @@
                 <narrative>The Netherlands Space Office (NSO) is the governmental space agency of the Netherlands. Its primary task is to develop and execute the national space policy. NSO is the main point of contact for national and international space affairs.</narrative>
             </description>
             <url>http://www.spaceoffice.nl/</url>
+        </codelist-item>
+        <codelist-item activation-date="2016-12-15">
+            <code>XI-IATI-WAI</code>
+            <name>
+                <narrative>WASH Alliance International</narrative>
+            </name>
+            <description>
+                <narrative>The WASH Alliance International is a consortium of member organisations in the Netherlands and partner organisations worldwide, working on sustainable WASH for everyone.</narrative>
+            </description>
+            <url>http://wash-alliance.org/</url>
         </codelist-item>
     </codelist-items>
 </codelist>
