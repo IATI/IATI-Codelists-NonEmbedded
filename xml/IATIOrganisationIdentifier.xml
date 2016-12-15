@@ -149,5 +149,15 @@
             </description>
             <url>http://www.spaceoffice.nl/</url>
         </codelist-item>
+        <codelist-item activation-date="2016-12-15">
+            <code>XI-IATI-WAI</code>
+            <name>
+                <narrative>WASH Alliance International</narrative>
+            </name>
+            <description>
+                <narrative>The WASH Alliance International is a consortium of member organisations in the Netherlands and partner organisations worldwide, working on sustainable WASH for everyone.</narrative>
+            </description>
+            <url>http://wash-alliance.org/</url>
+        </codelist-item>
     </codelist-items>
 </codelist>
