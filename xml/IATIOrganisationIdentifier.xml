@@ -7,7 +7,9 @@
             <narrative>
             This is a list of organisation identifiers that is maintained by the IATI Secretariat.
             The prefix for organisations on this list is XI-IATI 
-            Any publisher may apply to the IATI Technical Team for an identifier to be generated.
+
+            If a bona fide organisation is not registered with any recognised or appropriate registration agency (http://iatistandard.org/202/codelists/OrganisationRegistrationAgency/) they should contact the IATI Technical Team who will exceptionally allocate an organisation identifier using the XI-IATI prefix.
+
             While some of these identifiers have been derived from DAC codes, this 'meaning' is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.
             
             For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/
