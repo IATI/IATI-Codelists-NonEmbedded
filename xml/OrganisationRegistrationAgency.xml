@@ -450,6 +450,17 @@
             <url>http://www.mca.gov.in/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>IT-RI</code>
+            <name>
+                <narrative>The business register of the Italian Chambers of Commerce</narrative>
+            </name>
+            <description>
+                <narrative>Access to the register and to limited information (such as name and address of company) is free of charge. Registration is also free of charge. However, on-line access to complete information is available only by pay on demand.</narrative>
+            </description>
+            <category>IT</category>
+            <url>http://www.registroimprese.it/en/web/guest/home</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>JE-CR</code>
             <name>
                 <narrative>Jersey Companies Registry</narrative>
