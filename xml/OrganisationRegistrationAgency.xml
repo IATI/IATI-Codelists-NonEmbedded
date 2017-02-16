@@ -461,6 +461,17 @@
             <url>http://www.mca.gov.in/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>IN-MHA</code>
+            <name>
+                <narrative>Ministry of Home Affairs, Government of India</narrative>
+            </name>
+            <description>
+                <narrative>Government of India Ministry of Home Affairs Foreigners Division provides registration under the Foreign Contribution (Regulation) Act (FCRA).</narrative>
+            </description>
+            <category>IN</category>
+            <url>https://fcraonline.nic.in/home/index.aspx</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>JE-CR</code>
             <name>
                 <narrative>Jersey Companies Registry</narrative>
