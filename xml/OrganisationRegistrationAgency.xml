@@ -351,6 +351,17 @@
             <url/>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>HK-CR</code>
+            <name>
+                <narrative>Hong Kong Companies Registry</narrative>
+            </name>
+            <description>
+                <narrative>Hong Kong Companies Registry registers local and non-Hong Kong companies and statutory returns, de-registers defunct solvent companies and provides the public with services and facilities for inspecting and obtaining company information kept by the Registry.</narrative>
+            </description>
+            <category>HK</category>
+            <url>http://www.cr.gov.hk/en/home</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>ID-KDN</code>
             <name>
                 <narrative>Ministry Home affairs/ Kementerian Dalam Negeri</narrative>
