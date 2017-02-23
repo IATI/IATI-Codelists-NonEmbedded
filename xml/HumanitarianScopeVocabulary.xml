@@ -11,12 +11,6 @@
     </metadata>
     <codelist-items>
         <codelist-item>
-            <code>1-1</code>
-            <name>
-                <narrative>UN OCHA FTS</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item>
             <code>1-2</code>
             <name>
                 <narrative>Glide</narrative>
