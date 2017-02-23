@@ -108,6 +108,17 @@
             <url>http://www.juridat.be/tribunal_commerce/bruxelles/index.htm</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>BW-CIPA</code>
+            <name>
+                <narrative>The Companies and Intellectual Property Authority (CIPA)</narrative>
+            </name>
+            <description>
+                <narrative>The Companies and Intellectual Property Authority (CIPA) of the Ministry of Trade and Industry in Botswana is mandated to register businesses and protect intellectual property rights through the administration of four pieces of legislation.</narrative>
+            </description>
+            <category>BW</category>
+            <url>http://www.mtinamesearch.gov.bw/search</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>CA-CRA_ACR</code>
             <name>
                 <narrative>Canadian Revenue Agency / Agence du revenu du Canada</narrative>
