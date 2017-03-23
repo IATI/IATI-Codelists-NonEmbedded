@@ -130,6 +130,17 @@
             <url>http://www.cra-arc.gc.ca/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>CH-FDJP</code>
+            <name>
+                <narrative>Commercial Registry, Federal Office of Justice, Switzerland</narrative>
+            </name>
+            <description>
+                <narrative>The Swiss Commercial Register is administered by the cantons under the supervision of the Swiss Confederation. All the commercial register entries made by the cantonal register offices are published in the Swiss Official Gazette of Commerce (SOGC) after having been checked and approved by the Federal Commercial Registry Office.</narrative>
+            </description>
+            <category>CH</category>
+            <url>http://www.zefix.ch/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>CN-SAIC</code>
             <name>
                 <narrative>State Administration for Industry and Commerce (SAIC)</narrative>
