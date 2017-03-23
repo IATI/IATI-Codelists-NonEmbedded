@@ -130,6 +130,17 @@
             <url>http://www.cra-arc.gc.ca/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>CH-FDJP</code>
+            <name>
+                <narrative>Commercial Registry, Federal Office of Justice, Switzerland</narrative>
+            </name>
+            <description>
+                <narrative>The Swiss Commercial Register is administered by the cantons under the supervision of the Swiss Confederation. All the commercial register entries made by the cantonal register offices are published in the Swiss Official Gazette of Commerce (SOGC) after having been checked and approved by the Federal Commercial Registry Office.</narrative>
+            </description>
+            <category>CH</category>
+            <url>http://www.zefix.ch/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>CN-SAIC</code>
             <name>
                 <narrative>State Administration for Industry and Commerce (SAIC)</narrative>
@@ -789,6 +800,17 @@
             </description>
             <category>SK</category>
             <url>http://www.zrsr.sk/default.aspx?LANG=en</url>
+        </codelist-item>
+        <codelist-item public-database="0">
+            <code>SS-RRC</code>
+            <name>
+                <narrative>South Sudan Relief and Rehabilitation Commission</narrative>
+            </name>
+            <description>
+                <narrative>The South Sudan Relief and Rehabilitation Commission (SSRRC) is an agency of the Government of South Sudan. It is the operational arm of the Ministry of Humanitarian Affairs and Disaster Management. The NGO Act 2016 added additional powers to the agency to register any NGO interested in operating in South Sudan.</narrative>
+            </description>
+            <category>SS</category>
+            <url>http://www.goss-online.org/</url>
         </codelist-item>
         <codelist-item public-database="1">
             <code>TZ-BRLA</code>
