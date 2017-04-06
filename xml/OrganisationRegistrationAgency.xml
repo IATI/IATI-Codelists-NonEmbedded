@@ -285,15 +285,15 @@
             <url>http://www.education.gov.uk/edubase/home.xhtml</url>
         </codelist-item>
         <codelist-item public-database="1">
-            <code>GB-GOV</code>
+            <code>GB-GOR</code>
             <name>
-                <narrative>UK Government Departments Reference Numbers</narrative>
+                <narrative>UK Government Organisation Register</narrative>
             </name>
             <description>
-                <narrative>Codes for use by IATI for UK Government Departments.</narrative>
+                <narrative>The Government Organisation Register is an authoritative source of government organisations who have a presence on GOV.UK. This register includes ministerial departments and executive agencies but does not include classifications (e.g. arms length bodies) or any form of organisational hierarchy.</narrative>
             </description>
             <category>GB</category>
-            <url>http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies</url>
+            <url>http://government-organisation.alpha.openregister.org</url>
         </codelist-item>
         <codelist-item public-database="1">
             <code>GB-GOVUK</code>
