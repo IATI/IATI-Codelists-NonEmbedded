@@ -12,7 +12,9 @@
                 <narrative>General budget support</narrative>
             </name>
             <description>
-                <narrative>Unearmarked contributions to the government budget including funding to support the implementation of macroeconomic reforms (structural adjustment programmes, poverty reduction strategies). Budget support is a method of financing a recipient country's budget through a transfer of resources from an external financing agency to the recipient government's national treasury. The funds thus transferred are managed in accordance with the recipient's budgetary procedures. Funds transferred to the national treasury for financing programmes or projects managed according to different budgetary procedures from those of the recipient country, with the intention of earmarking the resources for specific uses, are therefore excluded.</narrative>
+                <narrative>Unearmarked contributions to the government budget including funding to support the implementation of macroeconomic reforms (structural adjustment programmes, poverty reduction strategies).
+
+                Budget support is a method of financing a recipient country’s budget through a transfer of resources from an external financing agency to the recipient government’s national treasury. The funds thus transferred are managed in accordance with the recipient’s budgetary procedures. Funds transferred to the national treasury for financing programmes or projects managed according to different budgetary procedures from those of the recipient country, with the intention of earmarking the resources for specific uses, are therefore excluded.</narrative>
             </description>
             <category>A</category>
         </codelist-item>
@@ -22,7 +24,7 @@
                 <narrative>Sector budget support</narrative>
             </name>
             <description>
-                <narrative>Sector budget support, like general budget support, is a financial contribution to a recipient government\'s budget. However, in sector budget support, the dialogue between donors and partner governments focuses on sector-specific concerns, rather than on overall policy and budget priorities</narrative>
+                <narrative>Sector budget support, like general budget support, is a financial contribution to a recipient government’s budget. However, in sector budget support, the dialogue between donors and partner governments focuses on sector-specific concerns, rather than on overall policy and budget priorities.</narrative>
             </description>
             <category>A</category>
         </codelist-item>
@@ -72,7 +74,7 @@
                 <narrative>Project-type interventions</narrative>
             </name>
             <description>
-                <narrative>A project is a set of inputs, activities and outputs, agreed with the partner country*, to reach specific objectives/outcomes within a defined time frame, with a defined budget and a defined geographical area. Projects can vary significantly in terms of objectives, complexity, amounts involved and duration. There are smaller projects that might involve modest financial resources and last only a few months, whereas large projects might involve more significant amounts, entail successive phases and last for many years. A large project with a number of different components is sometimes referred to as a programme, but should nevertheless be recorded here. Feasibility studies, appraisals and evaluations are included (whether designed as part of projects/programmes or dedicated funding arrangements). Aid channelled through NGOs or multilaterals is also recorded here. This includes payments for NGOs and multilaterals to implement donors' projects and programmes, and funding of specified NGOs projects. By contrast, core funding of NGOs and multilaterals as well as contributions to specific- purpose funds managed by international organisations are recorded under B. * In the cases of equity investments, humanitarian aid or aid channelled through NGOs, projects are recorded here even if there was no direct agreement between the donor and the partner country.</narrative>
+                <narrative>A project is a set of inputs, activities and outputs, agreed with the partner country*, to reach specific objectives/outcomes within a defined time frame, with a defined budget and a defined geographical area. Projects can vary significantly in terms of objectives, complexity, amounts involved and duration. There are smaller projects that might involve modest financial resources and last only a few months, whereas large projects might involve more significant amounts, entail successive phases and last for many years. A large project with a number of different components is sometimes referred to as a programme, but should nevertheless be recorded here. Feasibility studies, appraisals and evaluations are included (whether designed as part of projects/programmes or dedicated funding arrangements). Aid channelled through NGOs or multilaterals is also recorded here. This includes payments for NGOs and multilaterals to implement donors’ projects and programmes, and funding of specified NGOs projects. By contrast, core funding of NGOs and multilaterals as well as contributions to specific-purpose funds managed by international organisations are recorded under B. * In the cases of equity investments, humanitarian aid or aid channelled through NGOs, projects are recorded here even if there was no direct agreement between the donor and the partner country.</narrative>
             </description>
             <category>C</category>
         </codelist-item>

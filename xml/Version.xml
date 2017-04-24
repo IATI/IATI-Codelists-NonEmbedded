@@ -32,6 +32,11 @@
         </codelist-item>
         <codelist-item>
             <code>2.01</code>
+            <url>http://iatistandard.org/201/</url>
+        </codelist-item>
+        <codelist-item>
+            <code>2.02</code>
+            <url>http://iatistandard.org/202/</url>
         </codelist-item>
     </codelist-items>
 </codelist>

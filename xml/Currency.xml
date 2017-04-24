@@ -372,7 +372,7 @@
         <codelist-item>
             <code>HRK</code>
             <name>
-                <narrative>Croatian Kuna</narrative>
+                <narrative>Kuna</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -726,7 +726,7 @@
         <codelist-item>
             <code>RON</code>
             <name>
-                <narrative>New Leu</narrative>
+                <narrative>Romanian Leu</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -970,9 +970,21 @@
             </name>
         </codelist-item>
         <codelist-item>
+            <code>XBT</code>
+            <name>
+                <narrative>Bitcoin</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>XCD</code>
             <name>
                 <narrative>East Caribbean Dollar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>XDR</code>
+            <name>
+                <narrative>International Monetary Fund (IMF) Special Drawing Right (SDR)</narrative>
             </name>
         </codelist-item>
         <codelist-item>

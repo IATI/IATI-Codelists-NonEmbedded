@@ -22,10 +22,6 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
-            <code>application/activemessage</code>
-            <category>application</category>
-        </codelist-item>
-        <codelist-item>
             <code>application/alto-costmap+json</code>
             <category>application</category>
         </codelist-item>
@@ -4287,10 +4283,6 @@
         </codelist-item>
         <codelist-item>
             <code>audio/AMR-WB</code>
-            <category>audio</category>
-        </codelist-item>
-        <codelist-item>
-            <code>audio/amr-wb</code>
             <category>audio</category>
         </codelist-item>
         <codelist-item>
