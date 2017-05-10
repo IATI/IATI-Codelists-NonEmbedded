@@ -2162,7 +2162,7 @@
                 <narrative xml:lang="fr">Agence internationale pour les energies renouvelables</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="active" activation-date="2015-12-07">
+        <codelist-item status="withdrawn" activation-date="2015-12-07" withdrawal-date="2017-05-09">
             <code>50000</code>
             <name>
                 <narrative>Other</narrative>
