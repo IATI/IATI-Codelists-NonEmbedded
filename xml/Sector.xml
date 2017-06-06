@@ -352,7 +352,7 @@
 				<narrative>Water supply and sanitation - large systems</narrative>
 			</name>
 			<description>
-				<narrative>Programmes where components according to 14021 and 14022 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14021], sanitation [14022], and hygiene [12261].</narrative>
+				<narrative>Programmes where components according to 14021 and 14022 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply (14021), sanitation (14022), and hygiene (12261).</narrative>
 			</description>
 			<category>140</category>
 		</codelist-item>
@@ -382,7 +382,7 @@
 				<narrative>Basic drinking water supply and basic sanitation</narrative>
 			</name>
 			<description>
-				<narrative>Programmes where components according to 14031 and 14032 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14031], sanitation [14032], and hygiene [12261].</narrative>
+				<narrative>Programmes where components according to 14031 and 14032 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply (14031), sanitation (14032), and hygiene (12261).</narrative>
 			</description>
 			<category>140</category>
 		</codelist-item>
@@ -412,7 +412,7 @@
 				<narrative>River basins’ development</narrative>
 			</name>
 			<description>
-				<narrative>Infrastructure focused integrated river basin projects and related institutional activities; river flow control; dams and reservoirs [excluding dams primarily for irrigation (31140) and hydropower (23065) and activities related to river transport (21040)].</narrative>
+				<narrative>Infrastructure-focused integrated river basin projects and related institutional activities; river flow control; dams and reservoirs [excluding dams primarily for irrigation (31140) and hydropower (23065) and activities related to river transport (21040)].</narrative>
 			</description>
 			<category>140</category>
 		</codelist-item>
@@ -442,17 +442,17 @@
 				<narrative>Public sector policy and administrative management</narrative>
 			</name>
 			<description>
-				<narrative>Institution-building assistance to strengthen core public sector management systems and capacities. This includes macro-economic and other policy management, co-ordination, planning and reform; human resource management; organisational development; civil service reform; e‑government; development planning, monitoring and evaluation; support to ministries involved in aid co-ordination; other ministries and government departments when sector cannot be specified. (Use specific sector codes for development of systems and capacities in sector ministries.)</narrative>
+				<narrative>Institution-building assistance to strengthen core public sector management systems and capacities. This includes macro-economic and other policy management, co-ordination, planning and reform; human resource management; organisational development; civil service reform; e-government; development planning, monitoring and evaluation; support to ministries involved in aid co-ordination; other ministries and government departments when sector cannot be specified. (Use specific sector codes for development of systems and capacities in sector ministries.)</narrative>
 			</description>
 			<category>151</category>
 		</codelist-item>
 		<codelist-item>
 			<code>15111</code>
 			<name>
-				<narrative>Public finance management</narrative>
+				<narrative>Public Finance Management (PFM)</narrative>
 			</name>
 			<description>
-				<narrative>Fiscal policy and planning; support to ministries of finance; strengthening financial and managerial accountability; public expenditure management; improving financial management systems; tax policy and administration; budget drafting; inter-governmental fiscal relations, public audit, public debt. (Use code 15114 for revenue-generating tax support and code 33120 for customs).</narrative>
+				<narrative>Fiscal policy and planning; support to ministries of finance; strengthening financial and managerial accountability; public expenditure management; improving financial management systems; budget drafting; inter-governmental fiscal relations, public audit, public debt. (Use code 15114 for domestic revenue mobilisation and code 33120 for customs).</narrative>
 			</description>
 			<category>151</category>
 		</codelist-item>
@@ -472,17 +472,17 @@
 				<narrative>Anti-corruption organisations and institutions</narrative>
 			</name>
 			<description>
-				<narrative>Specialised organisations, institutions and frameworks for the prevention of and combat against corruption, bribery, money-laundering and other aspects of organised crime, with or without law enforcement powers, e.g. anti-corruption commissions and monitoring bodies, special investigation services, institutions and initiatives of integrity and ethics oversight, specialised NGOs, other civil society and citizens’ organisations directly concerned with corruption.</narrative>
+				<narrative>Specialised organisations, institutions and frameworks for the prevention of and combat against corruption, bribery, money- laundering and other aspects of organised crime, with or without law enforcement powers, e.g. anti-corruption commissions and monitoring bodies, special investigation services, institutions and initiatives of integrity and ethics oversight, specialised NGOs, other civil society and citizens’ organisations directly concerned with corruption.</narrative>
 			</description>
 			<category>151</category>
 		</codelist-item>
 		<codelist-item>
 			<code>15114</code>
 			<name>
-				<narrative>Tax policy and tax administration support</narrative>
+				<narrative>Domestic Revenue Mobilisation</narrative>
 			</name>
 			<description>
-				<narrative>Support to the ministries of finance, revenue authorities or other local, regional or national public bodies on tax policy, analysis and administration (including “non-tax” public revenue).</narrative>
+				<narrative>Support to domestic revenue mobilisation/tax policy, analysis and administration as well as non-tax public revenue, which includes work with ministries of finance, line ministries, revenue authorities or other local, regional or national public bodies. (Use code 16010 for social security and other social protection.)</narrative>
 			</description>
 			<category>151</category>
 		</codelist-item>
@@ -762,7 +762,7 @@
 				<narrative>Elections</narrative>
 			</name>
 			<description>
-				<narrative>Electoral management bodies and processes, election observation, voters' education. (Use code 15230 when in the context of an international peacekeeping operation.)</narrative>
+				<narrative>Electoral management bodies and processes, election observation, voters' education. (Use code 15230 when in the context of an international peacekeeping operation).</narrative>
 			</description>
 			<category>151</category>
 		</codelist-item>
@@ -822,7 +822,7 @@
 				<narrative>Human rights</narrative>
 			</name>
 			<description>
-				<narrative>Measures to support specialised official human rights institutions and mechanisms at universal, regional, national and local levels in their statutory roles to promote and protect civil and political, economic, social and cultural rights as defined in international conventions and covenants; translation of international human rights commitments into national legislation; reporting and follow-up; human rights dialogue. Human rights defenders and human rights NGOs; human rights advocacy, activism, mobilisation; awareness raising and public human rights education. Human rights programming targeting specific groups, e.g. children, persons with disabilities, migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and those suffering from caste discrimination, victims of trafficking, victims of torture. (Use code 15230 when in the context of a peacekeeping operation)</narrative>
+				<narrative>Measures to support specialised official human rights institutions and mechanisms at universal, regional, national and local levels in their statutory roles to promote and protect civil and political, economic, social and cultural rights as defined in international conventions and covenants; translation of international human rights commitments into national legislation; reporting and follow-up; human rights dialogue. Human rights defenders and human rights NGOs; human rights advocacy, activism, mobilisation; awareness raising and public human rights education. Human rights programming targeting specific groups, e.g. children, persons with disabilities, migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and those suffering from caste discrimination, victims of trafficking, victims of torture. (Use code 15230 when in the context of a peacekeeping operation.) (As from 2017 reporting on 2016 flows, use code 15180 for ending violence against women and girls.)</narrative>
 			</description>
 			<category>151</category>
 		</codelist-item>
@@ -872,7 +872,17 @@
 				<narrative>Women’s equality organisations and institutions</narrative>
 			</name>
 			<description>
-				<narrative>Support for institutions and organisations (governmental and non-governmental) working for gender equality and women's empowerment.</narrative>
+				<narrative>Support for institutions and organisations (governmental and non-governmental) working for gender equality and women’s empowerment.</narrative>
+			</description>
+			<category>151</category>
+		</codelist-item>
+		<codelist-item>
+			<code>15180</code>
+			<name>
+				<narrative>Ending violence against women and girls</narrative>
+			</name>
+			<description>
+				<narrative>Support to programmes designed to prevent and eliminate all forms of violence against women and girls/gender-based violence. This encompasses a broad range of forms of physical, sexual and psychological violence including but not limited to: intimate partner violence (domestic violence); sexual violence; female genital mutilation/cutting (FGM/C); child, early and forced marriage; acid throwing; honour killings; and trafficking of women and girls. Prevention activities may include efforts to empower women and girls; change attitudes, norms and behaviour; adopt and enact legal reforms; and strengthen implementation of laws and policies on ending violence against women and girls, including through strengthening institutional capacity. Interventions to respond to violence against women and girls/gender-based violence may include expanding access to services including legal assistance, psychosocial counselling and health care; training personnel to respond more effectively to the needs of survivors; and ensuring investigation, prosecution and punishment of perpetrators of violence.</narrative>
 			</description>
 			<category>151</category>
 		</codelist-item>
@@ -892,7 +902,7 @@
 				<narrative>Security system management and reform</narrative>
 			</name>
 			<description>
-				<narrative>Technical co-operation provided to parliament, government ministries, law enforcement agencies and the judiciary to assist review and reform of the security system to improve democratic governance and civilian control; technical co-operation provided to government to improve civilian oversight and democratic control of budgeting, management, accountability and auditing of security expenditure, including military budgets, as part of a public expenditure management programme; assistance to civil society to enhance its competence and capacity to scrutinise the security system so that it is managed in accordance with democratic norms and principles of accountability, transparency and good governance. [Other than in the context of an international peacekeeping operation (15230)].</narrative>
+				<narrative>Technical co-operation provided to parliament, government ministries, law enforcement agencies and the judiciary to assist review and reform of the security system to improve democratic governance and civilian control; technical co-operation provided to government to improve civilian oversight and democratic control of budgeting, management, accountability and auditing of security expenditure, including military budgets, as part of a public expenditure management programme; assistance to civil society to enhance its competence and capacity to scrutinise the security system so that it is managed in accordance with democratic norms and principles of accountability, transparency and good governance. [Other than in the context of an international peacekeeping operation (15230).]</narrative>
 			</description>
 			<category>152</category>
 		</codelist-item>
@@ -912,7 +922,7 @@
 				<narrative>Participation in international peacekeeping operations</narrative>
 			</name>
 			<description>
-				<narrative>Bilateral participation in peacekeeping operations mandated or authorised by the United Nations (UN) through Security Council resolutions, and conducted by international organisations, e.g. UN, NATO, the European Union (Security and Defence Policy security-related operations), or regional groupings of developing countries. Direct contributions to the UN Department for Peacekeeping Operations (UNDPKO) budget are excluded from bilateral ODA (they are reportable in part as multilateral ODA, see Annex 2 of DAC Directives). The activities that can be reported as bilateral ODA under this code are limited to: human rights and election monitoring; reintegration of demobilised soldiers; rehabilitation of basic national infrastructure; monitoring or retraining of civil administrators and police forces; security sector reform and other rule of law-related activities; training in customs and border control procedures; advice or training in fiscal or macroeconomic stabilisation policy; repatration and demobilisation of armed factions, and disposal of their weapons; explosive mine removal. The enforcement aspects of international peacekeeping operations are not reportable as ODA. ODA-eligible bilateral participation in peacekeeping operations can take the form of financing or provision of equipment or military or civilian personnel (e.g. police officers). The reportable cost is calculated as the excess over what the personnel and equipment would have cost to maintain had they not been assigned to take part in a peace operation. International peacekeeping operations may include humanitarian-type activities (contributions to the form of equipment or personnel), as described in paragraphs 184 and 185 of DAC Directives. These should be included under code 15230 if they are an integrated part of the activities above, otherwise they should be reported as humanitarian aid. NB: When using this code, indicate the name of the operation in the short description of the activity reported.</narrative>
+				<narrative>Bilateral participation in peacekeeping operations mandated or authorised by the United Nations (UN) through Security Council resolutions, and conducted by international organisations, e.g. UN, NATO, the European Union (Security and Defence Policy security-related operations), or regional groupings of developing countries. Direct contributions to the UN Department for Peacekeeping Operations (UNDPKO) budget are excluded from bilateral ODA (they are reportable in part as multilateral ODA, see Annex 9). The activities that can be reported as bilateral ODA under this code are limited to: human rights and election monitoring; reintegration of demobilised soldiers; rehabilitation of basic national infrastructure; monitoring or retraining of civil administrators and police forces; security sector reform and other rule of law-related activities; training in customs and border control procedures; advice or training in fiscal or macroeconomic stabilisation policy; repatriation and demobilisation of armed factions, and disposal of their weapons; explosive mine removal. The enforcement aspects of international peacekeeping operations are not reportable as ODA. ODA-eligible bilateral participation in peacekeeping operations can take the form of financing or provision of equipment or military or civilian personnel (e.g. police officers). The reportable cost is calculated as the excess over what the personnel and equipment would have cost to maintain had they not been assigned to take part in a peace operation. Costs for military contingents participating in UNDPKO peacekeeping operations are not reportable as ODA. International peacekeeping operations may include humanitarian-type activities (contributions to the form of equipment or personnel), as described in codes 7xxxx. These should be included under code 15230 if they are an integrated part of the activities above, otherwise they should be reported as humanitarian aid.NB: When using this code, indicate the name of the operation in the short description of the activity reported.</narrative>
 			</description>
 			<category>152</category>
 		</codelist-item>
@@ -922,7 +932,7 @@
 				<narrative>Reintegration and SALW control</narrative>
 			</name>
 			<description>
-				<narrative>Reintegration of demobilised military personnel into the economy; conversion of production facilities from military to civilian outputs; technical co-operation to control, prevent and/or reduce the proliferation of small arms and light weapons (SALW) – see para. 45 of the DAC Statistical Reporting Directives for definition of SALW activities covered. [Other than in the context of an international peacekeeping operation (15230) or child soldiers (15261)].</narrative>
+				<narrative>Reintegration of demobilised military personnel into the economy; conversion of production facilities from military to civilian outputs; technical co-operation to control, prevent and/or reduce the proliferation of small arms and light weapons (SALW) – see para. 80 of the Directives for definition of SALW activities covered. [Other than in the context of an international peacekeeping operation (15230) or child soldiers (15261)].</narrative>
 			</description>
 			<category>152</category>
 		</codelist-item>
@@ -1112,7 +1122,7 @@
 				<narrative>Transport policy and administrative management</narrative>
 			</name>
 			<description>
-				<narrative>Transport sector policy, planning and programmes; aid to transport ministries; institution capacity building and advice; unspecified transport; activities that combine road, rail, water and/or air transport.</narrative>
+				<narrative>Transport sector policy, planning and programmes; aid to transport ministries; institution capacity building and advice; unspecified transport; activities that combine road, rail, water and/or air transport. Whenever possible, report transport of goods under the sector of the good being transported.</narrative>
 			</description>
 			<category>210</category>
 		</codelist-item>
@@ -1232,7 +1242,7 @@
 				<narrative>Storage</narrative>
 			</name>
 			<description>
-				<narrative>Whether or not related to transportation.</narrative>
+				<narrative>Whether or not related to transportation. Whenever possible, report storage projects under the sector of the resource being stored.</narrative>
 			</description>
 			<category>210</category>
 		</codelist-item>
@@ -1487,6 +1497,16 @@
 			<category>230</category>
 		</codelist-item>
 		<codelist-item>
+			<code>23110</code>
+			<name>
+				<narrative>Energy policy and administrative management</narrative>
+			</name>
+			<description>
+				<narrative>Energy sector policy, planning; aid to energy ministries; institution capacity building and advice; unspecified energy activities.</narrative>
+			</description>
+			<category>231</category>
+		</codelist-item>
+		<codelist-item>
 			<code>23111</code>
 			<name>
 				<narrative>Energy sector policy, planning and administration</narrative>
@@ -1505,6 +1525,226 @@
 				<narrative>Regulation of the energy sector, including wholesale and retail electricity provision.</narrative>
 			</description>
 			<category>231</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23181</code>
+			<name>
+				<narrative>Energy education/training</narrative>
+			</name>
+			<description>
+				<narrative>All levels of training not included elsewhere.</narrative>
+			</description>
+			<category>231</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23182</code>
+			<name>
+				<narrative>Energy research</narrative>
+			</name>
+			<description>
+				<narrative>Including general inventories, surveys.</narrative>
+			</description>
+			<category>231</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23183</code>
+			<name>
+				<narrative>Energy conservation and demand-side efficiency</narrative>
+			</name>
+			<description>
+				<narrative>All projects in support of energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. Also includes efficient cook-stoves and biogas projects.</narrative>
+			</description>
+			<category>231</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23210</code>
+			<name>
+				<narrative>Energy generation, renewable sources – multiple technologies</narrative>
+			</name>
+			<description>
+				<narrative>Renewable energy generation programmes that cannot be attributed to one single technology (codes 23220 through 23280 below). Fuelwood/charcoal production should be included under forestry 31261.</narrative>
+			</description>
+			<category>232</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23220</code>
+			<name>
+				<narrative>Hydro-electric power plants</narrative>
+			</name>
+			<description>
+				<narrative>Including energy generating river barges.</narrative>
+			</description>
+			<category>232</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23230</code>
+			<name>
+				<narrative>Solar energy</narrative>
+			</name>
+			<description>
+				<narrative>Including photo-voltaic cells, solar thermal applications and solar heating.</narrative>
+			</description>
+			<category>232</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23240</code>
+			<name>
+				<narrative>Wind energy</narrative>
+			</name>
+			<description>
+				<narrative>Wind energy for water lifting and electric power generation.</narrative>
+			</description>
+			<category>232</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23250</code>
+			<name>
+				<narrative>Marine energy</narrative>
+			</name>
+			<description>
+				<narrative>Including ocean thermal energy conversion, tidal and wave power.</narrative>
+			</description>
+			<category>232</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23260</code>
+			<name>
+				<narrative>Geothermal energy</narrative>
+			</name>
+			<description>
+				<narrative>Use of geothermal energy for generating electric power or directly as heat for agriculture, etc.</narrative>
+			</description>
+			<category>232</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23270</code>
+			<name>
+				<narrative>Biofuel-fired power plants</narrative>
+			</name>
+			<description>
+				<narrative>Use of solids and liquids produced from biomass for direct power generation. Also includes biogases from anaerobic fermentation (e.g. landfill gas, sewage sludge gas, fermentation of energy crops and manure) and thermal processes (also known as syngas); waste-fired power plants making use of biodegradable municipal waste (household waste and waste from companies and public services that resembles household waste, collected at installations specifically designed for their disposal with recovery of combustible liquids, gases or heat). See code 23360 for non- renewable waste-fired power plants.</narrative>
+			</description>
+			<category>232</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23310</code>
+			<name>
+				<narrative>Energy generation, non-renewable sources – unspecified</narrative>
+			</name>
+			<description>
+				<narrative>Thermal power plants including when energy source cannot be determined; combined gas-coal power plants.</narrative>
+			</description>
+			<category>233</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23320</code>
+			<name>
+				<narrative>Coal-fired electric power plants</narrative>
+			</name>
+			<description>
+				<narrative>Thermal electric power plants that use coal as the energy source.</narrative>
+			</description>
+			<category>233</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23330</code>
+			<name>
+				<narrative>Oil-fired electric power plants</narrative>
+			</name>
+			<description>
+				<narrative>Thermal electric power plants that use fuel oil or diesel fuel as the energy source.</narrative>
+			</description>
+			<category>233</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23340</code>
+			<name>
+				<narrative>Natural gas-fired electric power plants</narrative>
+			</name>
+			<description>
+				<narrative>Electric power plants that are fuelled by natural gas.</narrative>
+			</description>
+			<category>233</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23350</code>
+			<name>
+				<narrative>Fossil fuel electric power plants with carbon capture and storage (CCS)</narrative>
+			</name>
+			<description>
+				<narrative>Fossil fuel electric power plants employing technologies to capture carbon dioxide emissions. CCS not related to power plants should be included under 41020. CCS activities are not reportable as ODA.</narrative>
+			</description>
+			<category>233</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23360</code>
+			<name>
+				<narrative>Non-renewable waste-fired electric power plants</narrative>
+			</name>
+			<description>
+				<narrative>Electric power plants that use non-biodegradable industrial and municipal waste as the energy source.</narrative>
+			</description>
+			<category>233</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23410</code>
+			<name>
+				<narrative>Hybrid energy electric power plants</narrative>
+			</name>
+			<description>
+				<narrative>Electric power plants that make use of both non-renewable and renewable energy sources.</narrative>
+			</description>
+			<category>234</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23510</code>
+			<name>
+				<narrative>Nuclear energy electric power plants</narrative>
+			</name>
+			<description>
+				<narrative>Including nuclear safety.</narrative>
+			</description>
+			<category>235</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23610</code>
+			<name>
+				<narrative>Heat plants</narrative>
+			</name>
+			<description>
+				<narrative>Power plants which are designed to produce heat only.</narrative>
+			</description>
+			<category>236</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23620</code>
+			<name>
+				<narrative>District heating and cooling</narrative>
+			</name>
+			<description>
+				<narrative>Distribution of heat generated in a centralised location, or delivery of chilled water, for residential and commercial heating or cooling purposes.</narrative>
+			</description>
+			<category>236</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23630</code>
+			<name>
+				<narrative>Electric power transmission and distribution</narrative>
+			</name>
+			<description>
+				<narrative>Grid distribution from power source to end user; transmission lines. Also includes storage of energy to generate power (e.g. pumped hydro, batteries) and the extension of grid access, often to rural areas.</narrative>
+			</description>
+			<category>236</category>
+		</codelist-item>
+		<codelist-item>
+			<code>23640</code>
+			<name>
+				<narrative>Gas distribution</narrative>
+			</name>
+			<description>
+				<narrative>Delivery for use by ultimate consumer.</narrative>
+			</description>
+			<category>236</category>
 		</codelist-item>
 		<codelist-item>
 			<code>24010</code>
@@ -1562,7 +1802,7 @@
 				<narrative>Business support services and institutions</narrative>
 			</name>
 			<description>
-				<narrative>Support to trade and business associations, chambers of commerce; legal and regulatory reform aimed at improving business and investment climate; private sector institution capacity building and advice; trade information; public-private sector networking including trade fairs; e‑commerce. Where sector cannot be specified: general support to private sector enterprises (in particular, use code 32130 for enterprises in the industrial sector).</narrative>
+				<narrative>Support to trade and business associations, chambers of commerce; legal and regulatory reform aimed at improving business and investment climate; private sector institution capacity building and advice; trade information; public-private sector networking including trade fairs; e-commerce. Where sector cannot be specified: general support to private sector enterprises (in particular, use code 32130 for enterprises in the industrial sector).</narrative>
 			</description>
 			<category>250</category>
 		</codelist-item>
@@ -2072,7 +2312,7 @@
 				<narrative>Oil and gas</narrative>
 			</name>
 			<description>
-				<narrative>Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied natural gas (LNG); including drilling and production.</narrative>
+				<narrative>Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied natural gas (LNG); including drilling and production, and oil and gas pipelines.</narrative>
 			</description>
 			<category>322</category>
 		</codelist-item>
@@ -2149,7 +2389,7 @@
 		<codelist-item>
 			<code>33110</code>
 			<name>
-				<narrative>Trade policy and administrative management</narrative>
+				<narrative>Trade policy and administrative Management</narrative>
 			</name>
 			<description>
 				<narrative>Trade policy and planning; support to ministries and departments responsible for trade policy; trade-related legislation and regulatory reforms; policy analysis and implementation of multilateral trade agreements e.g. technical barriers to trade and sanitary and phytosanitary measures (TBT/SPS) except at regional level (see 33130); mainstreaming trade in national development strategies (e.g. poverty reduction strategy papers); wholesale/retail trade; unspecified trade and trade promotion activities.</narrative>
@@ -2162,7 +2402,7 @@
 				<narrative>Trade facilitation</narrative>
 			</name>
 			<description>
-				<narrative>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments; tariff reforms.</narrative>
+				<narrative>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments  and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms.</narrative>
 			</description>
 			<category>331</category>
 		</codelist-item>
@@ -2182,7 +2422,7 @@
 				<narrative>Multilateral trade negotiations</narrative>
 			</name>
 			<description>
-				<narrative>Support developing countries' effective participation in multilateral trade negotiations, including training of negotiators, assessing impacts of negotiations; accession to the World Trade Organisation (WTO) and other multilateral trade-related organisations.</narrative>
+				<narrative>Support developing countries’ effective participation in multilateral trade negotiations, including training of negotiators, assessing impacts of negotiations; accession to the World Trade Organisation (WTO) and other multilateral trade-related organisations.</narrative>
 			</description>
 			<category>331</category>
 		</codelist-item>
@@ -2192,7 +2432,7 @@
 				<narrative>Trade-related adjustment</narrative>
 			</name>
 			<description>
-				<narrative>Contributions to the government budget to assist the implementation of recipients' own trade reforms and adjustments to trade policy measures by other countries; assistance to manage shortfalls in the balance of payments due to changes in the world trading environment.</narrative>
+				<narrative>Contributions to the government budget to assist the implementation of recipients’ own trade reforms and adjustments to trade policy measures by other countries; assistance to manage shortfalls in the balance of payments due to changes in the world trading environment.</narrative>
 			</description>
 			<category>331</category>
 		</codelist-item>
@@ -2389,7 +2629,7 @@
 		<codelist-item>
 			<code>51010</code>
 			<name>
-				<narrative>General budget support</narrative>
+				<narrative>General budget support-related aid</narrative>
 			</name>
 			<description>
 				<narrative>Unearmarked contributions to the government budget; support for the implementation of macroeconomic reforms (structural adjustment programmes, poverty reduction strategies); general programme assistance (when not allocable by sector).</narrative>
@@ -2402,7 +2642,7 @@
 				<narrative>Food aid/Food security programmes</narrative>
 			</name>
 			<description>
-				<narrative>Supply of edible human food under national or international programmes including transport costs; cash payments made for food supplies; project food aid and food aid for market sales when benefiting sector not specified; excluding emergency food aid.</narrative>
+				<narrative>Supply of edible human food under national or international programmes including transport costs; cash payments made for food supplies; project food aid and food aid for market sales when benefiting sector not specified; excluding emergency food aid. Report as multilateral: i) food aid by the EU financed out of its budget and allocated pro rata to EU member countries; and ii) core contributions to the World Food Programme.</narrative>
 			</description>
 			<category>520</category>
 		</codelist-item>
@@ -2502,7 +2742,7 @@
 				<narrative>Material relief assistance and services</narrative>
 			</name>
 			<description>
-				<narrative>Shelter, water, sanitation and health services, supply of medicines and other non-food relief items; assistance to refugees and internally displaced people in developing countries other than for food (72040) or protection (72050).</narrative>
+				<narrative>Shelter, water, sanitation and health services, supply of medicines and other non-food relief items for the benefit of affected people and to facilitate the return to normal lives and livelihoods; assistance to refugees and internally displaced people in developing countries other than for food (72040) or protection (72050).</narrative>
 			</description>
 			<category>720</category>
 		</codelist-item>
@@ -2522,7 +2762,7 @@
 				<narrative>Relief co-ordination; protection and support services</narrative>
 			</name>
 			<description>
-				<narrative>Measures to co-ordinate delivery of humanitarian aid, including logistics and communications systems; measures to promote and protect the safety, well-being, dignity and integrity of civilians and those no longer taking part in hostilities. (Activities designed to protect the security of persons or property through the use or display of force are not reportable as ODA.)</narrative>
+				<narrative>Measures to co-ordinate delivery of humanitarian aid, including logistics and communications systems; measures to promote and protect the safety, well- being, dignity and integrity of civilians and those no longer taking part in hostilities. (Activities designed to protect the security of persons or property through the use or display of force are not reportable as ODA.)</narrative>
 			</description>
 			<category>720</category>
 		</codelist-item>
@@ -2549,7 +2789,7 @@
 		<codelist-item>
 			<code>91010</code>
 			<name>
-				<narrative>Administrative costs</narrative>
+				<narrative>Administrative costs (non-sector allocable)</narrative>
 			</name>
 			<description>
 				<narrative/>
@@ -2589,7 +2829,7 @@
 		<codelist-item>
 			<code>93010</code>
 			<name>
-				<narrative>Refugees in donor countries</narrative>
+				<narrative>Refugees in donor countries (non-sector allocable)</narrative>
 			</name>
 			<description>
 				<narrative/>
@@ -2609,7 +2849,7 @@
 		<codelist-item>
 			<code>99820</code>
 			<name>
-				<narrative>Promotion of development awareness</narrative>
+				<narrative>Promotion of development awareness (non-sector allocable)</narrative>
 			</name>
 			<description>
 				<narrative>Spending in donor country for heightened awareness/interest in development co-operation (brochures, lectures, special research projects, etc.).</narrative>
