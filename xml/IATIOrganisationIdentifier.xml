@@ -149,6 +149,16 @@
             </description>
             <url>http://www.spaceoffice.nl/</url>
         </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-UNPF</code>
+            <name>
+                <narrative>UN Pooled funds</narrative>
+            </name>
+            <description>
+                <narrative>The UN pooled funds are a UN inter-agency financing mechanism with three characteristics. First, UN pooled funds are designed to support a clearly defined programmatic purpose and results framework through contributions that are co-mingled, not earmarked to a specific UN entity and held by a UN fund administrator. Second, decisions on project / programmatic allocations are made by a UN-led governance mechanism, taking into account the programmatic purpose and results framework of the fund. Third, fund implementation is (fully or largely) entrusted to UN entities that assume the programmatic and financial accountability for the resources received.</narrative>
+            </description>
+            <url>https://undg.org/</url>
+        </codelist-item>
         <codelist-item activation-date="2016-12-15">
             <code>XI-IATI-WAI</code>
             <name>
