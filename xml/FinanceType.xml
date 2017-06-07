@@ -12,8 +12,11 @@
         <codelist-item>
             <code>110</code>
             <name>
-                <narrative>Aid grant excluding debt reorganisation</narrative>
+                <narrative>Standard grant</narrative>
             </name>
+            <description>
+                <narrative>Grants are transfers in cash or in kind for which no legal debt is incurred by the recipient.</narrative>
+            </description>
             <category>100</category>
         </codelist-item>
         <codelist-item>
