@@ -123,7 +123,7 @@
                 <narrative>Communications sector policy, planning and programmes; institution capacity building and advice; including postal services development; unspecified communications activities.</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>230</code>
             <name>
                 <narrative>ENERGY GENERATION AND SUPPLY</narrative>
@@ -366,7 +366,7 @@
                 <narrative/>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>920</code>
             <name>
                 <narrative>SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)</narrative>
