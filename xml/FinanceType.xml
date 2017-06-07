@@ -19,7 +19,7 @@
             </description>
             <category>100</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>111</code>
             <name>
                 <narrative>Subsidies to national private investors</narrative>
@@ -36,7 +36,7 @@
             </description>
             <category>100</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>211</code>
             <name>
                 <narrative>Interest subsidy to national private exporters</narrative>
@@ -60,56 +60,56 @@
             </name>
             <category>100</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>410</code>
             <name>
                 <narrative>Aid loan excluding debt reorganisation</narrative>
             </name>
             <category>400</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>411</code>
             <name>
                 <narrative>Investment-related loan to developing countries</narrative>
             </name>
             <category>400</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>412</code>
             <name>
                 <narrative>Loan in a joint venture with the recipient</narrative>
             </name>
             <category>400</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>413</code>
             <name>
                 <narrative>Loan to national private investor</narrative>
             </name>
             <category>400</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>414</code>
             <name>
                 <narrative>Loan to national private exporter</narrative>
             </name>
             <category>400</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>451</code>
             <name>
                 <narrative>Non-banks guaranteed export credits</narrative>
             </name>
             <category>450</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>452</code>
             <name>
                 <narrative>Non-banks non-guaranteed portions of guaranteed export credits</narrative>
             </name>
             <category>450</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>453</code>
             <name>
                 <narrative>Bank export credits</narrative>
@@ -126,14 +126,14 @@
             </description>
             <category>500</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>511</code>
             <name>
                 <narrative>Acquisition of equity not part of joint venture in developing countries</narrative>
             </name>
             <category>500</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>512</code>
             <name>
                 <narrative>Other acquisition of equity</narrative>
@@ -280,49 +280,49 @@
             </name>
             <category>600</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>710</code>
             <name>
                 <narrative>Foreign direct investment</narrative>
             </name>
             <category>700</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>711</code>
             <name>
                 <narrative>Other foreign direct investment, including reinvested earnings</narrative>
             </name>
             <category>700</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>810</code>
             <name>
                 <narrative>Bank bonds</narrative>
             </name>
             <category>800</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>811</code>
             <name>
                 <narrative>Non-bank bonds</narrative>
             </name>
             <category>800</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>910</code>
             <name>
                 <narrative>Other bank securities/claims</narrative>
             </name>
             <category>900</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>911</code>
             <name>
                 <narrative>Other non-bank securities/claims</narrative>
             </name>
             <category>900</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>912</code>
             <name>
                 <narrative>Securities and other instruments issued by multilateral agencies</narrative>
