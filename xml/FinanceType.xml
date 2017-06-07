@@ -119,8 +119,11 @@
         <codelist-item>
             <code>510</code>
             <name>
-                <narrative>Acquisition of equity as part of a joint venture with the recipient</narrative>
+                <narrative>Common equity</narrative>
             </name>
+            <description>
+                <narrative>A share in the ownership of a corporation that gives the owner claims on the residual value of the corporation after creditors’ claims have been met.</narrative>
+            </description>
             <category>500</category>
         </codelist-item>
         <codelist-item>
