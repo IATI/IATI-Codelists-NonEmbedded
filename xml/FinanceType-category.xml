@@ -13,6 +13,7 @@
             <code>100</code>
             <name>
                 <narrative>GRANTS</narrative>
+                <narrative xml:lang="fr">DONS</narrative>
             </name>
             <description>
                 <narrative>Transfers in cash or in kind for which no legal debt is incurred by the recipient.</narrative>
@@ -58,6 +59,7 @@
             <code>500</code>
             <name>
                 <narrative>EQUITY AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</narrative>
+                <narrative xml:lang="fr">ACTIONS ET PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT</narrative>
             </name>
             <description>
                 <narrative>Investment in a country on the DAC List of ODA Recipients that is not made to acquire a lasting interest in an enterprise.</narrative>
@@ -67,6 +69,7 @@
             <code>600</code>
             <name>
                 <narrative>DEBT RELIEF</narrative>
+                <narrative xml:lang="fr">DEBT RELIEF</narrative>
             </name>
             <description>
                 <narrative>Debt cancellations, debt conversions, debt rescheduling within or outside the framework of the Paris Club.</narrative>
