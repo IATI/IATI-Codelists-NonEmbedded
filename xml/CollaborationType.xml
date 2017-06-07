@@ -19,8 +19,8 @@
         <codelist-item>
             <code>2</code>
             <name>
-                <narrative>Multilateral</narrative>
-                <narrative xml:lang="fr">Multilatéral</narrative>
+                <narrative>Multilateral (inflows)</narrative>
+                <narrative xml:lang="fr">Multilatéral (contributions des donneurs du CAD)</narrative>
             </name>
             <description>
                 <narrative>Multilateral contributions are those made to a recipient institution which: 
@@ -52,7 +52,7 @@
         <codelist-item>
             <code>6</code>
             <name>
-                <narrative>Private sector outflow</narrative>
+                <narrative>Private sector outflows</narrative>
                 <narrative xml:lang="fr">apports du secteur privé</narrative>
             </name>
             <description>
