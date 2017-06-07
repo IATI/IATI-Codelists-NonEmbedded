@@ -29,9 +29,12 @@
         <codelist-item>
             <code>210</code>
             <name>
-                <narrative>Interest subsidy grant in AF</narrative>
+                <narrative>Interest subsidy</narrative>
             </name>
-            <category>200</category>
+            <description>
+                <narrative>A payment to soften the terms of private export credits, or loans or credits by the banking sector.</narrative>
+            </description>
+            <category>100</category>
         </codelist-item>
         <codelist-item>
             <code>211</code>
@@ -43,16 +46,19 @@
         <codelist-item>
             <code>310</code>
             <name>
-                <narrative>Deposit basis</narrative>
+                <narrative>Capital subscription on deposit basis</narrative>
             </name>
-            <category>300</category>
+            <description>
+                <narrative>Payments to multilateral agencies in the form of notes and similar instruments, unconditionally encashable at sight by the recipient institutions.</narrative>
+            </description>
+            <category>100</category>
         </codelist-item>
         <codelist-item>
             <code>311</code>
             <name>
-                <narrative>Encashment basis</narrative>
+                <narrative>Capital subscription on encashment basis</narrative>
             </name>
-            <category>300</category>
+            <category>100</category>
         </codelist-item>
         <codelist-item>
             <code>410</code>
