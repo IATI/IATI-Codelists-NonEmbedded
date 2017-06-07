@@ -143,42 +143,42 @@
         <codelist-item>
             <code>610</code>
             <name>
-                <narrative>Debt forgiveness: ODA claims (P)</narrative>
+                <narrative>Debt forgiveness/conversion: ODA claims (P)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>611</code>
             <name>
-                <narrative>Debt forgiveness: ODA claims (I)</narrative>
+                <narrative>Debt forgiveness/conversion: ODA claims (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>612</code>
             <name>
-                <narrative>Debt forgiveness: OOF claims (P)</narrative>
+                <narrative>Debt forgiveness/conversion: OOF claims (P)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>613</code>
             <name>
-                <narrative>Debt forgiveness: OOF claims (I)</narrative>
+                <narrative>Debt forgiveness/conversion: OOF claims (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>614</code>
             <name>
-                <narrative>Debt forgiveness: Private claims (P)</narrative>
+                <narrative>Debt forgiveness/conversion: Private claims (P)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>615</code>
             <name>
-                <narrative>Debt forgiveness: Private claims (I)</narrative>
+                <narrative>Debt forgiveness/conversion: Private claims (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -262,21 +262,21 @@
         <codelist-item>
             <code>630</code>
             <name>
-                <narrative>Debt rescheduling: OOF claim (DSR - original loan principal)</narrative>
+                <narrative>Debt rescheduling: OOF claim (DSR – original loan principal)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>631</code>
             <name>
-                <narrative>Debt rescheduling: OOF claim (DSR - original loan interest)</narrative>
+                <narrative>Debt rescheduling: OOF claim (DSR – original loan interest)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
         <codelist-item>
             <code>632</code>
             <name>
-                <narrative>Debt rescheduling: Private claim (DSR - original loan principal)</narrative>
+                <narrative>Debt rescheduling: Private claim (DSR – original loan principal)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
