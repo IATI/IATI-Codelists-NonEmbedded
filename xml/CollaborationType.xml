@@ -69,5 +69,15 @@
                 <narrative/>
             </description>
         </codelist-item>
+        <codelist-item>
+            <code>8</code>
+            <name>
+                <narrative>bilateral, triangular co-operation: activities where one or more bilateral providers of development co-operation or international organisations support South-South co-operation, joining forces with developing countries to facilitate a sharing of knowledge and experience among all partners involved. (Activities that only involve bilateral providers or multilateral agencies without a South-South co-operation element (e.g. joint programming, pooled funding or delegated co-operation) should not be assigned bi_multi 8.)</narrative>
+                <narrative xml:lang="fr">Coopération triangulaire bilatérale: activités où un ou plusieurs pourvoyeurs bilatéraux de coopération pour le développement ou organisations internationales soutiennent la coopération Sud-Sud, conjointement avec des pays en développement afin de faciliter le partage des connaissances et d'expériences entre tous les partenaires impliqués. (Les activités qui n'impliquent que des pourvoyeurs bilatéraux ou des organismes multilatéraux sans coopération Sud-Sud (programmes conjoints, financements groupés ou coopération déléguée) ne devraient pas être codés bi_multi 8.)</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+        </codelist-item>
     </codelist-items>
 </codelist>
