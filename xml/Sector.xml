@@ -526,7 +526,7 @@
 			</description>
 			<category>151</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>15120</code>
 			<name>
 				<narrative>Public sector financial management</narrative>
@@ -706,7 +706,7 @@
 			</description>
 			<category>151</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>15140</code>
 			<name>
 				<narrative>Government administration</narrative>
@@ -826,7 +826,7 @@
 			</description>
 			<category>151</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>15161</code>
 			<name>
 				<narrative>Elections</narrative>
@@ -836,7 +836,7 @@
 			</description>
 			<category>151</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>15162</code>
 			<name>
 				<narrative>Human rights</narrative>
@@ -846,7 +846,7 @@
 			</description>
 			<category>151</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>15163</code>
 			<name>
 				<narrative>Free flow of information</narrative>
@@ -856,7 +856,7 @@
 			</description>
 			<category>151</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>15164</code>
 			<name>
 				<narrative>Women's equality organisations and institutions</narrative>
@@ -1326,7 +1326,7 @@
 			</description>
 			<category>220</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23010</code>
 			<name>
 				<narrative>Energy policy and administrative management</narrative>
@@ -1336,7 +1336,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23020</code>
 			<name>
 				<narrative>Power generation/non-renewable sources</narrative>
@@ -1346,7 +1346,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23030</code>
 			<name>
 				<narrative>Power generation/renewable sources</narrative>
@@ -1356,7 +1356,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23040</code>
 			<name>
 				<narrative>Electrical transmission/ distribution</narrative>
@@ -1366,7 +1366,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23050</code>
 			<name>
 				<narrative>Gas distribution</narrative>
@@ -1376,7 +1376,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23061</code>
 			<name>
 				<narrative>Oil-fired power plants</narrative>
@@ -1386,7 +1386,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23062</code>
 			<name>
 				<narrative>Gas-fired power plants</narrative>
@@ -1396,7 +1396,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23063</code>
 			<name>
 				<narrative>Coal-fired power plants</narrative>
@@ -1406,7 +1406,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23064</code>
 			<name>
 				<narrative>Nuclear power plants</narrative>
@@ -1416,7 +1416,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23065</code>
 			<name>
 				<narrative>Hydro-electric power plants</narrative>
@@ -1426,7 +1426,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23066</code>
 			<name>
 				<narrative>Geothermal energy</narrative>
@@ -1436,7 +1436,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23067</code>
 			<name>
 				<narrative>Solar energy</narrative>
@@ -1446,7 +1446,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23068</code>
 			<name>
 				<narrative>Wind power</narrative>
@@ -1456,7 +1456,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23069</code>
 			<name>
 				<narrative>Ocean power</narrative>
@@ -1466,7 +1466,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23070</code>
 			<name>
 				<narrative>Biomass</narrative>
@@ -1476,7 +1476,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23081</code>
 			<name>
 				<narrative>Energy education/training</narrative>
@@ -1486,7 +1486,7 @@
 			</description>
 			<category>230</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>23082</code>
 			<name>
 				<narrative>Energy research</narrative>
@@ -2796,7 +2796,7 @@
 			</description>
 			<category>910</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>92010</code>
 			<name>
 				<narrative>Support to national NGOs</narrative>
@@ -2806,7 +2806,7 @@
 			</description>
 			<category>920</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>92020</code>
 			<name>
 				<narrative>Support to international NGOs</narrative>
@@ -2816,7 +2816,7 @@
 			</description>
 			<category>920</category>
 		</codelist-item>
-		<codelist-item>
+		<codelist-item status="withdrawn">
 			<code>92030</code>
 			<name>
 				<narrative>Support to local and regional NGOs</narrative>
