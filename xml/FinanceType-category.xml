@@ -12,7 +12,7 @@
         <codelist-item>
             <code>100</code>
             <name>
-                <narrative>GRANT</narrative>
+                <narrative>GRANTS</narrative>
             </name>
             <description>
                 <narrative>Transfers in cash or in kind for which no legal debt is incurred by the recipient.</narrative>
@@ -57,7 +57,7 @@
         <codelist-item>
             <code>500</code>
             <name>
-                <narrative>EQUITY</narrative>
+                <narrative>EQUITY AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</narrative>
             </name>
             <description>
                 <narrative>Investment in a country on the DAC List of ODA Recipients that is not made to acquire a lasting interest in an enterprise.</narrative>
