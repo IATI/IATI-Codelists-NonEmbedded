@@ -46,6 +46,26 @@
                 <narrative>Transfers in cash or in kind for which the recipient incurs legal debt.</narrative>
             </description>
         </codelist-item>
+        <codelist-item>
+            <code>420</code>
+            <name>
+                <narrative>DEBT INSTRUMENTS</narrative>
+                <narrative xml:lang="fr">INSTRUMENTS DE DETTE</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+        </codelist-item>
+        <codelist-item>
+            <code>430</code>
+            <name>
+                <narrative>MEZZANINE FINANCE INSTRUMENTS</narrative>
+                <narrative xml:lang="fr">INSTRUMENTS FINANCIERS EN MEZZANINE</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>450</code>
             <name>
@@ -97,6 +117,16 @@
             <code>900</code>
             <name>
                 <narrative>OTHER SECURITIES/CLAIMS</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+        </codelist-item>
+        <codelist-item>
+            <code>1000</code>
+            <name>
+                <narrative>GUARANTEES AND OTHER UNFUNDED CONTINGENT LIABILITIES</narrative>
+                <narrative xml:lang="fr">GUARANTEES AND OTHER UNFUNDED CONTINGENT LIABILITIES</narrative>
             </name>
             <description>
                 <narrative/>
