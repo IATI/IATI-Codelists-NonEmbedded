@@ -437,16 +437,16 @@
             <code>application/fits</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/font-sfnt - DEPRECATED in favor of font/sfnt</code>
+        <codelist-item status="withdrawn">
+            <code>application/font-sfnt</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
             <code>application/font-tdpfr</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/font-woff - DEPRECATED in favor of font/woff</code>
+        <codelist-item status="withdrawn">
+            <code>application/font-woff</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -801,8 +801,8 @@
             <code>application/msword</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/mud+json (TEMPORARY - registered 2016-11-17, expires 2017-11-17)</code>
+        <codelist-item activation-date="2016-11-17" withdrawal-date="2017-11-17">
+            <code>application/mud+json</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -1201,8 +1201,8 @@
             <code>application/slate</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/smil - OBSOLETED in favor of application/smil+xml</code>
+        <codelist-item status="withdrawn">
+            <code>application/smil</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -1557,8 +1557,8 @@
             <code>application/vnd.apple.installer+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/vnd.arastra.swi - OBSOLETED in favor of application/vnd.aristanetworks.swi</code>
+        <codelist-item status="withdrawn">
+            <code>application/vnd.arastra.swi</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -2301,12 +2301,12 @@
             <code>application/vnd.genomatix.tuxedo</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/vnd.geo+json (OBSOLETED by </code>
+        <codelist-item status="withdrawn">
+            <code>application/vnd.geo+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/vnd.geocube+xml - OBSOLETED by request</code>
+        <codelist-item status="withdrawn">
+            <code>application/vnd.geocube+xml</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -2345,8 +2345,8 @@
             <code>application/vnd.globalplatform.card-content-mgt-response</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/vnd.gmx - DEPRECATED</code>
+        <codelist-item status="withdrawn">
+            <code>application/vnd.gmx</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -2585,8 +2585,8 @@
             <code>application/vnd.infotech.project+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/vnd.informix-visionary - OBSOLETED in favor of application/vnd.visionary</code>
+        <codelist-item status="withdrawn">
+            <code>application/vnd.informix-visionary</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -3273,8 +3273,8 @@
             <code>application/vnd.nokia.n-gage.data</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/vnd.nokia.n-gage.symbian.install - OBSOLETE; no replacement given</code>
+        <codelist-item status="withdrawn">
+            <code>application/vnd.nokia.n-gage.symbian.install</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -5497,8 +5497,8 @@
             <code>audio/vnd.octel.sbc</code>
             <category>audio</category>
         </codelist-item>
-        <codelist-item>
-            <code>audio/vnd.qcelp - DEPRECATED in favor of audio/qcelp</code>
+        <codelist-item status="withdrawn">
+            <code>audio/vnd.qcelp</code>
             <category>audio</category>
         </codelist-item>
         <codelist-item>
@@ -5765,12 +5765,12 @@
             <code>image/wmf</code>
             <category>image</category>
         </codelist-item>
-        <codelist-item>
-            <code>image/x-emf - DEPRECATED in favor of image/emf</code>
+        <codelist-item status="withdrawn">
+            <code>image/x-emf</code>
             <category>image</category>
         </codelist-item>
-        <codelist-item>
-            <code>image/x-wmf - DEPRECATED in favor of image/wmf</code>
+        <codelist-item status="withdrawn">
+            <code>image/x-wmf</code>
             <category>image</category>
         </codelist-item>
         <codelist-item>
@@ -5821,8 +5821,8 @@
             <code>message/imdn+xml</code>
             <category>message</category>
         </codelist-item>
-        <codelist-item>
-            <code>message/news - OBSOLETED by RFC5537</code>
+        <codelist-item status="withdrawn">
+            <code>message/news</code>
             <category>message</category>
         </codelist-item>
         <codelist-item>
@@ -5849,8 +5849,8 @@
             <code>message/tracking-status</code>
             <category>message</category>
         </codelist-item>
-        <codelist-item>
-            <code>message/vnd.si.simp - OBSOLETED by request</code>
+        <codelist-item status="withdrawn">
+            <code>message/vnd.si.simp</code>
             <category>message</category>
         </codelist-item>
         <codelist-item>
@@ -6037,16 +6037,16 @@
             <code>text/csv-schema</code>
             <category>text</category>
         </codelist-item>
-        <codelist-item>
-            <code>text/directory - DEPRECATED by RFC6350</code>
+        <codelist-item status="withdrawn">
+            <code>text/directory</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
             <code>text/dns</code>
             <category>text</category>
         </codelist-item>
-        <codelist-item>
-            <code>text/ecmascript - OBSOLETED in favor of application/ecmascript</code>
+        <codelist-item status="withdrawn">
+            <code>text/ecmascript</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
@@ -6073,8 +6073,8 @@
             <code>text/html</code>
             <category>text</category>
         </codelist-item>
-        <codelist-item>
-            <code>text/javascript - OBSOLETED in favor of application/javascript</code>
+        <codelist-item status="withdrawn">
+            <code>text/javascript</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
@@ -6269,8 +6269,8 @@
             <code>text/vnd.radisys.msml-basic-layout</code>
             <category>text</category>
         </codelist-item>
-        <codelist-item>
-            <code>text/vnd.si.uricatalogue - OBSOLETED by request</code>
+        <codelist-item status="withdrawn">
+            <code>text/vnd.si.uricatalogue</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
