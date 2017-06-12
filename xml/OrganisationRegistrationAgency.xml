@@ -615,6 +615,17 @@
             <url>http://www.cci.ml/</url>
         </codelist-item>
         <codelist-item public-database="0">
+            <code>ML-NIF</code>
+            <name>
+                <narrative>Numero d’Identification Fiscale </narrative>
+            </name>
+            <description>
+                <narrative>Malian organisations use Numero-d-Identification-Fiscale (NIF) to identify taxpayers and facilitate the administration of the Malian tax affairs.</narrative>
+            </description>
+            <category>ML</category>
+            <url>http://demarchesadministratives.gouv.ml/demarches/afficher/Numero-d-Identification-Fiscale-NIF</url>
+        </codelist-item>
+        <codelist-item public-database="0">
             <code>MM-MHA</code>
             <name>
                 <narrative>Ministry of Home Affairs - Central Committee for the Registration and Supervision of Organisations</narrative>
