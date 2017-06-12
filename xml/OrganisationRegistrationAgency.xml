@@ -195,6 +195,17 @@
             <category>EE</category>
             <url>http://www.rik.ee/en/e-business-register</url>
         </codelist-item>
+        <codelist-item public-database="0">
+            <code>EG-MOSS</code>
+            <name>
+                <narrative>Ministry of Social Solidarity and Justice</narrative>
+            </name>
+            <description>
+                <narrative>The Ministry of Social Solidarity and Justice is the main registration body for associations and foundations in Egypt.</narrative>
+            </description>
+            <category>EG</category>
+            <url>http://www.moss.gov.eg/misa/ar-eg/</url>
+        </codelist-item>
         <codelist-item public-database="1">
             <code>ES-DIR3</code>
             <name>
