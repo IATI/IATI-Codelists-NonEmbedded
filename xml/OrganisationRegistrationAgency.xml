@@ -560,6 +560,17 @@
             <url>http://www.attorney-general.go.ke/</url>
         </codelist-item>
         <codelist-item public-database="0">
+            <code>LB-MOI</code>
+            <name>
+                <narrative>Ministry of Interior</narrative>
+            </name>
+            <description>
+                <narrative>The Ministry of Interior is the main registration body in Lebanon. All NGOs are required to register with the Ministry of Interior.</narrative>
+            </description>
+            <category>LB</category>
+            <url>http://www.interior.gov.lb/</url>
+        </codelist-item>
+        <codelist-item public-database="0">
             <code>LS-LCN</code>
             <name>
                 <narrative>Lesotho Council of Non Governmental Organisations</narrative>
