@@ -2372,7 +2372,7 @@
                 <narrative xml:lang="fr">Centre international pour l’aménagement des ressources bioaquatiques</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="active" activation-date="2015-12-07">
+        <codelist-item status="withdrawn" activation-date="2015-12-07">
             <code>52000</code>
             <name>
                 <narrative>Other</narrative>
