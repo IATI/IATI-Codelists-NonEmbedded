@@ -813,6 +813,17 @@
             <url>https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>PS-MOI</code>
+            <name>
+                <narrative>Ministry of Interior (MOI)</narrative>
+            </name>
+            <description>
+                <narrative>It’s the official body to register Non-governmental organization in Palestine.</narrative>
+            </description>
+            <category>PS</category>
+            <url>http://www.moi.pna.ps/NGOs/List</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>RS-APR</code>
             <name>
                 <narrative>Serbian Business Registrations Agency (APR)</narrative>
