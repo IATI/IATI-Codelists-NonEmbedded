@@ -747,6 +747,17 @@
             <url>http://www.swc.org.np/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>PH-SEC</code>
+            <name>
+                <narrative>Securities and Exchange Commission Philippines</narrative>
+            </name>
+            <description>
+                <narrative>The Securities and Exchange Commission in the Philippines provides licenses so that corporations, partnerships or associations can transact business in the Philippines.</narrative>
+            </description>
+            <category>PH</category>
+            <url>http://www.sec.gov.ph/online-services/search-registered-companies/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>PK-PCP</code>
             <name>
                 <narrative>Pakistan Centre for Philanthropy</narrative>
