@@ -53,6 +53,17 @@
             <url>http://moec.gov.af/en</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>AR-CENOC</code>
+            <name>
+                <narrative>The National Centre of Community Organisations (CENOC)</narrative>
+            </name>
+            <description>
+                <narrative>The National Centre of Community Organisations oversees and manages the accreditation and categorization of Civil Society Organizations in Argentian.</narrative>
+            </description>
+            <category>AF</category>
+            <url>http://www.cenoc.gob.ar/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>AU-ABN</code>
             <name>
                 <narrative>Australian Business Register</narrative>
@@ -228,6 +239,17 @@
             </description>
             <category>ET</category>
             <url>http://www.mfa.gov.et/</url>
+        </codelist-item>
+        <codelist-item public-database="0">
+            <code>ET-MOT</code>
+            <name>
+                <narrative>Ministry of Trade (MOT)</narrative>
+            </name>
+            <description>
+                <narrative>The Ministry of Trade is the official ministry to register a business in Ethiopia.</narrative>
+            </description>
+            <category>ET</category>
+            <url>http://www.mot.gov.et</url>
         </codelist-item>
         <codelist-item public-database="1">
             <code>FI-PRO</code>
