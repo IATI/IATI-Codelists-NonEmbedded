@@ -240,6 +240,17 @@
             <category>ET</category>
             <url>http://www.mfa.gov.et/</url>
         </codelist-item>
+        <codelist-item public-database="0">
+            <code>ET-MOT</code>
+            <name>
+                <narrative>Ministry of Trade (MOT)</narrative>
+            </name>
+            <description>
+                <narrative>The Ministry of Trade is the official ministry to register a business in Ethiopia.</narrative>
+            </description>
+            <category>ET</category>
+            <url>http://www.mot.gov.et</url>
+        </codelist-item>
         <codelist-item public-database="1">
             <code>FI-PRO</code>
             <name>
