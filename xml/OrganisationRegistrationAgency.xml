@@ -5,27 +5,27 @@
         </name>
         <description>
             <narrative>
-        Organisation registry agencies and their code. These can be used as the
-        prefix for an organisation identifier.
+               
+        Organization identifier lists (formerly Organization Registration Agency).
+        The values from this codelist are used to identify the particular list that
+        an organization identifier was drawn from. The codelist provides a list of 
+        known identifier lists, including national company registers, NGO lists and
+        international and multilateral lists - along with links to sources where 
+        specific organization numbers and identifiers can be looked up.
+        
+        As of 17th of July 2017 the Organisation Registration Agency codelist (now organisation
+        identifier list) is maintained centrally by org-id.guide. org-id.guide provides
+        a register of organisation identifier lists that allows open data
+        publishers to locate organisation identifiers. IATI replicates the
+        list directly from org-id.guide with the exception of the XI-IATI codelist.
+        IATI still maintains the XI-IATI organisation identifier list, which is used 
+        when there are no other available lists that might be used to provide
+        a stable organisation identifier. 
+                
+        If an organisation identifier list that you wish to use cannot be found in org-id.guide,
+        you can submit a direct request on Github
+        (https://github.com/org-id/register/issues) or email contact@org-id.guide
 
-        For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/
-
-        In this list, description contains IATI specific usage notes, rather
-        than a general description of the regsitration agency.
-
-        The categories on this list are ISO Country codes, except for XM which
-        is used to indicate Multilateral/International Agency, and XI which is
-        used to indicate International Organisations. This follows ISO's
-        convention of reserving codes starting with X for "private use".
-
-        This list is maintained by the IATI Secretariat, but is a "NonEmbedded"
-        codelist - which means changes and additions may be made at short
-        notice, outside of published decimal and integer upgrade schedules.  If
-        a Registation Agency that you wish to use is not on this list, please
-        contact support@iatistandard.org
-
-        This list was previously located at:
-        https://docs.google.com/spreadsheet/ccc?key=0AnWngmdQt3stdFppMWdkcXJqVTRWTk9menR1N0FXNGc&amp;usp=drive_web#gid=0
     </narrative>
         </description>
     </metadata>
