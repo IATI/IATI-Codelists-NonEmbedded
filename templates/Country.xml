@@ -3,6 +3,15 @@
         <name>
             <narrative>Country</narrative>
         </name>
+        <description>
+            <narrative>
+            The Country codelist is generated from the ISO 3166-1 part of the
+            ISO 3166 standard. The standard makes allowance, alongside the
+            officially assigned codes, for code elements to be expanded by
+            using either reserved codes or user-assigned codes. IATI currently
+            defines additional codes in the XA -XZ range.
+        </narrative>
+        </description>
         <url>http://www.iso.org/iso/home/standards/country_codes.htm</url>
     </metadata>
     <codelist-items>
