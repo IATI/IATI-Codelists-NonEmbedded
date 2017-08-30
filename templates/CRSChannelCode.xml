@@ -1,0 +1,9 @@
+<codelist name="CRSChannelCode" xml:lang="en" complete="1">
+    <metadata>
+        <name>
+            <narrative>CRS Channel Code</narrative>
+        </name>
+        <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+    </metadata>
+    <codelist-items/>
+</codelist>

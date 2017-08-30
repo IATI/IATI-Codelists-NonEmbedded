@@ -1,0 +1,9 @@
+<codelist name="AidType" xml:lang="en" category-codelist="AidType-category" complete="1">
+    <metadata>
+        <name>
+            <narrative>Aid Type</narrative>
+        </name>
+        <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+    </metadata>
+    <codelist-items/>
+</codelist>

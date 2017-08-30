@@ -1,0 +1,12 @@
+<codelist name="AidType-category" xml:lang="en" complete="1">
+    <metadata>
+        <name>
+            <narrative>Aid Type (category)</narrative>
+        </name>
+        <description>
+            <narrative>This codelists exists to group the Aid Type codelist into categories. It is not used as a codelist in its own right.</narrative>
+        </description>
+        <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+    </metadata>
+    <codelist-items/>
+</codelist>
