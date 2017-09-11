@@ -38,6 +38,17 @@
             <url>http://www.umn.org.np/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-ADVZ</code>
+            <name>
+                <narrative>Agência de Desenvolvimento do Vale do Zambeze</narrative>
+            </name>
+            <description>
+                <narrative>Description:
+                The Agência do Zambeze is a public-sector agency under the Ministry of Economics and Finance in Mozambique. The mission of the Agência do Zambeze is to promote the socio-economic and sustainable development of the Lower Zambezi River Basin.</narrative>
+            </description>
+            <url>http://www.inm.gov.mz/?q=pt-pt/ag%C3%AAncia-de-desenvolvimento-do-vale-do-zambeze</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-EBRD</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development</narrative>
