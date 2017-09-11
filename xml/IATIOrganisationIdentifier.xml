@@ -49,6 +49,17 @@
             <url>http://www.inm.gov.mz/?q=pt-pt/ag%C3%AAncia-de-desenvolvimento-do-vale-do-zambeze</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-AIAS</code>
+            <name>
+                <narrative>Administração de Infra-Estruturas de Águas e Saneamento</narrative>
+            </name>
+            <description>
+                <narrative>Description:
+                AIAS manages the property of the secondary public systems for water supply and for the residual water drainage public systems in Mozambique promoting their autonomous efficient and financially feasible operational management through assignment to private operators or other third party entities.</narrative>
+            </description>
+            <url>http://www.aias.gov.mz/1</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-EBRD</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development</narrative>
