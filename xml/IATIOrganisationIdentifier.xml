@@ -6,12 +6,12 @@
         <description>
             <narrative>
             This is a list of organisation identifiers that is maintained by the IATI Secretariat.
-            The prefix for organisations on this list is XI-IATI 
+            The prefix for organisations on this list is XI-IATI
 
             If a bona fide organisation is not registered with any recognised or appropriate registration agency (http://iatistandard.org/202/codelists/OrganisationRegistrationAgency/) they should contact the IATI Technical Team who will exceptionally allocate an organisation identifier using the XI-IATI prefix.
 
             While some of these identifiers have been derived from DAC codes, this 'meaning' is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.
-            
+
             For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/
             </narrative>
         </description>
@@ -38,16 +38,6 @@
             <url>http://www.umn.org.np/</url>
         </codelist-item>
         <codelist-item>
-            <code>XI-IATI-CWSEC</code>
-            <name>
-                <narrative>The Commonwealth Secretariat</narrative>
-            </name>
-            <description>
-                <narrative>The Commonwealth is a voluntary association of 52 independent and equal sovereign states. Its guiding principles are contained in their Commonwealth Charter.</narrative>
-            </description>
-            <url>http://thecommonwealth.org/</url>
-        </codelist-item>
-        <codelist-item>
             <code>XI-IATI-EBRD</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development</narrative>
@@ -68,6 +58,16 @@
                 <narrative>CABI (Centre for Agriculture and Biosciences International) is an international not-for-profit organization that improves people’s lives worldwide by providing information and applying scientific expertise to solve problems in agriculture and the environment. It's approach involves putting information, skills and tools into people’s hands. CABI’s member countries guide and influence our work which is delivered by scientific staff based in our global network of centres.</narrative>
             </description>
             <url>http://www.cabi.org/</url>
+        </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-CWSEC</code>
+            <name>
+                <narrative>The Commonwealth Secretariat</narrative>
+            </name>
+            <description>
+                <narrative>The Commonwealth is a voluntary association of 52 independent and equal sovereign states. Its guiding principles are contained in their Commonwealth Charter.</narrative>
+            </description>
+            <url>http://thecommonwealth.org/</url>
         </codelist-item>
         <codelist-item>
             <code>XI-IATI-EC_DEVCO</code>
