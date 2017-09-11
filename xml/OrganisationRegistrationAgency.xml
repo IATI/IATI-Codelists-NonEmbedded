@@ -1022,6 +1022,17 @@
             <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>XM-EORI</code>
+            <name>
+                <narrative>Economic Operators Identification and Registration system</narrative>
+            </name>
+            <description>
+                <narrative>This site allows to validate EORI numbers and provides access to the information related to Authorised Economic Operators (AEO). An EORI number is unique throughout the EU, assigned by a customs authority in a member state to economic operators (businesses) or persons.</narrative>
+            </description>
+            <category>AD</category>
+            <url>http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>XM-OCHA</code>
             <name>
                 <narrative>United Nations Office for the Coordination of Humanitarian Affairs</narrative>
