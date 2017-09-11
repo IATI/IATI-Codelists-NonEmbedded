@@ -435,7 +435,7 @@
             <code>910</code>
             <name>
                 <narrative>ADMINISTRATIVE COSTS OF DONORS</narrative>
-                <narrative xml:lang="fr">Frais administratifs (non alloués par secteur)</narrative>
+                <narrative xml:lang="fr">ADMINISTRATIVE COSTS OF DONORS</narrative>
             </name>
             <description>
                 <narrative/>
@@ -454,7 +454,7 @@
             <code>930</code>
             <name>
                 <narrative>REFUGEES IN DONOR COUNTRIES</narrative>
-                <narrative xml:lang="fr">Réfugiés dans le pays donneur (non alloués par secteur)</narrative>
+                <narrative xml:lang="fr">REFUGIES DANS LE PAYS DONNEUR</narrative>
             </name>
             <description>
                 <narrative/>
