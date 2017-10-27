@@ -3,7 +3,6 @@ from datetime import date
 from os import system
 from os.path import join
 import re
-import shutil
 
 from lxml import etree as ET
 import unicodecsv as csv
@@ -18,6 +17,7 @@ Note not all external codelists are converted automatically yet.
 """
 etparser = ET.XMLParser(encoding='utf-8', remove_blank_text=True)
 today = str(date.today())
+
 
 # Adapted from code at http://effbot.org/zone/element-lib.htm
 def indent(elem, level=0, shift=2):
@@ -37,12 +37,14 @@ def indent(elem, level=0, shift=2):
         if level and (not elem.tail or not elem.tail.strip()):
             elem.tail = i
 
+
 def str_update(current, proposed):
     if current and re.split(r'[\s|\xa0]+', current) == re.split(r'[\s|\xa0]+', proposed):
         return current
     elif proposed:
         return proposed.replace('\r', '').replace('.  ', '. ').strip()
     return None
+
 
 def create_codelist_item(keys):
     tmpl_path = join('templates', 'generic-codelist-item.xml')
@@ -54,6 +56,7 @@ def create_codelist_item(keys):
     if 'category' not in keys:
         xml.remove(xml.find('category'))
     return xml
+
 
 def update_codelist_item(codelist_item, code_dict):
     # update code
@@ -81,6 +84,7 @@ def update_codelist_item(codelist_item, code_dict):
                 description_el.text = str_update(description_el.text, code_dict['description_en'])
 
     return codelist_item
+
 
 def source_to_xml(tmpl_name, source_name, lookup, source_data=None):
     old_xml = ET.parse(join('xml', '{}.xml'.format(tmpl_name)), etparser)
@@ -147,6 +151,7 @@ def source_to_xml(tmpl_name, source_name, lookup, source_data=None):
     indent(xml.getroot(), 0, 4)
     xml.write(output_path, encoding='utf-8', pretty_print=True)
 
+
 # throw away any local changes
 system('git checkout -- xml/')
 
@@ -202,7 +207,8 @@ lookup_no_desc = {
 }
 source_to_xml('CollaborationType', 'collaboration_types', lookup_no_desc)
 source_to_xml('CRSChannelCode', 'channel_codes', lookup_no_desc)
-source_to_xml('FinanceType-category', 'finance_type_categories', lookup_no_desc)
+source_to_xml('FinanceType-category', 'finance_type_categories',
+              lookup_no_desc)
 
 lookup = {
     'code': 'code',
