@@ -31,7 +31,9 @@ Submitting changes
     - Create a branch named after the work you're doing (if you're targeting a specific issue, start the branch name with the issue number e.g. ``42-feature-name``)
 * Do your work
     - If your work addresses a specific issue, reference that issue in your commit message by starting the commit message with ``[#issue number]`` e.g. ``[#64]``
+    - If your work involves modifying a Non-Embedded Codelist, create a separate pull request to [update the changelog](https://github.com/IATI/IATI-Guidance/blob/master/en/upgrades/nonembedded-codelist-changelog.rst) and add a link from one to the other.
 * Create a pull request
+
 
 Specific Tasks:
 ===============
