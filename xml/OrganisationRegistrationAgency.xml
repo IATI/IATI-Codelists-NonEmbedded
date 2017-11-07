@@ -31,6 +31,149 @@
     </metadata>
     <codelist-items>
         <codelist-item public-database="0">
+            <code>AE-ACCI</code>
+            <name>
+                <narrative>Ajman Chamber of Commerce and Industry</narrative>
+            </name>
+            <description>
+                <narrative>There is Commercial and Industrial search. You can also use an online enquiry form to find necessary data. There are contact details of Ajman Chamber and heads of its sectors.</narrative>
+            </description>
+            <category>AE</category>
+            <url>https://www.ajmanchamber.ae/en/Pages/default.aspx</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AE-ADCD</code>
+            <name>
+                <narrative>Abu Dhabi Commercial Directory</narrative>
+            </name>
+            <description>
+                <narrative>Register includes Unified, Mem No, company name, city, telephone, email.</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.abudhabichamber.ae/English/E-Services/Pages/EServices-Page.aspx?sm=1&amp;ty=s</url>
+        </codelist-item>
+        <codelist-item public-database="0">
+            <code>AE-AFZ</code>
+            <name>
+                <narrative>Ajman Free Zone Authority</narrative>
+            </name>
+            <description>
+                <narrative>Use Authority's website to find its address, email and call center contacts.</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.afz.gov.ae/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AE-DCCI</code>
+            <name>
+                <narrative>Dubai Chamber of Commerce and Industry - Commercial Directory</narrative>
+            </name>
+            <description>
+                <narrative>Register includes company name, P.O. box number, address, telephone.</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.dcciinfo.com/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AE-DFSA</code>
+            <name>
+                <narrative>Dubai Financial Services Authority - Public Register</narrative>
+            </name>
+            <description>
+                <narrative>Includes DFSA reference number, address, telephone.</narrative>
+            </description>
+            <category>AE</category>
+            <url>https://www.dfsa.ae/Public-Register/Firm</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AE-DIFC</code>
+            <name>
+                <narrative>Dubai International Financial Centre</narrative>
+            </name>
+            <description>
+                <narrative>Register includes Reg Number, Activity, Company Name, Telephone, Address, etc.</narrative>
+            </description>
+            <category>AE</category>
+            <url>https://www.difc.ae/public-register</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AE-FFZ</code>
+            <name>
+                <narrative>Fujairah Free Zone Company Listing</narrative>
+            </name>
+            <description>
+                <narrative>There is no search available, but there is a listing of companies with telephone and fax numbers</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.fujairahfreetradezone.com/appdir/company-listing.php</url>
+        </codelist-item>
+        <codelist-item public-database="0">
+            <code>AE-FUJCCI</code>
+            <name>
+                <narrative>Fujairah Chamber of Commerce and Industry</narrative>
+            </name>
+            <description>
+                <narrative>Chamber of Commerce and Industry can be contacted via form on the website, phone, fax, email, address.</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.fujcci.ae/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AE-HFZA</code>
+            <name>
+                <narrative>Hamriyah Free Zone Authority</narrative>
+            </name>
+            <description>
+                <narrative>Register contains company name, PO box, telephone, email, license number, activity, etc.</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.hfza.ae/en-us/directory.aspx</url>
+        </codelist-item>
+        <codelist-item public-database="0">
+            <code>AE-RAKIA</code>
+            <name>
+                <narrative>RAK Investment Authority</narrative>
+            </name>
+            <description>
+                <narrative>There is no open registry but you can make an enquiry via contact form or telephone call.</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.rakia.ae/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AE-SAIF</code>
+            <name>
+                <narrative>Sharjah Airport International Free Zone</narrative>
+            </name>
+            <description>
+                <narrative>Register contains company name, business type, telephone, email, PO box.</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.saif-zone.com/en/InvestorLounge/Pages/Investors.aspx</url>
+        </codelist-item>
+        <codelist-item public-database="0">
+            <code>AE-SCCI</code>
+            <name>
+                <narrative>Sharjah Chamber of Commerce and Industry: Business Directory</narrative>
+            </name>
+            <description>
+                <narrative>Use business directory search or make an inquiry via form on the website.</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.sharjah.gov.ae/EN/Services/Pages/BusinessDirectory.aspx</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>AE-UAQCCI</code>
+            <name>
+                <narrative>Umm al-Quwain Chamber of Commerce and Industry</narrative>
+            </name>
+            <description>
+                <narrative>Register includes company name, P.O. box, address, activity, registration date.</narrative>
+            </description>
+            <category>AE</category>
+            <url>http://www.uaqchamber.ae/</url>
+        </codelist-item>
+        <codelist-item public-database="0">
             <code>AF-CBR</code>
             <name>
                 <narrative>Afghanistan Central Business Registry</narrative>
