@@ -185,6 +185,17 @@
             <url>http://wwwinfo.mfcr.cz/ares/ares_es.html.en</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>DE-CRP</code>
+            <name>
+                <narrative>Common Register Portal of the German Federal States (CRP)</narrative>
+            </name>
+            <description>
+                <narrative>Any search for a company and retrieving of published information is free of charge. For any other information you will be charged a fee upon a respective notice.</narrative>
+            </description>
+            <category>DE</category>
+            <url>https://www.handelsregister.de/rp_web/welcome.do</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>DK-CVR</code>
             <name>
                 <narrative>Danish Central Business Register</narrative>
