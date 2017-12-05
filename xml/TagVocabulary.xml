@@ -1,0 +1,12 @@
+<codelist name="TagVocabulary" xml:lang="en">
+  <metadata>
+    <name>
+      <narrative>Tag Vocabulary</narrative>
+    </name>
+    <description>
+      <narrative>The Tag Vocabulary codelist defines external codelists which themselves provide codes and descriptions for tag elements.</narrative>
+    </description>
+  </metadata>
+  <codelist-items>
+  </codelist-items>
+</codelist>
