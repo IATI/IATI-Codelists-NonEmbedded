@@ -4,4 +4,18 @@
       <narrative>Aid Type Vocabulary</narrative>
     </name>
   </metadata>
+  <codelist-items>
+    <codelist-item>
+      <code>1</code>
+      <name>
+        <narrative>OECD DAC</narrative>
+      </name>
+    </codelist-item>
+    <codelist-item>
+      <code>2</code>
+      <name>
+        <narrative>OCHA</narrative>
+      </name>
+    </codelist-item>
+  </codelist-items>
 </codelist>
