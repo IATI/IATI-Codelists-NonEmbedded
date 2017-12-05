@@ -5,5 +5,11 @@
     </name>
   </metadata>
   <codelist-items>
+    <codelist-item>
+      <code>99</code>
+      <name>
+        <narrative>Reporting Organisation</narrative>
+      </name>
+    </codelist-item>
   </codelist-items>
 </codelist>
