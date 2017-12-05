@@ -3,6 +3,9 @@
     <name>
       <narrative>Aid Type Vocabulary</narrative>
     </name>
+    <description>
+      <narrative>The AidTypeVocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for aid type.</narrative>
+    </description>
   </metadata>
   <codelist-items>
     <codelist-item>
