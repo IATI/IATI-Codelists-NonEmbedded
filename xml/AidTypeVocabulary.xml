@@ -14,11 +14,5 @@
         <narrative>OECD DAC</narrative>
       </name>
     </codelist-item>
-    <codelist-item>
-      <code>2</code>
-      <name>
-        <narrative>OCHA</narrative>
-      </name>
-    </codelist-item>
   </codelist-items>
 </codelist>
