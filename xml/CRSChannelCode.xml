@@ -9,8 +9,8 @@
         <codelist-item status="active" activation-date="2015-12-07">
             <code>10000</code>
             <name>
-                <narrative>Public Sector Institutions</narrative>
-                <narrative xml:lang="fr">Institutions du Secteur Public</narrative>
+                <narrative>PUBLIC SECTOR INSTITUTIONS</narrative>
+                <narrative xml:lang="fr">INSTITUTIONS DU SECTEUR PUBLIC</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -93,15 +93,15 @@
         <codelist-item status="active" activation-date="2015-12-07">
             <code>20000</code>
             <name>
-                <narrative>Non-governmental Organisations (NGOs) And Civil Society</narrative>
-                <narrative xml:lang="fr">Organisations Non Gouvernementales (ONG) et Société Civile</narrative>
+                <narrative>NON-GOVERNMENTAL ORGANISATIONS (NGOs) AND CIVIL SOCIETY</narrative>
+                <narrative xml:lang="fr">ORGANISATIONS NON GOUVERNEMENTALES (ONG) et SOCIÉTÉ CIVILE</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
             <code>21000</code>
             <name>
-                <narrative>International NGO</narrative>
-                <narrative xml:lang="fr">ONG Internationale</narrative>
+                <narrative>INTERNATIONAL NGO</narrative>
+                <narrative xml:lang="fr">ONG INTERNATIONALE</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -123,6 +123,13 @@
             <name>
                 <narrative>Association of Geoscientists for International Development</narrative>
                 <narrative xml:lang="fr">Association de géoscientifiques pour le développement international</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2017-08-08">
+            <code>21063</code>
+            <name>
+                <narrative>Conservation International</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -247,7 +254,7 @@
         <codelist-item status="active" activation-date="2015-12-07">
             <code>21061</code>
             <name>
-                <narrative>International Rehabilitation Council for Torture</narrative>
+                <narrative>International Rehabilitation Council for Torture Victims</narrative>
                 <narrative xml:lang="fr">Conseil international de réhabilitation pour les victimes de torture</narrative>
             </name>
         </codelist-item>
@@ -276,7 +283,7 @@
             <code>21053</code>
             <name>
                 <narrative>IPAS-Protecting Women’s Health, Advancing Women’s Reproductive Rights</narrative>
-                <narrative xml:lang="fr">IPAS-Protecting Women’s Health, Advancing Women’s Reproductive Rights</narrative>
+                <narrative xml:lang="fr">IPAS-Protecting Womens Health, Advancing Womens Reproductive Rights</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -450,8 +457,8 @@
         <codelist-item status="active" activation-date="2015-12-07">
             <code>21027</code>
             <name>
-                <narrative>International Trust Fund for Demining and Mine Victims Assistance</narrative>
-                <narrative xml:lang="fr">Fonds international d’affectation spéciale pour le déminage et l’assistance aux victimes des mines</narrative>
+                <narrative>ITF Enhancing Human Security</narrative>
+                <narrative xml:lang="fr">ITF Améliorer la sécurité humaine</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -545,6 +552,13 @@
                 <narrative xml:lang="fr">Conseil latino-américain des sciences sociales</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active" activation-date="2017-08-08">
+            <code>23501</code>
+            <name>
+                <narrative>National Red Cross and Red Crescent Societies</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
             <code>21030</code>
             <name>
@@ -562,8 +576,8 @@
         <codelist-item status="active" activation-date="2015-12-07">
             <code>30000</code>
             <name>
-                <narrative>Public-Private Partnerships (PPPs) And Networks</narrative>
-                <narrative xml:lang="fr">Partenariats public-privé et Réseaux</narrative>
+                <narrative>PUBLIC-PRIVATE PARTNERSHIPS (PPPs) and NETWORKS</narrative>
+                <narrative xml:lang="fr">PARTENARIATS PUBLIC-PRIVÉ ET RÉSEAUX</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -619,7 +633,7 @@
             <code>30015</code>
             <name>
                 <narrative>Global Energy Efficiency and Renewable Energy Fund</narrative>
-                <narrative xml:lang="fr">Fonds mondial pour la promotion de l’'efficacité énergétique et des énergies renouvelables</narrative>
+                <narrative xml:lang="fr">Fonds mondial pour la promotion de l'efficacité énergétique et des énergies renouvelables</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -675,7 +689,7 @@
             <code>21056</code>
             <name>
                 <narrative>Renewable Energy and Energy Efficiency Partnership</narrative>
-                <narrative xml:lang="fr">Partenariat pour les énergies renouvelables et l’'efficience énergétique</narrative>
+                <narrative xml:lang="fr">Partenariat pour les énergies renouvelables et l'efficience énergétique</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -765,8 +779,8 @@
         <codelist-item status="active" activation-date="2015-12-07">
             <code>40000</code>
             <name>
-                <narrative>Multilateral Organisations</narrative>
-                <narrative xml:lang="fr">Organisations Multilatérales</narrative>
+                <narrative>MULTILATERAL ORGANISATIONS</narrative>
+                <narrative xml:lang="fr">ORGANISATIONS MULTILATÉRALES</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -940,7 +954,7 @@
         <codelist-item status="active" activation-date="2015-12-07">
             <code>41310</code>
             <name>
-                <narrative>United Nations Department of Peacekeeping Operations [only MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, UNAMID, UNIFIL, UNIFSA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.</narrative>
+                <narrative>United Nations Department of Peacekeeping Operations [only MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.</narrative>
                 <narrative xml:lang="fr">Département des opérations de maintien de la paix des Nations unies [seulement MINURSO, MINUSCA, MINUSMA, MINUSTAH, MONUSCO, MINUAD, FINUL, FISNUA, MINUK, MINUL, UNMISS, ONUCI]. Notifier les contributions mission par mission au format SNPC++.</narrative>
             </name>
         </codelist-item>
@@ -1168,6 +1182,13 @@
                 <narrative xml:lang="fr">Union postale universelle</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active" activation-date="2017-08-08">
+            <code>41503</code>
+            <name>
+                <narrative>UN-led Country-based Pooled Funds</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
             <code>41140</code>
             <name>
@@ -1201,6 +1222,13 @@
             <name>
                 <narrative>World Meteorological Organisation</narrative>
                 <narrative xml:lang="fr">Organisation météorologique mondiale</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2017-08-08">
+            <code>41319</code>
+            <name>
+                <narrative>World Tourism Organization</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1413,6 +1441,13 @@
                 <narrative xml:lang="fr">Fonds asiatique de développement</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active" activation-date="2017-08-08">
+            <code>46026</code>
+            <name>
+                <narrative>Asian Infrastructure Investment Bank</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
             <code>46006</code>
             <name>
@@ -1616,11 +1651,18 @@
                 <narrative xml:lang="fr">Centre épidémiologique des Caraïbes</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active" activation-date="2017-08-08">
+            <code>47145</code>
+            <name>
+                <narrative>Center of Excellence in Finance</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
             <code>47112</code>
             <name>
                 <narrative>Central European Initiative - Special Fund for Climate and Environmental Protection</narrative>
-                <narrative xml:lang="fr">Initiative de l’Europe centrale - – Fonds Spécial pour la protection climatique et environnementale</narrative>
+                <narrative xml:lang="fr">Initiative de l’Europe centrale -  Fonds Spécial pour la protection climatique et environnementale</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1816,7 +1858,7 @@
             <code>47116</code>
             <name>
                 <narrative>Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries</narrative>
-                <narrative xml:lang="fr">Cadre intégré pour l’'assistance technique liée au commerce en faveur des pays les moins avancés</narrative>
+                <narrative xml:lang="fr">Cadre intégré pour l'assistance technique liée au commerce en faveur des pays les moins avancés</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
