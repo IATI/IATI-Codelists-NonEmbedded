@@ -179,7 +179,7 @@ with open(source_path) as f:
     reader = csv.DictReader(f)
     countries = [{
         'code': x['ISO3166-1-Alpha-2'],
-        'name_en': x['name'].upper(),
+        'name_en': x['official_name_en'].upper(),
     } for x in reader]
 source_to_xml('Country', 'countries', country_lookup, source_data=countries)
 
