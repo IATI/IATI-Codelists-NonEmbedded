@@ -207,8 +207,16 @@ lookup_no_desc = {
 }
 source_to_xml('CollaborationType', 'collaboration_types', lookup_no_desc)
 source_to_xml('CRSChannelCode', 'channel_codes', lookup_no_desc)
-source_to_xml('FinanceType-category', 'finance_type_categories',
-              lookup_no_desc)
+
+source_path = join('source', 'finance_type_categories.csv')
+with open(source_path) as f:
+    reader = csv.DictReader(f)
+    finance_type_categories = []
+    for finance_type_category in reader:
+        if finance_type_category['code'] == '0':
+            continue
+        finance_type_categories.append(finance_type_category)
+source_to_xml('FinanceType-category', None, lookup_no_desc, source_data=finance_type_categories)
 
 lookup = {
     'code': 'code',
@@ -219,7 +227,16 @@ lookup = {
     'description_fr': 'description_fr',
 }
 source_to_xml('AidType', 'aid_types', lookup)
-source_to_xml('FinanceType', 'finance_types', lookup)
+
+source_path = join('source', 'finance_types.csv')
+with open(source_path) as f:
+    reader = csv.DictReader(f)
+    finance_types = []
+    for finance_type in reader:
+        if finance_type['category'] == '0':
+            continue
+        finance_types.append(finance_type)
+source_to_xml('FinanceType', None, lookup, source_data=finance_types)
 
 source_path = join('source', 'sectors.csv')
 with open(source_path) as f:
