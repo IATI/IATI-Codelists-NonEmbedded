@@ -235,6 +235,10 @@ with open(source_path) as f:
     for finance_type in reader:
         if finance_type['category'] == '0':
             continue
+        if finance_type['name_en'] == '':
+            finance_type['name_en'] = finance_type['description_en']
+        if finance_type['name_fr'] == '':
+            finance_type['name_fr'] = finance_type['description_fr']
         finance_types.append(finance_type)
 source_to_xml('FinanceType', None, lookup, source_data=finance_types)
 
