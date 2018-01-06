@@ -255,7 +255,6 @@ with open(source_path) as f:
 sectors = sorted(sectors, key=lambda x: x['code'])
 source_to_xml('Sector', None, lookup, source_data=sectors)
 
-# source_to_xml('Region', 'region')
 source_path = join('source', 'recipients.csv')
 with open(source_path) as f:
     reader = csv.DictReader(f)
