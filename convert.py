@@ -249,6 +249,8 @@ with open(source_path) as f:
     for sector in reader:
         if sector['voluntary_code'] != '':
             sector['code'] = sector['voluntary_code']
+        for txt in ['name_en', 'name_fr', 'description_en', 'description_fr']:
+            sector[txt] = re.sub(r'  +', ' ', sector[txt])
         sectors.append(sector)
 sectors = sorted(sectors, key=lambda x: x['code'])
 source_to_xml('Sector', None, lookup, source_data=sectors)
