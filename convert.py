@@ -179,8 +179,8 @@ with open(source_path) as f:
     reader = csv.DictReader(f)
     countries = [{
         'code': x['ISO3166-1-Alpha-2'],
-        'name_en': x['official_name_en'].upper(),
-    } for x in reader]
+        'name_en': x['CLDR display name'].upper(),
+    } for x in reader if x['ISO3166-1-Alpha-2']]
 source_to_xml('Country', 'countries', country_lookup, source_data=countries)
 
 language_lookup = {
