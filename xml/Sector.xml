@@ -494,7 +494,7 @@
             </name>
             <description>
                 <narrative>Infrastructure-focused integrated river basin projects and related institutional activities; river flow control; dams and reservoirs [excluding dams primarily for irrigation (31140) and hydropower (23220) and activities related to river transport (21040)].</narrative>
-                <narrative xml:lang="fr">Projets de bassins fluviaux centrés sur les infrastructures et activités institutionnelles connexes ; régulation des cours d’eau ; barrages et réservoirs [à l’exclusion des barrages hydroélectriques (23220) et barrag es pour l’irrigation (31140) et activités liées au transport fluvial (21040)].</narrative>
+                <narrative xml:lang="fr">Projets de bassins fluviaux centrés sur les infrastructures et activités institutionnelles connexes ; régulation des cours d’eau ; barrages et réservoirs [à l’exclusion des barrages hydroélectriques (23220) et barrages pour l’irrigation (31140) et activités liées au transport fluvial (21040)].</narrative>
             </description>
             <category>140</category>
         </codelist-item>
