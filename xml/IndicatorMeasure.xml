@@ -26,5 +26,32 @@
                 <narrative>The indicator is measured in percentages</narrative>
             </description>
         </codelist-item>
+        <codelist-item>
+            <code>3</code>
+            <name>
+                <narrative>Nominal</narrative>
+            </name>
+            <description>
+                <narrative>The indicator is measured as a quantitative nominal scale.</narrative>
+            </description>
+        </codelist-item>
+        <codelist-item>
+            <code>4</code>
+            <name>
+                <narrative>Ordinal</narrative>
+            </name>
+            <description>
+                <narrative>The indicator is measured as a quantitative ordinal scale.</narrative>
+            </description>
+        </codelist-item>
+        <codelist-item>
+            <code>5</code>
+            <name>
+                <narrative>Qualitative</narrative>
+            </name>
+            <description>
+                <narrative>The indicator is qualitative.</narrative>
+            </description>
+        </codelist-item>
     </codelist-items>
 </codelist>
