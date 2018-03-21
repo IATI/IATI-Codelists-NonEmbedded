@@ -64,7 +64,7 @@
                 <narrative xml:lang="fr">Dons fournis par les ONG et autres organismes privés (par exemple fondations philantropiques) résidents dans le pays donneur</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2017-12-01">
             <code>35</code>
             <name>
                 <narrative>Private market</narrative>

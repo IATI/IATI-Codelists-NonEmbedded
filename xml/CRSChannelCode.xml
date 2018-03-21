@@ -2509,7 +2509,7 @@
             <code>63002</code>
             <name>
                 <narrative>Private non-bank in third country</narrative>
-                <narrative xml:lang="fr">Secteur privé non-bancaire dans le pays bénéficiaire</narrative>
+                <narrative xml:lang="fr">Secteur privé non-bancaire dans un pays tiers</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-03-31">
