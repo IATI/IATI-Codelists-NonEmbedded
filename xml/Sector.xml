@@ -2089,6 +2089,18 @@
             </description>
             <category>240</category>
         </codelist-item>
+        <codelist-item status="active" activation-date="2018-01-30">
+            <code>24050</code>
+            <name>
+                <narrative>Remittance facilitation, promotion and optimisation</narrative>
+                <narrative xml:lang="fr">Facilitation, promotion et optimisation des transferts de fonds des migrants</narrative>
+            </name>
+            <description>
+                <narrative>Includes programmes aiming at reducing the costs of transferring remittances, incl. sending, transmission and receiving costs, and programmes encouraging remittances and/or increasing their developmental impact. Support to statistical capacity building aiming at improving data on remittances is recorded under code 16062. Research on the development potential of remittances is recorded under code 43082.</narrative>
+                <narrative xml:lang="fr">Comprend les programmes visant à réduire les coûts des transferts de fonds des migrants, dont les coûts d'envoi, de transmission et de réception ainsi que les programmes les encourageant et/ou augmentant leur impact sur le développement. Le soutien au renforcement des capacités statistiques visant à en améliorer les données est à enregistrer sous le code 16062. La recherche sur le potentiel de développement des transferts de fonds des migrants est à enregistrer sous le code 43082.</narrative>
+            </description>
+            <category>240</category>
+        </codelist-item>
         <codelist-item>
             <code>24081</code>
             <name>
