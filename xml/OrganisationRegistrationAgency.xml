@@ -337,7 +337,7 @@ Charity Status can be applied to organisations that have an Australian Business 
 [1][2][3][4] http://www.ngoab.gov.bd/site/page/092eab90-ba5f-4cba-933f-d9f28863d170/NGO-Bureau-at-a-glance</narrative>
             </description>
             <category>BD</category>
-            <url>http://www.ngoab.gov.bd , http://103.234.24.210/</url>
+            <url>http://www.ngoab.gov.bd</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>BE-BCE_KBO</code>
@@ -1284,7 +1284,7 @@ Codes are allocated for:[3]
 It uses the second portion of [ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB) codes and includes all codes listed for Wales (WLS). </narrative>
             </description>
             <category>GB</category>
-            <url>https://principal-local-authority.alpha.openregister.org/records</url>
+            <url>https://principal-local-authority.register.gov.uk/records</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>GB-REV</code>
@@ -1381,12 +1381,12 @@ However there is an exemption from this requirement. This applies to Non Profit 
 [2] http://www.guernseyregistry.com/article/112911/Do-I-need-to-register-a-Charity-or-Non-Profit-organisation-</narrative>
             </description>
             <category>GG</category>
-            <url>http://www.guernseyregistry.com/ , http://www.guernseyregistry.com/charities</url>
+            <url>http://www.guernseyregistry.com/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>GH-DSW</code>
             <name>
-                <narrative>Department of Social Welfare</narrative>
+                <narrative>Department of Social Developments</narrative>
             </name>
             <description>
                 <narrative>All NGOs wishing to operate in Ghana must first register with the General Registrar's Office, and then apply for NGO status from the Department of Social Welfare (DSW). NGOs are then issued with a certificate that contains their registration number.
@@ -1398,7 +1398,7 @@ There is no database available for search.
 [1] http://g-lishfoundation.org/wp-content/uploads/2011/02/HOW-TO-START-AN-NGO-IN-GHANA.pdf</narrative>
             </description>
             <category>GH</category>
-            <url></url>
+            <url>http://mogcsp.gov.gh/department-of-social-developments/</url>
         </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>HK-CR</code>
@@ -2437,7 +2437,7 @@ Authority" [1]
 [2] http://www.swkpk.gov.pk/</narrative>
             </description>
             <category>PK</category>
-            <url>http://www.swkpk.gov.pk/ , http://social_welfare.kp.gov.pk/</url>
+            <url>http://social_welfare.kp.gov.pk/</url>
         </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>PL-KRS</code>
@@ -2960,6 +2960,17 @@ Across those states performance varies widely and in many cases data is not avai
             <url>https://my.gov.uz/uz/regService/413</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
+            <code>XE-EXAMPLE</code>
+            <name>
+                <narrative>Example Data Prefix</narrative>
+            </name>
+            <description>
+                <narrative>List code prefix reserved for use in example data which require a valid org-id.guide prefix (e.g. for use in data validator testing).</narrative>
+            </description>
+            <category>-</category>
+            <url></url>
+        </codelist-item>
+        <codelist-item public-database="0" status="active">
             <code>XI-EORI</code>
             <name>
                 <narrative>Economic Operators Identification and Registration system</narrative>
@@ -2969,6 +2980,25 @@ Across those states performance varies widely and in many cases data is not avai
             </description>
             <category>XI</category>
             <url>http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp</url>
+        </codelist-item>
+        <codelist-item public-database="0" status="active">
+            <code>XI-GRID</code>
+            <name>
+                <narrative>Global Research Identifiers Database</narrative>
+            </name>
+            <description>
+                <narrative>The Global Research Identifiers Database collects information on research institutions and assigns them a unique identifier.
+
+It draws on information from funding datasets, and claims over 90% coverage of institutions.
+
+It records information on the nature of the research organisation, covering companies, education establishments, healthcare, non-profits, government and other entity types.
+
+GRID also records parent-child relationships between entities, and 'related relationships' for cross-linkages.
+
+It includes cross-linkages to a range of other identifier sources. </narrative>
+            </description>
+            <category>-</category>
+            <url>https://www.grid.ac/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>XI-IATI</code>
@@ -3012,6 +3042,17 @@ Data available on the following countries/regions - Brazil, European Union, Germ
             </description>
             <category>XI</category>
             <url>https://permid.org</url>
+        </codelist-item>
+        <codelist-item public-database="1" status="active">
+            <code>XI-WIKIDATA</code>
+            <name>
+                <narrative>Wikidata</narrative>
+            </name>
+            <description>
+                <narrative>Wikidata is a free knowledge base that anyone can edit. It holds linked open data about tens of millions of entities and more than one million of them are organizations. Each instition item can hold a wide range of statements, names in hundreds of languages and identifiers in other databases.</narrative>
+            </description>
+            <category>XI</category>
+            <url>https://www.wikidata.org/</url>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>XM-DAC</code>
