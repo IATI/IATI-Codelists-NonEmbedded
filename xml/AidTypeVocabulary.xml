@@ -14,7 +14,7 @@
         <narrative>OECD DAC</narrative>
       </name>
       <description>
-        <narrative>List of codes provided by the OECD DAC used to distinguish aid modalities</narrative>
+        <narrative>List of codes provided by the OECD DAC used to distinguish types of aid</narrative>
       </description>
       <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
     </codelist-item>
@@ -24,9 +24,9 @@
         <narrative>Earmarking Category</narrative>
       </name>
       <description>
-        <narrative>xxxxxxxxx</narrative>
+        <narrative>The category has been created by IATI and is derived from the Grand Bargain Earmarking Modality codelist</narrative>
       </description>
-      <url>http://iatistandard.org/203/codelists/AidTypeVocabulary/</url>
+      <url>http://iatistandard.org/203/codelists/</url>
     </codelist-item>
     <codelist-item>
       <code>3</code>
@@ -34,7 +34,7 @@
         <narrative>Earmarking Modality</narrative>
       </name>
       <description>
-        <narrative>xxxxxxxxxFound in Annex 1 (pg.16).</narrative>
+        <narrative>Codes A to L replicated directly from Grand Bargain document found in Annex 1 (pg.16)</narrative>
       </description>
       <url>https://reliefweb.int/sites/reliefweb.int/files/resources/Grand_Bargain_final_22_May_FINAL-2.pdf</url>
     </codelist-item>
