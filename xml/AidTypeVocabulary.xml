@@ -24,9 +24,9 @@
         <narrative>Earmarking Category</narrative>
       </name>
       <description>
-        <narrative>The category has been created by IATI and is derived from the Grand Bargain Earmarking Modality codelist</narrative>
+        <narrative>This vocabulary has been created by IATI and is derived from the Grand Bargain Earmarking Modality codelist</narrative>
       </description>
-      <url>http://iatistandard.org/203/codelists/</url>
+      <url>http://iatistandard.org/203/codelists/EarmarkingCategory</url>
     </codelist-item>
     <codelist-item>
       <code>3</code>
