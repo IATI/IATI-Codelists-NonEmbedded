@@ -1,4 +1,4 @@
-<codelist name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1">
+<codelist name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1" xmlns:budget-alignment="http://iatistandard.org/activity-standard/overview/country-budget-alignment/">
     <metadata>
         <name>
             <narrative>DAC 5 Digit Sector</narrative>
@@ -71,6 +71,7 @@
             <name>
                 <narrative>Basic life skills for youth and adults</narrative>
                 <narrative xml:lang="fr">Éducation pour une meilleure qualité de vie pour les jeunes et les adultes</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Formal and non-formal education for basic life skills for young people and adults (adults education); literacy and numeracy training.</narrative>
@@ -119,6 +120,7 @@
             <name>
                 <narrative>Secondary education</narrative>
                 <narrative xml:lang="fr">Enseignement secondaire</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Second cycle systematic instruction at both junior and senior levels.</narrative>
@@ -527,6 +529,7 @@
             <name>
                 <narrative>Public sector policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politiques publiques et gestion administrative</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Institution-building assistance to strengthen core public sector management systems and capacities. This includes macro-economic and other policy management, co-ordination, planning and reform; human resource management; organisational development; civil service reform; e-government; development planning, monitoring and evaluation; support to ministries involved in aid co-ordination; other ministries and government departments when sector cannot be specified. (Use specific sector codes for development of systems and capacities in sector ministries.)</narrative>
@@ -539,6 +542,7 @@
             <name>
                 <narrative>Public Finance Management (PFM)</narrative>
                 <narrative xml:lang="fr">Gestion des finances publiques</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Fiscal policy and planning; support to ministries of finance; strengthening financial and managerial accountability; public expenditure management; improving financial management systems; budget drafting; inter-governmental fiscal relations, public audit, public debt. (Use code 15114 for domestic revenue mobilisation and code 33120 for customs).</narrative>
@@ -551,6 +555,7 @@
             <name>
                 <narrative>Decentralisation and support to subnational government</narrative>
                 <narrative xml:lang="fr">Décentralisation et soutien aux administrations infranationales</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Decentralisation processes (including political, administrative and fiscal dimensions); intergovernmental relations and federalism; strengthening departments of regional and local government, regional and local authorities and their national associations. (Use specific sector codes for decentralisation of sector management and services.)</narrative>
@@ -575,6 +580,7 @@
             <name>
                 <narrative>Domestic Revenue Mobilisation</narrative>
                 <narrative xml:lang="fr">Mobilisation des ressources intérieures</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Support to domestic revenue mobilisation/tax policy, analysis and administration as well as non-tax public revenue, which includes work with ministries of finance, line ministries, revenue authorities or other local, regional or national public bodies. (Use code 16010 for social security and other social protection.)</narrative>
@@ -753,6 +759,7 @@
             <name>
                 <narrative>Legal and judicial development</narrative>
                 <narrative xml:lang="fr">Développement des services légaux et judiciaires</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Support to institutions, systems and procedures of the justice sector, both formal and informal; support to ministries of justice, the interior and home affairs; judges and courts; legal drafting services; bar and lawyers associations; professional legal education; maintenance of law and order and public safety; border management; law enforcement agencies, police, prisons and their supervision; ombudsmen; alternative dispute resolution, arbitration and mediation; legal aid and counsel; traditional, indigenous and paralegal practices that fall outside the formal legal system. Measures that support the improvement of legal frameworks, constitutions, laws and regulations; legislative and constitutional drafting and review; legal reform; integration of formal and informal systems of law. Public legal education; dissemination of information on entitlements and remedies for injustice; awareness campaigns. (Use codes 152xx for activities that are primarily aimed at supporting security system reform or undertaken in connection with post-conflict and peace building activities.)</narrative>
@@ -1137,6 +1144,7 @@
             <name>
                 <narrative>Social/ welfare services</narrative>
                 <narrative xml:lang="fr">Services sociaux</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Social legislation and administration; institution capacity building and advice; social security and other social schemes; special programmes for the elderly, orphans, the disabled, street children; social dimensions of structural adjustment; unspecified social infrastructure and services, including consumer protection.</narrative>
@@ -1257,6 +1265,7 @@
             <name>
                 <narrative>Culture and recreation</narrative>
                 <narrative xml:lang="fr">Culture et loisirs</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Including libraries and museums.</narrative>
@@ -1327,6 +1336,7 @@
             <name>
                 <narrative>Transport policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique des transports et gestion administrative</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Transport sector policy, planning and programmes; aid to transport ministries; institution capacity building and advice; unspecified transport; activities that combine road, rail, water and/or air transport. Whenever possible, report transport of goods under the sector of the good being transported.</narrative>
@@ -1375,6 +1385,7 @@
             <name>
                 <narrative>Road transport</narrative>
                 <narrative xml:lang="fr">Transport routier</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Road infrastructure, road vehicles; passenger road transport, motor passenger cars.</narrative>
@@ -1494,6 +1505,7 @@
             <name>
                 <narrative>Communications policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique des communications et gestion administrative</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Communications sector policy, planning and programmes; institution capacity building and advice; including postal services development; unspecified communications activities.</narrative>
@@ -1747,6 +1759,7 @@
             <name>
                 <narrative>Energy policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique énergétique et gestion administrative</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Energy sector policy, planning; aid to energy ministries; institution capacity building and advice; unspecified energy activities.</narrative>
@@ -2970,6 +2983,7 @@
             <name>
                 <narrative>Multisector aid</narrative>
                 <narrative xml:lang="fr">Aide plurisectorielle</narrative>
+                <budget-alignment:status>Unmappable</budget-alignment:status>
             </name>
             <description>
                 <narrative/>
@@ -2981,6 +2995,7 @@
             <name>
                 <narrative>Urban development and management</narrative>
                 <narrative xml:lang="fr">Développement et gestion urbaine</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Integrated urban development projects; local development and urban management; urban infrastructure and services; municipal finances; urban environmental management; urban development and planning; urban renewal and urban housing; land information systems.</narrative>
@@ -3017,6 +3032,7 @@
             <name>
                 <narrative>Rural development</narrative>
                 <narrative xml:lang="fr">Développement rural</narrative>
+                <budget-alignment:status>Insufficiently granular</budget-alignment:status>
             </name>
             <description>
                 <narrative>Integrated rural development projects; e.g. regional development planning; promotion of decentralised and multi-sectoral competence for planning, co-ordination and management; implementation of regional development and measures (including natural reserve management); land management; land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas; geographical information systems.</narrative>
@@ -3053,6 +3069,7 @@
             <name>
                 <narrative>Non-agricultural alternative development</narrative>
                 <narrative xml:lang="fr">Développement alternatif non agricole</narrative>
+                <budget-alignment:status>Unmappable</budget-alignment:status>
             </name>
             <description>
                 <narrative>Projects to reduce illicit drug cultivation through, for example, non-agricultural income opportunities, social and physical infrastructure (see code 31165 for agricultural alternative development).</narrative>
@@ -3065,6 +3082,7 @@
             <name>
                 <narrative>Multisector education/training</narrative>
                 <narrative xml:lang="fr">Éducation et formation plurisectorielles</narrative>
+                <budget-alignment:status>Unmappable</budget-alignment:status>
             </name>
             <description>
                 <narrative>Including scholarships.</narrative>
@@ -3077,6 +3095,7 @@
             <name>
                 <narrative>Research/scientific institutions</narrative>
                 <narrative xml:lang="fr">Institutions scientifiques et de recherche</narrative>
+                <budget-alignment:status>Unmappable</budget-alignment:status>
             </name>
             <description>
                 <narrative>When sector cannot be identified.</narrative>
@@ -3101,6 +3120,7 @@
             <name>
                 <narrative>Food aid/Food security programmes</narrative>
                 <narrative xml:lang="fr">Programmes de sécurité et d’aide alimentaire</narrative>
+                <budget-alignment:status>Unmappable</budget-alignment:status>
             </name>
             <description>
                 <narrative>Supply of edible human food under national or international programmes including transport costs; cash payments made for food supplies; project food aid and food aid for market sales when benefiting sector not specified; excluding emergency food aid. Report as multilateral: i) food aid by the EU financed out of its budget and allocated pro rata to EU member countries; and ii) core contributions to the World Food Programme.</narrative>
@@ -3331,6 +3351,7 @@
             <name>
                 <narrative>Sectors not specified</narrative>
                 <narrative xml:lang="fr">Secteur non spécifié</narrative>
+                <budget-alignment:status>Unmappable</budget-alignment:status>
             </name>
             <description>
                 <narrative>Contributions to general development of the recipient should be included under programme assistance (51010).</narrative>
