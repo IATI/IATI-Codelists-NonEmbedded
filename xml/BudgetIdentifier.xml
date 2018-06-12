@@ -4,7 +4,7 @@
             <narrative>Budget Identifier</narrative>
         </name>
         <description>
-            <narrative>IATI Functional and Administrative Common Code : One of several possible Budget Identifier Vocabularies</narrative>
+            <narrative>IATI Functional and Administrative Common Code : One of several possible Budget Identifier Vocabularies. As of version 2.03 this codelist has been deprecated.</narrative>
         </description>
     </metadata>
     <codelist-items>
