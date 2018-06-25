@@ -172,6 +172,16 @@
             <url>https://www.international-climate-initiative.com/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-MIF</code>
+            <name>
+                <narrative>Multilateral Investment Fund (MIF)</narrative>
+            </name>
+            <description>
+                <narrative>The Multilateral Investment Fund serves as an innovation laboratory to promote development through the private sector by identifying, supporting, testing and piloting new solutions to development challenges and seeking to create opportunities for the poor and vulnerable populations in the LAC region.</narrative>
+            </description>
+            <url>https://www.fomin.org/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-NSO</code>
             <name>
                 <narrative>Netherlands Space Office</narrative>
