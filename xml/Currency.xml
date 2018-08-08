@@ -154,10 +154,13 @@
             </name>
         </codelist-item>
         <codelist-item>
-            <code>BYR</code>
+            <code>BYN</code>
             <name>
                 <narrative>Belarussian Ruble</narrative>
             </name>
+            <description>
+                <narrative>Previously BYR. Codelist updated 08-08-2018.</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>BZD</code>
@@ -272,6 +275,9 @@
             <name>
                 <narrative>Kroon</narrative>
             </name>
+            <description>
+                <narrative>Removed from ISO Currency codelist</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>EGP</code>
@@ -530,12 +536,18 @@
             <name>
                 <narrative>Lithuanian Litas</narrative>
             </name>
+            <description>
+                <narrative>Removed from ISO Currency codelist</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>LVL</code>
             <name>
                 <narrative>Latvian Lats</narrative>
             </name>
+            <description>
+                <narrative>Removed from ISO Currency codelist</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>LYD</code>
@@ -586,10 +598,13 @@
             </name>
         </codelist-item>
         <codelist-item>
-            <code>MRO</code>
+            <code>MRU</code>
             <name>
                 <narrative>Ouguiya</narrative>
             </name>
+            <description>
+                <narrative>Previously MRO. Codelist updated 08-08-2018.</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>MUR</code>
@@ -814,10 +829,13 @@
             </name>
         </codelist-item>
         <codelist-item>
-            <code>STD</code>
+            <code>STN</code>
             <name>
                 <narrative>Dobra</narrative>
             </name>
+            <description>
+                <narrative>Previously STD. Codelist updated 08-08-2018.</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>SVC</code>
@@ -916,12 +934,6 @@
             </name>
         </codelist-item>
         <codelist-item>
-            <code>USS</code>
-            <name>
-                <narrative>US Dollar (Same day)</narrative>
-            </name>
-        </codelist-item>
-        <codelist-item>
             <code>UYI</code>
             <name>
                 <narrative>Uruguay Peso en Unidades Indexadas</narrative>
@@ -1012,10 +1024,13 @@
             </name>
         </codelist-item>
         <codelist-item>
-            <code>ZMK</code>
+            <code>ZMW</code>
             <name>
                 <narrative>Zambian Kwacha</narrative>
             </name>
+            <description>
+                <narrative>Previously ZMK. Codelist updated 08-08-2018.</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>ZWL</code>
