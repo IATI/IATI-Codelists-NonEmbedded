@@ -153,14 +153,20 @@
                 <narrative>Pula</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+            <code>BYR</code>
+            <name>
+                <narrative>Belarussian Ruble</narrative>
+            </name>
+            <description>
+                <narrative>Withdrawn from ISO Currency codelist. Use code BYN.</narrative>
+            </description>
+        </codelist-item>
         <codelist-item>
             <code>BYN</code>
             <name>
                 <narrative>Belarussian Ruble</narrative>
             </name>
-            <description>
-                <narrative>Previously BYR. Codelist updated 08-08-2018.</narrative>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>BZD</code>
@@ -270,13 +276,13 @@
                 <narrative>Algerian Dinar</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
             <code>EEK</code>
             <name>
                 <narrative>Kroon</narrative>
             </name>
             <description>
-                <narrative>Removed from ISO Currency codelist</narrative>
+                <narrative>Withdrawn from ISO Currency codelist</narrative>
             </description>
         </codelist-item>
         <codelist-item>
@@ -531,22 +537,22 @@
                 <narrative>Loti</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
             <code>LTL</code>
             <name>
                 <narrative>Lithuanian Litas</narrative>
             </name>
             <description>
-                <narrative>Removed from ISO Currency codelist</narrative>
+                <narrative>Withdrawn from ISO Currency codelist</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
             <code>LVL</code>
             <name>
                 <narrative>Latvian Lats</narrative>
             </name>
             <description>
-                <narrative>Removed from ISO Currency codelist</narrative>
+                <narrative>Withdrawn from ISO Currency codelist</narrative>
             </description>
         </codelist-item>
         <codelist-item>
@@ -597,15 +603,21 @@
                 <narrative>Pataca</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+            <code>MRO</code>
+            <name>
+                <narrative>Ouguiya</narrative>
+            </name>
+            <description>
+                <narrative>Withdrawn from ISO Currency codelist. Use code MRU.</narrative>
+            </description>
+        </codelist-item>
         <codelist-item>
             <code>MRU</code>
             <name>
                 <narrative>Ouguiya</narrative>
             </name>
-            <description>
-                <narrative>Previously MRO. Codelist updated 08-08-2018.</narrative>
-            </description>
-        </codelist-item>
+        </codelist-item
         <codelist-item>
             <code>MUR</code>
             <name>
@@ -828,14 +840,20 @@
                 <narrative>Surinam Dollar</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
-            <code>STN</code>
+        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+            <code>STD</code>
             <name>
                 <narrative>Dobra</narrative>
             </name>
             <description>
-                <narrative>Previously STD. Codelist updated 08-08-2018.</narrative>
+                <narrative>Withdrawn from ISO Currency codelist. Use code STN.</narrative>
             </description>
+        </codelist-item>
+        <codelist-item>
+          <code>STN</code>
+            <name>
+                <narrative>Dobra</narrative>
+            </name>
         </codelist-item>
         <codelist-item>
             <code>SVC</code>
@@ -1023,14 +1041,20 @@
                 <narrative>Rand</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+            <code>ZMK</code>
+            <name>
+                <narrative>Zambian Kwacha</narrative>
+            </name>
+            <description>
+                <narrative>Withdrawn from ISO Country codelist. Use code ZMW.</narrative>
+            </description>
+        </codelist-item>
         <codelist-item>
             <code>ZMW</code>
             <name>
                 <narrative>Zambian Kwacha</narrative>
             </name>
-            <description>
-                <narrative>Previously ZMK. Codelist updated 08-08-2018.</narrative>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>ZWL</code>
