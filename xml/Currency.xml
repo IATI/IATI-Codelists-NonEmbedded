@@ -153,7 +153,7 @@
                 <narrative>Pula</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
             <code>BYR</code>
             <name>
                 <narrative>Belarussian Ruble</narrative>
@@ -276,7 +276,7 @@
                 <narrative>Algerian Dinar</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
             <code>EEK</code>
             <name>
                 <narrative>Kroon</narrative>
@@ -537,7 +537,7 @@
                 <narrative>Loti</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
             <code>LTL</code>
             <name>
                 <narrative>Lithuanian Litas</narrative>
@@ -546,7 +546,7 @@
                 <narrative>Withdrawn from ISO Currency codelist</narrative>
             </description>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
             <code>LVL</code>
             <name>
                 <narrative>Latvian Lats</narrative>
@@ -603,7 +603,7 @@
                 <narrative>Pataca</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
             <code>MRO</code>
             <name>
                 <narrative>Ouguiya</narrative>
@@ -840,7 +840,7 @@
                 <narrative>Surinam Dollar</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
             <code>STD</code>
             <name>
                 <narrative>Dobra</narrative>
@@ -1041,7 +1041,7 @@
                 <narrative>Rand</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="08-08-2018">
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-08">
             <code>ZMK</code>
             <name>
                 <narrative>Zambian Kwacha</narrative>
