@@ -951,6 +951,12 @@
                 <narrative>US Dollar (Next day)</narrative>
             </name>
         </codelist-item>
+        <codelist-item>	
+            <code>USS</code>	
+            <name>	
+                <narrative>US Dollar (Same day)</narrative>	
+            </name>	
+        </codelist-item>
         <codelist-item>
             <code>UYI</code>
             <name>
