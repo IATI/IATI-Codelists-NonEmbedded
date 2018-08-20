@@ -951,7 +951,7 @@
                 <narrative>US Dollar (Next day)</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-08-20>	
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-20">	
             <code>USS</code>	
             <name>	
                 <narrative>US Dollar (Same day)</narrative>	
