@@ -22,7 +22,7 @@
             <name>
                 <narrative>Humanitarian Plan</narrative>
             </name>
-            <url>https://api.hpc.tools/v2/public/plan?format=xml</url>
+            <url>https://fts.unocha.org/plan-code-list-iati</url>
         </codelist-item>
         <codelist-item>
             <code>99</code>

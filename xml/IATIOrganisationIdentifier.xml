@@ -49,6 +49,16 @@
             <url>http://www.inm.gov.mz/?q=pt-pt/ag%C3%AAncia-de-desenvolvimento-do-vale-do-zambeze</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-AGR</code>
+            <name>
+                <narrative>AgResults</narrative>
+            </name>
+            <description>
+                <narrative>AgResults is a $122 million collaborative initiative between the governments of Australia, Canada, the United Kingdom, the United States, and the Bill and Melinda Gates Foundation to incentivize the private sector to overcome market barriers and develop solutions to food security and agricultural challenges that disproportionately affect people living in poverty. The initiative designs and implements agriculture-focused prize competitions, also referred to as pay-for-results or pull mechanisms, which are innovative development finance programs that engage the private sector to work towards a defined goal to receive a monetary award.</narrative>
+            </description>
+            <url>https://agresults.org/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-AIAS</code>
             <name>
                 <narrative>Administração de Infra-Estruturas de Águas e Saneamento</narrative>
@@ -142,6 +152,16 @@
             <url>http://ec.europa.eu/enlargement/index_en.htm</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-FIABEL</code>
+            <name>
+                <narrative>Federation of Institutional Actors Belgium (FIABEL)</narrative>
+            </name>
+            <description>
+                <narrative>Fiabel is a federal association that connects Institutional Actors (IA) in Belgium. Fiabel supports her members by a) fulfilling a bridging function between the Belgian Development Cooperation and the Institutional Actors, to ensure that they are fully aware of the government legal framework, procedures and initiatives; b) representing the IA in various consultative committees with government bodies; c) setting up working groups to exchange knowledge and experiences; d) organizing trainings to strengthen the capacities of IA on strategic and operational level.</narrative>
+            </description>
+            <url>https://www.fiabel.be/nl</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-IADB</code>
             <name>
                 <narrative>Inter-American Development Bank</narrative>
@@ -172,6 +192,16 @@
             <url>https://www.international-climate-initiative.com/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-MIF</code>
+            <name>
+                <narrative>Multilateral Investment Fund (MIF)</narrative>
+            </name>
+            <description>
+                <narrative>The Multilateral Investment Fund serves as an innovation laboratory to promote development through the private sector by identifying, supporting, testing and piloting new solutions to development challenges and seeking to create opportunities for the poor and vulnerable populations in the LAC region.</narrative>
+            </description>
+            <url>https://www.fomin.org/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-NSO</code>
             <name>
                 <narrative>Netherlands Space Office</narrative>
@@ -180,6 +210,16 @@
                 <narrative>The Netherlands Space Office (NSO) is the governmental space agency of the Netherlands. Its primary task is to develop and execute the national space policy. NSO is the main point of contact for national and international space affairs.</narrative>
             </description>
             <url>http://www.spaceoffice.nl/</url>
+        </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-OCHASDC</code>
+            <name>
+                <narrative>United Nations Office for the Coordination of Humanitarian Affairs - Specially-Designated Contributions</narrative>
+            </name>
+            <description>
+                <narrative>The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies. OCHA’s activities are funded mostly through voluntary contributions from UN Member States, these contributions are reported under the IATI organisation ID XM-DAC-41127. OCHA also administers several Specially-Designated Contributions (SDCs) for projects implemented by third parties. Activities funded through SDCs will be reported under the IATI organisation ID XI-IATI-OCHASDC.</narrative>
+            </description>
+            <url>https://www.unocha.org/about-us/funding</url>
         </codelist-item>
         <codelist-item>
             <code>XI-IATI-UNPF</code>
