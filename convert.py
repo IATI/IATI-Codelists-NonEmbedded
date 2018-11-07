@@ -258,5 +258,5 @@ source_to_xml('Sector', None, lookup, source_data=sectors)
 source_path = join('source', 'recipients.csv')
 with open(source_path) as f:
     reader = csv.DictReader(f)
-    regions = [x for x in reader if x['income_group'] == '']
+    regions = [x for x in reader if x['income_group'] == 'Unallocated by income']
 source_to_xml('Region', None, lookup, source_data=regions)
