@@ -109,7 +109,7 @@ def source_to_xml(tmpl_name, source_name, lookup, source_data=None):
         old_codelist_code = old_codelist_el.find('code').text.upper()
         # peek at the first code
         if source_data_dict:
-            new_code_dict = source_data_dict.values()[0]
+            new_code_dict = list(source_data_dict.values())[0]
             if new_code_dict['code'].upper() != old_codelist_code and not old_xml.xpath('//codelist-item/code[text()="{}"]/..'.format(new_code_dict['code'])):
                 # add a new code, with activation date of today
                 new_codelist_item = create_codelist_item(new_code_dict.keys())
