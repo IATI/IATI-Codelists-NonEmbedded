@@ -89,7 +89,7 @@
             <code>600</code>
             <name>
                 <narrative>DEBT RELIEF</narrative>
-                <narrative xml:lang="fr">DEBT RELIEF</narrative>
+                <narrative xml:lang="fr">ALLEGEMENT DE LA DETTE</narrative>
             </name>
             <description>
                 <narrative>Debt cancellations, debt conversions, debt rescheduling within or outside the framework of the Paris Club.</narrative>
@@ -126,7 +126,7 @@
             <code>1000</code>
             <name>
                 <narrative>GUARANTEES AND OTHER UNFUNDED CONTINGENT LIABILITIES</narrative>
-                <narrative xml:lang="fr">GUARANTEES AND OTHER UNFUNDED CONTINGENT LIABILITIES</narrative>
+                <narrative xml:lang="fr">GARANTIES ET AUTRES ENGAGEMENTS CONDITIONNELS NON PROVISIONNÉS</narrative>
             </name>
             <description>
                 <narrative/>

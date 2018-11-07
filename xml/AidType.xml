@@ -180,7 +180,7 @@
             <code>H02</code>
             <name>
                 <narrative>Refugees in donor countries</narrative>
-                <narrative xml:lang="fr">Aide aux réfugiés dans le pays</narrative>
+                <narrative xml:lang="fr">Aide aux réfugiés dans le pays donneur</narrative>
             </name>
             <description>
                 <narrative>Official sector expenditures for the sustenance of refugees in donor countries during the first twelve months of their stay.</narrative>

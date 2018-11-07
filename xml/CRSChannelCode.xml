@@ -458,7 +458,7 @@
             <code>21027</code>
             <name>
                 <narrative>ITF Enhancing Human Security</narrative>
-                <narrative xml:lang="fr">ITF Améliorer la sécurité humaine</narrative>
+                <narrative xml:lang="fr">Fonds international d’affectation spéciale pour le déminage et l’assistance aux victimes des mines</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -556,7 +556,7 @@
             <code>23501</code>
             <name>
                 <narrative>National Red Cross and Red Crescent Societies</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Sociétés nationales de la Croix-Rouge et du Croissant-Rouge</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -592,6 +592,13 @@
             <name>
                 <narrative>Cities Alliance</narrative>
                 <narrative xml:lang="fr">Alliance pour les villes</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>31006</code>
+            <name>
+                <narrative>Coalition for Epidemic Preparedness Innovations</narrative>
+                <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -916,6 +923,13 @@
                 <narrative xml:lang="fr">Programme commun des Nations Unies sur le VIH/SIDA</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>41320</code>
+            <name>
+                <narrative>Technology Bank for Least Developed Countries</narrative>
+                <narrative xml:lang="fr">Banque de Technologies en faveur des Pays les Moins Avancés</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
             <code>41305</code>
             <name>
@@ -1228,7 +1242,7 @@
             <code>41319</code>
             <name>
                 <narrative>World Tourism Organization</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Organisation mondiale du tourisme</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1445,7 +1459,7 @@
             <code>46026</code>
             <name>
                 <narrative>Asian Infrastructure Investment Bank</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Banque Asiatique d’Investissement dans les Infrastructures</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1761,6 +1775,13 @@
             <name>
                 <narrative>European and Mediterranean Plant Protection Organisation</narrative>
                 <narrative xml:lang="fr">Organisation Européenne et Méditerranéenne pour la Protection des Plantes</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>47400</code>
+            <name>
+                <narrative>European Space Agency (ESA) programme “Space in support of International Development Aid”</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -2438,11 +2459,11 @@
         <codelist-item status="active" activation-date="2017-03-31">
             <code>61001</code>
             <name>
-                <narrative>Private bank in provider country</narrative>
-                <narrative xml:lang="fr">Banque privée dans le pays donneur</narrative>
+                <narrative>Banks (deposit taking corporations)</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
-        <codelist-item status="active" activation-date="2017-03-31">
+        <codelist-item status="withdrawn" activation-date="2017-03-31" withdrawal-date="2018-07-06">
             <code>61002</code>
             <name>
                 <narrative>Private exporter in provider country</narrative>
@@ -2452,15 +2473,57 @@
         <codelist-item status="active" activation-date="2017-03-31">
             <code>61003</code>
             <name>
-                <narrative>Private investor in provider country</narrative>
-                <narrative xml:lang="fr">Investisseur privé dans le pays donneur</narrative>
+                <narrative>Investment funds and other collective investment institutions</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-03-31">
             <code>61004</code>
             <name>
-                <narrative>Other non-bank entity in provider country</narrative>
-                <narrative xml:lang="fr">Autre entité non-bancaire dans le pays donneur</narrative>
+                <narrative>Holding companies, trusts and Special Purpose Vehicles</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>61005</code>
+            <name>
+                <narrative>Insurance Corporations</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>61006</code>
+            <name>
+                <narrative>Pension Funds</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>61007</code>
+            <name>
+                <narrative>Other financial corporations</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>61008</code>
+            <name>
+                <narrative>Exporters</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>61009</code>
+            <name>
+                <narrative>Other non-financial corporations</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>61010</code>
+            <name>
+                <narrative>Retail investors</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-03-31">
@@ -2473,22 +2536,71 @@
         <codelist-item status="active" activation-date="2017-03-31">
             <code>62001</code>
             <name>
-                <narrative>Private bank in recipient country</narrative>
-                <narrative xml:lang="fr">Banque privée dans le pays bénéficiaire</narrative>
+                <narrative>Banks (deposit taking corporations except Micro Finance Institutions)</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-03-31">
             <code>62002</code>
             <name>
-                <narrative>Joint-venture in recipient country</narrative>
-                <narrative xml:lang="fr">Co-entreprise dans le pays bénéficiaire</narrative>
+                <narrative>Micro Finance Institutions (deposit and non-deposit)</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-03-31">
             <code>62003</code>
             <name>
-                <narrative>Other non-bank in recipient country</narrative>
-                <narrative xml:lang="fr">Autre entité non-bancaire dans le pays bénéficiaire</narrative>
+                <narrative>Investment funds and other collective investment institutions</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>62004</code>
+            <name>
+                <narrative>Holding companies, trusts and Special Purpose Vehicles</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>62005</code>
+            <name>
+                <narrative>Insurance Corporations</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>62006</code>
+            <name>
+                <narrative>Pension Funds</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>62007</code>
+            <name>
+                <narrative>Other financial corporations</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>62008</code>
+            <name>
+                <narrative>Importers/Exporters</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>62009</code>
+            <name>
+                <narrative>Other non-financial corporations</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>62010</code>
+            <name>
+                <narrative>Retail investors</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-03-31">
@@ -2501,15 +2613,71 @@
         <codelist-item status="active" activation-date="2017-03-31">
             <code>63001</code>
             <name>
-                <narrative>Private bank in third country</narrative>
-                <narrative xml:lang="fr">Banque privée d'un pays tiers</narrative>
+                <narrative>Banks (deposit taking corporations except Micro Finance Institutions)</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-03-31">
             <code>63002</code>
             <name>
-                <narrative>Private non-bank in third country</narrative>
-                <narrative xml:lang="fr">Secteur privé non-bancaire dans un pays tiers</narrative>
+                <narrative>Micro Finance Institutions (deposit and non-deposit)</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>63003</code>
+            <name>
+                <narrative>Investment funds and other collective investment institutions</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>63004</code>
+            <name>
+                <narrative>Holding companies, trusts and Special Purpose Vehicles</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>63005</code>
+            <name>
+                <narrative>Insurance Corporations</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>63006</code>
+            <name>
+                <narrative>Pension Funds</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>63007</code>
+            <name>
+                <narrative>Other financial corporations</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>63008</code>
+            <name>
+                <narrative>Exporters</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>63009</code>
+            <name>
+                <narrative>Other non-financial corporations</narrative>
+                <narrative xml:lang="fr"/>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2018-07-06">
+            <code>63010</code>
+            <name>
+                <narrative>Retail investors</narrative>
+                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-03-31">
