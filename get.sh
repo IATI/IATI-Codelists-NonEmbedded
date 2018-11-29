@@ -1,1 +1,1 @@
-wget "https://www.iana.org/assignments/media-types/media-types.xml" -O source/media-types.xml
+wget "http://org-id.guide/download.xml" -O source/org-id-guide.xml
