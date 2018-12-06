@@ -951,10 +951,10 @@
                 <narrative>US Dollar (Next day)</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2018-08-20">	
-            <code>USS</code>	
-            <name>	
-                <narrative>US Dollar (Same day)</narrative>	
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-20">
+            <code>USS</code>
+            <name>
+                <narrative>US Dollar (Same day)</narrative>
             </name>
             <description>
                 <narrative>Withdrawn from ISO Currency codelist.</narrative>
@@ -978,10 +978,16 @@
                 <narrative>Uzbekistan Sum</narrative>
             </name>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2018-08-20">
             <code>VEF</code>
             <name>
                 <narrative>Bolivar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>VES</code>
+            <name>
+                <narrative>Bolivar Soberano</narrative>
             </name>
         </codelist-item>
         <codelist-item>
