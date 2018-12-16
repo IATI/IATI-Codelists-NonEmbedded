@@ -1,4 +1,4 @@
-<codelist name="CRSAddOtherFlags" xml:lang="en" complete="1">
+<codelist name="CRSAddOtherFlags" xml:lang="en" complete="1" embedded="0">
     <metadata>
         <name>
             <narrative>CRS Additional Other Flags</narrative>
