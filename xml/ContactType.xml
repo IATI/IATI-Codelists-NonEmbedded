@@ -1,4 +1,4 @@
-<codelist name="ContactType" xml:lang="en" complete="1">
+<codelist name="ContactType" xml:lang="en" complete="1" embedded="0">
     <metadata>
         <name>
             <narrative>Contact Type</narrative>

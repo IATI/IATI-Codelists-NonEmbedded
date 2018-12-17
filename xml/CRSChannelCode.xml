@@ -1,4 +1,4 @@
-<codelist name="CRSChannelCode" xml:lang="en" complete="1">
+<codelist name="CRSChannelCode" xml:lang="en" complete="1" embedded="0">
     <metadata>
         <name>
             <narrative>CRS Channel Code</narrative>

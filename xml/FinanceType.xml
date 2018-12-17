@@ -1,4 +1,4 @@
-<codelist name="FinanceType" xml:lang="en" category-codelist="FinanceType-category" complete="1">
+<codelist name="FinanceType" xml:lang="en" category-codelist="FinanceType-category" complete="1" embedded="0">
     <metadata>
         <name>
             <narrative>Finance Type</narrative>
