@@ -38,7 +38,7 @@
             </name>
             <description>
                 <narrative>Teacher education (where the level of education is unspecified); in-service and pre-service training; materials development.</narrative>
-                <narrative xml:lang="fr">Éducation des enseignants (quand le niveau d’éducation n’est pas spécifié) ; formation et formation continue ; développement des matériels pédagogiques.  </narrative>
+                <narrative xml:lang="fr">Éducation des enseignants (quand le niveau d’éducation n’est pas spécifié) ; formation et formation continue ; développement des matériels pédagogiques.</narrative>
             </description>
             <category>111</category>
         </codelist-item>
@@ -1634,7 +1634,7 @@
             </name>
             <description>
                 <narrative>Computer hardware and software; internet access; IT training.  When sector cannot be specified.</narrative>
-                <narrative xml:lang="fr">Matériel informatique et logiciels ; accès Internet ; formations aux TI. Lorsque le secteur ne peut pas être spécifié.  </narrative>
+                <narrative xml:lang="fr">Matériel informatique et logiciels ; accès Internet ; formations aux TI. Lorsque le secteur ne peut pas être spécifié.</narrative>
             </description>
             <category>220</category>
         </codelist-item>

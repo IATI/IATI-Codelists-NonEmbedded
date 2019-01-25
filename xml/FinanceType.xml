@@ -220,7 +220,7 @@
                 <narrative xml:lang="fr">Don remboursable</narrative>
             </name>
             <description>
-                <narrative>A contribution provided to a recipient institution for investment purposes, with the expectation of long-term reflows at conditions specified in the financing agreement. The provider assumes the risk of total or partial failure of the investment; it can also decide if and when to reclaim its investment.  </narrative>
+                <narrative>A contribution provided to a recipient institution for investment purposes, with the expectation of long-term reflows at conditions specified in the financing agreement. The provider assumes the risk of total or partial failure of the investment; it can also decide if and when to reclaim its investment.</narrative>
                 <narrative xml:lang="fr">Contribution fournie à une institution bénéficiaire à des fins d'investissement, dans une perspective de remboursement à long-terme à des conditions spécifiées dans l'accord de financement. Le fournisseur assume le risque partiel ou total de faillite de l'investissement ; il peut aussi décider si et quand il récupère son investissement.</narrative>
             </description>
             <category>420</category>
