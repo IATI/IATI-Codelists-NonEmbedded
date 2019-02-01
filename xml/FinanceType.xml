@@ -45,7 +45,7 @@
             </description>
             <category>1000</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>111</code>
             <name>
                 <narrative>Subsidies to national private investors</narrative>
@@ -81,7 +81,7 @@
             </description>
             <category>100</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>211</code>
             <name>
                 <narrative>Interest subsidy to national private exporters</narrative>
@@ -141,7 +141,7 @@
             </description>
             <category>0</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>410</code>
             <name>
                 <narrative>Aid loan excluding debt reorganisation</narrative>
@@ -153,7 +153,7 @@
             </description>
             <category>400</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>411</code>
             <name>
                 <narrative>Investment-related loan to developing countries</narrative>
@@ -165,7 +165,7 @@
             </description>
             <category>400</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>412</code>
             <name>
                 <narrative>Loan in a joint venture with the recipient</narrative>
@@ -177,7 +177,7 @@
             </description>
             <category>400</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>413</code>
             <name>
                 <narrative>Loan to national private investor</narrative>
@@ -189,7 +189,7 @@
             </description>
             <category>400</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>414</code>
             <name>
                 <narrative>Loan to national private exporter</narrative>
@@ -297,7 +297,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>451</code>
             <name>
                 <narrative>Non-banks guaranteed export credits</narrative>
@@ -309,7 +309,7 @@
             </description>
             <category>450</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>452</code>
             <name>
                 <narrative>Non-banks non-guaranteed portions of guaranteed export credits</narrative>
@@ -321,7 +321,7 @@
             </description>
             <category>400</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>453</code>
             <name>
                 <narrative>Bank export credits</narrative>
@@ -345,7 +345,7 @@
             </description>
             <category>500</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>511</code>
             <name>
                 <narrative>Acquisition of equity not part of joint venture in developing countries</narrative>
@@ -357,7 +357,7 @@
             </description>
             <category>500</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>512</code>
             <name>
                 <narrative>Other acquisition of equity</narrative>
@@ -717,7 +717,7 @@
             </description>
             <category>600</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>710</code>
             <name>
                 <narrative>Foreign direct investment, new capital outflow (includes reinvested earnings if separate identification not available)</narrative>
@@ -729,7 +729,7 @@
             </description>
             <category>700</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>711</code>
             <name>
                 <narrative>Other foreign direct investment, including reinvested earnings</narrative>
@@ -741,7 +741,7 @@
             </description>
             <category>700</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>712</code>
             <name>
                 <narrative>Foreign direct investment, reinvested earnings</narrative>
@@ -753,7 +753,7 @@
             </description>
             <category>700</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>810</code>
             <name>
                 <narrative>Bank bonds</narrative>
@@ -765,7 +765,7 @@
             </description>
             <category>800</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>811</code>
             <name>
                 <narrative>Non-bank  bonds</narrative>
@@ -777,7 +777,7 @@
             </description>
             <category>800</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>910</code>
             <name>
                 <narrative>Other bank securities/claims</narrative>
@@ -789,7 +789,7 @@
             </description>
             <category>900</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>911</code>
             <name>
                 <narrative>Other non-bank securities/claims</narrative>
@@ -801,7 +801,7 @@
             </description>
             <category>900</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>912</code>
             <name>
                 <narrative>Purchase of securities from issuing agencies</narrative>
@@ -813,7 +813,7 @@
             </description>
             <category>900</category>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>913</code>
             <name>
                 <narrative>Securities and other instruments originally issued by multilateral agencies</narrative>

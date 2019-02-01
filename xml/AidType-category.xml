@@ -16,8 +16,8 @@
                 <narrative xml:lang="fr">Soutien budgétaire</narrative>
             </name>
             <description>
-                <narrative>Budget support</narrative>
-                <narrative xml:lang="fr">Soutien budgétaire</narrative>
+                <narrative>For contributions under this category, the donor relinquishes the exclusive control of its funds by sharing the responsibility with the recipient.</narrative>
+                <narrative xml:lang="fr">Pour les contributions relevant de cette catégorie, le donneur renonce au contrôle exclusif des fonds qu’il octroie en partageant cette responsabilité avec le bénéficiaire.</narrative>
             </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -27,8 +27,8 @@
                 <narrative xml:lang="fr">Contributions aux budgets réguliers des organisations, programmes et financements groupés</narrative>
             </name>
             <description>
-                <narrative>Core contributions and pooled programmes and funds</narrative>
-                <narrative xml:lang="fr">Contributions aux budgets réguliers des organisations, programmes et financements groupés</narrative>
+                <narrative>For contributions under this category, the donor relinquishes the exclusive control of its funds by sharing the responsibility with other stakeholders (other donors, NGOs, multilateral institutions, Public Private Partnerships). The category covers both core contributions (B01 and B02), and pooled contributions with a specific earmarking (B03 and B04).</narrative>
+                <narrative xml:lang="fr">Pour les contributions relevant de cette catégorie, le donneur renonce au contrôle exclusif des fonds qu’il octroie en partageant cette responsabilité avec d’autres acteurs (autres donneurs, ONG, institutions multilatérales, partenariats public-privé). La catégorie couvre à la fois les contributions aux budgets réguliers des organisations (B01 et B02) et les contributions groupées préaffectées à un objectif spécifique (B03 et B04).</narrative>
             </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -38,8 +38,8 @@
                 <narrative xml:lang="fr">Interventions de type projet</narrative>
             </name>
             <description>
-                <narrative>Project-type interventions</narrative>
-                <narrative xml:lang="fr">Interventions de type projet</narrative>
+                <narrative>N.B.  Within this category, members able to do so are requested to report the aggregate amount used for financing donor experts/consultants on Table DAC11. Where the activity consists solely of experts’ costs, report under category D.</narrative>
+                <narrative xml:lang="fr">N.B.  Dans cette catégorie, les membres qui le peuvent notifieront dans le tableau CAD1 le montant total dédié au financement d’experts/consultants du pays donneur.1Lorsque l’activité consiste uniquement en des frais d’experts, notifier sous la catégorie D.</narrative>
             </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -49,8 +49,8 @@
                 <narrative xml:lang="fr">Experts et autres formes d’assistance technique</narrative>
             </name>
             <description>
-                <narrative>Experts and other technical assistance</narrative>
-                <narrative xml:lang="fr">Experts et autres formes d’assistance technique</narrative>
+                <narrative>This category covers the provision, outside projects as described in category C, of know-how in the form of personnel, training and research.</narrative>
+                <narrative xml:lang="fr">Cette catégorie couvre l’apport, en dehors de projets tels qu’ils sont définis dans la catégorie C01, de savoir-faire sous forme de personnel, de formation et d’activités de recherche.</narrative>
             </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -60,8 +60,8 @@
                 <narrative xml:lang="fr">Bourses et autres frais d’étude dans les pays donneurs</narrative>
             </name>
             <description>
-                <narrative>Scholarships and student costs in donor countries</narrative>
-                <narrative xml:lang="fr">Bourses et autres frais d’étude dans les pays donneurs</narrative>
+                <narrative/>
+                <narrative xml:lang="fr"/>
             </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -71,8 +71,8 @@
                 <narrative xml:lang="fr">Allégement de la dette</narrative>
             </name>
             <description>
-                <narrative>Debt relief</narrative>
-                <narrative xml:lang="fr">Allégement de la dette</narrative>
+                <narrative/>
+                <narrative xml:lang="fr"/>
             </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -82,8 +82,8 @@
                 <narrative xml:lang="fr">Frais administratifs non inclus ailleurs</narrative>
             </name>
             <description>
-                <narrative>Administrative costs not included elsewhere</narrative>
-                <narrative xml:lang="fr">Frais administratifs non inclus ailleurs</narrative>
+                <narrative/>
+                <narrative xml:lang="fr"/>
             </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -93,8 +93,8 @@
                 <narrative xml:lang="fr">Autres dépenses dans le pays donneur</narrative>
             </name>
             <description>
-                <narrative>Other in-donor expenditures</narrative>
-                <narrative xml:lang="fr">Autres dépenses dans le pays donneur</narrative>
+                <narrative>Groups a number of contributions that do not give rise to a cross-border flow.</narrative>
+                <narrative xml:lang="fr">Regroupe diverses contributions qui n’entraînent pas de mouvement de fonds transnationaux.</narrative>
             </description>
         </codelist-item>
     </codelist-items>

@@ -20,7 +20,7 @@
                 <narrative xml:lang="fr">Aide Publique au Développement</narrative>
             </description>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>20</code>
             <name>
                 <narrative>OOF</narrative>
@@ -64,7 +64,7 @@
                 <narrative xml:lang="fr">Financement par les organisations de la société civile (ONG, fondations philantropiques, etc.)</narrative>
             </description>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2015-01-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>35</code>
             <name>
                 <narrative>Private Market</narrative>
