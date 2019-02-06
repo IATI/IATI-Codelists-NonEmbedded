@@ -212,6 +212,16 @@
             <url>https://www.international-climate-initiative.com/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-LPI</code>
+            <name>
+                <narrative>Living Peace Institute</narrative>
+            </name>
+            <description>
+                <narrative>The Living Peace Institute (LPI) is a local NGO, based in Goma, Democratic Republic of Congo (DRC), and organized around the goal of achieving sustainable, gender-equitable peace at all levels of society in North and South Kivu regions of Eastern DRC.</narrative>
+            </description>
+            <url>http://www.livingpeaceinstitute.org/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-MIF</code>
             <name>
                 <narrative>Multilateral Investment Fund (MIF)</narrative>
@@ -240,6 +250,16 @@
                 <narrative>The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies. OCHA’s activities are funded mostly through voluntary contributions from UN Member States, these contributions are reported under the IATI organisation ID XM-DAC-41127. OCHA also administers several Specially-Designated Contributions (SDCs) for projects implemented by third parties. Activities funded through SDCs will be reported under the IATI organisation ID XI-IATI-OCHASDC.</narrative>
             </description>
             <url>https://www.unocha.org/about-us/funding</url>
+        </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-UDC</code>
+            <name>
+                <narrative>United Darfur Committees</narrative>
+            </name>
+            <description>
+                <narrative>United Darfur Committees is a non-governmental and non-profit organization established by committees of seven villages in East Dafur State, Sudan, to solve community conflict and assist the people in need.</narrative>
+            </description>
+            <url>https://twitter.com/UnitedDarfur</url>
         </codelist-item>
         <codelist-item>
             <code>XI-IATI-UNPF</code>
