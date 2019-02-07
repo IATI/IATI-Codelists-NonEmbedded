@@ -13,6 +13,7 @@
             <description>
                 <narrative>Supra-national regions according to OECD DAC CRS recipient codes</narrative>
             </description>
+            <url>http://reference.iatistandard.org/codelists/Region/</url>
         </codelist-item>
         <codelist-item>
             <code>2</code>
@@ -20,8 +21,9 @@
                 <narrative>UN</narrative>
             </name>
             <description>
-                <narrative>Supra-national regions maintained by UN Statistics Division</narrative>
+                <narrative>Supra-national regions maintained by UN Statistics Division (M49 standard)</narrative>
             </description>
+            <url>https://unstats.un.org/unsd/methodology/m49/</url>
         </codelist-item>
         <codelist-item>
             <code>99</code>
