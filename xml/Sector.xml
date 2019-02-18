@@ -2874,6 +2874,18 @@
             </description>
             <category>410</category>
         </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2017-12-31">
+            <code>41050</code>
+            <name>
+                <narrative>Flood prevention/control</narrative>
+                <narrative xml:lang="fr">Prévention et lutte contre les inondations</narrative>
+            </name>
+            <description>
+                <narrative>Floods from rivers or the sea; including sea water intrusion control and sea level rise related activities.</narrative>
+                <narrative xml:lang="fr">Inondations de la mer et des rivières ; y compris la lutte contre l’avancée et la montée du niveau de l’eau de la mer.</narrative>
+            </description>
+            <category>410</category>
+        </codelist-item>
         <codelist-item status="active">
             <code>41081</code>
             <name>
@@ -3090,6 +3102,18 @@
             </description>
             <category>520</category>
         </codelist-item>
+        <codelist-item status="withdrawn" activation-date="2018-01-01">
+            <code>52020</code>
+            <name>
+                <narrative>Household food security programmes</narrative>
+                <narrative xml:lang="fr">Household food security programmes</narrative>
+            </name>
+            <description>
+                <narrative>Short or longer term programmes that improve the access of households to nutritionally adequate diets.</narrative>
+                <narrative xml:lang="fr"/>
+            </description>
+            <category>520</category>
+        </codelist-item>
         <codelist-item status="active">
             <code>53030</code>
             <name>
@@ -3245,6 +3269,18 @@
                 <narrative xml:lang="fr">Réhabilitation sociale et économique à la suite des situations d’urgence pour faciliter le rétablissement et le renforcement de la résilience et permettre aux populations de retrouver leurs moyens de subsistance à la suite d’une situation d’urgence (par exemple, conseils et traitements en traumatologie, programmes d’emploi). Comprend les infrastructures nécessaires à la livraison de l'aide humanitaire; la restauration des infrastructures et des installations essentielles préexistantes (par exemple, eau et assainissement, abris, services de soins de santé, éducation); la réhabilitation des intrants agricoles de base et du bétail. Ne comprend pas la reconstruction à plus long terme («reconstruire mieux») qui doit être rapportée dans les secteurs pertinents.</narrative>
             </description>
             <category>730</category>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2017-12-31">
+            <code>74010</code>
+            <name>
+                <narrative>Disaster prevention and preparedness</narrative>
+                <narrative xml:lang="fr">Prévention des catastrophes et préparation à leur survenue</narrative>
+            </name>
+            <description>
+                <narrative>Disaster risk reduction activities (e.g. developing knowledge, natural risks cartography, legal norms for construction); early warning systems; emergency contingency stocks and contingency planning including preparations for forced displacement.</narrative>
+                <narrative xml:lang="fr">Activités visant à réduire les risques liés aux catastrophes (par exemple développement des connaissances, établissement d’une cartographie des risques naturels, de normes juridiques pour les constructions) ; systèmes d’alerte précoce, stocks d’urgence et planification d’urgence, y compris préparation à une évacuation.</narrative>
+            </description>
+            <category>740</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>74020</code>
