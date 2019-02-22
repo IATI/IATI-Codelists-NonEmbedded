@@ -3102,18 +3102,6 @@
             </description>
             <category>520</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2018-01-01">
-            <code>52020</code>
-            <name>
-                <narrative>Household food security programmes</narrative>
-                <narrative xml:lang="fr">Household food security programmes</narrative>
-            </name>
-            <description>
-                <narrative>Short or longer term programmes that improve the access of households to nutritionally adequate diets.</narrative>
-                <narrative xml:lang="fr"/>
-            </description>
-            <category>520</category>
-        </codelist-item>
         <codelist-item status="active">
             <code>53030</code>
             <name>
