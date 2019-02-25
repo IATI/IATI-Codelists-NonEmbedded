@@ -172,6 +172,16 @@
             <url>http://ec.europa.eu/enlargement/index_en.htm</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-EFRD</code>
+            <name>
+                <narrative>Engage Foundation for Research and Dialogue</narrative>
+            </name>
+            <description>
+                <narrative>Engage Foundation for Research and Dialogue is a research and discourse generation collective that was established in 2015 and seeks to approach issues of human rights, citizenship and democratization in an interdisciplinary and inter-sectional manner with the hope that a nuanced and sensitive exploration of relevant issues will lead to engagement with an audience beyond the privileged English speaking minority of Pakistan. Engage attempts to present dense or overlooked subjects of public importance in captivating audio and visual formats with the hope that exposure to such subjects will lead to a broader public understanding of life in a modern democratic state.</narrative>
+            </description>
+            <url>http://engagepakistan.com/engage/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-FIABEL</code>
             <name>
                 <narrative>Federation of Institutional Actors Belgium (FIABEL)</narrative>
