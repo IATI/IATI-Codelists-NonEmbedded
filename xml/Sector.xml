@@ -381,7 +381,7 @@
         <codelist-item status="active" activation-date="2018-01-01">
             <code>12340</code>
             <name>
-                <narrative>Promotion of mental health and well-being </narrative>
+                <narrative>Promotion of mental health and well-being</narrative>
                 <narrative xml:lang="fr">Promotion de la santé mentale et du bien-être</narrative>
             </name>
             <description>
@@ -554,7 +554,7 @@
             </name>
             <description>
                 <narrative>Rural water supply schemes using handpumps, spring catchments, gravity-fed systems, rainwater collection and fog harvesting, storage tanks, small distribution systems typically with shared connections/points of use. Urban schemes using handpumps and local neighbourhood networks including those with shared connections.</narrative>
-                <narrative xml:lang="fr">Dispositifs ruraux d’approvisionnement en eau reposant sur des pompes manuelles, des captages de sources, des systèmes par gravité, la collecte des eaux de pluie et de brouillard, des citernes, des systèmes simplifiés de distribution avec points d’eau collectifs/branchements partagés. Dispositifs urbains utilisant des pompes manuelles et mini-réseaux, y compris ceux avec branchements partagés et bornes-fontaines. </narrative>
+                <narrative xml:lang="fr">Dispositifs ruraux d’approvisionnement en eau reposant sur des pompes manuelles, des captages de sources, des systèmes par gravité, la collecte des eaux de pluie et de brouillard, des citernes, des systèmes simplifiés de distribution avec points d’eau collectifs/branchements partagés. Dispositifs urbains utilisant des pompes manuelles et mini-réseaux, y compris ceux avec branchements partagés et bornes-fontaines.</narrative>
             </description>
             <category>140</category>
         </codelist-item>
@@ -578,7 +578,7 @@
             </name>
             <description>
                 <narrative>Infrastructure-focused integrated river basin projects and related institutional activities; river flow control; dams and reservoirs [excluding dams primarily for irrigation (31140) and hydropower (23220) and activities related to river transport (21040)].</narrative>
-                <narrative xml:lang="fr">Projets de bassins fluviaux centrés sur les infrastructures et activités institutionnelles connexes ; régulation des cours d’eau ; barrages et réservoirs [à l’exclusion des barrages hydroélectriques (23220) et barrages pour l’irrigation (31140) et activités liées au transport fluvial (21040)]. </narrative>
+                <narrative xml:lang="fr">Projets de bassins fluviaux centrés sur les infrastructures et activités institutionnelles connexes ; régulation des cours d’eau ; barrages et réservoirs [à l’exclusion des barrages hydroélectriques (23220) et barrages pour l’irrigation (31140) et activités liées au transport fluvial (21040)].</narrative>
             </description>
             <category>140</category>
         </codelist-item>
