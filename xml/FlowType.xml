@@ -9,7 +9,7 @@
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
     </metadata>
     <codelist-items>
-        <codelist-item>
+        <codelist-item status="active">
             <code>10</code>
             <name>
                 <narrative>ODA</narrative>
@@ -20,7 +20,7 @@
                 <narrative xml:lang="fr">Aide Publique au Développement</narrative>
             </description>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2017-03-17">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>20</code>
             <name>
                 <narrative>OOF</narrative>
@@ -31,91 +31,91 @@
                 <narrative xml:lang="fr">Autres Apports du Secteur Public</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2016-01-01">
             <code>21</code>
             <name>
                 <narrative>Non-export credit OOF</narrative>
                 <narrative xml:lang="fr">AASP hors crédits-export</narrative>
             </name>
             <description>
-                <narrative>Other Official Flows, excl. export credits.</narrative>
-                <narrative xml:lang="fr">Autres Apports du Secteur Public, à l'exclusion des crédits à  l'exportation</narrative>
+                <narrative>Other Official Flows, excl. export credits</narrative>
+                <narrative xml:lang="fr">Autres Apports du Secteur Public, à l'exclusion des crédits à l'exportation</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2016-01-01">
             <code>22</code>
             <name>
                 <narrative>Officially supported export credits</narrative>
                 <narrative xml:lang="fr">AASP dont crédits export</narrative>
             </name>
             <description>
-                <narrative>Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance.</narrative>
-                <narrative xml:lang="fr">Autres Apports du Secteur Public. comprenant les crédits à  l'exportation soutenus par le secteur public et les exportations privées bénéficiant de garantie ou d'assurance publiques.</narrative>
+                <narrative>Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance</narrative>
+                <narrative xml:lang="fr">Autres Apports du Secteur Public, comprenant les crédits à l'exportation soutenus par le secteur public et les exportations privées bénéficiant de garantie ou d'assurance publiques</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>30</code>
             <name>
-                <narrative>Private grants</narrative>
-                <narrative xml:lang="fr">Dons privés</narrative>
+                <narrative>Private Development Finance</narrative>
+                <narrative xml:lang="fr">Financement du développement privé</narrative>
             </name>
             <description>
-                <narrative>made by NGOs and other civil society organisations (e.e. philantropic foundations) based in the reporting DAC country</narrative>
-                <narrative xml:lang="fr">Dons fournis par les ONG et autres organismes privés (par exemple fondations philantropiques) résidents dans le pays donneur</narrative>
+                <narrative>Financing by civil society organisations (NGOs, philantropic foundations, etc.)</narrative>
+                <narrative xml:lang="fr">Financement par les organisations de la société civile (ONG, fondations philantropiques, etc.)</narrative>
             </description>
         </codelist-item>
-        <codelist-item status="withdrawn" withdrawal-date="2017-12-01">
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>35</code>
             <name>
-                <narrative>Private market</narrative>
+                <narrative>Private Market</narrative>
                 <narrative xml:lang="fr">Apports privés aux conditions du marché</narrative>
             </name>
             <description>
-                <narrative>Private market</narrative>
+                <narrative>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries</narrative>
                 <narrative xml:lang="fr">Apports privés aux conditions du marché</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2016-01-01">
             <code>36</code>
             <name>
                 <narrative>Private Foreign Direct Investment</narrative>
                 <narrative xml:lang="fr">IDE</narrative>
             </name>
             <description>
-                <narrative>Private Foreign Direct Investment.</narrative>
+                <narrative>Private Foreign Direct Investment</narrative>
                 <narrative xml:lang="fr">Investissements directs à l'étranger</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2016-01-01">
             <code>37</code>
             <name>
                 <narrative>Other Private flows at market terms</narrative>
                 <narrative xml:lang="fr">Autres apports privés aux conditions du marché</narrative>
             </name>
             <description>
-                <narrative>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries.</narrative>
-                <narrative xml:lang="fr">Apports privés de long-terme (i.e. dont la maturité est  supérieure à un an), transactions en capital faites par des résidents de pays du CAD.</narrative>
+                <narrative>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries</narrative>
+                <narrative xml:lang="fr">Apports privés de long-terme (i.e. dont la maturité est  supérieure à un an), transactions en capital faites par des résidents de pays du CAD</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>40</code>
             <name>
                 <narrative>Non flow</narrative>
                 <narrative xml:lang="fr">non apports</narrative>
             </name>
             <description>
-                <narrative>e.g. GNI</narrative>
-                <narrative xml:lang="fr">ex : RNB</narrative>
+                <narrative>e.g. GNI, ODA%GNI, Population etc</narrative>
+                <narrative xml:lang="fr">ex : RNB, APD%RNB, Population etc</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
             <code>50</code>
             <name>
                 <narrative>Other flows</narrative>
                 <narrative xml:lang="fr">Autres apports</narrative>
             </name>
             <description>
-                <narrative>e.g. non-ODA component of peacebuilding operations)</narrative>
+                <narrative>e.g. non-ODA component of peacebuilding operations</narrative>
                 <narrative xml:lang="fr">ex : élément non APD des opérations de maintien de la paix</narrative>
             </description>
         </codelist-item>
