@@ -63,5 +63,23 @@
                 <narrative>Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
             </name>
         </codelist-item>
+        <codelist-item>
+            <code>10</code>
+            <name>
+                <narrative>Disaster Risk Reduction(DRR)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>11</code>
+            <name>
+                <narrative>Disability</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
+            <code>11</code>
+            <name>
+                <narrative>Nutrition</narrative>
+            </name>
+        </codelist-item>
     </codelist-items>
 </codelist>
