@@ -6,6 +6,9 @@
         <description>
             <narrative>The AidTypeVocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for aid type.</narrative>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>

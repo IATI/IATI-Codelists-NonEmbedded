@@ -4,16 +4,19 @@
             <narrative>Organisation Registration Agency</narrative>
         </name>
         <description>
-            <narrative><![CDATA[
+            <narrative>
                 The values from this codelist are used to identify the particular list that an organisation identifier was drawn from. The codelist provides a register of known identifier lists, including national company registers, NGO directories and international and multilateral organisation lists - along with guidance and online resources to help locate the identifiers assigned to a specific organisation.
 
-                As of 17 July 2017 this list is maintained by the org-id.guide project. Data publishers can now search for and locate the relevant list for a particular organisation identifier using the `org-id.guide website <http://org-id.guide/>`__. The full register of identifier sources is also available to download in `XML <http://org-id.guide/download.xml>`__, `JSON <http://org-id.guide/download.json>`__ and `CSV <http://org-id.guide/download.csv>`__ formats.
+                As of 17 July 2017 this list is maintained by the org-id.guide project. Data publishers can now search for and locate the relevant list for a particular organisation identifier using the `org-id.guide website &lt;http://org-id.guide/&gt;`__. The full register of identifier sources is also available to download in `XML &lt;http://org-id.guide/download.xml&gt;`__, `JSON &lt;http://org-id.guide/download.json&gt;`__ and `CSV &lt;http://org-id.guide/download.csv&gt;`__ formats.
 
-                IATI periodically replicates the codelist of identifier sources from org-id.guide, to assist those accessing IATI documentation. However, it is advised that the most up-to-date source is the `org-id.guide project <http://org-id.guide/>`__.
+                IATI periodically replicates the codelist of identifier sources from org-id.guide, to assist those accessing IATI documentation. However, it is advised that the most up-to-date source is the `org-id.guide project &lt;http://org-id.guide/&gt;`__.
 
-                If org-id.guide does not contain an entry for the kind of organisation you need to identify, you can make a request a new list is included in the register following the `guidance <http://docs.org-id.guide/en/latest/contribute/>`__ or by getting in touch with org-id.guide at: contact@org-id.guide.
-            ]]></narrative>
+                If org-id.guide does not contain an entry for the kind of organisation you need to identify, you can make a request a new list is included in the register following the `guidance &lt;http://docs.org-id.guide/en/latest/contribute/&gt;`__ or by getting in touch with org-id.guide at: contact@org-id.guide.
+            </narrative>
         </description>
+        <category>
+            <narrative>Replicated</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item public-database="0" status="active">
@@ -248,7 +251,7 @@ This is an 11 digit number, consisting two digits, hyphen, nine digits, and a on
 </narrative>
             </description>
             <category>AR</category>
-            <url></url>
+            <url/>
         </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>AT-FB</code>
@@ -2794,7 +2797,7 @@ A directory or lookup of companies and numbers is not available online, however 
                 <narrative>The South Sudan Relief and Rehabilitation Commission (SSRRC) is an agency of the Government of South Sudan. It is the operational arm of the Ministry of Humanitarian Affairs and Disaster Management. The NGO Act 2016 added additional powers to the agency to register any NGO interested in operating in South Sudan. </narrative>
             </description>
             <category>SS</category>
-            <url></url>
+            <url/>
         </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>TR-MERSIS</code>
@@ -2970,7 +2973,7 @@ Across those states performance varies widely and in many cases data is not avai
                 <narrative>List code prefix reserved for use in example data which require a valid org-id.guide prefix (e.g. for use in data validator testing).</narrative>
             </description>
             <category>-</category>
-            <url></url>
+            <url/>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>XI-EORI</code>
@@ -3199,7 +3202,7 @@ An organisation will enjoy preferential tax treatment only after it has applied 
 [1] http://www.kanokangalawfirm.net/setting-ngo-zimbabwe/</narrative>
             </description>
             <category>ZW</category>
-            <url></url>
+            <url/>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>ZW-ROD</code>

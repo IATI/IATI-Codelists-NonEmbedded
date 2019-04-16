@@ -6,6 +6,9 @@
         <description>
             <narrative>This codelist has been created by IATI and is derived from the Grand Bargain Earmarking Modality codelist.</narrative>
         </description>
+        <category>
+            <narrative>Replicated</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>
@@ -43,6 +46,6 @@
             <description>
                 <narrative>Any or all of the Earmarking Modality codes I,J or K.</narrative>
             </description>
-        </codelist-item> 
+        </codelist-item>
     </codelist-items>
 </codelist>

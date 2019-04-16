@@ -15,6 +15,9 @@
             For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/
             </narrative>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>
@@ -46,7 +49,7 @@
                 <narrative>ACATBA is a charity that exists to promote local language development, Bible translation, literacy and community development in the Central African Republic. They also provide training in basic business skills; this allows beneficiaries to begin income-generating activities and small businesses.</narrative>
             </description>
             <url>http://www.wycliffe.net/organizations?entity=CXN&amp;continent=AFR&amp;country=CT</url>
-        </codelist-item>        
+        </codelist-item>
         <codelist-item>
             <code>XI-IATI-ADVZ</code>
             <name>
@@ -110,7 +113,7 @@
                 <narrative>Benedictine Eye Hospital (BEH) is a Private Not-For-Profit specialised hospital established by the Benedictine Fathers of Uganda for providing Eye Care and Community Based Rehabilitation (CBR) services to Persons with Disabilities (PWDs), with special emphasis on children. The hospital is registered by the Ministry of Health and serves the people of Eastern Uganda but is increasingly receiving clients from the rest of the country and neighbouring countries.</narrative>
             </description>
             <url>http://www.benedictineeyehospital.org</url>
-        </codelist-item>    
+        </codelist-item>
         <codelist-item>
             <code>XI-IATI-CABI</code>
             <name>

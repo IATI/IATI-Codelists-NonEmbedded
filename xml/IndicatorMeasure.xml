@@ -6,6 +6,9 @@
         <description>
             <narrative>To specify the language of titles, descriptions and documents</narrative>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>

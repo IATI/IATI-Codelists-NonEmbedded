@@ -6,6 +6,9 @@
         <description>
             <narrative>used in additional CRS elements</narrative>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>
