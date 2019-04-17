@@ -6,6 +6,9 @@
         <description>
             <narrative>Categories of information included in published documents</narrative>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>

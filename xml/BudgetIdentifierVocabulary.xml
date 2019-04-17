@@ -3,6 +3,9 @@
         <name>
             <narrative>Budget Identifier Vocabulary</narrative>
         </name>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item status="withdrawn" withdrawal-date="2018-04-18">

@@ -8,6 +8,9 @@
                 The Humanitarian Scope Type codelist defines codes for types of humanitarian events and actions.
             </narrative>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>

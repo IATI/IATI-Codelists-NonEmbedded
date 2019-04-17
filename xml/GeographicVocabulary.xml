@@ -6,6 +6,9 @@
         <description>
             <narrative/>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>

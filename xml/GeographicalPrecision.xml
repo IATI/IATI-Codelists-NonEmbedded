@@ -6,6 +6,9 @@
         <description>
             <narrative>A system for clarifying the accuracy and usage of geographical coordinates </narrative>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>

@@ -6,6 +6,9 @@
         <description>
             <narrative>CRS Loan Repayment No of Payments </narrative>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>
