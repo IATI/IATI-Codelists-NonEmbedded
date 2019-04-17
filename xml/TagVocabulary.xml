@@ -6,7 +6,9 @@
     <description>
       <narrative>The Tag Vocabulary codelist defines external codelists which themselves provide codes and descriptions for tag elements.</narrative>
     </description>
-    <category>Non-Core</category>
+    <category>
+      <narrative>Non-Core</narrative>
+    </category>
   </metadata>
   <codelist-items>
     <codelist-item>
