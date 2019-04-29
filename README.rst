@@ -17,11 +17,9 @@ These are codelists used by the IATI Standard, but not "Embedded" within it, so 
 Using `conversion.py`
 --------------------
 
-This tool supports Python 3.x. To use this script, we recommend the use of a virtual environment:
+This tool supports Python 3.x. To use this script, we recommend the use of a virtual environment::
 
-``
-python3 -m venv pyenv
-source pyenv/bin/activate
-pip install -r requirements.txt
-python convert.py
-``
+    python3 -m venv pyenv
+    source pyenv/bin/activate
+    pip install -r requirements.txt
+    python convert.py
