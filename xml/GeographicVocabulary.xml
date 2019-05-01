@@ -45,7 +45,7 @@
                 <narrative>ISO Country (3166-1 alpha-2)</narrative>
                 <narrative xml:lang="fr">Pays ISO (3166-1 alpha-2)</narrative>
             </name>
-            <url>http://www.iso.org/iso/country_codes.htm</url>
+            <url>http://reference.iatistandard.org/codelists/Country/</url>
         </codelist-item>
         <codelist-item>
             <code>G1</code>
