@@ -18,7 +18,7 @@
                 <narrative>The sector reported corresponds to an OECD DAC CRS 5-digit purpose code</narrative>
                 <narrative xml:lang="fr">Le secteur déclaré correspond à un code de secteur OCDE CAD SNPC à cinq chiffres</narrative>
             </description>
-            <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+            <url>http://reference.iatistandard.org/codelists/Sector/</url>
         </codelist-item>
         <codelist-item>
             <code>2</code>
@@ -30,7 +30,7 @@
                 <narrative>The sector reported corresponds to an OECD DAC CRS 3-digit purpose code</narrative>
                 <narrative xml:lang="fr">Le secteur déclaré correspond à un code de secteur OCDE CAD SNPC à trois chiffres</narrative>
             </description>
-            <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+            <url>http://reference.iatistandard.org/codelists/SectorCategory/</url>
         </codelist-item>
         <codelist-item>
             <code>3</code>
