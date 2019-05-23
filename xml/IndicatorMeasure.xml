@@ -4,7 +4,7 @@
             <narrative>Indicator Measure</narrative>
         </name>
         <description>
-            <narrative>To specify the language of titles, descriptions and documents</narrative>
+            <narrative>To specify how an indicator is being measured. This includes qualitative and quantitative values.</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>
