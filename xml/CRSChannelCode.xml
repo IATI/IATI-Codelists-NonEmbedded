@@ -1,9 +1,12 @@
-<codelist name="CRSChannelCode" xml:lang="en" complete="1">
+<codelist name="CRSChannelCode" xml:lang="en" complete="1" embedded="0">
     <metadata>
         <name>
             <narrative>CRS Channel Code</narrative>
         </name>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+        <category>
+            <narrative>Replicated</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -129,7 +132,6 @@
             <code>21063</code>
             <name>
                 <narrative>Conservation International</narrative>
-                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -164,7 +166,6 @@
             <code>21503</code>
             <name>
                 <narrative>Family Health International 360</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -262,14 +263,12 @@
             <code>21504</code>
             <name>
                 <narrative>International Relief and Development</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
             <code>21506</code>
             <name>
                 <narrative>International Rescue Committee</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -297,14 +296,12 @@
             <code>21501</code>
             <name>
                 <narrative>OXFAM International</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
             <code>21507</code>
             <name>
                 <narrative>Pact World</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -325,7 +322,6 @@
             <code>21505</code>
             <name>
                 <narrative>Save the Children</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -353,7 +349,6 @@
             <code>21502</code>
             <name>
                 <narrative>World Vision</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -472,14 +467,12 @@
             <code>22501</code>
             <name>
                 <narrative>OXFAM - provider country office</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
             <code>22502</code>
             <name>
                 <narrative>Save the Children - donor country office</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -556,7 +549,6 @@
             <code>23501</code>
             <name>
                 <narrative>National Red Cross and Red Crescent Societies</narrative>
-                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1102,7 +1094,6 @@
             <code>41501</code>
             <name>
                 <narrative>United Nations Reducing Emissions from Deforestation and Forest Degradation</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1186,7 +1177,6 @@
             <code>41503</code>
             <name>
                 <narrative>UN-led Country-based Pooled Funds</narrative>
-                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1228,7 +1218,6 @@
             <code>41319</code>
             <name>
                 <narrative>World Tourism Organization</narrative>
-                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1445,7 +1434,6 @@
             <code>46026</code>
             <name>
                 <narrative>Asian Infrastructure Investment Bank</narrative>
-                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1655,7 +1643,6 @@
             <code>47145</code>
             <name>
                 <narrative>Center of Excellence in Finance</narrative>
-                <narrative xml:lang="fr"/>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1767,7 +1754,6 @@
             <code>47504</code>
             <name>
                 <narrative>Forest Carbon Partnership Facility</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1795,7 +1781,6 @@
             <code>47503</code>
             <name>
                 <narrative>Global Agriculture and Food Security Program</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
@@ -1830,7 +1815,6 @@
             <code>47502</code>
             <name>
                 <narrative>Global Fund for Disaster Risk Reduction</narrative>
-                <narrative xml:lang="fr"></narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">

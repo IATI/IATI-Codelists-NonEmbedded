@@ -1,4 +1,4 @@
-<codelist name="ConditionType" xml:lang="en" complete="1">
+<codelist name="ConditionType" xml:lang="en" complete="1" embedded="0">
     <metadata>
         <name>
             <narrative>Condition Type</narrative>
@@ -8,6 +8,9 @@
             <narrative>Condition type – e.g. policy, performance.</narrative>
             <narrative xml:lang="fr">Type de condition – p. ex., politique, performance</narrative>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>

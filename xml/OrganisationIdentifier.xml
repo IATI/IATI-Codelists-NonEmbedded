@@ -1,4 +1,4 @@
-<codelist name="OrganisationIdentifier" xml:lang="en" complete="0">
+<codelist name="OrganisationIdentifier" xml:lang="en" complete="0" embedded="0">
     <metadata>
         <name>
             <narrative>Organisation Identifier</narrative>
@@ -10,6 +10,9 @@
             For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/
         </narrative>
         </description>
+        <category>
+            <narrative>Non-Core</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>

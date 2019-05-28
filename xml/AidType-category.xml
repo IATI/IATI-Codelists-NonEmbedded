@@ -1,4 +1,4 @@
-<codelist name="AidType-category" xml:lang="en" complete="1">
+<codelist name="AidType-category" xml:lang="en" complete="1" embedded="0">
     <metadata>
         <name>
             <narrative>Aid Type (category)</narrative>
@@ -7,20 +7,23 @@
             <narrative>This codelists exists to group the Aid Type codelist into categories. It is not used as a codelist in its own right.</narrative>
         </description>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
+        <category>
+            <narrative>Replicated</narrative>
+        </category>
     </metadata>
     <codelist-items>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>A</code>
             <name>
                 <narrative>Budget support</narrative>
-                <narrative xml:lang="fr">Soutien Budgétaire</narrative>
+                <narrative xml:lang="fr">Soutien budgétaire</narrative>
             </name>
             <description>
                 <narrative>For contributions under this category, the donor relinquishes the exclusive control of its funds by sharing the responsibility with the recipient.</narrative>
                 <narrative xml:lang="fr">Pour les contributions relevant de cette catégorie, le donneur renonce au contrôle exclusif des fonds qu’il octroie en partageant cette responsabilité avec le bénéficiaire.</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>B</code>
             <name>
                 <narrative>Core contributions and pooled programmes and funds</narrative>
@@ -31,18 +34,18 @@
                 <narrative xml:lang="fr">Pour les contributions relevant de cette catégorie, le donneur renonce au contrôle exclusif des fonds qu’il octroie en partageant cette responsabilité avec d’autres acteurs (autres donneurs, ONG, institutions multilatérales, partenariats public-privé). La catégorie couvre à la fois les contributions aux budgets réguliers des organisations (B01 et B02) et les contributions groupées préaffectées à un objectif spécifique (B03 et B04).</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>C</code>
             <name>
                 <narrative>Project-type interventions</narrative>
                 <narrative xml:lang="fr">Interventions de type projet</narrative>
             </name>
             <description>
-                <narrative>N.B. Within this category, members able to do so are requested to report the aggregate amount used for financing donor experts/consultants on Table DAC1. Where the activity consists solely of experts’ costs, report under category D.</narrative>
-                <narrative xml:lang="fr">N.B.  Dans cette catégorie, les membres qui le peuvent notifieront dans le tableau CAD1 le montant total dédié au financement d’experts/consultants du pays donneur.1 Lorsque l’activité consiste uniquement en des frais d’experts, notifier sous la catégorie D.</narrative>
+                <narrative>N.B.  Within this category, members able to do so are requested to report the aggregate amount used for financing donor experts/consultants on Table DAC11. Where the activity consists solely of experts’ costs, report under category D.</narrative>
+                <narrative xml:lang="fr">N.B.  Dans cette catégorie, les membres qui le peuvent notifieront dans le tableau CAD1 le montant total dédié au financement d’experts/consultants du pays donneur.1Lorsque l’activité consiste uniquement en des frais d’experts, notifier sous la catégorie D.</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>D</code>
             <name>
                 <narrative>Experts and other technical assistance</narrative>
@@ -53,7 +56,7 @@
                 <narrative xml:lang="fr">Cette catégorie couvre l’apport, en dehors de projets tels qu’ils sont définis dans la catégorie C01, de savoir-faire sous forme de personnel, de formation et d’activités de recherche.</narrative>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>E</code>
             <name>
                 <narrative>Scholarships and student costs in donor countries</narrative>
@@ -61,9 +64,10 @@
             </name>
             <description>
                 <narrative/>
+                <narrative xml:lang="fr"/>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>F</code>
             <name>
                 <narrative>Debt relief</narrative>
@@ -71,9 +75,10 @@
             </name>
             <description>
                 <narrative/>
+                <narrative xml:lang="fr"/>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>G</code>
             <name>
                 <narrative>Administrative costs not included elsewhere</narrative>
@@ -81,9 +86,10 @@
             </name>
             <description>
                 <narrative/>
+                <narrative xml:lang="fr"/>
             </description>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>H</code>
             <name>
                 <narrative>Other in-donor expenditures</narrative>

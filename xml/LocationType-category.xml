@@ -1,4 +1,4 @@
-<codelist name="LocationType-category" xml:lang="en" complete="1">
+<codelist name="LocationType-category" xml:lang="en" complete="1" embedded="0">
     <metadata>
         <name>
             <narrative>Location Type (category)</narrative>
@@ -7,6 +7,9 @@
             <narrative>This category is equivalent to US NGA's "Feature Class"</narrative>
         </description>
         <url>http://geonames.nga.mil/ggmagaz/</url>
+        <category>
+            <narrative>Replicated</narrative>
+        </category>
     </metadata>
     <codelist-items>
         <codelist-item>
