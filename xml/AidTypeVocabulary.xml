@@ -42,5 +42,15 @@
             </description>
             <url>https://reliefweb.int/sites/reliefweb.int/files/resources/Grand_Bargain_final_22_May_FINAL-2.pdf</url>
         </codelist-item>
+        <codelist-item>
+            <code>4</code>
+            <name>
+                <narrative>Cash and Voucher Modalities</narrative>
+            </name>
+            <description>
+                <narrative>This vocabulary has been created by IATI, following agreements and recommendations of the Tracking Cash and Voucher Assistance (CVA) Working Group.</narrative>
+            </description>
+            <url>http://reference.iatistandard.org/codelists/CashandVoucherModalities/</url>
+        </codelist-item>
     </codelist-items>
 </codelist>
