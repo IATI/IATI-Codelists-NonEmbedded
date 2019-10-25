@@ -15,6 +15,7 @@ script:
 - xmllint --schema codelist.xsd --noout xml/*
 after_success:
 - |
+  test $TRAVIS_BRANCH = "master" && \
   curl -s -X POST \
     -H "Content-Type: application/json" \
     -H "Accept: application/json" \
