@@ -1,21 +1,25 @@
----
 dist: xenial
 language: python
 python: 3.7
 before_install:
-    - sudo apt-get update -qq
-    - sudo apt-get install -qq libxml2-utils
+- sudo apt-get update -qq
+- sudo apt-get install -qq libxml2-utils
 install:
-    - pip install -r requirements.txt
-jobs:
-    include:
-        - stage: flake8 lint
-          script: flake8 --exclude=pyenv* --ignore E501
-        - stage: xml lint
-          before_script:
-              - wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/codelist.xsd"
-              - wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/xml.xsd"
-          script: xmllint --schema codelist.xsd --noout xml/*
-stages:
-    - flake8 lint
-    - xml lint
+- pip install -r requirements.txt
+before_script:
+- wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/codelist.xsd"
+- wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/xml.xsd"
+script:
+- flake8 --exclude=pyenv* --ignore E501
+- xmllint --schema codelist.xsd --noout xml/*
+after_success:
+- |
+  curl -s -X POST -H "Content-Type: application/json" \
+    -H "Accept: application/json" \
+    -H "Travis-API-Version: 3" \
+    -H "Authorization: token $TRAVIS_TOKEN" \
+    -d "{\"request\": {\"branch\":\"master\"}}" \
+    https://api.travis-ci.com/repo/codeforIATI%2Fcodelists/requests
+env:
+  global:
+    secure: egvteQfP/woydERmNw3MFlnn22IhTBuhIRgXjUZHLow2pvp7J/YsMc4LCUYzq2mMTumf8sRkAI71apUCo4So+gWsssh+n8vRQu31mPuQMZmhhTLrxI46H7nZOT5jG8OoZePGvMRDf0qM3wRxsNLih02XszNmRa7tl0dRe9eZU/wIIXsV8qSEIQ3YGfjXkcPKscswKrVrU3wdQXNBB+GuoskbP8Tz26W39OvQa4zqk1aTtWK/Z+a2hDYsHheZPL/L2eQYqTGuui9QihiqJuyKW3l/AKniF5sh/5c77UMAwyB23W6FZ4HZk5ufg19hgP7PQi5CAljFKpX2BbI8AwNkyviJeFp0HEcsR8sa9J9ZUVWok8M7xuzKQsYOnQiEzfiDvsT7YgrKmPc8RRUKJDOPmmLG3YBMeIghoKa4AlMF3TmKyu+qANzWG/jOAiF5g3+uT5Md/V8toHYPQpt2SVnX9L7roaqFgVktzQezWnEfXGHh67yrvUrL/9lm3i7Mbrrcf9PyDFzwolIpAOR2Keio5WF38fYwxPUXrTbrv3mkSr5hSF7FExYnFlxx/5NXCWikdPQCltV4O2vthP8Auhz42nVCgaJcHYe+5dqrRBP+DA+aLV9nADbBwUS1ktmgbVwlj4S/RPjSc6caEJbKlPF6sRXlpWEf5eIwD6y932SZVfI=
