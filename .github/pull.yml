@@ -1,0 +1,7 @@
+version: "1"
+rules:
+  - base: upstream
+    upstream: IATI:master
+    assignees:
+      - andylolz
+      - markbrough
