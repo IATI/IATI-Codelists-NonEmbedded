@@ -1,4 +1,4 @@
-<codelist name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1" embedded="0">
+<codelist name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1" embedded="0" xmlns:budget-alignment="http://iatistandard.org/activity-standard/overview/country-budget-alignment/">
     <metadata>
         <name>
             <narrative>DAC 5 Digit Sector</narrative>
@@ -80,6 +80,7 @@
                 <narrative xml:lang="fr">Éducation formelle et non formelle pour une meilleure qualité de vie pour les jeunes et les adultes (éducation des adultes) ; alphabétisation et apprentissage du calcul. Exclut l'éducation sanitaire (12261) et les activités relatives à la prévention des maladies non-transmissibles (123xx)</narrative>
             </description>
             <category>112</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>11231</code>
@@ -140,6 +141,7 @@
                 <narrative xml:lang="fr">Éducation secondaire généralisée pour les premiers et derniers cycles.</narrative>
             </description>
             <category>113</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>11321</code>
@@ -620,6 +622,7 @@
                 <narrative xml:lang="fr">Aide au renforcement des institutions visant à consolider les capacités et systèmes principaux de gestion du secteur public. Ceci recouvre la gestion des politiques publiques générales, la coordination, la planification et la réforme ; la gestion des ressources humaines ; le développement organisationnel ; la réforme de la fonction publique ; l’administration électronique ; la planification, le suivi et l’évaluation du développement ;  soutien aux ministères impliqués dans la coordination de l'aide; d’autres ministères et services gouvernementaux lorsque le secteur ne peut pas être spécifié. (Utilisez des codes sectoriels spécifiques pour le développement de systèmes et de capacités dans les ministères sectoriels. Pour la politique macro-économique, utilisez le code 15142. Pour les marchés publics, utilisez le code 15125.)</narrative>
             </description>
             <category>151</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>15111</code>
@@ -632,6 +635,7 @@
                 <narrative xml:lang="fr">Politique et planification budgétaires ; soutien aux ministères des finances ; renforcement de la responsabilité financière et administrative ; gestion des dépenses publiques ; amélioration des systèmes de gestion financière ; préparation du budget ; relations budgétaires intergouvernementales, audit public, dette publique. (Utiliser les codes 15114 pour la mobilisation des ressources intérieures et 33120 pour les douanes.)</narrative>
             </description>
             <category>151</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>15112</code>
@@ -644,6 +648,7 @@
                 <narrative xml:lang="fr">Processus de décentralisation (y compris aspects politiques, administratifs et budgétaires) ; relations intergouvernementales et fédéralisme ; renforcement des services des administrations régionales et locales, des autorités régionales et locales et de leurs associations nationales. (Utiliser des codes sectoriels spécifiques pour la décentralisation de la gestion et des services sectoriels.)</narrative>
             </description>
             <category>151</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>15113</code>
@@ -668,6 +673,7 @@
                 <narrative xml:lang="fr">Soutien à la mobilisation des ressources intérieures/politique fiscale, analyse et administration ainsi que les recettes non-fiscales, incluant le travail avec les ministères des finances, les ministères de tutelle, les autorités fiscales ou autres institutions publiques locales, régionales ou nationales (Utiliser le code 16010 pour la sécurité sociale et autres plans sociaux.)</narrative>
             </description>
             <category>151</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>15116</code>
@@ -846,6 +852,7 @@
                 <narrative xml:lang="fr">Soutien aux institutions, systèmes et procédures du secteur de la justice, aussi bien officiels que non officiels ; soutien aux ministères de la justice et de l’intérieur ; juges et tribunaux ; services de rédaction des actes juridiques ; associations d’avocats et de juristes ; formation juridique professionnelle ; maintien de l’ordre et de la sécurité publique ; gestion des frontières ; organismes chargés de faire respecter la loi, police, prisons et leur supervision ; médiateurs ; mécanismes alternatifs de règlement des conflits, d’arbitrage et de médiation ; aide et conseil juridiques ; pratiques traditionnelles, indigènes et paralégales ne faisant pas partie du système juridique officiel. Mesures à l’appui de l’amélioration des cadres juridiques, constitutions, lois  et  réglementations ; rédaction et révision de textes législatifs et constitutionnels ; réforme juridique ; intégration des systèmes légaux officiels et non officiels. Éducation juridique ; diffusion d’informations sur les droits et les voies de recours en cas d’injustice ; campagnes de sensibilisation. (Utiliser les codes 152xx pour les activités ayant principalement pour objet de soutenir la réforme des systèmes de sécurité ou entreprises en liaison avec des activités de maintien de la paix à l’issue d’un conflit.)</narrative>
             </description>
             <category>151</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>15131</code>
@@ -1244,6 +1251,7 @@
                 <narrative xml:lang="fr">Stratégies de protection sociale ou de sécurité sociale, législation et administration; renforcement des capacités institutionnelles et conseils; sécurité sociale et autres régimes sociaux; programmes de soutien, prestations en espèces, pensions et programmes spéciaux pour les personnes âgées, les orphelins, les personnes handicapées, les enfants, les mères de nouveau-nés, les personnes vivant dans la pauvreté, sans emploi et autres groupes vulnérables; dimensions sociales de l'ajustement structurel.</narrative>
             </description>
             <category>160</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>16011</code>
@@ -1364,6 +1372,7 @@
                 <narrative xml:lang="fr">Y compris bibliothèques et musées.</narrative>
             </description>
             <category>160</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>16062</code>
@@ -1460,6 +1469,7 @@
                 <narrative xml:lang="fr">Politique des transports, planification et programmes ; aide aux ministères du transport ; renforcement des capacités institutionnelles et conseils ; transports non spécifiés ; activités qui recouvrent le transport routier, le transport ferroviaire, le transport par voies d’eau et/ou le transport aérien. Inclut la prévention des accidents de la route. Autant que possible, notifier le transport de marchandises sous le secteur économique de la marchandise transportée.</narrative>
             </description>
             <category>210</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>21011</code>
@@ -1508,6 +1518,7 @@
                 <narrative xml:lang="fr">Infrastructure routière, véhicules ; transport routier de voyageurs, voitures particulières.</narrative>
             </description>
             <category>210</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>21021</code>
@@ -1628,6 +1639,7 @@
                 <narrative xml:lang="fr">Politique des communications, planification et programmes ; renforcement des capacités institutionnelles et conseils ; y compris développement des services postaux ; activités de communications non spécifiées.</narrative>
             </description>
             <category>220</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>22011</code>
@@ -1882,6 +1894,7 @@
                 <narrative xml:lang="fr">Politique et planification du secteur de l’énergie ; aide aux ministères de l’énergie ; conseils et renforcement des capacités institutionnelles ; activités non précisées.</narrative>
             </description>
             <category>231</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>23111</code>
@@ -3154,6 +3167,7 @@
                 <narrative xml:lang="fr"/>
             </description>
             <category>430</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>43030</code>
@@ -3166,6 +3180,7 @@
                 <narrative xml:lang="fr">Projets intégrés de développement urbain ; développement local et gestion urbaine ; infrastructure et services urbains ; gestion municipale ; gestion de l’environnement urbain ; planification ; rénovation urbaine, habitat ; informations sur l’occupation des sols.</narrative>
             </description>
             <category>430</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>43031</code>
@@ -3202,6 +3217,7 @@
                 <narrative xml:lang="fr">Projets intégrés de développement rural, par exemple, planification du développement régional ; encouragement à la décentralisation des compétences plurisectorielles concernant la planification, la coordination et la gestion ; mise en œuvre du développement régional et des mesures d’accompagnement (telle que gestion des ressources naturelles) ; gestion et planification des terres ; peuplement des terres et activités de réinstallation des peuples [à l’exclusion de la réinstallation des réfugiés et des personnes déplacées à  l’intérieur  du  pays  (72010)]  projets  d’intégration des  zones rurales et urbaines ; systèmes d’information des zones géographiques.</narrative>
             </description>
             <category>430</category>
+            <budget-alignment:status>Insufficiently granular</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>43041</code>
@@ -3238,6 +3254,7 @@
                 <narrative xml:lang="fr">Projets visant à réduire les cultures illicites (drogue) à travers, par exemple, des activités créatrices de revenu non agricoles, des infrastructures sociales et physiques (voir code 31165 pour le développement alternatif agricole).</narrative>
             </description>
             <category>430</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>43060</code>
@@ -3298,6 +3315,7 @@
                 <narrative xml:lang="fr">Y compris les bourses.</narrative>
             </description>
             <category>430</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>43082</code>
@@ -3310,6 +3328,7 @@
                 <narrative xml:lang="fr">Quand le secteur ne peut être déterminé.</narrative>
             </description>
             <category>430</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>51010</code>
@@ -3334,6 +3353,7 @@
                 <narrative xml:lang="fr">Fourniture nationale ou internationale de produits alimentaires y compris frais de transport ; paiements comptants pour la fourniture de produits alimentaires ; projets d’aide alimentaire et aide alimentaire destinée à la vente quand le secteur bénéficiaire ne peut être précisé ; à l’exclusion de l’aide alimentaire d’urgence. Notifier comme multilatéral : i) l'aide alimentaire consentie par l’UE et financée sur son budget propre puis répartie entre les États membres au pro rata de leur contribution à ce budget ; et ii) les contributions au budget central du PAM.</narrative>
             </description>
             <category>520</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>53030</code>
@@ -3676,6 +3696,7 @@
                 <narrative xml:lang="fr">Les contributions au développement général du pays bénéficiaire devraient être incluses dans l’aide programme (51010).</narrative>
             </description>
             <category>998</category>
+            <budget-alignment:status>Unmappable</budget-alignment:status>
         </codelist-item>
         <codelist-item status="active">
             <code>99820</code>
