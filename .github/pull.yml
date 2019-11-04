@@ -1,6 +1,6 @@
 version: "1"
 rules:
-  - base: upstream
+  - base: master
     upstream: IATI:master
     assignees:
       - andylolz
