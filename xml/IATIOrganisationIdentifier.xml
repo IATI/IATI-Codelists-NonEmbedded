@@ -205,6 +205,16 @@
             <url>https://www.fiabel.be/nl</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-GREDO</code>
+            <name>
+                <narrative>Gargaar Relief and Development Organization</narrative>
+            </name>
+            <description>
+                <narrative>GREDO is a national NGO that is based in Baidoa which is the capital city of South West Administration of Somalia. It exists to support and reach the most affected grass-root communities in those regions and in Somalia at large. Our support focuses on Emergency and Development programs with a key thematic sectors of Integrated Health, Nutrition and Wash, Education and FSL.</narrative>
+            </description>
+            <url>https://www.gredosom.org/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-IADB</code>
             <name>
                 <narrative>Inter-American Development Bank</narrative>
@@ -285,6 +295,26 @@
             <url>https://www.facebook.com/SomaliGenderJustice/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-SWSC</code>
+            <name>
+                <narrative>Somali Women Study Centre</narrative>
+            </name>
+            <description>
+                <narrative>SWSC is a women led NGO, founded in 2011 and based in Mogadishu and Kismayo, Somalia. SWSC seeks to achieve gender equality and social inclusion by empowering Somali women to exert their agency and improve their socio- economic status through strengthening their leadership, mentoring, capacity building, advocacy, and research to enable them articulate their specific needs in post- conflict Somalia.</narrative>
+            </description>
+            <url>https://www.somaliwomenstudiescentre.org/</url>
+        </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-UCES</code>
+            <name>
+                <narrative>Umbrella for Community Education in Somalia</narrative>
+            </name>
+            <description>
+                <narrative>UCES is a national NGO that exists to work for advancement of Somalia Education by delivering formal and non-formal, alternative Education system to improve the knowledge of the Community through active advocacy and networking to deliver quality Education.</narrative>
+            </description>
+            <url>www.UCES.org</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-UDC</code>
             <name>
                 <narrative>United Darfur Committees</narrative>
@@ -303,6 +333,16 @@
                 <narrative>The UN pooled funds are a UN inter-agency financing mechanism with three characteristics. First, UN pooled funds are designed to support a clearly defined programmatic purpose and results framework through contributions that are co-mingled, not earmarked to a specific UN entity and held by a UN fund administrator. Second, decisions on project / programmatic allocations are made by a UN-led governance mechanism, taking into account the programmatic purpose and results framework of the fund. Third, fund implementation is (fully or largely) entrusted to UN entities that assume the programmatic and financial accountability for the resources received.</narrative>
             </description>
             <url>https://undg.org/</url>
+        </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-WARDI</code>
+            <name>
+                <narrative>Wardi Relief and Development Initiative</narrative>
+            </name>
+            <description>
+                <narrative>WARDI is a national NGO that exists to collaborate and provide assistance in all relevant sectors to the Somali communities. The key thematic intervention areas are Emergency relief, Food security and livelihood, Wash, Health and Nutrition, Education and Peace building and governance.</narrative>
+            </description>
+            <url>https://wardirelief.org/</url>
         </codelist-item>
         <codelist-item activation-date="2016-12-15">
             <code>XI-IATI-WAI</code>
