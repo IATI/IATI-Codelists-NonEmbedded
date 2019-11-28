@@ -3574,9 +3574,11 @@
             <code>92010</code>
             <name>
                 <narrative>Support to national NGOs</narrative>
+                <narrative xml:lang="fr">En faveur des ONG nationales</narrative>
             </name>
             <description>
                 <narrative>In the donor country.</narrative>
+                <narrative xml:lang="fr">Dans le pays donneur</narrative>
             </description>
             <category>920</category>
         </codelist-item>
@@ -3584,6 +3586,7 @@
             <code>92020</code>
             <name>
                 <narrative>Support to international NGOs</narrative>
+                <narrative xml:lang="fr">En faveur des ONG internationales</narrative>
             </name>
             <description>
                 <narrative/>
@@ -3594,9 +3597,11 @@
             <code>92030</code>
             <name>
                 <narrative>Support to local and regional NGOs</narrative>
+                <narrative xml:lang="fr">En faveur des ONG locales et régionales</narrative>
             </name>
             <description>
                 <narrative>In the recipient country or region.</narrative>
+                <narrative xml:lang="fr">Dans le pays ou la région bénéficiaires.</narrative>
             </description>
             <category>920</category>
         </codelist-item>
