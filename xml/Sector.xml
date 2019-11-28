@@ -727,9 +727,11 @@
             <code>15120</code>
             <name>
                 <narrative>Public sector financial management</narrative>
+                <narrative xml:lang="fr">Gestion financière du secteur public</narrative>
             </name>
             <description>
                 <narrative>Strengthening financial and managerial accountability; public expenditure management; improving financial management systems; tax assessment procedures; budget drafting; field auditing; measures against waste, fraud and corruption.</narrative>
+                <narrative xml:lang="fr">Renforcement de la comptabilité financière et fiscale; gestion des dépenses publiques; amélioration des systèmes budgétaires; procédures d’évaluation des impôts; préparation du budget; audits sur le terrain; mesures contre le gaspillage, la fraude et la corruption.</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -942,9 +944,11 @@
             <code>15140</code>
             <name>
                 <narrative>Government administration</narrative>
+                <narrative xml:lang="fr">Administration gouvernementale</narrative>
             </name>
             <description>
                 <narrative>Systems of government including parliament, local government, decentralisation; civil service and civil service reform. Including general services by government (or commissioned by government) not elsewhere specified e.g. police, fire protection; cartography, meteorology, legal metrology, aerial surveys and remote sensing; administrative buildings.</narrative>
+                <narrative xml:lang="fr">Systèmes gouvernementaux, y compris parlement, administration locale; décentralisation; fonction publique et réformes de la fonction publique. Y compris services généraux gouvernementaux (ou mandatés par le gouvernement), par exemple police, lutte contre l’incendie; cartographie, météorologie, métrologie, levés aériens; bâtiments administratifs.</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1084,9 +1088,11 @@
             <code>15161</code>
             <name>
                 <narrative>Elections</narrative>
+                <narrative xml:lang="fr">Élections</narrative>
             </name>
             <description>
                 <narrative>Electoral assistance and monitoring, voters' education [other than in connection with UN peace building (15230)].</narrative>
+                <narrative xml:lang="fr">Soutien et suivi des processus électoraux; éducation civique des électeurs [autre que celle en rapport avec le maintien de la paix des NU (15230)].</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1094,9 +1100,11 @@
             <code>15162</code>
             <name>
                 <narrative>Human rights</narrative>
+                <narrative xml:lang="fr">Droits de la personne</narrative>
             </name>
             <description>
                 <narrative>Monitoring of human rights performance; support for national and regional human rights bodies; protection of ethnic, religious and cultural minorities [other than in connection with un peace building (15230)].</narrative>
+                <narrative xml:lang="fr">Surveillance de l’application des droits de la personne; soutien aux organismes nationaux et régionaux des droits de la personne; protection des minorités ethniques, religieuses et culturelles [autre que celle en rapport avec le maintien de la paix des NU (15230)].</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1104,9 +1112,11 @@
             <code>15163</code>
             <name>
                 <narrative>Free flow of information</narrative>
+                <narrative xml:lang="fr">Liberté de l’information</narrative>
             </name>
             <description>
                 <narrative>Uncensored flow of information on public issues, including activities that increase the professionalism, skills and integrity of the print and broadcast media (e.g. training of journalists).</narrative>
+                <narrative xml:lang="fr">Diffusion non censurée de l’information sur les questions publiques, y compris les activités qui améliorent le professionnalisme et l’intégrité des médias : presse écrite, radio et télévision (par exemple, formation des journalistes).</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1114,9 +1124,11 @@
             <code>15164</code>
             <name>
                 <narrative>Women's equality organisations and institutions</narrative>
+                <narrative xml:lang="fr">Organisations et institutions pour l’égalité des femmes</narrative>
             </name>
             <description>
                 <narrative>Support for institutions and organisations (governmental and non-governmental) working for gender equality and women's empowerment.</narrative>
+                <narrative xml:lang="fr">Soutien aux institutions et organisations (gouvernementales et non gouvernementales) qui œuvrent pour l’égalité homme-femme et l’autonomisation des femmes.</narrative>
             </description>
             <category>151</category>
         </codelist-item>
