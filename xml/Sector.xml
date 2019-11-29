@@ -1,4 +1,4 @@
-<codelist name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1" embedded="0" xmlns:budget-alignment="http://iatistandard.org/activity-standard/overview/country-budget-alignment/">
+<codelist xmlns:budget-alignment="http://iatistandard.org/activity-standard/overview/country-budget-alignment/" name="Sector" xml:lang="en" category-codelist="SectorCategory" complete="1" embedded="0">
     <metadata>
         <name>
             <narrative>DAC 5 Digit Sector</narrative>
@@ -727,9 +727,11 @@
             <code>15120</code>
             <name>
                 <narrative>Public sector financial management</narrative>
+                <narrative xml:lang="fr">Gestion financière du secteur public</narrative>
             </name>
             <description>
                 <narrative>Strengthening financial and managerial accountability; public expenditure management; improving financial management systems; tax assessment procedures; budget drafting; field auditing; measures against waste, fraud and corruption.</narrative>
+                <narrative xml:lang="fr">Renforcement de la comptabilité financière et fiscale; gestion des dépenses publiques; amélioration des systèmes budgétaires; procédures d’évaluation des impôts; préparation du budget; audits sur le terrain; mesures contre le gaspillage, la fraude et la corruption.</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -942,9 +944,11 @@
             <code>15140</code>
             <name>
                 <narrative>Government administration</narrative>
+                <narrative xml:lang="fr">Administration gouvernementale</narrative>
             </name>
             <description>
                 <narrative>Systems of government including parliament, local government, decentralisation; civil service and civil service reform. Including general services by government (or commissioned by government) not elsewhere specified e.g. police, fire protection; cartography, meteorology, legal metrology, aerial surveys and remote sensing; administrative buildings.</narrative>
+                <narrative xml:lang="fr">Systèmes gouvernementaux, y compris parlement, administration locale; décentralisation; fonction publique et réformes de la fonction publique. Y compris services généraux gouvernementaux (ou mandatés par le gouvernement), par exemple police, lutte contre l’incendie; cartographie, météorologie, métrologie, levés aériens; bâtiments administratifs.</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1084,9 +1088,11 @@
             <code>15161</code>
             <name>
                 <narrative>Elections</narrative>
+                <narrative xml:lang="fr">Élections</narrative>
             </name>
             <description>
                 <narrative>Electoral assistance and monitoring, voters' education [other than in connection with UN peace building (15230)].</narrative>
+                <narrative xml:lang="fr">Soutien et suivi des processus électoraux; éducation civique des électeurs [autre que celle en rapport avec le maintien de la paix des NU (15230)].</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1094,9 +1100,11 @@
             <code>15162</code>
             <name>
                 <narrative>Human rights</narrative>
+                <narrative xml:lang="fr">Droits de la personne</narrative>
             </name>
             <description>
                 <narrative>Monitoring of human rights performance; support for national and regional human rights bodies; protection of ethnic, religious and cultural minorities [other than in connection with un peace building (15230)].</narrative>
+                <narrative xml:lang="fr">Surveillance de l’application des droits de la personne; soutien aux organismes nationaux et régionaux des droits de la personne; protection des minorités ethniques, religieuses et culturelles [autre que celle en rapport avec le maintien de la paix des NU (15230)].</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1104,9 +1112,11 @@
             <code>15163</code>
             <name>
                 <narrative>Free flow of information</narrative>
+                <narrative xml:lang="fr">Liberté de l’information</narrative>
             </name>
             <description>
                 <narrative>Uncensored flow of information on public issues, including activities that increase the professionalism, skills and integrity of the print and broadcast media (e.g. training of journalists).</narrative>
+                <narrative xml:lang="fr">Diffusion non censurée de l’information sur les questions publiques, y compris les activités qui améliorent le professionnalisme et l’intégrité des médias : presse écrite, radio et télévision (par exemple, formation des journalistes).</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1114,9 +1124,11 @@
             <code>15164</code>
             <name>
                 <narrative>Women's equality organisations and institutions</narrative>
+                <narrative xml:lang="fr">Organisations et institutions pour l’égalité des femmes</narrative>
             </name>
             <description>
                 <narrative>Support for institutions and organisations (governmental and non-governmental) working for gender equality and women's empowerment.</narrative>
+                <narrative xml:lang="fr">Soutien aux institutions et organisations (gouvernementales et non gouvernementales) qui œuvrent pour l’égalité homme-femme et l’autonomisation des femmes.</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1717,9 +1729,11 @@
             <code>23010</code>
             <name>
                 <narrative>Energy policy and administrative management</narrative>
+                <narrative xml:lang="fr">Politique de l’énergie et gestion administrative</narrative>
             </name>
             <description>
                 <narrative>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</narrative>
+                <narrative xml:lang="fr">Politique de l’énergie, planification et programmes; aide aux ministères de l’énergie; renforcement des capacités institutionnelles et conseils; activités non spécifiées dans le domaine de l’énergie y compris les économies d’énergie. </narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1727,9 +1741,11 @@
             <code>23020</code>
             <name>
                 <narrative>Power generation/non-renewable sources</narrative>
+                <narrative xml:lang="fr">Production d’énergie (sources non renouvelables)</narrative>
             </name>
             <description>
                 <narrative>Thermal power plants including when heat source cannot be determined; combined gas-coal power plants.</narrative>
+                <narrative xml:lang="fr">Centrales thermiques (lorsque la source de chaleur ne peut être déterminée); centrales alimentées au gaz et au charbon.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1737,9 +1753,11 @@
             <code>23030</code>
             <name>
                 <narrative>Power generation/renewable sources</narrative>
+                <narrative xml:lang="fr">Production d’énergie (sources renouvelables)</narrative>
             </name>
             <description>
                 <narrative>Including policy, planning, development programmes, surveys and incentives. Fuelwood/ charcoal production should be included under forestry (31261).</narrative>
+                <narrative xml:lang="fr">Y compris politique et planification, programmes de développement, études et primes. Production de bois de chauffage et de charbon de bois devrait être incluse dans sylviculture (31261). </narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1747,9 +1765,11 @@
             <code>23040</code>
             <name>
                 <narrative>Electrical transmission/ distribution</narrative>
+                <narrative xml:lang="fr">Transmission et distribution d’électricité</narrative>
             </name>
             <description>
                 <narrative>Distribution from power source to end user; transmission lines.</narrative>
+                <narrative xml:lang="fr">Distribution de la source d’énergie au consommateur; lignes de transmission. </narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1757,9 +1777,11 @@
             <code>23050</code>
             <name>
                 <narrative>Gas distribution</narrative>
+                <narrative xml:lang="fr">Distribution de gaz</narrative>
             </name>
             <description>
                 <narrative>Delivery for use by ultimate consumer.</narrative>
+                <narrative xml:lang="fr">Distribution au consommateur.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1767,9 +1789,11 @@
             <code>23061</code>
             <name>
                 <narrative>Oil-fired power plants</narrative>
+                <narrative xml:lang="fr">Centrales alimentées au fuel</narrative>
             </name>
             <description>
                 <narrative>Including diesel power plants.</narrative>
+                <narrative xml:lang="fr">Y compris les centrales alimentées au gas-oil.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1777,6 +1801,7 @@
             <code>23062</code>
             <name>
                 <narrative>Gas-fired power plants</narrative>
+                <narrative xml:lang="fr">Centrales alimentées au gaz</narrative>
             </name>
             <description>
                 <narrative/>
@@ -1787,6 +1812,7 @@
             <code>23063</code>
             <name>
                 <narrative>Coal-fired power plants</narrative>
+                <narrative xml:lang="fr">Centrales alimentées au charbon</narrative>
             </name>
             <description>
                 <narrative/>
@@ -1797,9 +1823,11 @@
             <code>23064</code>
             <name>
                 <narrative>Nuclear power plants</narrative>
+                <narrative xml:lang="fr">Centrales nucléaires</narrative>
             </name>
             <description>
                 <narrative>Including nuclear safety.</narrative>
+                <narrative xml:lang="fr">Y compris la sécurité nucléaire. L’aide visant à favoriser une utilisation pacifique de l’énergie nucléaire est comptabilisable dans l’APD. À titre d’exemples, on citera : la construction ou le déclassement de centrales nucléaires à des fins civiles, le développement ou la fourniture d’isotopes médicaux, l’irradiation des aliments et d’autres applications industrielles et commerciales. Sont par contre exclues les activités de recherche sur les armes nucléaires et les applications militaires de la technologie nucléaire.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1807,9 +1835,11 @@
             <code>23065</code>
             <name>
                 <narrative>Hydro-electric power plants</narrative>
+                <narrative xml:lang="fr">Centrales et barrages hydroélectriques</narrative>
             </name>
             <description>
                 <narrative>Including power-generating river barges.</narrative>
+                <narrative xml:lang="fr">Y compris les installations sur les barges.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1817,6 +1847,7 @@
             <code>23066</code>
             <name>
                 <narrative>Geothermal energy</narrative>
+                <narrative xml:lang="fr">Énergie géothermique</narrative>
             </name>
             <description>
                 <narrative/>
@@ -1827,9 +1858,11 @@
             <code>23067</code>
             <name>
                 <narrative>Solar energy</narrative>
+                <narrative xml:lang="fr">Énergie solaire</narrative>
             </name>
             <description>
                 <narrative>Including photo-voltaic cells, solar thermal applications and solar heating.</narrative>
+                <narrative xml:lang="fr">Y compris les cellules photovoltaïques et les pompes à énergie solaire.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1837,9 +1870,11 @@
             <code>23068</code>
             <name>
                 <narrative>Wind power</narrative>
+                <narrative xml:lang="fr">Énergie éolienne</narrative>
             </name>
             <description>
                 <narrative>Wind energy for water lifting and electric power generation.</narrative>
+                <narrative xml:lang="fr">Énergie éolienne pour l’hydrodynamique et la production d’électricité.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1847,9 +1882,11 @@
             <code>23069</code>
             <name>
                 <narrative>Ocean power</narrative>
+                <narrative xml:lang="fr">Énergie marémotrice</narrative>
             </name>
             <description>
                 <narrative>Including ocean thermal energy conversion, tidal and wave power.</narrative>
+                <narrative xml:lang="fr">Y compris la conversion de l’énergie thermique marine, la puissance des marées et des vagues.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1857,9 +1894,11 @@
             <code>23070</code>
             <name>
                 <narrative>Biomass</narrative>
+                <narrative xml:lang="fr">Biomasse</narrative>
             </name>
             <description>
                 <narrative>Densification technologies and use of biomass for direct power generation including biogas, gas obtained from sugar cane and other plant residues, anaerobic digesters.</narrative>
+                <narrative xml:lang="fr">Technologies de densification et utilisation de la biomasse pour la production d’énergie directe, y compris le gaz obtenu par fermentation de la canne à sucre et d’autres résidus végétaux, et par anaérobie.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1867,9 +1906,11 @@
             <code>23081</code>
             <name>
                 <narrative>Energy education/training</narrative>
+                <narrative xml:lang="fr">Éducation et formation dans le domaine de l’énergie</narrative>
             </name>
             <description>
                 <narrative>Applies to all energy sub-sectors; all levels of training.</narrative>
+                <narrative xml:lang="fr">Se rapporte à tous les sous-secteurs de l’énergie et à tous les niveaux de formation.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -1877,9 +1918,11 @@
             <code>23082</code>
             <name>
                 <narrative>Energy research</narrative>
+                <narrative xml:lang="fr">Recherche dans le domaine de l’énergie</narrative>
             </name>
             <description>
                 <narrative>Including general inventories, surveys.</narrative>
+                <narrative xml:lang="fr">Y compris inventaires et études.</narrative>
             </description>
             <category>230</category>
         </codelist-item>
@@ -3551,9 +3594,11 @@
             <code>92010</code>
             <name>
                 <narrative>Support to national NGOs</narrative>
+                <narrative xml:lang="fr">En faveur des ONG nationales</narrative>
             </name>
             <description>
                 <narrative>In the donor country.</narrative>
+                <narrative xml:lang="fr">Dans le pays donneur</narrative>
             </description>
             <category>920</category>
         </codelist-item>
@@ -3561,6 +3606,7 @@
             <code>92020</code>
             <name>
                 <narrative>Support to international NGOs</narrative>
+                <narrative xml:lang="fr">En faveur des ONG internationales</narrative>
             </name>
             <description>
                 <narrative/>
@@ -3571,9 +3617,11 @@
             <code>92030</code>
             <name>
                 <narrative>Support to local and regional NGOs</narrative>
+                <narrative xml:lang="fr">En faveur des ONG locales et régionales</narrative>
             </name>
             <description>
                 <narrative>In the recipient country or region.</narrative>
+                <narrative xml:lang="fr">Dans le pays ou la région bénéficiaires.</narrative>
             </description>
             <category>920</category>
         </codelist-item>
