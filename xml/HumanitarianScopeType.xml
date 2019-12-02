@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Humanitarian Scope Type</narrative>
+            <narrative xml:lang="fr">Type de cadre géographique</narrative>
         </name>
         <description>
             <narrative>

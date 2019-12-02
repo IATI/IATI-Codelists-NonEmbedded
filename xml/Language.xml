@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Language</narrative>
+            <narrative xml:lang="fr">Langue</narrative>
         </name>
         <url>http://www.iso.org/iso/home/standards/language_codes.htm</url>
         <category>

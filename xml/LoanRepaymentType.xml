@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Loan Repayment Type</narrative>
+            <narrative xml:lang="fr">Type de remboursement de prêt</narrative>
         </name>
         <description>
             <narrative>used in additional CRS elements</narrative>

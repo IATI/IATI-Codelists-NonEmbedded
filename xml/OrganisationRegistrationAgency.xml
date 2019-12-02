@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Organisation Registration Agency</narrative>
+            <narrative xml:lang="fr">Agence d'enregistrement des organisations</narrative>
         </name>
         <description>
             <narrative><![CDATA[
@@ -251,7 +252,7 @@ This is an 11 digit number, consisting two digits, hyphen, nine digits, and a on
 </narrative>
             </description>
             <category>AR</category>
-            <url></url>
+            <url/>
         </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>AT-FB</code>
@@ -2797,7 +2798,7 @@ A directory or lookup of companies and numbers is not available online, however 
                 <narrative>The South Sudan Relief and Rehabilitation Commission (SSRRC) is an agency of the Government of South Sudan. It is the operational arm of the Ministry of Humanitarian Affairs and Disaster Management. The NGO Act 2016 added additional powers to the agency to register any NGO interested in operating in South Sudan. </narrative>
             </description>
             <category>SS</category>
-            <url></url>
+            <url/>
         </codelist-item>
         <codelist-item public-database="1" status="active">
             <code>TR-MERSIS</code>
@@ -2973,7 +2974,7 @@ Across those states performance varies widely and in many cases data is not avai
                 <narrative>List code prefix reserved for use in example data which require a valid org-id.guide prefix (e.g. for use in data validator testing).</narrative>
             </description>
             <category>-</category>
-            <url></url>
+            <url/>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>XI-EORI</code>
@@ -3202,7 +3203,7 @@ An organisation will enjoy preferential tax treatment only after it has applied 
 [1] http://www.kanokangalawfirm.net/setting-ngo-zimbabwe/</narrative>
             </description>
             <category>ZW</category>
-            <url></url>
+            <url/>
         </codelist-item>
         <codelist-item public-database="0" status="active">
             <code>ZW-ROD</code>

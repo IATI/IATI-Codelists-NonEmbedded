@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Geographical Precision</narrative>
+            <narrative xml:lang="fr">Précision géographique</narrative>
         </name>
         <description>
             <narrative>A system for clarifying the accuracy and usage of geographical coordinates </narrative>
+            <narrative xml:lang="fr">Un système qui permet de clarifier l'exactitude et l'usage de coordonnées géographiques</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

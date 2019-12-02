@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Flow Type</narrative>
+            <narrative xml:lang="fr">Type d'apport</narrative>
         </name>
         <description>
             <narrative>DAC/CRS distinction between ODA (official development assistance) and other types of resource flow.</narrative>
+            <narrative xml:lang="fr">Distinction du CAD/SNPC entre l'APD (aide publique au développement) et les autres types d'apport</narrative>
         </description>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>

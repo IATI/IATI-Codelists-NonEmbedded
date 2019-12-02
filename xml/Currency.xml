@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Currency</narrative>
+            <narrative xml:lang="fr">Monnaie</narrative>
         </name>
         <description>
             <narrative>ISO 4217 Currency used for all transactions and budgets</narrative>

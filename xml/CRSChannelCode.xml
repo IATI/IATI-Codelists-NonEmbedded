@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>CRS Channel Code</narrative>
+            <narrative xml:lang="fr">Code de mécanisme du SNPC</narrative>
         </name>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>

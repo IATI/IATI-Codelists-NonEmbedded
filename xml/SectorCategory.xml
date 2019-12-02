@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>DAC 3 Digit Sector</narrative>
+            <narrative xml:lang="fr">Secteur du CAD à 3 chiffres</narrative>
         </name>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>

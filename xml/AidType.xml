@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Aid Type</narrative>
+            <narrative xml:lang="fr">Type d'aide</narrative>
         </name>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>

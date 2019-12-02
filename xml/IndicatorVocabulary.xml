@@ -2,13 +2,14 @@
     <metadata>
         <name>
             <narrative>Indicator Vocabulary</narrative>
+            <narrative xml:lang="fr">Vocabulaire d'indicateur</narrative>
         </name>
         <description>
             <narrative>
                 The Indicator Vocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for indicators, for example to specify results.
             </narrative>
         </description>
-        <url></url>
+        <url/>
         <category>
             <narrative>Non-Core</narrative>
         </category>
