@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Organisation Identifier</narrative>
+            <narrative xml:lang="fr">Identifiant d'organisation</narrative>
         </name>
         <description>
             <narrative>

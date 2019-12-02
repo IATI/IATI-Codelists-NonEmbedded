@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>UN Sustainable Development Goals (SDG) Targets</narrative>
+            <narrative xml:lang="fr">Objectifs de développement durable (ODD) de l'ONU - cibles</narrative>
         </name>
         <description>
             <narrative>A value from the second-level list of UN sustainable development goals (SDGs) (e.g. ‘1.1’)</narrative>

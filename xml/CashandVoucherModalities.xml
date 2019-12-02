@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Cash and Voucher Modalities</narrative>
+            <narrative xml:lang="fr">Modalités par espèces et coupon</narrative>
         </name>
         <description>
             <narrative>This codelist has been created by IATI following agreements and recommendations of the Tracking Cash and Voucher Assistance (CVA) Working Group. Definitions of the codes have been aligned with the CaLP Glossary:http://www.cashlearning.org/resources/glossary.</narrative>

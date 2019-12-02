@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Country</narrative>
+            <narrative xml:lang="fr">Pays</narrative>
         </name>
         <description>
             <narrative>

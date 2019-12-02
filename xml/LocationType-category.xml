@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Location Type (category)</narrative>
+            <narrative xml:lang="fr">Type de lieu (catégorie)</narrative>
         </name>
         <description>
             <narrative>This category is equivalent to US NGA's "Feature Class"</narrative>
+            <narrative xml:lang="fr">Cette catégorie correspond au "Feature Class" du National Geospatial Agency américain</narrative>
         </description>
         <url>http://geonames.nga.mil/ggmagaz/</url>
         <category>

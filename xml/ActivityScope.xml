@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Activity Scope</narrative>
+            <narrative xml:lang="fr">Portée de l'activité</narrative>
         </name>
         <description>
             <narrative>Geographic scope of activity</narrative>

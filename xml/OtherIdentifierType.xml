@@ -2,7 +2,7 @@
     <metadata>
         <name>
             <narrative>Other Identifier Type</narrative>
-            <narrative xml:lang="fr">Autre critère d’identification</narrative>
+            <narrative xml:lang="fr">Autre type d’identification</narrative>
         </name>
         <category>
             <narrative>Non-Core</narrative>

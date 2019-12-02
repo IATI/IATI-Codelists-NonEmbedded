@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Region Vocabulary</narrative>
+            <narrative xml:lang="fr">Vocabulaire de région</narrative>
         </name>
         <category>
             <narrative>Non-Core</narrative>

@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Budget Identifier Sector</narrative>
+            <narrative xml:lang="fr">Secteur d'identification budgétaire</narrative>
         </name>
         <description>
             <narrative>This codelists exists to group the Budget Identifier codelist into sectors. It is not used as a codelist in its own right.</narrative>

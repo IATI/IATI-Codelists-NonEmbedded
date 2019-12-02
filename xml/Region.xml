@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Region</narrative>
+            <narrative xml:lang="fr">Région</narrative>
         </name>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>

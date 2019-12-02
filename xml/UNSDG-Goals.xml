@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>UN Sustainable Development Goals (SDG)</narrative>
+            <narrative xml:lang="fr">Objectifs de développement durable (ODD) de l'ONU</narrative>
         </name>
         <description>
             <narrative>A value from the top-level list of UN sustainable development goals (SDGs) (e.g. ‘1’)</narrative>
+            <narrative xml:lang="fr">Une valeur de la liste primaire d'Objectifs de développement durable (ODD) de l'ONU (par ex. "1").</narrative>
         </description>
         <url>https://sustainabledevelopment.un.org/?menu=1300</url>
         <category>

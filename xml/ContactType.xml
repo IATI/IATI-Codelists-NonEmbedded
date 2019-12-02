@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Contact Type</narrative>
+            <narrative xml:lang="fr">Type de contact</narrative>
         </name>
         <category>
             <narrative>Non-Core</narrative>
