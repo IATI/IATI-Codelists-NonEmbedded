@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Indicator Measure</narrative>
+            <narrative xml:lang="fr">Mesure d'indicateur</narrative>
         </name>
         <description>
             <narrative>To specify how an indicator is being measured. This includes qualitative and quantitative values.</narrative>
+            <narrative xml:lang="fr">Vise à indiquer comment un indicateur est mesuré. Couvre les valeurs qualitatives et quantitatives.</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

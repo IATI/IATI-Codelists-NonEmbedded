@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>File Format</narrative>
+            <narrative xml:lang="fr">Format de fichier</narrative>
         </name>
         <description>
             <narrative>File format of published documents.</narrative>

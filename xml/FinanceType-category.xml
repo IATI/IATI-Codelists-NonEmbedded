@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Finance Type (category)</narrative>
+            <narrative xml:lang="fr">Type de financement (catégorie)</narrative>
         </name>
         <description>
             <narrative>This codelists exists to group the Finance Type codelist into categories. It is not used as a codelist in its own right.</narrative>

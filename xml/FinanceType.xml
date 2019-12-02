@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Finance Type</narrative>
+            <narrative xml:lang="fr">Type de financement</narrative>
         </name>
         <description>
             <narrative>DAC/CRS transaction classification used to distinguish financial instruments,  e.g. grants or loans.</narrative>

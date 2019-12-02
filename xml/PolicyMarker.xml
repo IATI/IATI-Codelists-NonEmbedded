@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Policy Marker</narrative>
+            <narrative xml:lang="fr">Marqueur d'objectifs politiques</narrative>
         </name>
         <description>
             <narrative>The Policy Marker codelist is derived from the policy markers declared by the WP-STAT. The codes themselves are created by IATI.</narrative>

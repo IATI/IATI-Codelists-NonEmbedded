@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Aid Type Vocabulary</narrative>
+            <narrative xml:lang="fr">Vocabulaire de type d'aide</narrative>
         </name>
         <description>
             <narrative>The AidTypeVocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for aid type.</narrative>
+            <narrative xml:lang="fr">La liste de codes Vocabulaire de type d'aide définit une gamme de listes externes de codes qui offrent elles-mêmes des codes et descriptions de type d'aide.</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

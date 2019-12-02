@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Organisation Type</narrative>
+            <narrative xml:lang="fr">Type d'organisation</narrative>
         </name>
         <category>
             <narrative>Non-Core</narrative>

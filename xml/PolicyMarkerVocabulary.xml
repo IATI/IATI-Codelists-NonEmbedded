@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Policy Marker Vocabulary</narrative>
+            <narrative xml:lang="fr">Vocabulaire de marqueur d'objectif politique</narrative>
         </name>
         <category>
             <narrative>Non-Core</narrative>
