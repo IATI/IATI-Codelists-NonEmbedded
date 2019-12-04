@@ -1127,7 +1127,8 @@
         <codelist-item status="withdrawn">
             <code>AN</code>
             <name>
-                <narrative>NETHERLAND ANTILLES</narrative>
+                <narrative>Netherlands Antilles</narrative>
+                <narrative xml:lang="fr">Antilles néerlandaises (les )</narrative>
             </name>
         </codelist-item>
         <codelist-item>
