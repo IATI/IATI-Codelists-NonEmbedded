@@ -22,714 +22,833 @@
             <code>AF</code>
             <name>
                 <narrative>Afghanistan</narrative>
+                <narrative xml:lang="fr">Afghanistan (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AX</code>
             <name>
                 <narrative>Åland Islands</narrative>
+                <narrative xml:lang="fr">Åland(les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AL</code>
             <name>
                 <narrative>Albania</narrative>
+                <narrative xml:lang="fr">Albanie (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>DZ</code>
             <name>
                 <narrative>Algeria</narrative>
+                <narrative xml:lang="fr">Algérie (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AS</code>
             <name>
                 <narrative>American Samoa</narrative>
+                <narrative xml:lang="fr">Samoa américaines (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AD</code>
             <name>
                 <narrative>Andorra</narrative>
+                <narrative xml:lang="fr">Andorre (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AO</code>
             <name>
                 <narrative>Angola</narrative>
+                <narrative xml:lang="fr">Angola (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AI</code>
             <name>
                 <narrative>Anguilla</narrative>
+                <narrative xml:lang="fr">Anguilla</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AQ</code>
             <name>
                 <narrative>Antarctica</narrative>
+                <narrative xml:lang="fr">Antarctique (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AG</code>
             <name>
                 <narrative>Antigua and Barbuda</narrative>
+                <narrative xml:lang="fr">Antigua-et-Barbuda</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AR</code>
             <name>
                 <narrative>Argentina</narrative>
+                <narrative xml:lang="fr">Argentine (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AM</code>
             <name>
                 <narrative>Armenia</narrative>
+                <narrative xml:lang="fr">Arménie (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AW</code>
             <name>
                 <narrative>Aruba</narrative>
+                <narrative xml:lang="fr">Aruba</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AU</code>
             <name>
                 <narrative>Australia</narrative>
+                <narrative xml:lang="fr">Australie (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AT</code>
             <name>
                 <narrative>Austria</narrative>
+                <narrative xml:lang="fr">Autriche (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AZ</code>
             <name>
                 <narrative>Azerbaijan</narrative>
+                <narrative xml:lang="fr">Azerbaïdjan (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BS</code>
             <name>
                 <narrative>Bahamas (the)</narrative>
+                <narrative xml:lang="fr">Bahamas (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BH</code>
             <name>
                 <narrative>Bahrain</narrative>
+                <narrative xml:lang="fr">Bahreïn</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BD</code>
             <name>
                 <narrative>Bangladesh</narrative>
+                <narrative xml:lang="fr">Bangladesh (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BB</code>
             <name>
                 <narrative>Barbados</narrative>
+                <narrative xml:lang="fr">Barbade (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BY</code>
             <name>
                 <narrative>Belarus</narrative>
+                <narrative xml:lang="fr">Bélarus (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BE</code>
             <name>
                 <narrative>Belgium</narrative>
+                <narrative xml:lang="fr">Belgique (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BZ</code>
             <name>
                 <narrative>Belize</narrative>
+                <narrative xml:lang="fr">Belize (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BJ</code>
             <name>
                 <narrative>Benin</narrative>
+                <narrative xml:lang="fr">Bénin (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BM</code>
             <name>
                 <narrative>Bermuda</narrative>
+                <narrative xml:lang="fr">Bermudes (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BT</code>
             <name>
                 <narrative>Bhutan</narrative>
+                <narrative xml:lang="fr">Bhoutan (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BO</code>
             <name>
                 <narrative>Bolivia (Plurinational State of)</narrative>
+                <narrative xml:lang="fr">Bolivie (État plurinational de)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BQ</code>
             <name>
                 <narrative>Bonaire, Sint Eustatius and Saba</narrative>
+                <narrative xml:lang="fr">Bonaire, Saint-Eustache et Saba</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BA</code>
             <name>
                 <narrative>Bosnia and Herzegovina</narrative>
+                <narrative xml:lang="fr">Bosnie-Herzégovine (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BW</code>
             <name>
                 <narrative>Botswana</narrative>
+                <narrative xml:lang="fr">Botswana (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BV</code>
             <name>
                 <narrative>Bouvet Island</narrative>
+                <narrative xml:lang="fr">Bouvet (l'Île)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BR</code>
             <name>
                 <narrative>Brazil</narrative>
+                <narrative xml:lang="fr">Brésil (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>IO</code>
             <name>
                 <narrative>British Indian Ocean Territory (the)</narrative>
+                <narrative xml:lang="fr">Indien (le Territoire britannique de l'océan)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BN</code>
             <name>
                 <narrative>Brunei Darussalam</narrative>
+                <narrative xml:lang="fr">Brunéi Darussalam (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BG</code>
             <name>
                 <narrative>Bulgaria</narrative>
+                <narrative xml:lang="fr">Bulgarie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BF</code>
             <name>
                 <narrative>Burkina Faso</narrative>
+                <narrative xml:lang="fr">Burkina Faso (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BI</code>
             <name>
                 <narrative>Burundi</narrative>
+                <narrative xml:lang="fr">Burundi (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KH</code>
             <name>
                 <narrative>Cambodia</narrative>
+                <narrative xml:lang="fr">Cambodge (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CM</code>
             <name>
                 <narrative>Cameroon</narrative>
+                <narrative xml:lang="fr">Cameroun (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CA</code>
             <name>
                 <narrative>Canada</narrative>
+                <narrative xml:lang="fr">Canada (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CV</code>
             <name>
                 <narrative>Cabo Verde</narrative>
+                <narrative xml:lang="fr">Cabo Verde</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KY</code>
             <name>
                 <narrative>Cayman Islands (the)</narrative>
+                <narrative xml:lang="fr">Caïmans (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CF</code>
             <name>
                 <narrative>Central African Republic (the)</narrative>
+                <narrative xml:lang="fr">République centrafricaine (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TD</code>
             <name>
                 <narrative>Chad</narrative>
+                <narrative xml:lang="fr">Tchad (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CL</code>
             <name>
                 <narrative>Chile</narrative>
+                <narrative xml:lang="fr">Chili (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CN</code>
             <name>
                 <narrative>China</narrative>
+                <narrative xml:lang="fr">Chine (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CX</code>
             <name>
                 <narrative>Christmas Island</narrative>
+                <narrative xml:lang="fr">Christmas (l'Île)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CC</code>
             <name>
                 <narrative>Cocos (Keeling) Islands (the)</narrative>
+                <narrative xml:lang="fr">Cocos (les Îles)/ Keeling (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CO</code>
             <name>
                 <narrative>Colombia</narrative>
+                <narrative xml:lang="fr">Colombie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KM</code>
             <name>
                 <narrative>Comoros (the)</narrative>
+                <narrative xml:lang="fr">Comores (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CG</code>
             <name>
                 <narrative>Congo (the)</narrative>
+                <narrative xml:lang="fr">Congo (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CD</code>
             <name>
                 <narrative>Congo (the Democratic Republic of the)</narrative>
+                <narrative xml:lang="fr">Congo (la République démocratique du)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CK</code>
             <name>
                 <narrative>Cook Islands (the)</narrative>
+                <narrative xml:lang="fr">Cook (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CR</code>
             <name>
                 <narrative>Costa Rica</narrative>
+                <narrative xml:lang="fr">Costa Rica (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CI</code>
             <name>
                 <narrative>Côte d'Ivoire</narrative>
+                <narrative xml:lang="fr">Côte d'Ivoire (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>HR</code>
             <name>
                 <narrative>Croatia</narrative>
+                <narrative xml:lang="fr">Croatie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CU</code>
             <name>
                 <narrative>Cuba</narrative>
+                <narrative xml:lang="fr">Cuba</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CW</code>
             <name>
                 <narrative>Curaçao</narrative>
+                <narrative xml:lang="fr">Curaçao</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CY</code>
             <name>
                 <narrative>Cyprus</narrative>
+                <narrative xml:lang="fr">Chypre</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CZ</code>
             <name>
                 <narrative>Czechia</narrative>
+                <narrative xml:lang="fr">Tchéquie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>DK</code>
             <name>
                 <narrative>Denmark</narrative>
+                <narrative xml:lang="fr">Danemark (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>DJ</code>
             <name>
                 <narrative>Djibouti</narrative>
+                <narrative xml:lang="fr">Djibouti</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>DM</code>
             <name>
                 <narrative>Dominica</narrative>
+                <narrative xml:lang="fr">Dominique (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>DO</code>
             <name>
                 <narrative>Dominican Republic (the)</narrative>
+                <narrative xml:lang="fr">dominicaine (la République)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>EC</code>
             <name>
                 <narrative>Ecuador</narrative>
+                <narrative xml:lang="fr">Équateur (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>EG</code>
             <name>
                 <narrative>Egypt</narrative>
+                <narrative xml:lang="fr">Égypte (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SV</code>
             <name>
                 <narrative>El Salvador</narrative>
+                <narrative xml:lang="fr">El Salvador</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GQ</code>
             <name>
                 <narrative>Equatorial Guinea</narrative>
+                <narrative xml:lang="fr">Guinée équatoriale (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ER</code>
             <name>
                 <narrative>Eritrea</narrative>
+                <narrative xml:lang="fr">Érythrée (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>EE</code>
             <name>
                 <narrative>Estonia</narrative>
+                <narrative xml:lang="fr">Estonie (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ET</code>
             <name>
                 <narrative>Ethiopia</narrative>
+                <narrative xml:lang="fr">Éthiopie (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>FK</code>
             <name>
                 <narrative>Falkland Islands (the) [Malvinas]</narrative>
+                <narrative xml:lang="fr">Falkland (les Îles)/Malouines (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>FO</code>
             <name>
                 <narrative>Faroe Islands (the)</narrative>
+                <narrative xml:lang="fr">Féroé (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>FJ</code>
             <name>
                 <narrative>Fiji</narrative>
+                <narrative xml:lang="fr">Fidji (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>FI</code>
             <name>
                 <narrative>Finland</narrative>
+                <narrative xml:lang="fr">Finlande (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>FR</code>
             <name>
                 <narrative>France</narrative>
+                <narrative xml:lang="fr">France (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GF</code>
             <name>
                 <narrative>French Guiana</narrative>
+                <narrative xml:lang="fr">Guyane française (la )</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PF</code>
             <name>
                 <narrative>French Polynesia</narrative>
+                <narrative xml:lang="fr">Polynésie française (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TF</code>
             <name>
                 <narrative>French Southern Territories (the)</narrative>
+                <narrative xml:lang="fr">Terres australes françaises (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GA</code>
             <name>
                 <narrative>Gabon</narrative>
+                <narrative xml:lang="fr">Gabon (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GM</code>
             <name>
                 <narrative>Gambia (the)</narrative>
+                <narrative xml:lang="fr">Gambie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GE</code>
             <name>
                 <narrative>Georgia</narrative>
+                <narrative xml:lang="fr">Géorgie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>DE</code>
             <name>
                 <narrative>Germany</narrative>
+                <narrative xml:lang="fr">Allemagne (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GH</code>
             <name>
                 <narrative>Ghana</narrative>
+                <narrative xml:lang="fr">Ghana (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GI</code>
             <name>
                 <narrative>Gibraltar</narrative>
+                <narrative xml:lang="fr">Gibraltar</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GR</code>
             <name>
                 <narrative>Greece</narrative>
+                <narrative xml:lang="fr">Grèce (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GL</code>
             <name>
                 <narrative>Greenland</narrative>
+                <narrative xml:lang="fr">Groenland (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GD</code>
             <name>
                 <narrative>Grenada</narrative>
+                <narrative xml:lang="fr">Grenade (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GP</code>
             <name>
                 <narrative>Guadeloupe</narrative>
+                <narrative xml:lang="fr">Guadeloupe (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GU</code>
             <name>
                 <narrative>Guam</narrative>
+                <narrative xml:lang="fr">Guam</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GT</code>
             <name>
                 <narrative>Guatemala</narrative>
+                <narrative xml:lang="fr">Guatemala (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GG</code>
             <name>
                 <narrative>Guernsey</narrative>
+                <narrative xml:lang="fr">Guernesey</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GN</code>
             <name>
                 <narrative>Guinea</narrative>
+                <narrative xml:lang="fr">Guinée (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GW</code>
             <name>
                 <narrative>Guinea-Bissau</narrative>
+                <narrative xml:lang="fr">Guinée-Bissau (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GY</code>
             <name>
                 <narrative>Guyana</narrative>
+                <narrative xml:lang="fr">Guyana (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>HT</code>
             <name>
                 <narrative>Haiti</narrative>
+                <narrative xml:lang="fr">Haïti</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>HM</code>
             <name>
                 <narrative>Heard Island and McDonald Islands</narrative>
+                <narrative xml:lang="fr">Heard-et-Îles MacDonald (l'Île)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VA</code>
             <name>
                 <narrative>Holy See (the)</narrative>
+                <narrative xml:lang="fr">Saint-Siège (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>HN</code>
             <name>
                 <narrative>Honduras</narrative>
+                <narrative xml:lang="fr">Honduras (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>HK</code>
             <name>
                 <narrative>Hong Kong</narrative>
+                <narrative xml:lang="fr">Hong Kong</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>HU</code>
             <name>
                 <narrative>Hungary</narrative>
+                <narrative xml:lang="fr">Hongrie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>IS</code>
             <name>
                 <narrative>Iceland</narrative>
+                <narrative xml:lang="fr">Islande (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>IN</code>
             <name>
                 <narrative>India</narrative>
+                <narrative xml:lang="fr">Inde (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ID</code>
             <name>
                 <narrative>Indonesia</narrative>
+                <narrative xml:lang="fr">Indonésie (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>IR</code>
             <name>
                 <narrative>Iran (Islamic Republic of)</narrative>
+                <narrative xml:lang="fr">Iran (République Islamique d')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>IQ</code>
             <name>
                 <narrative>Iraq</narrative>
+                <narrative xml:lang="fr">Iraq (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>IE</code>
             <name>
                 <narrative>Ireland</narrative>
+                <narrative xml:lang="fr">Irlande (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>IM</code>
             <name>
                 <narrative>Isle of Man</narrative>
+                <narrative xml:lang="fr">Île de Man</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>IL</code>
             <name>
                 <narrative>Israel</narrative>
+                <narrative xml:lang="fr">Israël</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>IT</code>
             <name>
                 <narrative>Italy</narrative>
+                <narrative xml:lang="fr">Italie (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>JM</code>
             <name>
                 <narrative>Jamaica</narrative>
+                <narrative xml:lang="fr">Jamaïque (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>JP</code>
             <name>
                 <narrative>Japan</narrative>
+                <narrative xml:lang="fr">Japon (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>JE</code>
             <name>
                 <narrative>Jersey</narrative>
+                <narrative xml:lang="fr">Jersey</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>JO</code>
             <name>
                 <narrative>Jordan</narrative>
+                <narrative xml:lang="fr">Jordanie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KZ</code>
             <name>
                 <narrative>Kazakhstan</narrative>
+                <narrative xml:lang="fr">Kazakhstan (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KE</code>
             <name>
                 <narrative>Kenya</narrative>
+                <narrative xml:lang="fr">Kenya (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KI</code>
             <name>
                 <narrative>Kiribati</narrative>
+                <narrative xml:lang="fr">Kiribati</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KP</code>
             <name>
                 <narrative>Korea (the Democratic People's Republic of)</narrative>
+                <narrative xml:lang="fr">Corée (la République populaire démocratique de)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KR</code>
             <name>
                 <narrative>Korea (the Republic of)</narrative>
+                <narrative xml:lang="fr">Corée (la République de)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -742,228 +861,266 @@
             <code>KW</code>
             <name>
                 <narrative>Kuwait</narrative>
+                <narrative xml:lang="fr">Koweït (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KG</code>
             <name>
                 <narrative>Kyrgyzstan</narrative>
+                <narrative xml:lang="fr">Kirghizistan (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LA</code>
             <name>
                 <narrative>Lao People's Democratic Republic (the)</narrative>
+                <narrative xml:lang="fr">Lao (la République démocratique populaire)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LV</code>
             <name>
                 <narrative>Latvia</narrative>
+                <narrative xml:lang="fr">Lettonie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LB</code>
             <name>
                 <narrative>Lebanon</narrative>
+                <narrative xml:lang="fr">Liban (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LS</code>
             <name>
                 <narrative>Lesotho</narrative>
+                <narrative xml:lang="fr">Lesotho (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LR</code>
             <name>
                 <narrative>Liberia</narrative>
+                <narrative xml:lang="fr">Libéria (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LY</code>
             <name>
                 <narrative>Libya</narrative>
+                <narrative xml:lang="fr">Libye (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LI</code>
             <name>
                 <narrative>Liechtenstein</narrative>
+                <narrative xml:lang="fr">Liechtenstein (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LT</code>
             <name>
                 <narrative>Lithuania</narrative>
+                <narrative xml:lang="fr">Lituanie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LU</code>
             <name>
                 <narrative>Luxembourg</narrative>
+                <narrative xml:lang="fr">Luxembourg (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MO</code>
             <name>
                 <narrative>Macao</narrative>
+                <narrative xml:lang="fr">Macao</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MK</code>
             <name>
                 <narrative>North Macedonia</narrative>
+                <narrative xml:lang="fr">Macédoine du Nord (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MG</code>
             <name>
                 <narrative>Madagascar</narrative>
+                <narrative xml:lang="fr">Madagascar</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MW</code>
             <name>
                 <narrative>Malawi</narrative>
+                <narrative xml:lang="fr">Malawi (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MY</code>
             <name>
                 <narrative>Malaysia</narrative>
+                <narrative xml:lang="fr">Malaisie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MV</code>
             <name>
                 <narrative>Maldives</narrative>
+                <narrative xml:lang="fr">Maldives (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ML</code>
             <name>
                 <narrative>Mali</narrative>
+                <narrative xml:lang="fr">Mali (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MT</code>
             <name>
                 <narrative>Malta</narrative>
+                <narrative xml:lang="fr">Malte</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MH</code>
             <name>
                 <narrative>Marshall Islands (the)</narrative>
+                <narrative xml:lang="fr">Marshall (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MQ</code>
             <name>
                 <narrative>Martinique</narrative>
+                <narrative xml:lang="fr">Martinique (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MR</code>
             <name>
                 <narrative>Mauritania</narrative>
+                <narrative xml:lang="fr">Mauritanie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MU</code>
             <name>
                 <narrative>Mauritius</narrative>
+                <narrative xml:lang="fr">Maurice</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>YT</code>
             <name>
                 <narrative>Mayotte</narrative>
+                <narrative xml:lang="fr">Mayotte</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MX</code>
             <name>
                 <narrative>Mexico</narrative>
+                <narrative xml:lang="fr">Mexique (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>FM</code>
             <name>
                 <narrative>Micronesia (Federated States of)</narrative>
+                <narrative xml:lang="fr">Micronésie (États fédérés de)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MD</code>
             <name>
                 <narrative>Moldova (the Republic of)</narrative>
+                <narrative xml:lang="fr">Moldova (la République de)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MC</code>
             <name>
                 <narrative>Monaco</narrative>
+                <narrative xml:lang="fr">Monaco</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MN</code>
             <name>
                 <narrative>Mongolia</narrative>
+                <narrative xml:lang="fr">Mongolie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ME</code>
             <name>
                 <narrative>Montenegro</narrative>
+                <narrative xml:lang="fr">Monténégro (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MS</code>
             <name>
                 <narrative>Montserrat</narrative>
+                <narrative xml:lang="fr">Montserrat</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MA</code>
             <name>
                 <narrative>Morocco</narrative>
+                <narrative xml:lang="fr">Maroc (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MZ</code>
             <name>
                 <narrative>Mozambique</narrative>
+                <narrative xml:lang="fr">Mozambique (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MM</code>
             <name>
                 <narrative>Myanmar</narrative>
+                <narrative xml:lang="fr">Myanmar (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NA</code>
             <name>
                 <narrative>Namibia</narrative>
+                <narrative xml:lang="fr">Namibie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NR</code>
             <name>
                 <narrative>Nauru</narrative>
+                <narrative xml:lang="fr">Nauru</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NP</code>
             <name>
                 <narrative>Nepal</narrative>
+                <narrative xml:lang="fr">Népal (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NL</code>
             <name>
                 <narrative>Netherlands (the)</narrative>
+                <narrative xml:lang="fr">Pays-Bas (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn">
@@ -976,552 +1133,644 @@
             <code>NC</code>
             <name>
                 <narrative>New Caledonia</narrative>
+                <narrative xml:lang="fr">Nouvelle-Calédonie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NZ</code>
             <name>
                 <narrative>New Zealand</narrative>
+                <narrative xml:lang="fr">Nouvelle-Zélande (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NI</code>
             <name>
                 <narrative>Nicaragua</narrative>
+                <narrative xml:lang="fr">Nicaragua (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NE</code>
             <name>
                 <narrative>Niger (the)</narrative>
+                <narrative xml:lang="fr">Niger (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NG</code>
             <name>
                 <narrative>Nigeria</narrative>
+                <narrative xml:lang="fr">Nigéria (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NU</code>
             <name>
                 <narrative>Niue</narrative>
+                <narrative xml:lang="fr">Niue</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NF</code>
             <name>
                 <narrative>Norfolk Island</narrative>
+                <narrative xml:lang="fr">Norfolk (l'Île)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MP</code>
             <name>
                 <narrative>Northern Mariana Islands (the)</narrative>
+                <narrative xml:lang="fr">Mariannes du Nord (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>NO</code>
             <name>
                 <narrative>Norway</narrative>
+                <narrative xml:lang="fr">Norvège (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>OM</code>
             <name>
                 <narrative>Oman</narrative>
+                <narrative xml:lang="fr">Oman</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PK</code>
             <name>
                 <narrative>Pakistan</narrative>
+                <narrative xml:lang="fr">Pakistan (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PW</code>
             <name>
                 <narrative>Palau</narrative>
+                <narrative xml:lang="fr">Palaos (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PS</code>
             <name>
                 <narrative>Palestine, State of</narrative>
+                <narrative xml:lang="fr">Palestine, État de</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PA</code>
             <name>
                 <narrative>Panama</narrative>
+                <narrative xml:lang="fr">Panama (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PG</code>
             <name>
                 <narrative>Papua New Guinea</narrative>
+                <narrative xml:lang="fr">Papouasie-Nouvelle-Guinée (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PY</code>
             <name>
                 <narrative>Paraguay</narrative>
+                <narrative xml:lang="fr">Paraguay (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PE</code>
             <name>
                 <narrative>Peru</narrative>
+                <narrative xml:lang="fr">Pérou (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PH</code>
             <name>
                 <narrative>Philippines (the)</narrative>
+                <narrative xml:lang="fr">Philippines (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PN</code>
             <name>
                 <narrative>Pitcairn</narrative>
+                <narrative xml:lang="fr">Pitcairn</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PL</code>
             <name>
                 <narrative>Poland</narrative>
+                <narrative xml:lang="fr">Pologne (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PT</code>
             <name>
                 <narrative>Portugal</narrative>
+                <narrative xml:lang="fr">Portugal (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PR</code>
             <name>
                 <narrative>Puerto Rico</narrative>
+                <narrative xml:lang="fr">Porto Rico</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>QA</code>
             <name>
                 <narrative>Qatar</narrative>
+                <narrative xml:lang="fr">Qatar (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>RE</code>
             <name>
                 <narrative>Réunion</narrative>
+                <narrative xml:lang="fr">Réunion (La)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>RO</code>
             <name>
                 <narrative>Romania</narrative>
+                <narrative xml:lang="fr">Roumanie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>RU</code>
             <name>
                 <narrative>Russian Federation (the)</narrative>
+                <narrative xml:lang="fr">Russie (la Fédération de)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>RW</code>
             <name>
                 <narrative>Rwanda</narrative>
+                <narrative xml:lang="fr">Rwanda (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>BL</code>
             <name>
                 <narrative>Saint Barthélemy</narrative>
+                <narrative xml:lang="fr">Saint-Barthélemy</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SH</code>
             <name>
                 <narrative>Saint Helena, Ascension and Tristan da Cunha</narrative>
+                <narrative xml:lang="fr">Sainte-Hélène, Ascension et Tristan da Cunha</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>KN</code>
             <name>
                 <narrative>Saint Kitts and Nevis</narrative>
+                <narrative xml:lang="fr">Saint-Kitts-et-Nevis</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LC</code>
             <name>
                 <narrative>Saint Lucia</narrative>
+                <narrative xml:lang="fr">Sainte-Lucie</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>MF</code>
             <name>
                 <narrative>Saint Martin (French part)</narrative>
+                <narrative xml:lang="fr">Saint-Martin (partie française)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>PM</code>
             <name>
                 <narrative>Saint Pierre and Miquelon</narrative>
+                <narrative xml:lang="fr">Saint-Pierre-et-Miquelon</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VC</code>
             <name>
                 <narrative>Saint Vincent and the Grenadines</narrative>
+                <narrative xml:lang="fr">Saint-Vincent-et-les Grenadines</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>WS</code>
             <name>
                 <narrative>Samoa</narrative>
+                <narrative xml:lang="fr">Samoa (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SM</code>
             <name>
                 <narrative>San Marino</narrative>
+                <narrative xml:lang="fr">Saint-Marin</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ST</code>
             <name>
                 <narrative>Sao Tome and Principe</narrative>
+                <narrative xml:lang="fr">Sao Tomé-et-Principe</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SA</code>
             <name>
                 <narrative>Saudi Arabia</narrative>
+                <narrative xml:lang="fr">Arabie saoudite (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SN</code>
             <name>
                 <narrative>Senegal</narrative>
+                <narrative xml:lang="fr">Sénégal (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>RS</code>
             <name>
                 <narrative>Serbia</narrative>
+                <narrative xml:lang="fr">Serbie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SC</code>
             <name>
                 <narrative>Seychelles</narrative>
+                <narrative xml:lang="fr">Seychelles (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SL</code>
             <name>
                 <narrative>Sierra Leone</narrative>
+                <narrative xml:lang="fr">Sierra Leone (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SG</code>
             <name>
                 <narrative>Singapore</narrative>
+                <narrative xml:lang="fr">Singapour</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SX</code>
             <name>
                 <narrative>Sint Maarten (Dutch part)</narrative>
+                <narrative xml:lang="fr">Saint-Martin (partie néerlandaise)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SK</code>
             <name>
                 <narrative>Slovakia</narrative>
+                <narrative xml:lang="fr">Slovaquie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SI</code>
             <name>
                 <narrative>Slovenia</narrative>
+                <narrative xml:lang="fr">Slovénie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SB</code>
             <name>
                 <narrative>Solomon Islands</narrative>
+                <narrative xml:lang="fr">Salomon (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SO</code>
             <name>
                 <narrative>Somalia</narrative>
+                <narrative xml:lang="fr">Somalie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ZA</code>
             <name>
                 <narrative>South Africa</narrative>
+                <narrative xml:lang="fr">Afrique du Sud (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GS</code>
             <name>
                 <narrative>South Georgia and the South Sandwich Islands</narrative>
+                <narrative xml:lang="fr">Géorgie du Sud-et-les Îles Sandwich du Sud (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SS</code>
             <name>
                 <narrative>South Sudan</narrative>
+                <narrative xml:lang="fr">Soudan du Sud (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ES</code>
             <name>
                 <narrative>Spain</narrative>
+                <narrative xml:lang="fr">Espagne (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>LK</code>
             <name>
                 <narrative>Sri Lanka</narrative>
+                <narrative xml:lang="fr">Sri Lanka</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SD</code>
             <name>
                 <narrative>Sudan (the)</narrative>
+                <narrative xml:lang="fr">Soudan (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SR</code>
             <name>
                 <narrative>Suriname</narrative>
+                <narrative xml:lang="fr">Suriname (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SJ</code>
             <name>
                 <narrative>Svalbard and Jan Mayen</narrative>
+                <narrative xml:lang="fr">Svalbard et l'Île Jan Mayen (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SZ</code>
             <name>
                 <narrative>Eswatini</narrative>
+                <narrative xml:lang="fr">Eswatini (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SE</code>
             <name>
                 <narrative>Sweden</narrative>
+                <narrative xml:lang="fr">Suède (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>CH</code>
             <name>
                 <narrative>Switzerland</narrative>
+                <narrative xml:lang="fr">Suisse (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>SY</code>
             <name>
                 <narrative>Syrian Arab Republic (the)</narrative>
+                <narrative xml:lang="fr">République arabe syrienne (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TW</code>
             <name>
                 <narrative>Taiwan (Province of China)</narrative>
+                <narrative xml:lang="fr">Taïwan (Province de Chine)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TJ</code>
             <name>
                 <narrative>Tajikistan</narrative>
+                <narrative xml:lang="fr">Tadjikistan (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TZ</code>
             <name>
                 <narrative>Tanzania, the United Republic of</narrative>
+                <narrative xml:lang="fr">Tanzanie (la République-Unie de)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TH</code>
             <name>
                 <narrative>Thailand</narrative>
+                <narrative xml:lang="fr">Thaïlande (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TL</code>
             <name>
                 <narrative>Timor-Leste</narrative>
+                <narrative xml:lang="fr">Timor-Leste (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TG</code>
             <name>
                 <narrative>Togo</narrative>
+                <narrative xml:lang="fr">Togo (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TK</code>
             <name>
                 <narrative>Tokelau</narrative>
+                <narrative xml:lang="fr">Tokelau (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TO</code>
             <name>
                 <narrative>Tonga</narrative>
+                <narrative xml:lang="fr">Tonga (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TT</code>
             <name>
                 <narrative>Trinidad and Tobago</narrative>
+                <narrative xml:lang="fr">Trinité-et-Tobago (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TN</code>
             <name>
                 <narrative>Tunisia</narrative>
+                <narrative xml:lang="fr">Tunisie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TR</code>
             <name>
                 <narrative>Turkey</narrative>
+                <narrative xml:lang="fr">Turquie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TM</code>
             <name>
                 <narrative>Turkmenistan</narrative>
+                <narrative xml:lang="fr">Turkménistan (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TC</code>
             <name>
                 <narrative>Turks and Caicos Islands (the)</narrative>
+                <narrative xml:lang="fr">Turks-et-Caïcos (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>TV</code>
             <name>
                 <narrative>Tuvalu</narrative>
+                <narrative xml:lang="fr">Tuvalu (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>UG</code>
             <name>
                 <narrative>Uganda</narrative>
+                <narrative xml:lang="fr">Ouganda (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>UA</code>
             <name>
                 <narrative>Ukraine</narrative>
+                <narrative xml:lang="fr">Ukraine (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>AE</code>
             <name>
                 <narrative>United Arab Emirates (the)</narrative>
+                <narrative xml:lang="fr">Émirats arabes unis (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>GB</code>
             <name>
                 <narrative>United Kingdom of Great Britain and Northern Ireland (the)</narrative>
+                <narrative xml:lang="fr">Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>US</code>
             <name>
                 <narrative>United States of America (the)</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>UM</code>
             <name>
                 <narrative>United States Minor Outlying Islands (the)</narrative>
+                <narrative xml:lang="fr">Îles mineures éloignées des États-Unis (les)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>UY</code>
             <name>
                 <narrative>Uruguay</narrative>
+                <narrative xml:lang="fr">Uruguay (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>UZ</code>
             <name>
                 <narrative>Uzbekistan</narrative>
+                <narrative xml:lang="fr">Ouzbékistan (l')</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VU</code>
             <name>
                 <narrative>Vanuatu</narrative>
+                <narrative xml:lang="fr">Vanuatu (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VE</code>
             <name>
                 <narrative>Venezuela (Bolivarian Republic of)</narrative>
+                <narrative xml:lang="fr">Venezuela (République bolivarienne du)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VN</code>
             <name>
                 <narrative>Viet Nam</narrative>
+                <narrative xml:lang="fr">Viet Nam (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VG</code>
             <name>
                 <narrative>Virgin Islands (British)</narrative>
+                <narrative xml:lang="fr">Vierges britanniques (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>VI</code>
             <name>
                 <narrative>Virgin Islands (U.S.)</narrative>
+                <narrative xml:lang="fr">Vierges des États-Unis (les Îles)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>WF</code>
             <name>
                 <narrative>Wallis and Futuna</narrative>
+                <narrative xml:lang="fr">Wallis-et-Futuna</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>EH</code>
             <name>
                 <narrative>Western Sahara</narrative>
+                <narrative xml:lang="fr">Sahara occidental (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>YE</code>
             <name>
                 <narrative>Yemen</narrative>
+                <narrative xml:lang="fr">Yémen (le)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ZM</code>
             <name>
                 <narrative>Zambia</narrative>
+                <narrative xml:lang="fr">Zambie (la)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ZW</code>
             <name>
                 <narrative>Zimbabwe</narrative>
+                <narrative xml:lang="fr">Zimbabwe (le)</narrative>
             </name>
         </codelist-item>
     </codelist-items>
