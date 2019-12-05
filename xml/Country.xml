@@ -271,6 +271,13 @@
                 <narrative xml:lang="fr">Burkina Faso (le)</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>BU</code>
+            <name>
+                <narrative>Burma</narrative>
+                <narrative xml:lang="fr">Birmanie</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>BI</code>
             <name>
