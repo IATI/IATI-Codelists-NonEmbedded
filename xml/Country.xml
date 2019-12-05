@@ -1335,6 +1335,13 @@
                 <narrative>Eswatini</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>CS</code>
+            <name>
+                <narrative>Serbia and Montenegro</narrative>
+                <narrative xml:lang="fr">Serbie-et-Monténégro</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>SE</code>
             <name>
