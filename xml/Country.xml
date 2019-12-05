@@ -1796,6 +1796,13 @@
                 <narrative xml:lang="fr">Yougoslavie</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>ZR</code>
+            <name>
+                <narrative>Zaire</narrative>
+                <narrative xml:lang="fr">Zaïre</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>ZM</code>
             <name>
