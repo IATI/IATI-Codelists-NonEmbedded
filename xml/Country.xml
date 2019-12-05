@@ -1145,6 +1145,13 @@
                 <narrative xml:lang="fr">Antilles néerlandaises (les )</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>NT</code>
+            <name>
+                <narrative>Neutral Zone</narrative>
+                <narrative xml:lang="fr">Zone neutre</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>NC</code>
             <name>
