@@ -1540,6 +1540,13 @@
                 <narrative>Yemen</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>YU</code>
+            <name>
+                <narrative>Yugoslavia</narrative>
+                <narrative xml:lang="fr">Yougoslavie</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>ZM</code>
             <name>
