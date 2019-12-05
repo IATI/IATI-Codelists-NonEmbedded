@@ -474,6 +474,13 @@
                 <narrative xml:lang="fr">dominicaine (la République)</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>TP</code>
+            <name>
+                <narrative>East Timor</narrative>
+                <narrative xml:lang="fr">Timor oriental</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>EC</code>
             <name>
