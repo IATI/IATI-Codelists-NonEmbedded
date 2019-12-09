@@ -5,9 +5,7 @@
             <narrative xml:lang="fr">Vocabulaire de cadre humanitaire</narrative>
         </name>
         <description>
-            <narrative>
-                The Humanitarian Scope Vocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for humanitarian events and actions.
-            </narrative>
+            <narrative>The Humanitarian Scope Vocabulary codelist defines a range of external codelists which themselves provide codes and descriptions for humanitarian events and actions.</narrative>
             <narrative xml:lang="fr">La liste de codes de vocabulaire de cadre humanitaire définit une gamme de listes externes de code qui offrent elles-mêmes des codes et descriptions d'événements et d'actions humanitaires.</narrative>
         </description>
         <category>

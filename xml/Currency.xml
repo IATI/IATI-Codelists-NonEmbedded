@@ -2,10 +2,11 @@
     <metadata>
         <name>
             <narrative>Currency</narrative>
-            <narrative xml:lang="fr">Monnaie</narrative>
+            <narrative xml:lang="fr">Devise</narrative>
         </name>
         <description>
             <narrative>ISO 4217 Currency used for all transactions and budgets</narrative>
+            <narrative xml:lang="fr">ISO 4217 La devise utilisée pour tous les budgets et transactions</narrative>
         </description>
         <url>http://www.iso.org/iso/home/standards/currency_codes.htm</url>
         <category>

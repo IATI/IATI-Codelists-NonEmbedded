@@ -2,12 +2,11 @@
     <metadata>
         <name>
             <narrative>Humanitarian Scope Type</narrative>
-            <narrative xml:lang="fr">Type de cadre géographique</narrative>
+            <narrative xml:lang="fr">Type de cadre humanitaire</narrative>
         </name>
         <description>
-            <narrative>
-                The Humanitarian Scope Type codelist defines codes for types of humanitarian events and actions.
-            </narrative>
+            <narrative>The Humanitarian Scope Type codelist defines codes for types of humanitarian events and actions.</narrative>
+            <narrative xml:lang="fr">La liste de codes Type de cadre humanitaire définit des codes pour les types d'événements et actions humanitaires.</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

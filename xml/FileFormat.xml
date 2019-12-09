@@ -6,6 +6,7 @@
         </name>
         <description>
             <narrative>File format of published documents.</narrative>
+            <narrative xml:lang="fr">Format de fichier de documents publiés.</narrative>
         </description>
         <url>http://www.iana.org/assignments/media-types</url>
         <category>

@@ -5,15 +5,20 @@
             <narrative xml:lang="fr">Agence d'enregistrement des organisations</narrative>
         </name>
         <description>
-            <narrative><![CDATA[
-                The values from this codelist are used to identify the particular list that an organisation identifier was drawn from. The codelist provides a register of known identifier lists, including national company registers, NGO directories and international and multilateral organisation lists - along with guidance and online resources to help locate the identifiers assigned to a specific organisation.
+            <narrative><![CDATA[The values from this codelist are used to identify the particular list that an organisation identifier was drawn from. The codelist provides a register of known identifier lists, including national company registers, NGO directories and international and multilateral organisation lists - along with guidance and online resources to help locate the identifiers assigned to a specific organisation.
 
-                As of 17 July 2017 this list is maintained by the org-id.guide project. Data publishers can now search for and locate the relevant list for a particular organisation identifier using the `org-id.guide website <http://org-id.guide/>`__. The full register of identifier sources is also available to download in `XML <http://org-id.guide/download.xml>`__, `JSON <http://org-id.guide/download.json>`__ and `CSV <http://org-id.guide/download.csv>`__ formats.
+As of 17 July 2017 this list is maintained by the org-id.guide project. Data publishers can now search for and locate the relevant list for a particular organisation identifier using the `org-id.guide website <http://org-id.guide/>`__. The full register of identifier sources is also available to download in `XML <http://org-id.guide/download.xml>`__, `JSON <http://org-id.guide/download.json>`__ and `CSV <http://org-id.guide/download.csv>`__ formats.
 
-                IATI periodically replicates the codelist of identifier sources from org-id.guide, to assist those accessing IATI documentation. However, it is advised that the most up-to-date source is the `org-id.guide project <http://org-id.guide/>`__.
+IATI periodically replicates the codelist of identifier sources from org-id.guide, to assist those accessing IATI documentation. However, it is advised that the most up-to-date source is the `org-id.guide project <http://org-id.guide/>`__.
 
-                If org-id.guide does not contain an entry for the kind of organisation you need to identify, you can make a request a new list is included in the register following the `guidance <http://docs.org-id.guide/en/latest/contribute/>`__ or by getting in touch with org-id.guide at: contact@org-id.guide.
-            ]]></narrative>
+If org-id.guide does not contain an entry for the kind of organisation you need to identify, you can make a request a new list is included in the register following the `guidance <http://docs.org-id.guide/en/latest/contribute/>`__ or by getting in touch with org-id.guide at: contact@org-id.guide.]]></narrative>
+            <narrative xml:lang="fr"><![CDATA[Les valeurs de cette liste désignent la liste spécifique dont est issu un identifiant d'organisation. La liste de codes constitue un registre de listes connues d'identifiants, y compris des registres nationaux de compagnies, des répertoires d'ONG et des listes d'organisations internationales et multilatérales - ainsi que des instructions et des ressources en ligne pour faciliter la recherche des identifiants assignés à une organisation donnée.
+
+Depuis le 17 juillet 2017 cette liste est gérée par le projet org-id.guide. Les diffuseurs de données peuvent maintenant utiliser le site web `org-id.guide <http://org-id.guide/>`__ pour trouver la liste pertinente pour un identifiant d’organisation donné. Le registre entier de sources d’identifiants peut aussi être téléchargé en formats `XML <http://org-id.guide/download.xml>`__, `JSON <http://org-id.guide/download.json>`__ and `CSV <http://org-id.guide/download.csv>`__.
+
+L’IITA reproduit périodiquement la liste de codes des sources d’identifiants depuis org-id.guide pour aider ceux qui utilisent la documentation de l’IITA. Veuillez cependant noter que la source la plus à jour est le projet `org-id.guide project <http://org-id.guide/>`__.
+
+Si org-id.guide n’offre pas de contenu pour le genre d’organisation que vous devez identifier, vous pouvez présenter une requête pour l’ajout d’une nouvelle liste au registre en suivant les indications `guidance <http://docs.org-id.guide/en/latest/contribute/>`__ ou en contactant org-id.guide à contact@org-id.guide.]]></narrative>
         </description>
         <category>
             <narrative>Replicated</narrative>
