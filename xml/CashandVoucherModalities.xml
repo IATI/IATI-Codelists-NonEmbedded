@@ -2,10 +2,11 @@
     <metadata>
         <name>
             <narrative>Cash and Voucher Modalities</narrative>
-            <narrative xml:lang="fr">Modalités par espèces et coupon</narrative>
+            <narrative xml:lang="fr">Modalités par espèces et coupons</narrative>
         </name>
         <description>
             <narrative>This codelist has been created by IATI following agreements and recommendations of the Tracking Cash and Voucher Assistance (CVA) Working Group. Definitions of the codes have been aligned with the CaLP Glossary:http://www.cashlearning.org/resources/glossary.</narrative>
+            <narrative xml:lang="fr">Cette liste de codes a été créée par l'IITA à partir des accords et recommendations du groupe de travail sur l'aide par espèces et coupons. Les définitions de ces codes suivent celles du CaLP Glossary:http://www.cashlearning.org/resources/glossary</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

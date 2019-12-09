@@ -5,7 +5,8 @@
             <narrative xml:lang="fr">Type de remboursement de prêt</narrative>
         </name>
         <description>
-            <narrative>used in additional CRS elements</narrative>
+            <narrative>Used in additional CRS elements</narrative>
+            <narrative xml:lang="fr">Utilisé dans des éléments additionnels liés au SNPC</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

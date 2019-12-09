@@ -5,11 +5,12 @@
             <narrative xml:lang="fr">Identifiant d'organisation</narrative>
         </name>
         <description>
-            <narrative>
-            As of 1.04 this list is no longer maintained. http://support.iatistandard.org/entries/28497976-Retire-the-Organisation-Identifier-codelist#view-post-25368673
+            <narrative>As of 1.04 this list is no longer maintained. http://support.iatistandard.org/entries/28497976-Retire-the-Organisation-Identifier-codelist#view-post-25368673
 
-            For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/
-        </narrative>
+For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/</narrative>
+            <narrative xml:lang="fr">Cette liste n'est plus maintenue depuis la version 1.04. http://support.iatistandard.org/entries/28497976-Retire-the-Organisation-Identifier-codelist#view-post-25368673
+
+Pour des informations générales sur l’élaboration d’identifiants d’organisation, veuillez consulter http://iatistandard.org/organisation-identifiers/</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

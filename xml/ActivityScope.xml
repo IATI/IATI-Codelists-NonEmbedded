@@ -6,6 +6,7 @@
         </name>
         <description>
             <narrative>Geographic scope of activity</narrative>
+            <narrative xml:lang="fr">La portée géographique de l'activité</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

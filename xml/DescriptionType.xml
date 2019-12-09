@@ -6,6 +6,7 @@
         </name>
         <description>
             <narrative>Activity decription types. (General, objectives, etc)</narrative>
+            <narrative xml:lang="fr">Type de description d'activité (général, objectifs, etc)</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

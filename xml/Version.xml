@@ -5,9 +5,8 @@
             <narrative xml:lang="fr">Version</narrative>
         </name>
         <description>
-            <narrative>
-       Version of the IATI Standard 
-    </narrative>
+            <narrative>Version of the IATI Standard</narrative>
+            <narrative xml:lang="fr">Version de la norme IITA</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>
