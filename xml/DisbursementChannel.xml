@@ -4,9 +4,6 @@
             <narrative>Disbursement Channel</narrative>
             <narrative xml:lang="fr">Mécanisme de décaissement</narrative>
         </name>
-        <description>
-            <narrative>Categories of information included in published documents</narrative>
-        </description>
         <category>
             <narrative>Non-Core</narrative>
         </category>
