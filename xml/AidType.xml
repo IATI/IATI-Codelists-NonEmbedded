@@ -151,7 +151,7 @@
                 <narrative>Groups all actions relating to debt (forgiveness, conversions, swaps, buy-backs, rescheduling, refinancing).</narrative>
                 <narrative xml:lang="fr">Regroupe toutes les actions se rapportant à la dette (annulation, conversion, échange, rachat, rééchelonnement, refinancement).</narrative>
             </description>
-            <category>F </category>
+            <category>F</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>G01</code>
@@ -163,7 +163,7 @@
                 <narrative>Administrative costs of development assistance programmes not already included under other ODA items as an integral part of the costs of delivering or implementing the aid provided. This category covers situation analyses and auditing activities.As regards the salaries component of administrative costs, it relates to  in-house agency staff and contractors only; costs associated with donor experts/consultants are to be reported under category C or D01.</narrative>
                 <narrative xml:lang="fr">Frais d'administration des programmes d'aide au développement qui ne sont pas déjà inclus dans d'autres rubriques comme partie intégrante du coût de l’acheminement ou de la mise en œuvre de l’aide fournie. Cette catégorie comprend les analyses de situation et les activités d’audit.En ce qui concerne la composante salariale des frais administratifs, elle se rapporte uniquement au personnel et contractuels de l’agence ; les coûts associés aux experts/consultants du pays donneur sont à notifier sous les catégories C ou D01.</narrative>
             </description>
-            <category>G </category>
+            <category>G</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>H01</code>
