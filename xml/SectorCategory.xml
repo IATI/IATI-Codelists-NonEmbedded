@@ -26,10 +26,6 @@
                 <narrative>Basic Education</narrative>
                 <narrative xml:lang="fr">Education de Base</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>113</code>
@@ -37,10 +33,6 @@
                 <narrative>Secondary Education</narrative>
                 <narrative xml:lang="fr">Education Secondaire</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>114</code>
@@ -48,10 +40,6 @@
                 <narrative>Post-Secondary Education</narrative>
                 <narrative xml:lang="fr">Education Post Secondaire</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>121</code>
@@ -59,10 +47,6 @@
                 <narrative>Health, General</narrative>
                 <narrative xml:lang="fr">Santé, Général</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>122</code>
@@ -70,10 +54,6 @@
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>123</code>
@@ -81,10 +61,6 @@
                 <narrative>Non-communicable diseases (NCDs)</narrative>
                 <narrative xml:lang="fr">Maladies non-transmissibles (MNT)</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>130</code>
@@ -92,10 +68,6 @@
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>140</code>
@@ -103,10 +75,6 @@
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>151</code>
@@ -136,10 +104,6 @@
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>210</code>
@@ -158,19 +122,6 @@
                 <narrative>Communications</narrative>
                 <narrative xml:lang="fr">Communications</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
-        </codelist-item>
-        <codelist-item status="withdrawn">
-            <code>230</code>
-            <name>
-                <narrative>ENERGY GENERATION AND SUPPLY</narrative>
-            </name>
-            <description>
-                <narrative>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</narrative>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>231</code>
@@ -178,10 +129,6 @@
                 <narrative>Energy Policy</narrative>
                 <narrative xml:lang="fr">Politique de l'énergie</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>232</code>
@@ -189,10 +136,6 @@
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>233</code>
@@ -200,10 +143,6 @@
                 <narrative>Energy generation, non-renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources non renouvelables</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>234</code>
@@ -211,10 +150,6 @@
                 <narrative>Hybrid energy plants</narrative>
                 <narrative xml:lang="fr">Centrales hybrides</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>235</code>
@@ -222,10 +157,6 @@
                 <narrative>Nuclear energy plants</narrative>
                 <narrative xml:lang="fr">Centrales nucléaires</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>236</code>
@@ -233,10 +164,6 @@
                 <narrative>Energy distribution</narrative>
                 <narrative xml:lang="fr">Distribution de l'énergie</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>240</code>
@@ -244,10 +171,6 @@
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>250</code>
@@ -255,10 +178,6 @@
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>311</code>
@@ -266,10 +185,6 @@
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>312</code>
@@ -277,10 +192,6 @@
                 <narrative>Forestry</narrative>
                 <narrative xml:lang="fr">Sylviculture</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>313</code>
@@ -288,10 +199,6 @@
                 <narrative>Fishing</narrative>
                 <narrative xml:lang="fr">Pêche</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>321</code>
@@ -299,10 +206,6 @@
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>322</code>
@@ -310,10 +213,6 @@
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>323</code>
@@ -321,10 +220,6 @@
                 <narrative>Construction</narrative>
                 <narrative xml:lang="fr">Construction</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>331</code>
@@ -332,10 +227,6 @@
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>332</code>
@@ -343,10 +234,6 @@
                 <narrative>Tourism</narrative>
                 <narrative xml:lang="fr">Tourisme</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>410</code>
@@ -365,10 +252,6 @@
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>510</code>
@@ -384,13 +267,9 @@
         <codelist-item>
             <code>520</code>
             <name>
-                <narrative>Developmental Food Aid/Food Security Assistance</narrative>
-                <narrative xml:lang="fr">Aide Alimentaire Dévelopmentale/Sécurité Alimentaire</narrative>
+                <narrative>Development Food Assistance</narrative>
+                <narrative xml:lang="fr">Aide Alimentaire Dévelopmentale</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>530</code>
@@ -409,10 +288,6 @@
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>720</code>
@@ -443,8 +318,8 @@
                 <narrative xml:lang="fr">Prévention catastrophes/Préparation à leur survenue</narrative>
             </name>
             <description>
-                <narrative>See codes 41050 and 15220 for prevention of floods and conflicts.</narrative>
-                <narrative xml:lang="fr">Voir codes 41050 et 15220 pour la prévention des inondations et des conflits.</narrative>
+                <narrative>See code 43060 for disaster risk reduction.</narrative>
+                <narrative xml:lang="fr">Voir code 43060 pour la réduction des risques de catastrophes.</narrative>
             </description>
         </codelist-item>
         <codelist-item>
@@ -453,19 +328,6 @@
                 <narrative>Administrative Costs of Donors</narrative>
                 <narrative xml:lang="fr">Frais Administratifs des Donneurs</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
-        </codelist-item>
-        <codelist-item status="withdrawn">
-            <code>920</code>
-            <name>
-                <narrative>SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)</narrative>
-            </name>
-            <description>
-                <narrative>In the donor country.</narrative>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>930</code>
@@ -473,10 +335,6 @@
                 <narrative>Refugees in Donor Countries</narrative>
                 <narrative xml:lang="fr">Refugiés dans les Pays Donneurs</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item>
             <code>998</code>

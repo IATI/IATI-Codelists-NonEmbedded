@@ -41,7 +41,7 @@
             </name>
             <description>
                 <narrative>Teacher education (where the level of education is unspecified); in-service and pre-service training; materials development.</narrative>
-                <narrative xml:lang="fr">Éducation des enseignants (quand le niveau d’éducation n’est pas spécifié) ; formation et formation continue ; développement des matériels pédagogiques.  </narrative>
+                <narrative xml:lang="fr">Éducation des enseignants (quand le niveau d’éducation n’est pas spécifié) ; formation et formation continue ; développement des matériels pédagogiques.</narrative>
             </description>
             <category>111</category>
         </codelist-item>
@@ -53,7 +53,7 @@
             </name>
             <description>
                 <narrative>Research and studies on education effectiveness, relevance and quality; systematic evaluation and monitoring.</narrative>
-                <narrative xml:lang="fr">Recherche et études sur l’efficacité, la pertinence et la qualité de l’éducation ; évaluation et suivi systématiques. </narrative>
+                <narrative xml:lang="fr">Recherche et études sur l’efficacité, la pertinence et la qualité de l’éducation ; évaluation et suivi systématiques.</narrative>
             </description>
             <category>111</category>
         </codelist-item>
@@ -81,7 +81,7 @@
             </description>
             <category>112</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>11231</code>
             <name>
                 <narrative>Basic life skills for youth</narrative>
@@ -93,7 +93,7 @@
             </description>
             <category>112</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>11232</code>
             <name>
                 <narrative>Primary education equivalent for adults</narrative>
@@ -141,7 +141,7 @@
             </description>
             <category>113</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>11321</code>
             <name>
                 <narrative>Lower secondary education</narrative>
@@ -153,7 +153,7 @@
             </description>
             <category>113</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>11322</code>
             <name>
                 <narrative>Upper secondary education</narrative>
@@ -249,7 +249,7 @@
             </description>
             <category>121</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2019-01-01">
+        <codelist-item status="withdrawn" activation-date="2019-01-01">
             <code>12196</code>
             <name>
                 <narrative>Health statistics and data</narrative>
@@ -305,7 +305,7 @@
             </name>
             <description>
                 <narrative>Immunisation; prevention and control of infectious and parasite diseases, except malaria (12262), tuberculosis (12263), HIV/AIDS and other STDs (13040). It includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea worm), viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and viruses, pediculosis, etc.</narrative>
-                <narrative xml:lang="fr">Vaccination ;  prévention et lutte contre les maladies infectieuses parasitaires à l’exception du paludisme (12262), de la tuberculose (12263), du VIH/sida et autres MST (13040). Ceci inclus les diarrhées chroniques, les maladies transmises par un vecteur (par exemple onchocercose, bilharziose), les maladies virales, les mycoses, l’helminthiasis, les zoonoses et les maladies provoquées par d’autres bactéries et virus, pédiculose, etc. </narrative>
+                <narrative xml:lang="fr">Vaccination ;  prévention et lutte contre les maladies infectieuses parasitaires à l’exception du paludisme (12262), de la tuberculose (12263), du VIH/sida et autres MST (13040). Ceci inclus les diarrhées chroniques, les maladies transmises par un vecteur (par exemple onchocercose, bilharziose), les maladies virales, les mycoses, l’helminthiasis, les zoonoses et les maladies provoquées par d’autres bactéries et virus, pédiculose, etc.</narrative>
             </description>
             <category>122</category>
         </codelist-item>
@@ -396,7 +396,7 @@
         <codelist-item status="active" activation-date="2018-01-01">
             <code>12340</code>
             <name>
-                <narrative>Promotion of mental health and well-being </narrative>
+                <narrative>Promotion of mental health and well-being</narrative>
                 <narrative xml:lang="fr">Promotion de la santé mentale et du bien-être</narrative>
             </name>
             <description>
@@ -489,7 +489,7 @@
             </description>
             <category>130</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2019-01-01">
+        <codelist-item status="withdrawn" activation-date="2019-01-01">
             <code>13096</code>
             <name>
                 <narrative>Population statistics and data</narrative>
@@ -545,7 +545,7 @@
             </name>
             <description>
                 <narrative>Potable water treatment plants; intake works; storage; water supply pumping stations; large scale transmission / conveyance and distribution systems.</narrative>
-                <narrative xml:lang="fr">Usines de traitement d’eau potable ; ouvrages d’adduction ; stockage ; stations de pompage pour l’approvisionnement en eau ; réseaux d’adduction et de distribution à grande échelle. </narrative>
+                <narrative xml:lang="fr">Usines de traitement d’eau potable ; ouvrages d’adduction ; stockage ; stations de pompage pour l’approvisionnement en eau ; réseaux d’adduction et de distribution à grande échelle.</narrative>
             </description>
             <category>140</category>
         </codelist-item>
@@ -581,7 +581,7 @@
             </name>
             <description>
                 <narrative>Rural water supply schemes using handpumps, spring catchments, gravity-fed systems, rainwater collection and fog harvesting, storage tanks, small distribution systems typically with shared connections/points of use. Urban schemes using handpumps and local neighbourhood networks including those with shared connections.</narrative>
-                <narrative xml:lang="fr">Dispositifs ruraux d’approvisionnement en eau reposant sur des pompes manuelles, des captages de sources, des systèmes par gravité, la collecte des eaux de pluie et de brouillard, des citernes, des systèmes simplifiés de distribution avec points d’eau collectifs/branchements partagés. Dispositifs urbains utilisant des pompes manuelles et mini-réseaux, y compris ceux avec branchements partagés et bornes-fontaines. </narrative>
+                <narrative xml:lang="fr">Dispositifs ruraux d’approvisionnement en eau reposant sur des pompes manuelles, des captages de sources, des systèmes par gravité, la collecte des eaux de pluie et de brouillard, des citernes, des systèmes simplifiés de distribution avec points d’eau collectifs/branchements partagés. Dispositifs urbains utilisant des pompes manuelles et mini-réseaux, y compris ceux avec branchements partagés et bornes-fontaines.</narrative>
             </description>
             <category>140</category>
         </codelist-item>
@@ -605,7 +605,7 @@
             </name>
             <description>
                 <narrative>Infrastructure-focused integrated river basin projects and related institutional activities; river flow control; dams and reservoirs [excluding dams primarily for irrigation (31140) and hydropower (23220) and activities related to river transport (21040)].</narrative>
-                <narrative xml:lang="fr">Projets de bassins fluviaux centrés sur les infrastructures et activités institutionnelles connexes ; régulation des cours d’eau ; barrages et réservoirs [à l’exclusion des barrages hydroélectriques (23220) et barrages pour l’irrigation (31140) et activités liées au transport fluvial (21040)]. </narrative>
+                <narrative xml:lang="fr">Projets de bassins fluviaux centrés sur les infrastructures et activités institutionnelles connexes ; régulation des cours d’eau ; barrages et réservoirs [à l’exclusion des barrages hydroélectriques (23220) et barrages pour l’irrigation (31140) et activités liées au transport fluvial (21040)].</narrative>
             </description>
             <category>140</category>
         </codelist-item>
@@ -664,7 +664,7 @@
                 <narrative xml:lang="fr">Décentralisation et soutien aux administrations infranationales</narrative>
             </name>
             <description>
-                <narrative>Decentralisation processes (including political, administrative and fiscal dimensions); intergovernmental relations and federalism; strengthening departments of regional and local government, regional and local authorities and their national associations. (Use specific sector codes for decentralisation of sector management and services.) </narrative>
+                <narrative>Decentralisation processes (including political, administrative and fiscal dimensions); intergovernmental relations and federalism; strengthening departments of regional and local government, regional and local authorities and their national associations. (Use specific sector codes for decentralisation of sector management and services.)</narrative>
                 <narrative xml:lang="fr">Processus de décentralisation (y compris aspects politiques, administratifs et budgétaires) ; relations intergouvernementales et fédéralisme ; renforcement des services des administrations régionales et locales, des autorités régionales et locales et de leurs associations nationales. (Utiliser des codes sectoriels spécifiques pour la décentralisation de la gestion et des services sectoriels.)</narrative>
             </description>
             <category>151</category>
@@ -693,7 +693,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15116</code>
             <name>
                 <narrative>Tax collection</narrative>
@@ -705,7 +705,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15117</code>
             <name>
                 <narrative>Budget planning</narrative>
@@ -717,7 +717,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15118</code>
             <name>
                 <narrative>National audit</narrative>
@@ -729,7 +729,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15119</code>
             <name>
                 <narrative>Debt and aid management</narrative>
@@ -741,7 +741,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15121</code>
             <name>
                 <narrative>Foreign affairs</narrative>
@@ -753,7 +753,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15122</code>
             <name>
                 <narrative>Diplomatic missions</narrative>
@@ -765,7 +765,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15123</code>
             <name>
                 <narrative>Administration of developing countries' foreign aid</narrative>
@@ -777,7 +777,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15124</code>
             <name>
                 <narrative>General personnel services</narrative>
@@ -801,7 +801,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15126</code>
             <name>
                 <narrative>Other general public services</narrative>
@@ -813,7 +813,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15127</code>
             <name>
                 <narrative>National monitoring and evaluation</narrative>
@@ -825,7 +825,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15128</code>
             <name>
                 <narrative>Local government finance</narrative>
@@ -837,7 +837,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15129</code>
             <name>
                 <narrative>Other central transfers to institutions</narrative>
@@ -861,7 +861,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15131</code>
             <name>
                 <narrative>Justice, law and order policy, planning and administration</narrative>
@@ -873,7 +873,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15132</code>
             <name>
                 <narrative>Police</narrative>
@@ -885,7 +885,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15133</code>
             <name>
                 <narrative>Fire and rescue services</narrative>
@@ -897,7 +897,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15134</code>
             <name>
                 <narrative>Judicial affairs</narrative>
@@ -909,7 +909,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15135</code>
             <name>
                 <narrative>Ombudsman</narrative>
@@ -921,7 +921,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15136</code>
             <name>
                 <narrative>Immigration</narrative>
@@ -933,7 +933,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15137</code>
             <name>
                 <narrative>Prisons</narrative>
@@ -953,7 +953,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15143</code>
             <name>
                 <narrative>Meteorological services</narrative>
@@ -965,7 +965,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15144</code>
             <name>
                 <narrative>National standards development</narrative>
@@ -1009,7 +1009,7 @@
             </name>
             <description>
                 <narrative>Assistance to strengthen key functions of legislatures/ parliaments including subnational assemblies and councils (representation; oversight; legislation), such as improving the capacity of legislative bodies, improving legislatures’ committees and administrative procedures,; research and information management systems; providing training programmes for legislators and support personnel. Assistance to political parties and strengthening of party systems.</narrative>
-                <narrative xml:lang="fr">Aide au renforcement des fonctions clés des assemblées législatives/parlements, y compris des assemblées et conseils infranationaux (représentation ; surveillance ; législation), par exemple amélioration des capacités des organes législatifs, amélioration du fonctionnement des commissions et des procédures administratives des assemblées législatives ; systèmes de gestion de la recherche et de l’information ; mise en place de programmes de formation à l’intention des législateurs et du personnel de soutien. Aide aux partis politiques et renforcement des systèmes de partis. </narrative>
+                <narrative xml:lang="fr">Aide au renforcement des fonctions clés des assemblées législatives/parlements, y compris des assemblées et conseils infranationaux (représentation ; surveillance ; législation), par exemple amélioration des capacités des organes législatifs, amélioration du fonctionnement des commissions et des procédures administratives des assemblées législatives ; systèmes de gestion de la recherche et de l’information ; mise en place de programmes de formation à l’intention des législateurs et du personnel de soutien. Aide aux partis politiques et renforcement des systèmes de partis.</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1025,7 +1025,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15154</code>
             <name>
                 <narrative>Executive office</narrative>
@@ -1037,7 +1037,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15155</code>
             <name>
                 <narrative>Tax policy and administration support</narrative>
@@ -1045,14 +1045,14 @@
             </name>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15156</code>
             <name>
                 <narrative>Other non-tax revenue mobilisation</narrative>
                 <narrative xml:lang="fr">Mobilisation des ressources intérieures autre que les recettes non-fiscales</narrative>
             </name>
             <description>
-                <narrative>Non-tax public revenue, which includes line ministries, revenue authorities or other local, regional or national public bodies. </narrative>
+                <narrative>Non-tax public revenue, which includes line ministries, revenue authorities or other local, regional or national public bodies.</narrative>
                 <narrative xml:lang="fr">Recettes non-fiscales incluant les ministères de tutelle, les autorités fiscales ou autres institutions publiques locales, régionales ou nationales.</narrative>
             </description>
             <category>151</category>
@@ -1093,7 +1093,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>15185</code>
             <name>
                 <narrative>Local government administration</narrative>
@@ -1112,12 +1112,12 @@
                 <narrative xml:lang="fr">Faciliter la migration et la mobilité de façon ordonnée, sans danger, régulière et responsable</narrative>
             </name>
             <description>
-                <narrative>Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:• Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.• Measures to improve migrant labour recruitment systems in developing countries.• Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.• Support to effective strategies to ensure international protection and the right to asylum.• Support to effective strategies to ensure access to justice and assistance for displaced persons.• Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).• Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers’ interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country. </narrative>
+                <narrative>Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:• Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.• Measures to improve migrant labour recruitment systems in developing countries.• Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.• Support to effective strategies to ensure international protection and the right to asylum.• Support to effective strategies to ensure access to justice and assistance for displaced persons.• Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).• Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers’ interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country.</narrative>
                 <narrative xml:lang="fr">Aide apportée aux pays en développement dans le but de favoriser des migrations et une mobilité des personnes qui soient ordonnées, sûres, régulières et responsables. Elle recouvre : - le renforcement des capacités concernant la politique, l’analyse, la planification et la gestion dans le domaine des migrations et de la mobilité. Celui-ci comprend le soutien visant à favoriser des migrations sûres et régulières et à remédier aux migrations irrégulières, la coopération avec la diaspora et les programmes destinés à renforcer l’impact des envois de fonds des émigrés sur le développement et/ou l’utilisation de ces fonds pour financer des projets utiles au développement dans les pays en développement ; - les mesures visant à améliorer les systèmes de recrutement de la main-d’œuvre migrante dans les pays en développement ; - le renforcement des capacités en matière d’élaboration de stratégies et de politiques, ainsi que pour le développement des services juridiques et judiciaires (y compris la gestion des frontières) dans les pays en développement. Il comprend le soutien apporté pour la prise en main et la réduction des facteurs de vulnérabilité existant en situation de migration, et pour le renforcement des efforts transnationaux visant à lutter contre le trafic de migrants, ainsi qu’à prévenir et combattre le trafic d’êtres humains ; - le soutien à la mise en place de stratégies efficaces pour garantir la protection internationale et le droit à l’asile ; - le soutien à la mise en place de stratégies efficaces pour assurer aux personnes déplacées l’accès à la justice et à une aide ; - l’aide dispensée aux migrants pour leur permettre de rentrer dans leur pays d’origine en toute sécurité, dans la dignité, en pleine connaissance de cause et de façon volontaire (ne sont couverts que les retours effectués à partir d’un autre pays en développement ; l’aide au titre des retours forcés est exclue de l’APD) ; - l’aide dispensée aux migrants en vue de leur réintégration durable dans leur pays d’origine (utiliser le code 93010 pour l’aide apportée dans les pays donneurs préalablement au départ, dans le contexte de retours volontaires). Les activités visant à servir avant tout les intérêts des fournisseurs sont exclues de l’APD. Les activités visant à remédier aux causes profondes des déplacements forcés et des migrations irrégulières ne doivent pas être classées sous ce code, mais dans le secteur d’intervention correspondant. De plus, il faut utiliser le code 15136 pour le soutien dispensé aux autorités des pays aux fins des questions et des services relatifs à l’immigration (facultatif), le code 24050 pour les dispositifs visant à réduire le coût des envois de fonds des émigrés, le code 72010 pour les aspects humanitaires de l’aide apportée aux réfugiés et aux personnes déplacées à l’intérieur de leur propre pays, comme la fourniture de services d’urgence et la protection humanitaire. Le code 93010 doit être employé lorsque les dépenses sont destinées à l’entretien temporaire des réfugiés dans le pays donneur, notamment dans le cas de leur retour volontaire et de leur réintégration lorsque ce soutien est fourni dans le pays donneur en liaison avec le retour à partir de ce pays (aide préalable au départ) ou de leur réinstallation volontaire dans un pays développé tiers.</narrative>
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2019-01-01">
+        <codelist-item status="withdrawn" activation-date="2019-01-01">
             <code>15196</code>
             <name>
                 <narrative>Government and civil society statistics and data</narrative>
@@ -1197,7 +1197,7 @@
             </name>
             <description>
                 <narrative>Technical co-operation provided to government – and assistance to civil society organisations – to support and apply legislation designed to prevent the recruitment of child soldiers, and to demobilise, disarm, reintegrate, repatriate and resettle (DDR) child soldiers.</narrative>
-                <narrative xml:lang="fr">Coopération technique en faveur des gouvernements – et assistance aux organisations de la société civile – à l’appui de l’adoption et de l’application de lois destinées à empêcher le recrutement d’enfants en tant que soldats ; appui à la démobilisation, au désarmement, à la réinsertion, au rapatriement et à la réintégration (DDR) des enfants soldats. </narrative>
+                <narrative xml:lang="fr">Coopération technique en faveur des gouvernements – et assistance aux organisations de la société civile – à l’appui de l’adoption et de l’application de lois destinées à empêcher le recrutement d’enfants en tant que soldats ; appui à la démobilisation, au désarmement, à la réinsertion, au rapatriement et à la réintégration (DDR) des enfants soldats.</narrative>
             </description>
             <category>152</category>
         </codelist-item>
@@ -1213,7 +1213,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>16011</code>
             <name>
                 <narrative>Social protection and welfare services policy, planning and administration</narrative>
@@ -1225,7 +1225,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>16012</code>
             <name>
                 <narrative>Social security (excl pensions)</narrative>
@@ -1237,7 +1237,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>16013</code>
             <name>
                 <narrative>General pensions</narrative>
@@ -1249,7 +1249,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>16014</code>
             <name>
                 <narrative>Civil service pensions</narrative>
@@ -1261,7 +1261,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>16015</code>
             <name>
                 <narrative>Social services (incl youth development and women+ children)</narrative>
@@ -1369,7 +1369,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>16065</code>
             <name>
                 <narrative>Recreation and sport</narrative>
@@ -1377,7 +1377,7 @@
             </name>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>16066</code>
             <name>
                 <narrative>Culture</narrative>
@@ -1421,7 +1421,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>21011</code>
             <name>
                 <narrative>Transport policy, planning and administration</narrative>
@@ -1433,7 +1433,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>21012</code>
             <name>
                 <narrative>Public transport services</narrative>
@@ -1445,7 +1445,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>21013</code>
             <name>
                 <narrative>Transport regulation</narrative>
@@ -1469,7 +1469,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>21021</code>
             <name>
                 <narrative>Feeder road construction</narrative>
@@ -1481,7 +1481,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>21022</code>
             <name>
                 <narrative>Feeder road maintenance</narrative>
@@ -1493,7 +1493,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>21023</code>
             <name>
                 <narrative>National road construction</narrative>
@@ -1505,7 +1505,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>21024</code>
             <name>
                 <narrative>National road maintenance</narrative>
@@ -1585,7 +1585,7 @@
             </description>
             <category>220</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>22011</code>
             <name>
                 <narrative>Communications policy, planning and administration</narrative>
@@ -1593,7 +1593,7 @@
             </name>
             <category>220</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>22012</code>
             <name>
                 <narrative>Postal services</narrative>
@@ -1605,7 +1605,7 @@
             </description>
             <category>220</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>22013</code>
             <name>
                 <narrative>Information services</narrative>
@@ -1648,8 +1648,8 @@
                 <narrative xml:lang="fr">Technologies de l'information et de la communication (TIC)</narrative>
             </name>
             <description>
-                <narrative>Computer hardware and software; internet access; IT training.  When sector cannot be specified. </narrative>
-                <narrative xml:lang="fr">Matériel informatique et logiciels ; accès Internet ; formations aux TI. Lorsque le secteur ne peut pas être spécifié.  </narrative>
+                <narrative>Computer hardware and software; internet access; IT training.  When sector cannot be specified.</narrative>
+                <narrative xml:lang="fr">Matériel informatique et logiciels ; accès Internet ; formations aux TI. Lorsque le secteur ne peut pas être spécifié.</narrative>
             </description>
             <category>220</category>
         </codelist-item>
@@ -1665,7 +1665,7 @@
             </description>
             <category>231</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>23111</code>
             <name>
                 <narrative>Energy sector policy, planning and administration</narrative>
@@ -1673,7 +1673,7 @@
             </name>
             <category>231</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>23112</code>
             <name>
                 <narrative>Energy regulation</narrative>
@@ -1716,7 +1716,7 @@
                 <narrative xml:lang="fr">Économies d'énergie et efficacité du côté de la demande</narrative>
             </name>
             <description>
-                <narrative>Support for energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. For clean cooking appliances use code 32174. </narrative>
+                <narrative>Support for energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. For clean cooking appliances use code 32174.</narrative>
                 <narrative xml:lang="fr">Soutien à la réduction de la demande énergétique, par exemple : modernisation des bâtiments et des industries, réseaux intelligents, compteurs et tarifs. Pour l'usage des cuisinières efficaces utiliser le code 32174</narrative>
             </description>
             <category>231</category>
@@ -1821,7 +1821,7 @@
             <code>23270</code>
             <name>
                 <narrative>Biofuel-fired power plants</narrative>
-                <narrative xml:lang="fr">Centrales à biocombustibles </narrative>
+                <narrative xml:lang="fr">Centrales à biocombustibles</narrative>
             </name>
             <description>
                 <narrative>Use of solids and liquids produced from biomass for direct power generation. Also includes biogases from anaerobic fermentation (e.g. landfill gas, sewage sludge gas, fermentation of energy crops and manure) and thermal processes (also known as syngas); waste-fired power plants making use of biodegradable municipal waste (household waste and waste from companies and public services that resembles household waste, collected at installations specifically designed for their disposal with recovery of combustible liquids, gases or heat). See code 23360 for non-renewable waste-fired power plants.</narrative>
@@ -2165,7 +2165,7 @@
             </name>
             <description>
                 <narrative>Irrigation, reservoirs, hydraulic structures, ground water exploitation for agricultural use.</narrative>
-                <narrative xml:lang="fr">Irrigation, réservoirs, structures hydrauliques, exploitation de nappes phréatiques. </narrative>
+                <narrative xml:lang="fr">Irrigation, réservoirs, structures hydrauliques, exploitation de nappes phréatiques.</narrative>
             </description>
             <category>311</category>
         </codelist-item>
@@ -2317,7 +2317,7 @@
             </name>
             <description>
                 <narrative>Including farmers’ organisations.</narrative>
-                <narrative xml:lang="fr">Y compris les organisations d’agriculteurs. </narrative>
+                <narrative xml:lang="fr">Y compris les organisations d’agriculteurs.</narrative>
             </description>
             <category>311</category>
         </codelist-item>
@@ -2848,8 +2848,8 @@
                 <narrative xml:lang="fr">Ajustement lié au commerce</narrative>
             </name>
             <description>
-                <narrative>Contributions to the government budget to assist the implementation of recipients' own trade reforms and adjustments to trade policy measures by other countries; assistance to manage shortfalls in the balance of payments due to changes in the world trading environment. </narrative>
-                <narrative xml:lang="fr">Contributions au budget du gouvernement non réservées afin de soutenir la mise en œuvre des propres réformes commerciales du bénéficiaire et de ses ajustements aux politiques commerciales des autres pays ; assistance à la gestion des déficits de la balance des paiements dus au changement de l'environnement mondial du commerce. </narrative>
+                <narrative>Contributions to the government budget to assist the implementation of recipients' own trade reforms and adjustments to trade policy measures by other countries; assistance to manage shortfalls in the balance of payments due to changes in the world trading environment.</narrative>
+                <narrative xml:lang="fr">Contributions au budget du gouvernement non réservées afin de soutenir la mise en œuvre des propres réformes commerciales du bénéficiaire et de ses ajustements aux politiques commerciales des autres pays ; assistance à la gestion des déficits de la balance des paiements dus au changement de l'environnement mondial du commerce.</narrative>
             </description>
             <category>331</category>
         </codelist-item>
@@ -2973,7 +2973,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>43031</code>
             <name>
                 <narrative>Urban land policy and management</narrative>
@@ -2985,7 +2985,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>43032</code>
             <name>
                 <narrative>Urban development</narrative>
@@ -3009,7 +3009,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>43041</code>
             <name>
                 <narrative>Rural land policy and management</narrative>
@@ -3021,7 +3021,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis">
+        <codelist-item status="withdrawn">
             <code>43042</code>
             <name>
                 <narrative>Rural development</narrative>
@@ -3072,8 +3072,8 @@
         <codelist-item status="active" activation-date="2018-01-01">
             <code>43072</code>
             <name>
-                <narrative>Household food security programmes </narrative>
-                <narrative xml:lang="fr">Household food security programmes </narrative>
+                <narrative>Household food security programmes</narrative>
+                <narrative xml:lang="fr">Household food security programmes</narrative>
             </name>
             <description>
                 <narrative>Short or longer term household food security programmes and activities that improve the access of households to nutritionally adequate diets (excluding any cash transfers within broader social welfare programmes that do not have a specific food security, food acquisition or nutrition focus which should be reported under code 16010).</narrative>
@@ -3244,7 +3244,7 @@
         <codelist-item status="active">
             <code>72010</code>
             <name>
-                <narrative>Material relief assistance and services </narrative>
+                <narrative>Material relief assistance and services</narrative>
                 <narrative xml:lang="fr">Assistance matérielle et services d’urgence</narrative>
             </name>
             <description>
@@ -3253,7 +3253,7 @@
             </description>
             <category>720</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2019-01-01">
+        <codelist-item status="withdrawn" activation-date="2019-01-01">
             <code>72011</code>
             <name>
                 <narrative>Basic Health Care Services in Emergencies</narrative>
@@ -3265,7 +3265,7 @@
             </description>
             <category>720</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2019-01-01">
+        <codelist-item status="withdrawn" activation-date="2019-01-01">
             <code>72012</code>
             <name>
                 <narrative>Education in emergencies</narrative>
@@ -3320,7 +3320,7 @@
                 <narrative xml:lang="fr">Prévention des catastrophes et préparation à leur survenue</narrative>
             </name>
             <description>
-                <narrative>Disaster risk reduction activities (e.g. developing knowledge, natural risks cartography, legal norms for construction); early warning systems; emergency contingency stocks and contingency planning including preparations for forced displacement. </narrative>
+                <narrative>Disaster risk reduction activities (e.g. developing knowledge, natural risks cartography, legal norms for construction); early warning systems; emergency contingency stocks and contingency planning including preparations for forced displacement.</narrative>
                 <narrative xml:lang="fr">Activités visant à réduire les risques liés aux catastrophes (par exemple développement des connaissances, établissement d’une cartographie des risques naturels, de normes juridiques pour les constructions) ; systèmes d’alerte précoce, stocks d’urgence et planification d’urgence, y compris préparation à une évacuation.</narrative>
             </description>
             <category>740</category>
@@ -3357,11 +3357,11 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2018-01-01">
+        <codelist-item status="withdrawn" activation-date="2018-01-01">
             <code>93011</code>
             <name>
-                <narrative>Refugees/asylum seekers in donor countries - food and shelter </narrative>
-                <narrative xml:lang="fr">Refugiés/demandeurs d’asile dans les pays donneurs - nourriture et hébergement </narrative>
+                <narrative>Refugees/asylum seekers in donor countries - food and shelter</narrative>
+                <narrative xml:lang="fr">Refugiés/demandeurs d’asile dans les pays donneurs - nourriture et hébergement</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months – food and shelter: - Food and other essential temporary sustenance provisions such as clothing. - Temporary accommodation facilities (e.g. reception centres, containers, tent camps). In respect of buildings, only the costs of maintenance and upkeep may be reported as ODA. The cost of renting temporary accommodation facilities is eligible. (All construction costs are excluded).</narrative>
@@ -3369,19 +3369,19 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2018-01-01">
+        <codelist-item status="withdrawn" activation-date="2018-01-01">
             <code>93012</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - training</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d’asile dans les pays donneurs - formation</narrative>
             </name>
             <description>
-                <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months – training: - Early childhood education, primary and secondary education for children (this includes school costs but excludes vocational training), as part of temporary sustenance. - Language training and other ad-hoc basic training for refugees e.g. basic life skills for youth and adults (literacy and numeracy training). </narrative>
+                <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months – training: - Early childhood education, primary and secondary education for children (this includes school costs but excludes vocational training), as part of temporary sustenance. - Language training and other ad-hoc basic training for refugees e.g. basic life skills for youth and adults (literacy and numeracy training).</narrative>
                 <narrative xml:lang="fr">Coûts encourus dans les pays donneurs au titre de l’aide de base apportée aux demandeurs d’asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu’à 12 mois – formation: - Éducation de la petite enfance, enseignement primaire et enseignement secondaire pour les enfants (dont les coûts liés à la scolarité, hors formation professionnelle), dans le cadre de l’entretien temporaire. - Formation linguistique et autre formation spécifique pour les réfugiés, par exemple, compétences nécessaires à la vie courante pour les jeunes et les adultes (cours d’alphabétisation et de maîtrise des chiffres).</narrative>
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2018-01-01">
+        <codelist-item status="withdrawn" activation-date="2018-01-01">
             <code>93013</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - health</narrative>
@@ -3393,7 +3393,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2018-01-01">
+        <codelist-item status="withdrawn" activation-date="2018-01-01">
             <code>93014</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - other temporary sustenance</narrative>
@@ -3405,7 +3405,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2018-01-01">
+        <codelist-item status="withdrawn" activation-date="2018-01-01">
             <code>93015</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - voluntary repatriation</narrative>
@@ -3417,7 +3417,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2018-01-01">
+        <codelist-item status="withdrawn" activation-date="2018-01-01">
             <code>93016</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - transport</narrative>
@@ -3429,7 +3429,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2018-01-01">
+        <codelist-item status="withdrawn" activation-date="2018-01-01">
             <code>93017</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - rescue at sea</narrative>
@@ -3441,7 +3441,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="Vonlontary basis" activation-date="2018-01-01">
+        <codelist-item status="withdrawn" activation-date="2018-01-01">
             <code>93018</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - administrative costs</narrative>
