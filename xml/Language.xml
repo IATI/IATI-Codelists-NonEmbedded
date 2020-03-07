@@ -178,6 +178,12 @@
                 <narrative>Czech</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active">
+            <code>cu</code>
+            <name>
+                <narrative>Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>cv</code>
             <name>
@@ -223,7 +229,7 @@
         <codelist-item>
             <code>el</code>
             <name>
-                <narrative>Greek</narrative>
+                <narrative>Greek, Modern (1453-)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -388,10 +394,22 @@
                 <narrative>Herero</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active">
+            <code>ia</code>
+            <name>
+                <narrative>Interlingua (International Auxiliary Language Association)</narrative>
+            </name>
+        </codelist-item>
         <codelist-item>
             <code>id</code>
             <name>
                 <narrative>Indonesian</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ie</code>
+            <name>
+                <narrative>Interlingue; Occidental</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -721,7 +739,7 @@
         <codelist-item>
             <code>oc</code>
             <name>
-                <narrative>Occitan (post 1500)</narrative>
+                <narrative>Occitan (post 1500); Provençal</narrative>
             </name>
         </codelist-item>
         <codelist-item>
