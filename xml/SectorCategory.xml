@@ -386,8 +386,8 @@
         <codelist-item>
             <code>520</code>
             <name>
-                <narrative>Developmental Food Aid/Food Security Assistance</narrative>
-                <narrative xml:lang="fr">Aide Alimentaire Dévelopmentale/Sécurité Alimentaire</narrative>
+                <narrative>Development Food Assistance</narrative>
+                <narrative xml:lang="fr">Aide Alimentaire Dévelopmentale</narrative>
             </name>
             <description>
                 <narrative/>
