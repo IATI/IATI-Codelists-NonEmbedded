@@ -2291,12 +2291,12 @@
         <codelist-item status="active">
             <code>23640</code>
             <name>
-                <narrative>Gas distribution</narrative>
-                <narrative xml:lang="fr">Distribution du gaz</narrative>
+                <narrative>Retail gas distribution</narrative>
+                <narrative xml:lang="fr">Distribution au détail de gaz</narrative>
             </name>
             <description>
-                <narrative>Delivery for use by ultimate consumer.</narrative>
-                <narrative xml:lang="fr">Acheminement du gaz jusqu’au consommateur final.</narrative>
+                <narrative>Includes urban infrastructure for the delivery of urban gas and LPG cylinder production, distribution and refill. Excludes gas distribution for purposes of electricity generation (23340) and pipelines (32262).</narrative>
+                <narrative xml:lang="fr">Comprend l'infrastructure urbaine de livraison de gaz de ville et la production, distribution et recharge de bouteilles de GPL. Exclut l'acheminement de gaz à des fins de production électrique (23340) et les gazoducs (32262)</narrative>
             </description>
             <category>236</category>
         </codelist-item>
