@@ -2031,8 +2031,8 @@
                 <narrative xml:lang="fr">Économies d'énergie et efficacité du côté de la demande</narrative>
             </name>
             <description>
-                <narrative>All projects in support of energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. Also includes efficient cook-stoves and biogas projects.</narrative>
-                <narrative xml:lang="fr">Tous les projets visant la réduction de la demande d’énergie, par exemple : modernisation des bâtiments et des industries, réseaux intelligents, compteurs et tarifs. Comprend également les cuisinières efficaces et les projets de biogaz.</narrative>
+                <narrative>Support for energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. For clean cooking appliances use code 32174.</narrative>
+                <narrative xml:lang="fr">Soutien à la réduction de la demande énergétique, par exemple : modernisation des bâtiments et des industries, réseaux intelligents, compteurs et tarifs. Pour l'usage des cuisinières efficaces utiliser le code 32174</narrative>
             </description>
             <category>231</category>
         </codelist-item>
