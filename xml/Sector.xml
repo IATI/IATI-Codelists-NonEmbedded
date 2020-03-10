@@ -3058,11 +3058,11 @@
         <codelist-item status="active">
             <code>32262</code>
             <name>
-                <narrative>Oil and gas</narrative>
+                <narrative>Oil and gas (upstream)</narrative>
                 <narrative xml:lang="fr">Pétrole et gaz</narrative>
             </name>
             <description>
-                <narrative>Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied natural gas (LNG);  including drilling and production, and oil and gas pipelines.</narrative>
+                <narrative>Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied natural gas (LNG); including drilling and production, oil and gas pipelines.</narrative>
                 <narrative xml:lang="fr">Pétrole, gaz naturel, condensés , GPL (Gaz de pétrole liquéfié), GNL (Gaz naturel liquéfié); y compris derricks et plates-formes de forage, et oléoducs et gazoducs.</narrative>
             </description>
             <category>322</category>
