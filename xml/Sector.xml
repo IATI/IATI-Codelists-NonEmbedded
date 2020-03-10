@@ -2063,12 +2063,12 @@
         <codelist-item status="active">
             <code>23230</code>
             <name>
-                <narrative>Solar energy</narrative>
-                <narrative xml:lang="fr">Énergie solaire</narrative>
+                <narrative>Solar energy for centralised grids</narrative>
+                <narrative xml:lang="fr">Energie solaire pour réseaux centralisés</narrative>
             </name>
             <description>
-                <narrative>Including photo-voltaic cells, solar thermal applications and solar heating.</narrative>
-                <narrative xml:lang="fr">Solaire photovoltaïque, thermodynamique, chauffage solaire.</narrative>
+                <narrative>Including photo-voltaic cells, concentrated solar power systems connected to the main grid and net-metered decentralised solutions.</narrative>
+                <narrative xml:lang="fr">Comprend les panneaux photovoltaïques, les systèmes d'énergie solaire à concentration connectés au réseau principal ainsi que les solutions décentralisées équipées de compteurs à mesure nette.</narrative>
             </description>
             <category>232</category>
         </codelist-item>
