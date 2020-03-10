@@ -2267,12 +2267,12 @@
         <codelist-item status="active">
             <code>23630</code>
             <name>
-                <narrative>Electric power transmission and distribution</narrative>
-                <narrative xml:lang="fr">Transport et distribution d'électricité</narrative>
+                <narrative>Electric power transmission and distribution (centralised grids)</narrative>
+                <narrative xml:lang="fr">Transport et distribution d'électricité (réseaux centralisés)</narrative>
             </name>
             <description>
                 <narrative>Grid distribution from power source to end user; transmission lines. Also includes storage of energy to generate power (e.g. pumped hydro, batteries) and the extension of grid access, often to rural areas.</narrative>
-                <narrative xml:lang="fr">Distribution d’électricité par le réseau, de la source au consommateur final ; lignes de transport. Inclut également le stockage de l’énergie à des fins de production d’électricité (ex. : station de pompage, batteries) et l’extension de l’accès au réseau, souvent dans des zones rurales.</narrative>
+                <narrative xml:lang="fr">Réseau de distribution d’électricité de la source d'énergie au consommateur final ; lignes de transport. Inclut également le stockage de l’énergie à des fins de production d’électricité (ex. : station de pompage, batteries) et l’extension de l’accès au réseau, souvent dans des zones rurales.</narrative>
             </description>
             <category>236</category>
         </codelist-item>
