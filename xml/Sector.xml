@@ -2231,12 +2231,12 @@
         <codelist-item status="active">
             <code>23510</code>
             <name>
-                <narrative>Nuclear energy electric power plants</narrative>
+                <narrative>Nuclear energy electric power plants and nuclear safety</narrative>
                 <narrative xml:lang="fr">Centrales nucléaires</narrative>
             </name>
             <description>
-                <narrative>Including nuclear safety.</narrative>
-                <narrative xml:lang="fr">Dont sûreté nucléaire.</narrative>
+                <narrative>See note regarding ODA eligibility of nuclear energy.</narrative>
+                <narrative xml:lang="fr">Dont sûreté nucléaire. Voir la note sur l'éligibilité à l'APD de l'énergie nucléaire</narrative>
             </description>
             <category>235</category>
         </codelist-item>
