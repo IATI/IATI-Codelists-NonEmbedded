@@ -439,8 +439,8 @@
                 <narrative xml:lang="fr">Politique/programmes en matière de population et gestion administrative</narrative>
             </name>
             <description>
-                <narrative>Population/development policies; census work, vital registration; demographic research/analysis; reproductive health research; unspecified population activities. (Use purpose code 15190 for data on migration and refugees.)</narrative>
-                <narrative xml:lang="fr">Politique en matière de population et de développement ; recensement, enregistrement des naissances/décès ; données sur la migration ; recherche et analyse démographiques ; recherche en santé et fertilité ; activités de population non spécifiées. (Utilise le code 15190 pour les données sur la migration et les refugiés).</narrative>
+                <narrative>Population/development policies; demographic research/analysis; reproductive health research; unspecified population activities. (Use purpose code 15190 for data on migration and refugees. Use code 13096 for census work, vital registration and migration data collection.)</narrative>
+                <narrative xml:lang="fr">Politique en matière de population et de développement ; données sur la migration ; recherche et analyse démographiques ; recherche en santé et fertilité ; activités de population non spécifiées. (Utiliser le code 15190 pour les données sur la migration et les refugiés. Utiliser le code 13096 pour recensement, enregistrement des naissances/décès.)</narrative>
             </description>
             <category>130</category>
         </codelist-item>
