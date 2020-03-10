@@ -253,6 +253,18 @@
             <category>121</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>12196</code>
+            <name>
+                <narrative>Health statistics and data</narrative>
+                <narrative xml:lang="fr">Statistiques et données sur la santé</narrative>
+            </name>
+            <description>
+                <narrative>Collection, production, management and dissemination of statistics and data related to health. Includes health surveys, establishment of health databases, data collection on epidemics, etc.</narrative>
+                <narrative xml:lang="fr">Collecte, production, gestion et diffusion de statistiques et de données relatives à la santé. Comprend les enquêtes sur la santé, la création de bases de données sur la santé, la collecte de données sur les épidémies, etc.</narrative>
+            </description>
+            <category>121</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>12220</code>
             <name>
                 <narrative>Basic health care</narrative>
@@ -477,6 +489,18 @@
             <description>
                 <narrative>Education and training of health staff for population and reproductive health care services.</narrative>
                 <narrative xml:lang="fr">Éducation et formation du personnel de santé pour les services de population ainsi que les soins en matière de santé et fertilité.</narrative>
+            </description>
+            <category>130</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>13096</code>
+            <name>
+                <narrative>Population statistics and data</narrative>
+                <narrative xml:lang="fr">Statistiques et données démographiques</narrative>
+            </name>
+            <description>
+                <narrative>Collection, production, management and dissemination of statistics and data related to Population and Reproductive Health. Includes census work, vital registration, migration data collection, demographic data, etc.</narrative>
+                <narrative xml:lang="fr">Collecte, production, gestion et diffusion de statistiques et de données relatives à la population et à la santé génésique. Comprend les travaux de recensement, l'état civil, la collecte de données sur la migration, les données démographiques, etc.</narrative>
             </description>
             <category>130</category>
         </codelist-item>
@@ -1178,6 +1202,18 @@
             <description>
                 <narrative>Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:• Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.• Measures to improve migrant labour recruitment systems in developing countries.• Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.• Support to effective strategies to ensure international protection and the right to asylum.• Support to effective strategies to ensure access to justice and assistance for displaced persons.• Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).• Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers’ interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country.</narrative>
                 <narrative xml:lang="fr">Aide apportée aux pays en développement dans le but de favoriser des migrations et une mobilité des personnes qui soient ordonnées, sûres, régulières et responsables. Elle recouvre : - le renforcement des capacités concernant la politique, l’analyse, la planification et la gestion dans le domaine des migrations et de la mobilité. Celui-ci comprend le soutien visant à favoriser des migrations sûres et régulières et à remédier aux migrations irrégulières, la coopération avec la diaspora et les programmes destinés à renforcer l’impact des envois de fonds des émigrés sur le développement et/ou l’utilisation de ces fonds pour financer des projets utiles au développement dans les pays en développement ; - les mesures visant à améliorer les systèmes de recrutement de la main-d’œuvre migrante dans les pays en développement ; - le renforcement des capacités en matière d’élaboration de stratégies et de politiques, ainsi que pour le développement des services juridiques et judiciaires (y compris la gestion des frontières) dans les pays en développement. Il comprend le soutien apporté pour la prise en main et la réduction des facteurs de vulnérabilité existant en situation de migration, et pour le renforcement des efforts transnationaux visant à lutter contre le trafic de migrants, ainsi qu’à prévenir et combattre le trafic d’êtres humains ; - le soutien à la mise en place de stratégies efficaces pour garantir la protection internationale et le droit à l’asile ; - le soutien à la mise en place de stratégies efficaces pour assurer aux personnes déplacées l’accès à la justice et à une aide ; - l’aide dispensée aux migrants pour leur permettre de rentrer dans leur pays d’origine en toute sécurité, dans la dignité, en pleine connaissance de cause et de façon volontaire (ne sont couverts que les retours effectués à partir d’un autre pays en développement ; l’aide au titre des retours forcés est exclue de l’APD) ; - l’aide dispensée aux migrants en vue de leur réintégration durable dans leur pays d’origine (utiliser le code 93010 pour l’aide apportée dans les pays donneurs préalablement au départ, dans le contexte de retours volontaires). Les activités visant à servir avant tout les intérêts des fournisseurs sont exclues de l’APD. Les activités visant à remédier aux causes profondes des déplacements forcés et des migrations irrégulières ne doivent pas être classées sous ce code, mais dans le secteur d’intervention correspondant. De plus, il faut utiliser le code 15136 pour le soutien dispensé aux autorités des pays aux fins des questions et des services relatifs à l’immigration (facultatif), le code 24050 pour les dispositifs visant à réduire le coût des envois de fonds des émigrés, le code 72010 pour les aspects humanitaires de l’aide apportée aux réfugiés et aux personnes déplacées à l’intérieur de leur propre pays, comme la fourniture de services d’urgence et la protection humanitaire. Le code 93010 doit être employé lorsque les dépenses sont destinées à l’entretien temporaire des réfugiés dans le pays donneur, notamment dans le cas de leur retour volontaire et de leur réintégration lorsque ce soutien est fourni dans le pays donneur en liaison avec le retour à partir de ce pays (aide préalable au départ) ou de leur réinstallation volontaire dans un pays développé tiers.</narrative>
+            </description>
+            <category>151</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>15196</code>
+            <name>
+                <narrative>Government and civil society statistics and data</narrative>
+                <narrative xml:lang="fr">Statistiques et données du gouvernement et de la société civile</narrative>
+            </name>
+            <description>
+                <narrative>Collection, production, management and dissemination of statistics and data related to Government &amp; Civil Society. Includes macroeconomic statistics, government finance, fiscal and public sector statistics, support to development of administrative data infrastructure, civil society surveys.</narrative>
+                <narrative xml:lang="fr">Collecte, production, gestion et diffusion de statistiques et de données relatives au gouvernement et à la société civile. Comprend les statistiques macroéconomiques, les finances publiques, les statistiques fiscales et du secteur public, le soutien au développement de l'infrastructure de données administratives, les enquêtes de la société civile.</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -2037,6 +2073,30 @@
             <category>232</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>23231</code>
+            <name>
+                <narrative>Solar energy for isolated grids and standalone systems</narrative>
+                <narrative xml:lang="fr">Energie solaire pour réseaux isolés et systèmes autonomes</narrative>
+            </name>
+            <description>
+                <narrative>Solar power generation for isolated mini-grids, solar home systems (including integrated wiring and related appliances), solar lanterns distribution and commercialisation. This code refers to the power generation component only.</narrative>
+                <narrative xml:lang="fr">Production électrique solaire pour réseau isolé et systèmes autonomes, systèmes solaires individuels (y compris câblage intégré et appareils liés), distribution et commercialisation de lampes solaires. Ce code traite exclusivement de production d'énergie.</narrative>
+            </description>
+            <category>232</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>23232</code>
+            <name>
+                <narrative>Solar energy - thermal applications</narrative>
+                <narrative xml:lang="fr">Energie solaire - usage thermique</narrative>
+            </name>
+            <description>
+                <narrative>Solar solutions for indoor space and water heating (except for solar cook stoves 32174).</narrative>
+                <narrative xml:lang="fr">Solutions solaires pour espaces intérieurs et chauffage de l'eau (sauf fours solaires 32174)</narrative>
+            </description>
+            <category>232</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>23240</code>
             <name>
                 <narrative>Wind energy</narrative>
@@ -2217,6 +2277,18 @@
             <category>236</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>23631</code>
+            <name>
+                <narrative>Electric power transmission and distribution (isolated mini-grids)</narrative>
+                <narrative xml:lang="fr">Transport et distribution d'électricité (petits réseaux isolés)</narrative>
+            </name>
+            <description>
+                <narrative>Includes village grids and other electricity distribution technologies to end users that are not connected to the main national grid. Also includes related electricity storage. This code refers to the network infrastructure only regardless of the power generation technologies.</narrative>
+                <narrative xml:lang="fr">Comprend les réseaux villageois et autres technologies de distribution d'électricité à destination des consommateurs finals non connectés au réseau national principal. Inclut également le stockage d'électricité. Ce code traite exclusivement de l'infrastructure du réseau indépendamment de la technologie de production.</narrative>
+            </description>
+            <category>236</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>23640</code>
             <name>
                 <narrative>Gas distribution</narrative>
@@ -2225,6 +2297,29 @@
             <description>
                 <narrative>Delivery for use by ultimate consumer.</narrative>
                 <narrative xml:lang="fr">Acheminement du gaz jusqu’au consommateur final.</narrative>
+            </description>
+            <category>236</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>23641</code>
+            <name>
+                <narrative>Retail distribution of liquid or solid fossil fuels</narrative>
+                <narrative xml:lang="fr">Distribution au détail de carburants fossiles liquide ou solides</narrative>
+            </name>
+            <description>
+                <narrative/>
+            </description>
+            <category>236</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>23642</code>
+            <name>
+                <narrative>Electric mobility infrastructures</narrative>
+                <narrative xml:lang="fr">Infrastructures électriques à l'usage de la mobilité</narrative>
+            </name>
+            <description>
+                <narrative>Includes electricity or hydrogen recharging stations for private and public transport systems and related infrastructure (except for rail transport 21030).</narrative>
+                <narrative xml:lang="fr">Inclut les stations de recharge électrique ou à hydrogène pour les transports publics ou privés et infrastructures connexes (sauf transport ferrovaire 21030)</narrative>
             </description>
             <category>236</category>
         </codelist-item>
@@ -2889,6 +2984,30 @@
             <category>321</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>32173</code>
+            <name>
+                <narrative>Modern biofuels manufacturing</narrative>
+                <narrative xml:lang="fr">Production de biocarburants modernes</narrative>
+            </name>
+            <description>
+                <narrative>Includes biogas, liquid biofuels and pellets for domestic and non-domestic use. Excludes raw fuelwood and charcoal (31261).</narrative>
+                <narrative xml:lang="fr">Comprend le biogaz, les biocarburant liquides et les pellets à usage domestique ou non. Exclut le bois de chauffe brut et le charbon de bois (32161)</narrative>
+            </description>
+            <category>321</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>32174</code>
+            <name>
+                <narrative>Clean cooking appliances manufacturing</narrative>
+                <narrative xml:lang="fr">Production d'appareils de cuisine propres</narrative>
+            </name>
+            <description>
+                <narrative>Includes manufacturing and distribution of efficient biomass cooking stoves, gasifiers, liquid biofuels stoves, solar stoves, gas and biogas stoves, electric stoves.</narrative>
+                <narrative xml:lang="fr">Comprend la fabrication et la distribution de fours efficaces à biomasse, gazéifieurs, fours à biocarburants liquides, fours solaires, fours à gaz et bio gaz fours électriques</narrative>
+            </description>
+            <category>321</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>32182</code>
             <name>
                 <narrative>Technological research and development</narrative>
@@ -3516,6 +3635,30 @@
             <description>
                 <narrative>Shelter, water, sanitation, education, health services including supply of medicines and malnutrition management, and other nonfood relief items (including cash and voucher delivery modalities) for the benefit of crisisaffected people, including refugees and internally displaced people in developing countries, Includes assistance delivered by or coordinated by international civil protection units in the immediate aftermath of a disaster (in-kind assistance, deployment of specially-equipped teams, logistics and transportation, or assessment and coordination by experts sent to the field). Also includes measures to promote and protect the safety, well-being, dignity and integrity of crisis-affected people including refugees and internally displaced persons in developing countries. (Activities designed to protect the security of persons or properties through the use or display of force are not reportable as ODA.)</narrative>
                 <narrative xml:lang="fr">Abris, eau, assainissement, éducation, services de santé, y compris la fourniture de médicaments et la gestion de la malnutrition, et autres articles de secours non alimentaires (y compris les modalités de remise en espèces et de bons) au profit des personnes touchées par la crise, notamment des réfugiés et des personnes déplacées dans les pays en developement. Comprend l'assistance fournie ou coordonnée par les unités internationales de la protection civile immédiatement après une catastrophe (assistance en nature, déploiement d'équipes spécialement équipées, logistique et transport, ou évaluation et coordination d'experts envoyés sur le terrain). Comprend également des mesures visant à promouvoir et à protéger la sécurité, le bien-être, la dignité et l’intégrité des personnes touchées par la crise, y compris des réfugiés et des personnes déplacées dans les pays en développement. (Les activités conçues pour protéger la sécurité des personnes ou des biens en recourant à la force ou à l'aide de la force ne sont pas déclarables en tant qu'APD.)</narrative>
+            </description>
+            <category>720</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>72011</code>
+            <name>
+                <narrative>Basic Health Care Services in Emergencies</narrative>
+                <narrative xml:lang="fr">Services de soins de santé de base dans les situations d'urgence</narrative>
+            </name>
+            <description>
+                <narrative>Provision of health services (basic health services, mental health, sexual and reproductive health), medical nutritional intervention (therapeutic feeding and medical interventions for treating malnutrition) and supply of medicines for the benefit of affected people. Excludes supplemental feeding (72040).</narrative>
+                <narrative xml:lang="fr">Prestation de services de santé (services de santé de base, santé mentale, santé sexuelle et génésique), intervention nutritionnelle médicale (alimentation thérapeutique et interventions médicales pour traiter la malnutrition) et fourniture de médicaments au profit des personnes touchées. Exclut l'alimentation complémentaire (72040).</narrative>
+            </description>
+            <category>720</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>72012</code>
+            <name>
+                <narrative>Education in emergencies</narrative>
+                <narrative xml:lang="fr">Education dans les situations d'urgence</narrative>
+            </name>
+            <description>
+                <narrative>Support for education facilities (including restoring pre-existing essential infrastructure and school facilities), teaching, training and learning materials (including digital technologies, as appropriate) and immediate access to quality basic and primary education (including formal and non-formal education), and secondary education (including vocational training and secondary level technical education) in emergencies for the benefit of affected children and youth, particularly targeting girls and women and refugees, life skills for youth and adults, and vocational training for youth and adults</narrative>
+                <narrative xml:lang="fr">Soutien aux établissements d'enseignement (y compris la restauration des infrastructures essentielles et des installations scolaires préexistantes), du matériel d'enseignement, de formation et d'apprentissage (y compris les technologies numériques, le cas échéant) et un accès immédiat à une éducation de base et primaire de qualité (y compris l'éducation formelle et non formelle), et l'enseignement secondaire (y compris la formation professionnelle et l'enseignement technique de niveau secondaire) dans les situations d'urgence au profit des enfants et des jeunes touchés, en ciblant en particulier les filles et les femmes et les réfugiés, les compétences de vie pour les jeunes et les adultes, et la formation professionnelle pour les jeunes et les adultes</narrative>
             </description>
             <category>720</category>
         </codelist-item>
