@@ -283,7 +283,7 @@
                 <narrative xml:lang="fr">Nutrition de base</narrative>
             </name>
             <description>
-                <narrative>Micronutrient deficiency identification and supplementation; Infant and young child feeding promotion including exclusive breastfeeding; Non-emergency management of acute malnutrition and other targeted feeding programs (including complementary feeding); Staple food fortification including salt iodization; Nutritional status monitoring and national nutrition surveillance; Research, capacity building, policy development, monitoring and evaluation in support of these interventions.  Use code 11250 for school feeding and 43072 for household food security.</narrative>
+                <narrative>Micronutrient deficiency identification and supplementation; Infant and young child feeding promotion including exclusive breastfeeding; Non-emergency management of acute malnutrition and other targeted feeding programs (including complementary feeding); Staple food fortification including salt iodization; Nutritional status monitoring and national nutrition surveillance; Research, capacity building, policy development, monitoring and evaluation in support of these interventions. Use code 11250 for school feeding and 43072 for household food security.</narrative>
                 <narrative xml:lang="fr">Identification et supplémentation en carence en micronutriments; Promotion de l'alimentation du nourrisson et du jeune enfant, y compris l'allaitement maternel exclusif; Gestion non urgente de la malnutrition aiguë et d'autres programmes d'alimentation ciblés (y compris l'alimentation complémentaire); Enrichissement des aliments de base, y compris l'iodation du sel; Surveillance de l'état nutritionnel et surveillance nutritionnelle nationale; Recherche, renforcement des capacités, élaboration de politiques, suivi et évaluation à l'appui de ces interventions. Utilisez le code 11250 pour l’alimentation scolaire et le code 43072 pour la sécurité alimentaire des ménages.</narrative>
             </description>
             <category>122</category>
@@ -296,7 +296,7 @@
             </name>
             <description>
                 <narrative>Immunisation; prevention and control of infectious and parasite diseases, except malaria (12262), tuberculosis (12263), HIV/AIDS and other STDs (13040). It includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea worm), viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and viruses, pediculosis, etc.</narrative>
-                <narrative xml:lang="fr">Vaccination ;  prévention et lutte contre les maladies infectieuses parasitaires à l’exception du paludisme (12262), de la tuberculose (12263), du VIH/sida et autres MST (13040). Ceci inclus les diarrhées chroniques, les maladies transmises par un vecteur (par exemple onchocercose, bilharziose), les maladies virales, les mycoses, l’helminthiasis, les zoonoses et les maladies provoquées par d’autres bactéries et virus, pédiculose, etc.</narrative>
+                <narrative xml:lang="fr">Vaccination ; prévention et lutte contre les maladies infectieuses parasitaires à l’exception du paludisme (12262), de la tuberculose (12263), du VIH/sida et autres MST (13040). Ceci inclus les diarrhées chroniques, les maladies transmises par un vecteur (par exemple onchocercose, bilharziose), les maladies virales, les mycoses, l’helminthiasis, les zoonoses et les maladies provoquées par d’autres bactéries et virus, pédiculose, etc.</narrative>
             </description>
             <category>122</category>
         </codelist-item>
@@ -403,7 +403,7 @@
                 <narrative xml:lang="fr">Autre prévention et traitement des MNT</narrative>
             </name>
             <description>
-                <narrative>Population/individual measures to reduce exposure to unhealthy diets and physical inactivity and to strengthen capacity for prevention, early detection, treatment and sustained management of NCDs including:  Cardiovascular disease control: Prevention, screening and treatment of cardiovascular diseases (including hypertension, hyperlipidaemia, ischaemic heart diseases, stroke, rheumatic heart disease, congenital heart disease, heart failure, etc.).   Diabetes control: Prevention, screening, diagnosis, treatment and management of complications from all types of diabetes.  Exposure to physical inactivity: Promotion of physical activity through supportive built environment (urban design, transport), sports, health care, schools and community programmes and mass media campaign.  Exposure to unhealthy diet: Programmes and interventions that promote healthy diet through reduced consumption of salt, sugar and fats and increased consumption of fruits and vegetables e.g. food reformulation, nutrient labelling, food taxes, marketing restriction on unhealthy foods, nutrition education and counselling, and settings-based interventions (schools, workplaces, villages, communities).  Cancer control: Prevention (including immunisation, HPV and HBV), early diagnosis (including pathology), screening, treatment (e.g. radiotherapy, chemotherapy, surgery) and palliative care for all types of cancers. Implementation, maintenance and improvement of cancer registries are also included.  Chronic respiratory diseases: Prevention, early diagnosis and treatment of chronic respiratory diseases, including asthma. Excludes: Tobacco use control (12320), Control of harmful use of alcohol and drugs (12330), research for the prevention and control of NCDs (12382).</narrative>
+                <narrative>Population/individual measures to reduce exposure to unhealthy diets and physical inactivity and to strengthen capacity for prevention, early detection, treatment and sustained management of NCDs including: Cardiovascular disease control: Prevention, screening and treatment of cardiovascular diseases (including hypertension, hyperlipidaemia, ischaemic heart diseases, stroke, rheumatic heart disease, congenital heart disease, heart failure, etc.). Diabetes control: Prevention, screening, diagnosis, treatment and management of complications from all types of diabetes. Exposure to physical inactivity: Promotion of physical activity through supportive built environment (urban design, transport), sports, health care, schools and community programmes and mass media campaign. Exposure to unhealthy diet: Programmes and interventions that promote healthy diet through reduced consumption of salt, sugar and fats and increased consumption of fruits and vegetables e.g. food reformulation, nutrient labelling, food taxes, marketing restriction on unhealthy foods, nutrition education and counselling, and settings-based interventions (schools, workplaces, villages, communities). Cancer control: Prevention (including immunisation, HPV and HBV), early diagnosis (including pathology), screening, treatment (e.g. radiotherapy, chemotherapy, surgery) and palliative care for all types of cancers. Implementation, maintenance and improvement of cancer registries are also included. Chronic respiratory diseases: Prevention, early diagnosis and treatment of chronic respiratory diseases, including asthma. Excludes: Tobacco use control (12320), Control of harmful use of alcohol and drugs (12330), research for the prevention and control of NCDs (12382).</narrative>
                 <narrative xml:lang="fr">Mesures individuelles / démographiques visant à réduire l'exposition aux régimes alimentaires malsains et à l'inactivité physique et à renforcer les capacités de prévention, de détection précoce, de traitement et de gestion durable des MNT, notamment: Contrôle des maladies cardiovasculaires: prévention, dépistage et traitement des maladies cardiovasculaires (notamment hypertension, hyperlipidémie,cardiopathies ischémiques, accidents vasculaires cérébraux, cardiopathies rhumatismales, cardiopathies congénitales, insuffisance cardiaque, etc.). Contrôle du diabète: prévention, dépistage, diagnostic, traitement et gestion des complications liées à tous les types de diabète. Exposition à l'inactivité physique: Promotion de l'activité physique par le biais d'un environnement bâti favorable (conception urbaine, transports), de sports, de soins de santé, d'écoles et de programmes communautaires et d'une campagne dans les médias. Exposition à une alimentation malsaine: programmes et interventions qui favorisent une alimentation saine grâce à une consommation réduite de sel, de sucre et de graisses et à une consommation accrue de fruits et de légumes, par exemple. reformulation des aliments, étiquetage des éléments nutritifs, taxes sur les aliments, restriction de la commercialisation des aliments malsains, éducation et conseils en matière de nutrition et interventions en fonction des contextes (écoles, lieux de travail, villages, communautés). Lutte contre le cancer: prévention (y compris vaccination, VPH et VHB), diagnostic précoce (pathologie comprise), dépistage, traitement (radiothérapie, chimiothérapie, chirurgie, etc.) et soins palliatifs pour tous les types de cancer. La mise en œuvre, la maintenance et l'amélioration des registres du cancer sont également incluses. Maladies respiratoires chroniques: prévention, diagnostic précoce et traitement des maladies respiratoires chroniques, y compris l'asthme. Sont exclus: Contrôle de l'usage du tabac (12320), Contrôle de l'usage nocif d'alcool et de drogues (12330), Recherche pour la prévention et le contrôle des MNT (12382).</narrative>
             </description>
             <category>123</category>
@@ -487,7 +487,7 @@
                 <narrative xml:lang="fr">Politique et gestion administrative du secteur de l’eau</narrative>
             </name>
             <description>
-                <narrative>Water sector policy and governance, including legislation, regulation, planning and management as well as transboundary management of water; institutional capacity development; activities supporting the Integrated Water Resource Management approach (IWRM:  see box below).</narrative>
+                <narrative>Water sector policy and governance, including legislation, regulation, planning and management as well as transboundary management of water; institutional capacity development; activities supporting the Integrated Water Resource Management approach (IWRM: see box below).</narrative>
                 <narrative xml:lang="fr">Politique et gouvernance du secteur de l’eau, y compris législation, réglementation, planification et gestion ainsi que gestion transfrontalière de l’eau; renforcement des capacités institutionnelles ; activités favorisant une approche intégrée de la gestion des ressources en eau (GIRE).</narrative>
             </description>
             <category>140</category>
@@ -511,7 +511,7 @@
                 <narrative xml:lang="fr">Approvisionnement en eau et assainissement - systèmes à grande échelle</narrative>
             </name>
             <description>
-                <narrative>Programmes where components according to 14021 and 14022 cannot be identified.  When components are known, they should individually be reported under their respective purpose codes:  water supply [14021], sanitation [14022], and hygiene [12261].</narrative>
+                <narrative>Programmes where components according to 14021 and 14022 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14021], sanitation [14022], and hygiene [12261].</narrative>
                 <narrative xml:lang="fr">Programmes dont les composantes relatives aux codes 14021 et 14022 ne peuvent être identifiées séparément. Lorsque les composantes sont connues, elles devraient être individuellement notifiées sous leurs codes respectifs : approvisionnement en eau [14021], assainissement [14022] et hygiène [12261].</narrative>
             </description>
             <category>140</category>
@@ -547,7 +547,7 @@
                 <narrative xml:lang="fr">Approvisionnement en eau potable et assainissement - dispositifs de base</narrative>
             </name>
             <description>
-                <narrative>Programmes where components according to 14031 and 14032 cannot be identified.  When components are known, they should individually be reported under their respective purpose codes:  water supply [14031], sanitation [14032], and hygiene [12261].</narrative>
+                <narrative>Programmes where components according to 14031 and 14032 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14031], sanitation [14032], and hygiene [12261].</narrative>
                 <narrative xml:lang="fr">Programmes dont les composantes relatives aux codes 14031 et 14032 ne peuvent être identifiées séparément. Lorsque les composantes sont connues, elles devraient être individuellement notifiées sous leurs codes respectifs : approvisionnement en eau [14031], assainissement [14032] et hygiène [12261].</narrative>
             </description>
             <category>140</category>
@@ -620,7 +620,7 @@
             </name>
             <description>
                 <narrative>Institution-building assistance to strengthen core public sector management systems and capacities. This includes general public policy management, co-ordination, planning and reform; human resource management; organisational development; civil service reform; e-government; development planning, monitoring and evaluation; support to ministries involved in aid co-ordination; other ministries and government departments when sector cannot be specified. (Use specific sector codes for development of systems and capacities in sector ministries. For macro-economic policy use code 15142. For public procurement use code 15125.)</narrative>
-                <narrative xml:lang="fr">Aide au renforcement des institutions visant à consolider les capacités et systèmes principaux de gestion du secteur public. Ceci recouvre la gestion des politiques publiques générales, la coordination, la planification et la réforme ; la gestion des ressources humaines ; le développement organisationnel ; la réforme de la fonction publique ; l’administration électronique ; la planification, le suivi et l’évaluation du développement ;  soutien aux ministères impliqués dans la coordination de l'aide; d’autres ministères et services gouvernementaux lorsque le secteur ne peut pas être spécifié. (Utilisez des codes sectoriels spécifiques pour le développement de systèmes et de capacités dans les ministères sectoriels. Pour la politique macro-économique, utilisez le code 15142. Pour les marchés publics, utilisez le code 15125.)</narrative>
+                <narrative xml:lang="fr">Aide au renforcement des institutions visant à consolider les capacités et systèmes principaux de gestion du secteur public. Ceci recouvre la gestion des politiques publiques générales, la coordination, la planification et la réforme ; la gestion des ressources humaines ; le développement organisationnel ; la réforme de la fonction publique ; l’administration électronique ; la planification, le suivi et l’évaluation du développement ; soutien aux ministères impliqués dans la coordination de l'aide; d’autres ministères et services gouvernementaux lorsque le secteur ne peut pas être spécifié. (Utilisez des codes sectoriels spécifiques pour le développement de systèmes et de capacités dans les ministères sectoriels. Pour la politique macro-économique, utilisez le code 15142. Pour les marchés publics, utilisez le code 15125.)</narrative>
             </description>
             <category>151</category>
             <budget-alignment:status>Insufficiently granular</budget-alignment:status>
@@ -1081,7 +1081,7 @@
             </name>
             <description>
                 <narrative>Measures to support specialised official human rights institutions and mechanisms at universal, regional, national and local levels in their statutory roles to promote and protect civil and political, economic, social and cultural rights as defined in international conventions and covenants; translation of international human rights commitments into national legislation; reporting and follow-up; human rights dialogue. Human rights defenders and human rights NGOs; human rights advocacy, activism, mobilisation; awareness raising and public human rights education. Human rights programming targeting specific groups, e.g. children, persons with disabilities, migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and those suffering from caste discrimination, victims of trafficking, victims of torture. (Use code 15230 when in the context of a peacekeeping operation and code 15180 for ending violence against women and girls. Use code 15190 for human rights programming for refugees or migrants, including when they are victims of trafficking.Use code 16070 for Fundamental Principles and Rights at Work, i.e. Child Labour, Forced Labour, Non-discrimination in employment and occupation, Freedom of Association and Collective Bargaining.)</narrative>
-                <narrative xml:lang="fr">Mesures visant à aider les institutions et mécanismes spécialisés dans les droits de la personne opérant aux niveaux mondial, régional, national ou local, dans leur mission officielle de promotion et de protection des droits civils et politiques, économiques, sociaux et culturels tels que définis dans les conventions et pactes internationaux; transposition dans la législation nationale des engagements internationaux concernant les droits de la personne; notification et suivi; dialogue sur les droits de la personne. Défenseurs des droits de la personne et ONG oeuvrant dans ce domaine ; promotion des droits de la personne, défense active, mobilisation ; sensibilisation et éducation des citoyens aux droits de la personne.  Élaboration de programmes concernant les droits de la personne ciblés sur des groupes particuliers comme les enfants, les individus en situation de handicap, les migrants, les minorités ethniques, religieuses, linguistiques et sexuelles, les populations autochtones et celles qui sont victimes de discrimination fondée sur la caste, les victimes de la traite d'êtres humains, les victimes de la torture. (Utiliser le code 15230 lorsque les activités se déroulent dans le cadre d’une opération internationale de maintien de la paix et le code 15180 pour les activités visant l’élimination de la violence à l’égard des femmes et des filles. Utiliser le code 15190 pour la programmation des droits de l'homme des réfugiés ou des migrants, y compris lorsqu'ils sont victimes de la traite d'êtres humains. Utiliser le code 16070 pour les activités concernant les Principes fondamentaux et Droits au travail, c'est-à-dire travail des enfants, travail forcé, non-discrimination dans l'emploi et le travail, liberté syndicale et négociation collective.)</narrative>
+                <narrative xml:lang="fr">Mesures visant à aider les institutions et mécanismes spécialisés dans les droits de la personne opérant aux niveaux mondial, régional, national ou local, dans leur mission officielle de promotion et de protection des droits civils et politiques, économiques, sociaux et culturels tels que définis dans les conventions et pactes internationaux; transposition dans la législation nationale des engagements internationaux concernant les droits de la personne; notification et suivi; dialogue sur les droits de la personne. Défenseurs des droits de la personne et ONG oeuvrant dans ce domaine ; promotion des droits de la personne, défense active, mobilisation ; sensibilisation et éducation des citoyens aux droits de la personne. Élaboration de programmes concernant les droits de la personne ciblés sur des groupes particuliers comme les enfants, les individus en situation de handicap, les migrants, les minorités ethniques, religieuses, linguistiques et sexuelles, les populations autochtones et celles qui sont victimes de discrimination fondée sur la caste, les victimes de la traite d'êtres humains, les victimes de la torture. (Utiliser le code 15230 lorsque les activités se déroulent dans le cadre d’une opération internationale de maintien de la paix et le code 15180 pour les activités visant l’élimination de la violence à l’égard des femmes et des filles. Utiliser le code 15190 pour la programmation des droits de l'homme des réfugiés ou des migrants, y compris lorsqu'ils sont victimes de la traite d'êtres humains. Utiliser le code 16070 pour les activités concernant les Principes fondamentaux et Droits au travail, c'est-à-dire travail des enfants, travail forcé, non-discrimination dans l'emploi et le travail, liberté syndicale et négociation collective.)</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1225,7 +1225,7 @@
             </name>
             <description>
                 <narrative>Reintegration of demobilised military personnel into the economy; conversion of production facilities from military to civilian outputs; technical co-operation to control, prevent and/or reduce the proliferation of small arms and light weapons (SALW) – see para. 80 of the Directives for definition of SALW activities covered. [Other than in the context of an international peacekeeping operation (15230) or child soldiers (15261)].</narrative>
-                <narrative xml:lang="fr">Réinsertion du personnel militaire démobilisé dans la vie économique et civile ; conversion des usines d’armes en usines de produits à usage civil ; coopération technique destinée à contrôler, prévenir et/ou réduire la prolifération d’armes légères et de petit calibre – voir le paragraphe 80 des Directives pour la définition des activités couvertes. [Autre que dans le cadre d’une opération internationale de maintien de la paix (15230) ou  enfants soldats (15261)].</narrative>
+                <narrative xml:lang="fr">Réinsertion du personnel militaire démobilisé dans la vie économique et civile ; conversion des usines d’armes en usines de produits à usage civil ; coopération technique destinée à contrôler, prévenir et/ou réduire la prolifération d’armes légères et de petit calibre – voir le paragraphe 80 des Directives pour la définition des activités couvertes. [Autre que dans le cadre d’une opération internationale de maintien de la paix (15230) ou enfants soldats (15261)].</narrative>
             </description>
             <category>152</category>
         </codelist-item>
@@ -1345,7 +1345,7 @@
                 <narrative xml:lang="fr">Politique du logement et gestion administrative</narrative>
             </name>
             <description>
-                <narrative>Housing sector policy, planning and programmes;  excluding low-cost housing and slum clearance (16040).</narrative>
+                <narrative>Housing sector policy, planning and programmes; excluding low-cost housing and slum clearance (16040).</narrative>
                 <narrative xml:lang="fr">Politique du logement, planification et programmes ; à l’exclusion du logement à coût réduit (16040).</narrative>
             </description>
             <category>160</category>
@@ -1721,7 +1721,7 @@
                 <narrative xml:lang="fr">Technologies de l'information et de la communication (TIC)</narrative>
             </name>
             <description>
-                <narrative>Computer hardware and software; internet access; IT training.  When sector cannot be specified.</narrative>
+                <narrative>Computer hardware and software; internet access; IT training. When sector cannot be specified.</narrative>
                 <narrative xml:lang="fr">Matériel informatique et logiciels ; accès Internet ; formations aux TI. Lorsque le secteur ne peut pas être spécifié.</narrative>
             </description>
             <category>220</category>
@@ -2236,7 +2236,7 @@
             </name>
             <description>
                 <narrative>Finance sector policy, planning and programmes; institution capacity building and advice; financial markets and systems.</narrative>
-                <narrative xml:lang="fr">Politique des finances, planification et  programmes ; renforcement des capacités institutionnelles et conseils ; marchés et systèmes financiers.</narrative>
+                <narrative xml:lang="fr">Politique des finances, planification et programmes ; renforcement des capacités institutionnelles et conseils ; marchés et systèmes financiers.</narrative>
             </description>
             <category>240</category>
         </codelist-item>
@@ -2355,7 +2355,7 @@
                 <narrative xml:lang="fr">Politique agricole et gestion administrative</narrative>
             </name>
             <description>
-                <narrative>Agricultural sector policy, planning and programmes; aid to agricultural ministries;  institution capacity building and advice; unspecified agriculture.</narrative>
+                <narrative>Agricultural sector policy, planning and programmes; aid to agricultural ministries; institution capacity building and advice; unspecified agriculture.</narrative>
                 <narrative xml:lang="fr">Politique agricole, planification et programmes ; aide aux ministères de l’agriculture ; renforcement des capacités institutionnelles et conseils ; activités d’agriculture non spécifiées.</narrative>
             </description>
             <category>311</category>
@@ -2427,8 +2427,8 @@
                 <narrative xml:lang="fr">Production industrielle de récoltes/récoltes destinées à l’exportation</narrative>
             </name>
             <description>
-                <narrative>Including sugar; coffee, cocoa, tea; oil seeds, nuts, kernels; fibre crops; tobacco; rubber.  [Use code 32161 for agro-industries.]</narrative>
-                <narrative xml:lang="fr">Y compris sucre ; café, cacao, thé ; oléagineux, graines, noix, amandes ; fibres ; tabac ; caoutchouc. [Utiliser le  code 32161 pour les agro-industries.]</narrative>
+                <narrative>Including sugar; coffee, cocoa, tea; oil seeds, nuts, kernels; fibre crops; tobacco; rubber. [Use code 32161 for agro-industries.]</narrative>
+                <narrative xml:lang="fr">Y compris sucre ; café, cacao, thé ; oléagineux, graines, noix, amandes ; fibres ; tabac ; caoutchouc. [Utiliser le code 32161 pour les agro-industries.]</narrative>
             </description>
             <category>311</category>
         </codelist-item>
@@ -2895,7 +2895,7 @@
                 <narrative xml:lang="fr">Recherche et développement technologiques</narrative>
             </name>
             <description>
-                <narrative>Including industrial standards; quality management; metrology;  testing;  accreditation;  certification.</narrative>
+                <narrative>Including industrial standards; quality management; metrology; testing; accreditation; certification.</narrative>
                 <narrative xml:lang="fr">Y compris les standards industriels ; gestion et contrôle de qualité ; métrologie ; accréditation ; certification.</narrative>
             </description>
             <category>321</category>
@@ -2907,7 +2907,7 @@
                 <narrative xml:lang="fr">Politique de l’industrie extractive et gestion administrative</narrative>
             </name>
             <description>
-                <narrative>Mineral and mining sector policy, planning and programmes;  mining legislation, mining cadastre, mineral resources inventory, information systems, institution capacity building and advice;  unspecified mineral resources exploitation.</narrative>
+                <narrative>Mineral and mining sector policy, planning and programmes; mining legislation, mining cadastre, mineral resources inventory, information systems, institution capacity building and advice; unspecified mineral resources exploitation.</narrative>
                 <narrative xml:lang="fr">Politique du secteur des industries extractives, planification et programmes ; législation et cadastre, recensement des richesses minérales, systèmes d’information ; renforcement des capacités institutionnelles et conseils ; exploitation des ressources minérales non spécifiées.</narrative>
             </description>
             <category>322</category>
@@ -2919,7 +2919,7 @@
                 <narrative xml:lang="fr">Prospection et exploration des minerais</narrative>
             </name>
             <description>
-                <narrative>Geology, geophysics, geochemistry;  excluding hydrogeology (14010) and environmental geology (41010), mineral extraction and processing, infrastructure, technology, economics, safety and environment management.</narrative>
+                <narrative>Geology, geophysics, geochemistry; excluding hydrogeology (14010) and environmental geology (41010), mineral extraction and processing, infrastructure, technology, economics, safety and environment management.</narrative>
                 <narrative xml:lang="fr">Géologie, géophysique et géochimie ; à l’exclusion de hydrogéologie (14010) et géologie de l’environnement (41010), production et extraction minérales, infrastructure, technologie, économie, sécurité et gestion de l’environnement.</narrative>
             </description>
             <category>322</category>
@@ -3051,7 +3051,7 @@
                 <narrative xml:lang="fr">Facilitation du commerce</narrative>
             </name>
             <description>
-                <narrative>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments  and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms.</narrative>
+                <narrative>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms.</narrative>
                 <narrative xml:lang="fr">Simplification et harmonisation des procédures internationales d’importation et d’exportation (ex. évaluations de douane, procédures de licences, formalités de transport, paiements, assurances) ; soutien aux départements douaniers et autres agences frontalières y compris et en particulier la mise en oeuvre des dispositions de l'Accord sur la facilitation des échanges de l'OMC ; réformes tarifaires.</narrative>
             </description>
             <category>331</category>
@@ -3099,8 +3099,8 @@
                 <narrative xml:lang="fr">Education/formation dans le domaine du commerce</narrative>
             </name>
             <description>
-                <narrative>Human resources development in trade not included under any of the above codes.  Includes university programmes in trade.</narrative>
-                <narrative xml:lang="fr">Développement des ressources humaines dans le domaine du commerce non compris dans les codes ci-dessous.  Comprend les programmes universitaires dans le domaine du commerce.</narrative>
+                <narrative>Human resources development in trade not included under any of the above codes. Includes university programmes in trade.</narrative>
+                <narrative xml:lang="fr">Développement des ressources humaines dans le domaine du commerce non compris dans les codes ci-dessous. Comprend les programmes universitaires dans le domaine du commerce.</narrative>
             </description>
             <category>331</category>
         </codelist-item>
@@ -3257,8 +3257,8 @@
                 <narrative xml:lang="fr">Développement rural</narrative>
             </name>
             <description>
-                <narrative>Integrated rural development projects;  e.g. regional development planning;  promotion of decentralised and multi-sectoral competence for planning, co-ordination and management;  implementation of regional development and measures (including natural reserve management);  land management;  land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas;  geographical information systems.</narrative>
-                <narrative xml:lang="fr">Projets intégrés de développement rural, par exemple, planification du développement régional ; encouragement à la décentralisation des compétences plurisectorielles concernant la planification, la coordination et la gestion ; mise en œuvre du développement régional et des mesures d’accompagnement (telle que gestion des ressources naturelles) ; gestion et planification des terres ; peuplement des terres et activités de réinstallation des peuples [à l’exclusion de la réinstallation des réfugiés et des personnes déplacées à  l’intérieur  du  pays  (72010)]  projets  d’intégration des  zones rurales et urbaines ; systèmes d’information des zones géographiques.</narrative>
+                <narrative>Integrated rural development projects; e.g. regional development planning; promotion of decentralised and multi-sectoral competence for planning, co-ordination and management; implementation of regional development and measures (including natural reserve management); land management; land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas; geographical information systems.</narrative>
+                <narrative xml:lang="fr">Projets intégrés de développement rural, par exemple, planification du développement régional ; encouragement à la décentralisation des compétences plurisectorielles concernant la planification, la coordination et la gestion ; mise en œuvre du développement régional et des mesures d’accompagnement (telle que gestion des ressources naturelles) ; gestion et planification des terres ; peuplement des terres et activités de réinstallation des peuples [à l’exclusion de la réinstallation des réfugiés et des personnes déplacées à l’intérieur du pays (72010)] projets d’intégration des zones rurales et urbaines ; systèmes d’information des zones géographiques.</narrative>
             </description>
             <category>430</category>
             <budget-alignment:status>Insufficiently granular</budget-alignment:status>
@@ -3629,7 +3629,7 @@
         <codelist-item status="active">
             <code>93010</code>
             <name>
-                <narrative>Refugees/asylum seekers  in donor countries (non-sector allocable)</narrative>
+                <narrative>Refugees/asylum seekers in donor countries (non-sector allocable)</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d’asile dans les pays donneurs (non alloués)</narrative>
             </name>
             <description>
@@ -3681,7 +3681,7 @@
                 <narrative xml:lang="fr">Refugiés/demandeurs d’asile dans les pays donneurs - autre entretien temporaire</narrative>
             </name>
             <description>
-                <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: temporary sustenance other than food and shelter (code 93011), training (93012) and health (93013), i.e.  cash “pocket money” to cover subsistence costs and assistance in the asylum procedure: translation of documents, legal and administrative counselling, interpretation services.</narrative>
+                <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: temporary sustenance other than food and shelter (code 93011), training (93012) and health (93013), i.e. cash “pocket money” to cover subsistence costs and assistance in the asylum procedure: translation of documents, legal and administrative counselling, interpretation services.</narrative>
                 <narrative xml:lang="fr">Coûts encourus dans les pays donneurs au titre de l’aide de base apportée aux demandeurs d’asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu’à 12 mois : entretien temporaire autre que nourriture et hébergement (code 93011), formation (93012) et santé (93013), i.e. « argent de poche » en espèces pour la prise en charge des frais d’entretien et accompagnement lors de la procédure de demande d’asile : traduction des documents, conseil juridique et administratif, services d’interprétation.</narrative>
             </description>
             <category>930</category>
