@@ -2914,12 +2914,12 @@
         <codelist-item status="active">
             <code>32167</code>
             <name>
-                <narrative>Energy manufacturing</narrative>
+                <narrative>Energy manufacturing (fossil fuels)</narrative>
                 <narrative xml:lang="fr">Fabrication d’énergie</narrative>
             </name>
             <description>
-                <narrative>Including gas liquefaction; petroleum refineries.</narrative>
-                <narrative xml:lang="fr">Y compris liquéfaction du gaz ; raffineries de pétrole.</narrative>
+                <narrative>Including gas liquefaction; petroleum refineries, wholesale distribution of fossil fuels. (Use 23640 for retail distribution of gas and 23641 for retail distribution of liquid or solid fossil fuels.)</narrative>
+                <narrative xml:lang="fr">Y compris liquéfaction du gaz ; raffineries de pétrole, distribution en gros de carburants fossiles. (Utiliser 23640 pour la distribution au détail de gaz et 23461 pour la distribution au détail de carburant fossiles liquides ou solides.)</narrative>
             </description>
             <category>321</category>
         </codelist-item>
