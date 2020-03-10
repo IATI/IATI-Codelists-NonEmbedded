@@ -123,6 +123,15 @@
                 <narrative xml:lang="fr">Communications</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>230</code>
+            <name>
+                <narrative>ENERGY GENERATION AND SUPPLY</narrative>
+            </name>
+            <description>
+                <narrative>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</narrative>
+            </description>
+        </codelist-item>
         <codelist-item>
             <code>231</code>
             <name>
@@ -328,6 +337,15 @@
                 <narrative>Administrative Costs of Donors</narrative>
                 <narrative xml:lang="fr">Frais Administratifs des Donneurs</narrative>
             </name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
+            <code>920</code>
+            <name>
+                <narrative>SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)</narrative>
+            </name>
+            <description>
+                <narrative>In the donor country.</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>930</code>
