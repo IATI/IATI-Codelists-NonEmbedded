@@ -2187,8 +2187,8 @@
                 <narrative xml:lang="fr">Centrales au gaz naturel</narrative>
             </name>
             <description>
-                <narrative>Electric power plants that are fuelled by natural gas.</narrative>
-                <narrative xml:lang="fr">Centrales thermiques brûlant du gaz naturel.</narrative>
+                <narrative>Electric power plants that are fuelled by natural gas; related feed-in infrastructure (LNG terminals, gasifiers, pipelines to feed the plant).</narrative>
+                <narrative xml:lang="fr">Centrales thermiques fonctionnant au gaz naturel. Infrastructures d'alimention (terminaux GNL, gazéifieurs, gazoducs d'alimentation de la centrale)</narrative>
             </description>
             <category>233</category>
         </codelist-item>
