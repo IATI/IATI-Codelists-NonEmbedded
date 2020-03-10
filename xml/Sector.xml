@@ -1160,12 +1160,12 @@
         <codelist-item status="active">
             <code>15170</code>
             <name>
-                <narrative>Women's equality organisations and institutions</narrative>
-                <narrative xml:lang="fr">Organisations et institutions pour l’égalité des femmes</narrative>
+                <narrative>Women’s rights organisations and movements, and government institutions</narrative>
+                <narrative xml:lang="fr">Organisations et mouvements de défense des droits des femmes et institutions gouvernementales</narrative>
             </name>
             <description>
-                <narrative>Support for institutions and organisations (governmental and non-governmental) working for gender equality and women’s empowerment.</narrative>
-                <narrative xml:lang="fr">Soutien aux institutions et organisations (gouvernementales et non gouvernementales) qui œuvrent pour l’égalité homme-femme et l’autonomisation des femmes.</narrative>
+                <narrative>Support for feminist, women-led and women’s rights organisations and movements, and institutions (governmental and non-govermental) at all levels to enhance their effectiveness, influence and substainability (activities and core-funding). These organisations exist to bring about transformative change for gender equality and/or the rights of women and girls in developing countries. Their activities include agenda-setting, advocacy, policy dialogue, capacity development, awareness raising and prevention, service provision, conflict-prevention and peacebuilding, research, organising, and alliance and network building</narrative>
+                <narrative xml:lang="fr">Appui aux organisations et mouvements féministes, dirigés par des femmes et de défense des droits des femmes, ainsi qu'aux institutions (gouvernementales et non gouvernementales) à tous les niveaux pour améliorer leur efficacité, leur influence et leur durabilité (activités et financement de base). Ces organisations existent pour apporter un changement transformateur pour l'égalité des sexes et / ou les droits des femmes et des filles dans les pays en développement. Leurs activités comprennent la définition de l'agenda, le plaidoyer, le dialogue politique, le renforcement des capacités, la sensibilisation et la prévention, la prestation de services, la prévention des conflits et la consolidation de la paix, la recherche, l'organisation et la création d'alliances et de réseaux.</narrative>
             </description>
             <category>151</category>
         </codelist-item>
