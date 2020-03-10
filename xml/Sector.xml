@@ -252,7 +252,7 @@
             </description>
             <category>121</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>12196</code>
             <name>
                 <narrative>Health statistics and data</narrative>
@@ -492,7 +492,7 @@
             </description>
             <category>130</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>13096</code>
             <name>
                 <narrative>Population statistics and data</narrative>
@@ -1205,7 +1205,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>15196</code>
             <name>
                 <narrative>Government and civil society statistics and data</narrative>
@@ -2072,7 +2072,7 @@
             </description>
             <category>232</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>23231</code>
             <name>
                 <narrative>Solar energy for isolated grids and standalone systems</narrative>
@@ -2084,7 +2084,7 @@
             </description>
             <category>232</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>23232</code>
             <name>
                 <narrative>Solar energy - thermal applications</narrative>
@@ -2276,7 +2276,7 @@
             </description>
             <category>236</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>23631</code>
             <name>
                 <narrative>Electric power transmission and distribution (isolated mini-grids)</narrative>
@@ -2300,7 +2300,7 @@
             </description>
             <category>236</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>23641</code>
             <name>
                 <narrative>Retail distribution of liquid or solid fossil fuels</narrative>
@@ -2311,7 +2311,7 @@
             </description>
             <category>236</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>23642</code>
             <name>
                 <narrative>Electric mobility infrastructures</narrative>
@@ -2983,7 +2983,7 @@
             </description>
             <category>321</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>32173</code>
             <name>
                 <narrative>Modern biofuels manufacturing</narrative>
@@ -2995,7 +2995,7 @@
             </description>
             <category>321</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>32174</code>
             <name>
                 <narrative>Clean cooking appliances manufacturing</narrative>
@@ -3638,7 +3638,7 @@
             </description>
             <category>720</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>72011</code>
             <name>
                 <narrative>Basic Health Care Services in Emergencies</narrative>
@@ -3650,7 +3650,7 @@
             </description>
             <category>720</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-02-28">
             <code>72012</code>
             <name>
                 <narrative>Education in emergencies</narrative>
