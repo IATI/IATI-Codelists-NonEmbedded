@@ -2690,8 +2690,8 @@
                 <narrative xml:lang="fr">Reboisement (bois de chauffage et charbon de bois)</narrative>
             </name>
             <description>
-                <narrative>Forestry development whose primary purpose is production of fuelwood and charcoal.</narrative>
-                <narrative xml:lang="fr">Développement sylvicole visant à la production de bois de chauffage et de charbon de bois.</narrative>
+                <narrative>Sustainable forestry development whose primary purpose is production of fuelwood and charcoal. Further transformation of biomass in biofuels is coded under 32173.</narrative>
+                <narrative xml:lang="fr">Développement sylvicole soutenable visant à la production de bois de chauffage et de charbon de bois. La transformation ultérieure de biomasse en biocarburants est codée 32173.</narrative>
             </description>
             <category>312</category>
         </codelist-item>
