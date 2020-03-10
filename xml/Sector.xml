@@ -1970,8 +1970,8 @@
                 <narrative xml:lang="fr">Politique énergétique et gestion administrative</narrative>
             </name>
             <description>
-                <narrative>Energy sector policy, planning; aid to energy ministries; institution capacity building and advice; unspecified energy activities.</narrative>
-                <narrative xml:lang="fr">Politique et planification du secteur de l’énergie ; aide aux ministères de l’énergie ; conseils et renforcement des capacités institutionnelles ; activités non précisées.</narrative>
+                <narrative>Energy sector policy, planning; aid to energy ministries and other governmental or nongovernmental institutions for activities related to the SDG7; institution capacity building and advice; tariffs, market building, unspecified energy activities; energy activities for which a more specific code cannot be assigned.</narrative>
+                <narrative xml:lang="fr">Politique et planification du secteur de l’énergie ; aide aux ministères de l’énergie et autres institutions gouvernementales et non-gouvernementales pour les activités liées à l'ODD7 ; conseil et renforcement des capacités institutionnelles ; tarifs, construction du marché ; activités non précisées ou ne pouvant pas recevoir de code spécifique.</narrative>
             </description>
             <category>231</category>
             <budget-alignment:status>Insufficiently granular</budget-alignment:status>
