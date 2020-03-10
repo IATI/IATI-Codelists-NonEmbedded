@@ -1430,8 +1430,8 @@
                 <narrative xml:lang="fr">Renforcement des capacités statistiques</narrative>
             </name>
             <description>
-                <narrative>Both in national statistical offices and any other government ministries.</narrative>
-                <narrative xml:lang="fr">Dans les offices statistiques nationaux et les autres ministères concernés.</narrative>
+                <narrative>All statistical activities, such as data collection, processing, dissemination and analysis; support to development and management of official statistics including demographic, social, economic, environmental and multi-sectoral statistics; statistical quality frameworks; development of human and technological resources for statistics, investments in data innovation. Activities related to data and statistics in the sectors 120, 130 or 150 should preferably be coded under the voluntary purpose codes 12196, 13096 and 15196. Activities with the sole purpose of monitoring development co-operation activities, including if performed by third parties, should be coded under 91010 (Administrative costs).</narrative>
+                <narrative xml:lang="fr">Toutes les activités statistiques, telles que la collecte, le traitement, la diffusion et l'analyse des données; appui au développement et à la gestion des statistiques officielles, y compris les statistiques démographiques, sociales, économiques, environnementales et multisectorielles; cadres de qualité des statistiques; développement des ressources humaines et technologiques pour la statistique, investissements dans l'innovation des données. Les activités liées aux données et aux statistiques dans les secteurs 120, 130 ou 150 devraient de préférence être codées sous les codes volontaire 12196, 13096 et 15196. Les activités ayant pour seul objectif de surveiller les activités de coopération au développement, y compris si elles sont menées par des tiers, devraient être codé sous 91010 (Frais administratifs).</narrative>
             </description>
             <category>160</category>
         </codelist-item>
