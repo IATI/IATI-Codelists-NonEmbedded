@@ -352,6 +352,13 @@
                 <narrative>World Vision</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active" activation-date="2020-02-28">
+            <code>21064</code>
+            <name>
+                <narrative>Clinton Health Access Initiative, Inc.</narrative>
+                <narrative xml:lang="fr">Initiative Clinton pour l'accès à la santé</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="2015-12-07">
             <code>22000</code>
             <name>
@@ -1954,6 +1961,13 @@
                 <narrative xml:lang="fr">Institut des Nations Unies pour la recherche sur le désarmement</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active" activation-date="2020-02-28">
+            <code>46027</code>
+            <name>
+                <narrative>Financial Fund for the Development of the River Plate Basin</narrative>
+                <narrative xml:lang="fr">Fonds financier pour le développement du bassin fluvial de la Plata</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="2019-07-25">
             <code>47400</code>
             <name>
@@ -2230,6 +2244,20 @@
             <code>47146</code>
             <name>
                 <narrative>International Investment Bank (IIB)</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-02-28">
+            <code>47147</code>
+            <name>
+                <narrative>International Finance Facility for Education</narrative>
+                <narrative xml:lang="fr">Facilité internationale de financement pour l'éducation</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-02-28">
+            <code>47148</code>
+            <name>
+                <narrative>World Organisation for Animal Health</narrative>
+                <narrative xml:lang="fr">Organisation mondiale de la santé animale</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2015-12-07" withdrawal-date="2017-05-09">
