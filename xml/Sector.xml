@@ -81,7 +81,7 @@
             </description>
             <category>112</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>11231</code>
             <name>
                 <narrative>Basic life skills for youth</narrative>
@@ -93,7 +93,7 @@
             </description>
             <category>112</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>11232</code>
             <name>
                 <narrative>Primary education equivalent for adults</narrative>
@@ -141,7 +141,7 @@
             </description>
             <category>113</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>11321</code>
             <name>
                 <narrative>Lower secondary education</narrative>
@@ -153,7 +153,7 @@
             </description>
             <category>113</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>11322</code>
             <name>
                 <narrative>Upper secondary education</narrative>
@@ -249,7 +249,7 @@
             </description>
             <category>121</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2019-01-01">
+        <codelist-item status="active" activation-date="2019-01-01">
             <code>12196</code>
             <name>
                 <narrative>Health statistics and data</narrative>
@@ -489,7 +489,7 @@
             </description>
             <category>130</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2019-01-01">
+        <codelist-item status="active" activation-date="2019-01-01">
             <code>13096</code>
             <name>
                 <narrative>Population statistics and data</narrative>
@@ -693,7 +693,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15116</code>
             <name>
                 <narrative>Tax collection</narrative>
@@ -705,7 +705,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15117</code>
             <name>
                 <narrative>Budget planning</narrative>
@@ -717,7 +717,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15118</code>
             <name>
                 <narrative>National audit</narrative>
@@ -729,7 +729,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15119</code>
             <name>
                 <narrative>Debt and aid management</narrative>
@@ -741,7 +741,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>15120</code>
             <name>
                 <narrative>Public sector financial management</narrative>
@@ -751,7 +751,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15121</code>
             <name>
                 <narrative>Foreign affairs</narrative>
@@ -763,7 +763,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15122</code>
             <name>
                 <narrative>Diplomatic missions</narrative>
@@ -775,7 +775,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15123</code>
             <name>
                 <narrative>Administration of developing countries' foreign aid</narrative>
@@ -787,7 +787,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15124</code>
             <name>
                 <narrative>General personnel services</narrative>
@@ -811,7 +811,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15126</code>
             <name>
                 <narrative>Other general public services</narrative>
@@ -823,7 +823,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15127</code>
             <name>
                 <narrative>National monitoring and evaluation</narrative>
@@ -835,7 +835,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15128</code>
             <name>
                 <narrative>Local government finance</narrative>
@@ -847,7 +847,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15129</code>
             <name>
                 <narrative>Other central transfers to institutions</narrative>
@@ -871,7 +871,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15131</code>
             <name>
                 <narrative>Justice, law and order policy, planning and administration</narrative>
@@ -883,7 +883,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15132</code>
             <name>
                 <narrative>Police</narrative>
@@ -895,7 +895,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15133</code>
             <name>
                 <narrative>Fire and rescue services</narrative>
@@ -907,7 +907,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15134</code>
             <name>
                 <narrative>Judicial affairs</narrative>
@@ -919,7 +919,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15135</code>
             <name>
                 <narrative>Ombudsman</narrative>
@@ -931,7 +931,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15136</code>
             <name>
                 <narrative>Immigration</narrative>
@@ -943,7 +943,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15137</code>
             <name>
                 <narrative>Prisons</narrative>
@@ -951,7 +951,7 @@
             </name>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>15140</code>
             <name>
                 <narrative>Government administration</narrative>
@@ -973,7 +973,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15143</code>
             <name>
                 <narrative>Meteorological services</narrative>
@@ -985,7 +985,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15144</code>
             <name>
                 <narrative>National standards development</narrative>
@@ -1045,7 +1045,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15154</code>
             <name>
                 <narrative>Executive office</narrative>
@@ -1057,7 +1057,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15155</code>
             <name>
                 <narrative>Tax policy and administration support</narrative>
@@ -1065,7 +1065,7 @@
             </name>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15156</code>
             <name>
                 <narrative>Other non-tax revenue mobilisation</narrative>
@@ -1089,7 +1089,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>15161</code>
             <name>
                 <narrative>Elections</narrative>
@@ -1099,7 +1099,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>15162</code>
             <name>
                 <narrative>Human rights</narrative>
@@ -1109,7 +1109,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>15163</code>
             <name>
                 <narrative>Free flow of information</narrative>
@@ -1119,7 +1119,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>15164</code>
             <name>
                 <narrative>Women's equality organisations and institutions</narrative>
@@ -1153,7 +1153,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>15185</code>
             <name>
                 <narrative>Local government administration</narrative>
@@ -1177,7 +1177,7 @@
             </description>
             <category>151</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2019-01-01">
+        <codelist-item status="active" activation-date="2019-01-01">
             <code>15196</code>
             <name>
                 <narrative>Government and civil society statistics and data</narrative>
@@ -1273,7 +1273,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>16011</code>
             <name>
                 <narrative>Social protection and welfare services policy, planning and administration</narrative>
@@ -1285,7 +1285,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>16012</code>
             <name>
                 <narrative>Social security (excl pensions)</narrative>
@@ -1297,7 +1297,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>16013</code>
             <name>
                 <narrative>General pensions</narrative>
@@ -1309,7 +1309,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>16014</code>
             <name>
                 <narrative>Civil service pensions</narrative>
@@ -1321,7 +1321,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>16015</code>
             <name>
                 <narrative>Social services (incl youth development and women+ children)</narrative>
@@ -1429,7 +1429,7 @@
             </description>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>16065</code>
             <name>
                 <narrative>Recreation and sport</narrative>
@@ -1437,7 +1437,7 @@
             </name>
             <category>160</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>16066</code>
             <name>
                 <narrative>Culture</narrative>
@@ -1481,7 +1481,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>21011</code>
             <name>
                 <narrative>Transport policy, planning and administration</narrative>
@@ -1493,7 +1493,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>21012</code>
             <name>
                 <narrative>Public transport services</narrative>
@@ -1505,7 +1505,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>21013</code>
             <name>
                 <narrative>Transport regulation</narrative>
@@ -1529,7 +1529,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>21021</code>
             <name>
                 <narrative>Feeder road construction</narrative>
@@ -1541,7 +1541,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>21022</code>
             <name>
                 <narrative>Feeder road maintenance</narrative>
@@ -1553,7 +1553,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>21023</code>
             <name>
                 <narrative>National road construction</narrative>
@@ -1565,7 +1565,7 @@
             </description>
             <category>210</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>21024</code>
             <name>
                 <narrative>National road maintenance</narrative>
@@ -1645,7 +1645,7 @@
             </description>
             <category>220</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>22011</code>
             <name>
                 <narrative>Communications policy, planning and administration</narrative>
@@ -1653,7 +1653,7 @@
             </name>
             <category>220</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>22012</code>
             <name>
                 <narrative>Postal services</narrative>
@@ -1665,7 +1665,7 @@
             </description>
             <category>220</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>22013</code>
             <name>
                 <narrative>Information services</narrative>
@@ -1713,7 +1713,7 @@
             </description>
             <category>220</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23010</code>
             <name>
                 <narrative>Energy policy and administrative management</narrative>
@@ -1723,7 +1723,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23020</code>
             <name>
                 <narrative>Power generation/non-renewable sources</narrative>
@@ -1733,7 +1733,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23030</code>
             <name>
                 <narrative>Power generation/renewable sources</narrative>
@@ -1743,7 +1743,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23040</code>
             <name>
                 <narrative>Electrical transmission/ distribution</narrative>
@@ -1753,7 +1753,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23050</code>
             <name>
                 <narrative>Gas distribution</narrative>
@@ -1763,7 +1763,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23061</code>
             <name>
                 <narrative>Oil-fired power plants</narrative>
@@ -1773,21 +1773,21 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23062</code>
             <name>
                 <narrative>Gas-fired power plants</narrative>
             </name>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23063</code>
             <name>
                 <narrative>Coal-fired power plants</narrative>
             </name>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23064</code>
             <name>
                 <narrative>Nuclear power plants</narrative>
@@ -1797,7 +1797,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23065</code>
             <name>
                 <narrative>Hydro-electric power plants</narrative>
@@ -1807,14 +1807,14 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23066</code>
             <name>
                 <narrative>Geothermal energy</narrative>
             </name>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23067</code>
             <name>
                 <narrative>Solar energy</narrative>
@@ -1824,7 +1824,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23068</code>
             <name>
                 <narrative>Wind power</narrative>
@@ -1834,7 +1834,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23069</code>
             <name>
                 <narrative>Ocean power</narrative>
@@ -1844,7 +1844,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23070</code>
             <name>
                 <narrative>Biomass</narrative>
@@ -1854,7 +1854,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23081</code>
             <name>
                 <narrative>Energy education/training</narrative>
@@ -1864,7 +1864,7 @@
             </description>
             <category>230</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>23082</code>
             <name>
                 <narrative>Energy research</narrative>
@@ -1886,7 +1886,7 @@
             </description>
             <category>231</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>23111</code>
             <name>
                 <narrative>Energy sector policy, planning and administration</narrative>
@@ -1894,7 +1894,7 @@
             </name>
             <category>231</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>23112</code>
             <name>
                 <narrative>Energy regulation</narrative>
@@ -3194,7 +3194,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>43031</code>
             <name>
                 <narrative>Urban land policy and management</narrative>
@@ -3206,7 +3206,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>43032</code>
             <name>
                 <narrative>Urban development</narrative>
@@ -3230,7 +3230,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>43041</code>
             <name>
                 <narrative>Rural land policy and management</narrative>
@@ -3242,7 +3242,7 @@
             </description>
             <category>430</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>43042</code>
             <name>
                 <narrative>Rural development</narrative>
@@ -3474,7 +3474,7 @@
             </description>
             <category>720</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2019-01-01">
+        <codelist-item status="active" activation-date="2019-01-01">
             <code>72011</code>
             <name>
                 <narrative>Basic Health Care Services in Emergencies</narrative>
@@ -3486,7 +3486,7 @@
             </description>
             <category>720</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2019-01-01">
+        <codelist-item status="active" activation-date="2019-01-01">
             <code>72012</code>
             <name>
                 <narrative>Education in emergencies</narrative>
@@ -3566,7 +3566,7 @@
             </name>
             <category>910</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>92010</code>
             <name>
                 <narrative>Support to national NGOs</narrative>
@@ -3576,14 +3576,14 @@
             </description>
             <category>920</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>92020</code>
             <name>
                 <narrative>Support to international NGOs</narrative>
             </name>
             <category>920</category>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>92030</code>
             <name>
                 <narrative>Support to local and regional NGOs</narrative>
@@ -3605,7 +3605,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2018-01-01">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93011</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - food and shelter</narrative>
@@ -3617,7 +3617,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2018-01-01">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93012</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - training</narrative>
@@ -3629,7 +3629,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2018-01-01">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93013</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - health</narrative>
@@ -3641,7 +3641,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2018-01-01">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93014</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - other temporary sustenance</narrative>
@@ -3653,7 +3653,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2018-01-01">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93015</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - voluntary repatriation</narrative>
@@ -3665,7 +3665,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2018-01-01">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93016</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - transport</narrative>
@@ -3677,7 +3677,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2018-01-01">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93017</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - rescue at sea</narrative>
@@ -3689,7 +3689,7 @@
             </description>
             <category>930</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2018-01-01">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>93018</code>
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - administrative costs</narrative>

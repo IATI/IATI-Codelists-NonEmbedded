@@ -123,7 +123,7 @@
                 <narrative xml:lang="fr">Communications</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>230</code>
             <name>
                 <narrative>ENERGY GENERATION AND SUPPLY</narrative>
@@ -338,7 +338,7 @@
                 <narrative xml:lang="fr">Frais Administratifs des Donneurs</narrative>
             </name>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>920</code>
             <name>
                 <narrative>SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)</narrative>
