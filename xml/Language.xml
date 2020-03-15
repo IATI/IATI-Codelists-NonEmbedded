@@ -14,1086 +14,1288 @@
             <code>aa</code>
             <name>
                 <narrative>Afar</narrative>
+                <narrative xml:lang="fr">afar</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ab</code>
             <name>
                 <narrative>Abkhazian</narrative>
+                <narrative xml:lang="fr">abkhaze</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ae</code>
             <name>
                 <narrative>Avestan</narrative>
+                <narrative xml:lang="fr">avestique</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>af</code>
             <name>
                 <narrative>Afrikaans</narrative>
+                <narrative xml:lang="fr">afrikaans</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ak</code>
             <name>
                 <narrative>Akan</narrative>
+                <narrative xml:lang="fr">akan</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>am</code>
             <name>
                 <narrative>Amharic</narrative>
+                <narrative xml:lang="fr">amharique</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>an</code>
             <name>
                 <narrative>Aragonese</narrative>
+                <narrative xml:lang="fr">aragonais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ar</code>
             <name>
                 <narrative>Arabic</narrative>
+                <narrative xml:lang="fr">arabe</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>as</code>
             <name>
                 <narrative>Assamese</narrative>
+                <narrative xml:lang="fr">assamais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>av</code>
             <name>
                 <narrative>Avaric</narrative>
+                <narrative xml:lang="fr">avar</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ay</code>
             <name>
                 <narrative>Aymara</narrative>
+                <narrative xml:lang="fr">aymara</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>az</code>
             <name>
                 <narrative>Azerbaijani</narrative>
+                <narrative xml:lang="fr">azéri</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ba</code>
             <name>
                 <narrative>Bashkir</narrative>
+                <narrative xml:lang="fr">bachkir</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>be</code>
             <name>
                 <narrative>Belarusian</narrative>
+                <narrative xml:lang="fr">biélorusse</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>bg</code>
             <name>
                 <narrative>Bulgarian</narrative>
+                <narrative xml:lang="fr">bulgare</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>bh</code>
             <name>
                 <narrative>Bihari languages</narrative>
+                <narrative xml:lang="fr">langues biharis</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>bi</code>
             <name>
                 <narrative>Bislama</narrative>
+                <narrative xml:lang="fr">bichlamar</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>bm</code>
             <name>
                 <narrative>Bambara</narrative>
+                <narrative xml:lang="fr">bambara</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>bn</code>
             <name>
                 <narrative>Bengali</narrative>
+                <narrative xml:lang="fr">bengali</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>bo</code>
             <name>
                 <narrative>Tibetan</narrative>
+                <narrative xml:lang="fr">tibétain</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>br</code>
             <name>
                 <narrative>Breton</narrative>
+                <narrative xml:lang="fr">breton</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>bs</code>
             <name>
                 <narrative>Bosnian</narrative>
+                <narrative xml:lang="fr">bosniaque</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ca</code>
             <name>
                 <narrative>Catalan; Valencian</narrative>
+                <narrative xml:lang="fr">catalan; valencien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ce</code>
             <name>
                 <narrative>Chechen</narrative>
+                <narrative xml:lang="fr">tchétchène</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ch</code>
             <name>
                 <narrative>Chamorro</narrative>
+                <narrative xml:lang="fr">chamorro</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>co</code>
             <name>
                 <narrative>Corsican</narrative>
+                <narrative xml:lang="fr">corse</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>cr</code>
             <name>
                 <narrative>Cree</narrative>
+                <narrative xml:lang="fr">cree</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>cs</code>
             <name>
                 <narrative>Czech</narrative>
+                <narrative xml:lang="fr">tchèque</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>cu</code>
+            <name>
+                <narrative>Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic</narrative>
+                <narrative xml:lang="fr">slavon d'église; vieux slave; slavon liturgique; vieux bulgare</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>cv</code>
             <name>
                 <narrative>Chuvash</narrative>
+                <narrative xml:lang="fr">tchouvache</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>cy</code>
             <name>
                 <narrative>Welsh</narrative>
+                <narrative xml:lang="fr">gallois</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>da</code>
             <name>
                 <narrative>Danish</narrative>
+                <narrative xml:lang="fr">danois</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>de</code>
             <name>
                 <narrative>German</narrative>
+                <narrative xml:lang="fr">allemand</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>dv</code>
             <name>
                 <narrative>Divehi; Dhivehi; Maldivian</narrative>
+                <narrative xml:lang="fr">maldivien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>dz</code>
             <name>
                 <narrative>Dzongkha</narrative>
+                <narrative xml:lang="fr">dzongkha</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ee</code>
             <name>
                 <narrative>Ewe</narrative>
+                <narrative xml:lang="fr">éwé</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>el</code>
             <name>
-                <narrative>Greek</narrative>
+                <narrative>Greek, Modern (1453-)</narrative>
+                <narrative xml:lang="fr">grec moderne (après 1453)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>en</code>
             <name>
                 <narrative>English</narrative>
+                <narrative xml:lang="fr">anglais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>eo</code>
             <name>
                 <narrative>Esperanto</narrative>
+                <narrative xml:lang="fr">espéranto</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>es</code>
             <name>
                 <narrative>Spanish; Castilian</narrative>
+                <narrative xml:lang="fr">espagnol; castillan</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>et</code>
             <name>
                 <narrative>Estonian</narrative>
+                <narrative xml:lang="fr">estonien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>eu</code>
             <name>
                 <narrative>Basque</narrative>
+                <narrative xml:lang="fr">basque</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>fa</code>
             <name>
                 <narrative>Persian</narrative>
+                <narrative xml:lang="fr">persan</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ff</code>
             <name>
                 <narrative>Fulah</narrative>
+                <narrative xml:lang="fr">peul</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>fi</code>
             <name>
                 <narrative>Finnish</narrative>
+                <narrative xml:lang="fr">finnois</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>fj</code>
             <name>
                 <narrative>Fijian</narrative>
+                <narrative xml:lang="fr">fidjien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>fo</code>
             <name>
                 <narrative>Faroese</narrative>
+                <narrative xml:lang="fr">féroïen</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>fr</code>
             <name>
                 <narrative>French</narrative>
+                <narrative xml:lang="fr">français</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>fy</code>
             <name>
                 <narrative>Western Frisian</narrative>
+                <narrative xml:lang="fr">frison occidental</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ga</code>
             <name>
                 <narrative>Irish</narrative>
+                <narrative xml:lang="fr">irlandais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>gd</code>
             <name>
                 <narrative>Gaelic; Scottish Gaelic</narrative>
+                <narrative xml:lang="fr">gaélique; gaélique écossais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>gl</code>
             <name>
                 <narrative>Galician</narrative>
+                <narrative xml:lang="fr">galicien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>gn</code>
             <name>
                 <narrative>Guarani</narrative>
+                <narrative xml:lang="fr">guarani</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>gu</code>
             <name>
                 <narrative>Gujarati</narrative>
+                <narrative xml:lang="fr">goudjrati</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>gv</code>
             <name>
                 <narrative>Manx</narrative>
+                <narrative xml:lang="fr">manx; mannois</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ha</code>
             <name>
                 <narrative>Hausa</narrative>
+                <narrative xml:lang="fr">haoussa</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>he</code>
             <name>
                 <narrative>Hebrew</narrative>
+                <narrative xml:lang="fr">hébreu</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>hi</code>
             <name>
                 <narrative>Hindi</narrative>
+                <narrative xml:lang="fr">hindi</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ho</code>
             <name>
                 <narrative>Hiri Motu</narrative>
+                <narrative xml:lang="fr">hiri motu</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>hr</code>
             <name>
                 <narrative>Croatian</narrative>
+                <narrative xml:lang="fr">croate</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ht</code>
             <name>
                 <narrative>Haitian; Haitian Creole</narrative>
+                <narrative xml:lang="fr">haïtien; créole haïtien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>hu</code>
             <name>
                 <narrative>Hungarian</narrative>
+                <narrative xml:lang="fr">hongrois</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>hy</code>
             <name>
                 <narrative>Armenian</narrative>
+                <narrative xml:lang="fr">arménien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>hz</code>
             <name>
                 <narrative>Herero</narrative>
+                <narrative xml:lang="fr">herero</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ia</code>
+            <name>
+                <narrative>Interlingua (International Auxiliary Language Association)</narrative>
+                <narrative xml:lang="fr">interlingua (langue auxiliaire internationale)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>id</code>
             <name>
                 <narrative>Indonesian</narrative>
+                <narrative xml:lang="fr">indonésien</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ie</code>
+            <name>
+                <narrative>Interlingue; Occidental</narrative>
+                <narrative xml:lang="fr">interlingue</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ig</code>
             <name>
                 <narrative>Igbo</narrative>
+                <narrative xml:lang="fr">igbo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ii</code>
             <name>
                 <narrative>Sichuan Yi; Nuosu</narrative>
+                <narrative xml:lang="fr">yi de Sichuan</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ik</code>
             <name>
                 <narrative>Inupiaq</narrative>
+                <narrative xml:lang="fr">inupiaq</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>io</code>
             <name>
                 <narrative>Ido</narrative>
+                <narrative xml:lang="fr">ido</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>is</code>
             <name>
                 <narrative>Icelandic</narrative>
+                <narrative xml:lang="fr">islandais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>it</code>
             <name>
                 <narrative>Italian</narrative>
+                <narrative xml:lang="fr">italien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>iu</code>
             <name>
                 <narrative>Inuktitut</narrative>
+                <narrative xml:lang="fr">inuktitut</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ja</code>
             <name>
                 <narrative>Japanese</narrative>
+                <narrative xml:lang="fr">japonais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>jv</code>
             <name>
                 <narrative>Javanese</narrative>
+                <narrative xml:lang="fr">javanais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ka</code>
             <name>
                 <narrative>Georgian</narrative>
+                <narrative xml:lang="fr">géorgien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>kg</code>
             <name>
                 <narrative>Kongo</narrative>
+                <narrative xml:lang="fr">kongo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ki</code>
             <name>
                 <narrative>Kikuyu; Gikuyu</narrative>
+                <narrative xml:lang="fr">kikuyu</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>kj</code>
             <name>
                 <narrative>Kuanyama; Kwanyama</narrative>
+                <narrative xml:lang="fr">kuanyama; kwanyama</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>kk</code>
             <name>
                 <narrative>Kazakh</narrative>
+                <narrative xml:lang="fr">kazakh</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>kl</code>
             <name>
                 <narrative>Kalaallisut; Greenlandic</narrative>
+                <narrative xml:lang="fr">groenlandais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>km</code>
             <name>
                 <narrative>Central Khmer</narrative>
+                <narrative xml:lang="fr">khmer central</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>kn</code>
             <name>
                 <narrative>Kannada</narrative>
+                <narrative xml:lang="fr">kannada</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ko</code>
             <name>
                 <narrative>Korean</narrative>
+                <narrative xml:lang="fr">coréen</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>kr</code>
             <name>
                 <narrative>Kanuri</narrative>
+                <narrative xml:lang="fr">kanouri</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ks</code>
             <name>
                 <narrative>Kashmiri</narrative>
+                <narrative xml:lang="fr">kashmiri</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ku</code>
             <name>
                 <narrative>Kurdish</narrative>
+                <narrative xml:lang="fr">kurde</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>kv</code>
             <name>
                 <narrative>Komi</narrative>
+                <narrative xml:lang="fr">kom</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>kw</code>
             <name>
                 <narrative>Cornish</narrative>
+                <narrative xml:lang="fr">cornique</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ky</code>
             <name>
                 <narrative>Kirghiz; Kyrgyz</narrative>
+                <narrative xml:lang="fr">kirghiz</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>la</code>
             <name>
                 <narrative>Latin</narrative>
+                <narrative xml:lang="fr">latin</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>lb</code>
             <name>
                 <narrative>Luxembourgish; Letzeburgesch</narrative>
+                <narrative xml:lang="fr">luxembourgeois</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>lg</code>
             <name>
                 <narrative>Ganda</narrative>
+                <narrative xml:lang="fr">ganda</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>li</code>
             <name>
                 <narrative>Limburgan; Limburger; Limburgish</narrative>
+                <narrative xml:lang="fr">limbourgeois</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ln</code>
             <name>
                 <narrative>Lingala</narrative>
+                <narrative xml:lang="fr">lingala</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>lo</code>
             <name>
                 <narrative>Lao</narrative>
+                <narrative xml:lang="fr">lao</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>lt</code>
             <name>
                 <narrative>Lithuanian</narrative>
+                <narrative xml:lang="fr">lituanien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>lu</code>
             <name>
                 <narrative>Luba-Katanga</narrative>
+                <narrative xml:lang="fr">luba-katanga</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>lv</code>
             <name>
                 <narrative>Latvian</narrative>
+                <narrative xml:lang="fr">letton</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>mg</code>
             <name>
                 <narrative>Malagasy</narrative>
+                <narrative xml:lang="fr">malgache</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>mh</code>
             <name>
                 <narrative>Marshallese</narrative>
+                <narrative xml:lang="fr">marshall</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>mi</code>
             <name>
                 <narrative>Maori</narrative>
+                <narrative xml:lang="fr">maori</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>mk</code>
             <name>
                 <narrative>Macedonian</narrative>
+                <narrative xml:lang="fr">macédonien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ml</code>
             <name>
                 <narrative>Malayalam</narrative>
+                <narrative xml:lang="fr">malayalam</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>mn</code>
             <name>
                 <narrative>Mongolian</narrative>
+                <narrative xml:lang="fr">mongol</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>mr</code>
             <name>
                 <narrative>Marathi</narrative>
+                <narrative xml:lang="fr">marathe</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ms</code>
             <name>
                 <narrative>Malay</narrative>
+                <narrative xml:lang="fr">malais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>mt</code>
             <name>
                 <narrative>Maltese</narrative>
+                <narrative xml:lang="fr">maltais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>my</code>
             <name>
                 <narrative>Burmese</narrative>
+                <narrative xml:lang="fr">birman</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>na</code>
             <name>
                 <narrative>Nauru</narrative>
+                <narrative xml:lang="fr">nauruan</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>nb</code>
             <name>
                 <narrative>Bokmål, Norwegian; Norwegian Bokmål</narrative>
+                <narrative xml:lang="fr">norvégien bokmål</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>nd</code>
             <name>
                 <narrative>Ndebele, North; North Ndebele</narrative>
+                <narrative xml:lang="fr">ndébélé du Nord</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ne</code>
             <name>
                 <narrative>Nepali</narrative>
+                <narrative xml:lang="fr">népalais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ng</code>
             <name>
                 <narrative>Ndonga</narrative>
+                <narrative xml:lang="fr">ndonga</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>nl</code>
             <name>
                 <narrative>Dutch; Flemish</narrative>
+                <narrative xml:lang="fr">néerlandais; flamand</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>nn</code>
             <name>
                 <narrative>Norwegian Nynorsk; Nynorsk, Norwegian</narrative>
+                <narrative xml:lang="fr">norvégien nynorsk; nynorsk, norvégien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>no</code>
             <name>
                 <narrative>Norwegian</narrative>
+                <narrative xml:lang="fr">norvégien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>nr</code>
             <name>
                 <narrative>Ndebele, South; South Ndebele</narrative>
+                <narrative xml:lang="fr">ndébélé du Sud</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>nv</code>
             <name>
                 <narrative>Navajo; Navaho</narrative>
+                <narrative xml:lang="fr">navaho</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ny</code>
             <name>
                 <narrative>Chichewa; Chewa; Nyanja</narrative>
+                <narrative xml:lang="fr">chichewa; chewa; nyanja</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>oc</code>
             <name>
-                <narrative>Occitan (post 1500)</narrative>
+                <narrative>Occitan (post 1500); Provençal</narrative>
+                <narrative xml:lang="fr">occitan (après 1500); provençal</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>oj</code>
             <name>
                 <narrative>Ojibwa</narrative>
+                <narrative xml:lang="fr">ojibwa</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>om</code>
             <name>
                 <narrative>Oromo</narrative>
+                <narrative xml:lang="fr">galla</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>or</code>
             <name>
                 <narrative>Oriya</narrative>
+                <narrative xml:lang="fr">oriya</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>os</code>
             <name>
                 <narrative>Ossetian; Ossetic</narrative>
+                <narrative xml:lang="fr">ossète</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>pa</code>
             <name>
                 <narrative>Panjabi; Punjabi</narrative>
+                <narrative xml:lang="fr">pendjabi</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>pi</code>
             <name>
                 <narrative>Pali</narrative>
+                <narrative xml:lang="fr">pali</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>pl</code>
             <name>
                 <narrative>Polish</narrative>
+                <narrative xml:lang="fr">polonais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ps</code>
             <name>
                 <narrative>Pushto; Pashto</narrative>
+                <narrative xml:lang="fr">pachto</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>pt</code>
             <name>
                 <narrative>Portuguese</narrative>
+                <narrative xml:lang="fr">portugais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>qu</code>
             <name>
                 <narrative>Quechua</narrative>
+                <narrative xml:lang="fr">quechua</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>rm</code>
             <name>
                 <narrative>Romansh</narrative>
+                <narrative xml:lang="fr">romanche</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>rn</code>
             <name>
                 <narrative>Rundi</narrative>
+                <narrative xml:lang="fr">rundi</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ro</code>
             <name>
                 <narrative>Romanian; Moldavian; Moldovan</narrative>
+                <narrative xml:lang="fr">roumain; moldave</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ru</code>
             <name>
                 <narrative>Russian</narrative>
+                <narrative xml:lang="fr">russe</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>rw</code>
             <name>
                 <narrative>Kinyarwanda</narrative>
+                <narrative xml:lang="fr">rwanda</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sa</code>
             <name>
                 <narrative>Sanskrit</narrative>
+                <narrative xml:lang="fr">sanskrit</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sc</code>
             <name>
                 <narrative>Sardinian</narrative>
+                <narrative xml:lang="fr">sarde</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sd</code>
             <name>
                 <narrative>Sindhi</narrative>
+                <narrative xml:lang="fr">sindhi</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>se</code>
             <name>
                 <narrative>Northern Sami</narrative>
+                <narrative xml:lang="fr">sami du Nord</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sg</code>
             <name>
                 <narrative>Sango</narrative>
+                <narrative xml:lang="fr">sango</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>si</code>
             <name>
                 <narrative>Sinhala; Sinhalese</narrative>
+                <narrative xml:lang="fr">singhalais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sk</code>
             <name>
                 <narrative>Slovak</narrative>
+                <narrative xml:lang="fr">slovaque</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sl</code>
             <name>
                 <narrative>Slovenian</narrative>
+                <narrative xml:lang="fr">slovène</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sm</code>
             <name>
                 <narrative>Samoan</narrative>
+                <narrative xml:lang="fr">samoan</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sn</code>
             <name>
                 <narrative>Shona</narrative>
+                <narrative xml:lang="fr">shona</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>so</code>
             <name>
                 <narrative>Somali</narrative>
+                <narrative xml:lang="fr">somali</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sq</code>
             <name>
                 <narrative>Albanian</narrative>
+                <narrative xml:lang="fr">albanais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sr</code>
             <name>
                 <narrative>Serbian</narrative>
+                <narrative xml:lang="fr">serbe</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ss</code>
             <name>
                 <narrative>Swati</narrative>
+                <narrative xml:lang="fr">swati</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>st</code>
             <name>
                 <narrative>Sotho, Southern</narrative>
+                <narrative xml:lang="fr">sotho du Sud</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>su</code>
             <name>
                 <narrative>Sundanese</narrative>
+                <narrative xml:lang="fr">soundanais</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sv</code>
             <name>
                 <narrative>Swedish</narrative>
+                <narrative xml:lang="fr">suédois</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>sw</code>
             <name>
                 <narrative>Swahili</narrative>
+                <narrative xml:lang="fr">swahili</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ta</code>
             <name>
                 <narrative>Tamil</narrative>
+                <narrative xml:lang="fr">tamoul</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>te</code>
             <name>
                 <narrative>Telugu</narrative>
+                <narrative xml:lang="fr">télougou</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>tg</code>
             <name>
                 <narrative>Tajik</narrative>
+                <narrative xml:lang="fr">tadjik</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>th</code>
             <name>
                 <narrative>Thai</narrative>
+                <narrative xml:lang="fr">thaï</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ti</code>
             <name>
                 <narrative>Tigrinya</narrative>
+                <narrative xml:lang="fr">tigrigna</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>tk</code>
             <name>
                 <narrative>Turkmen</narrative>
+                <narrative xml:lang="fr">turkmène</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>tl</code>
             <name>
                 <narrative>Tagalog</narrative>
+                <narrative xml:lang="fr">tagalog</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>tn</code>
             <name>
                 <narrative>Tswana</narrative>
+                <narrative xml:lang="fr">tswana</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>to</code>
             <name>
                 <narrative>Tonga (Tonga Islands)</narrative>
+                <narrative xml:lang="fr">tongan (Îles Tonga)</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>tr</code>
             <name>
                 <narrative>Turkish</narrative>
+                <narrative xml:lang="fr">turc</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ts</code>
             <name>
                 <narrative>Tsonga</narrative>
+                <narrative xml:lang="fr">tsonga</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>tt</code>
             <name>
                 <narrative>Tatar</narrative>
+                <narrative xml:lang="fr">tatar</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>tw</code>
             <name>
                 <narrative>Twi</narrative>
+                <narrative xml:lang="fr">twi</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ty</code>
             <name>
                 <narrative>Tahitian</narrative>
+                <narrative xml:lang="fr">tahitien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ug</code>
             <name>
                 <narrative>Uighur; Uyghur</narrative>
+                <narrative xml:lang="fr">ouïgour</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>uk</code>
             <name>
                 <narrative>Ukrainian</narrative>
+                <narrative xml:lang="fr">ukrainien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ur</code>
             <name>
                 <narrative>Urdu</narrative>
+                <narrative xml:lang="fr">ourdou</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>uz</code>
             <name>
                 <narrative>Uzbek</narrative>
+                <narrative xml:lang="fr">ouszbek</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>ve</code>
             <name>
                 <narrative>Venda</narrative>
+                <narrative xml:lang="fr">venda</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>vi</code>
             <name>
                 <narrative>Vietnamese</narrative>
+                <narrative xml:lang="fr">vietnamien</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>vo</code>
             <name>
                 <narrative>Volapük</narrative>
+                <narrative xml:lang="fr">volapük</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>wa</code>
             <name>
                 <narrative>Walloon</narrative>
+                <narrative xml:lang="fr">wallon</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>wo</code>
             <name>
                 <narrative>Wolof</narrative>
+                <narrative xml:lang="fr">wolof</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>xh</code>
             <name>
                 <narrative>Xhosa</narrative>
+                <narrative xml:lang="fr">xhosa</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>yi</code>
             <name>
                 <narrative>Yiddish</narrative>
+                <narrative xml:lang="fr">yiddish</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>yo</code>
             <name>
                 <narrative>Yoruba</narrative>
+                <narrative xml:lang="fr">yoruba</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>za</code>
             <name>
                 <narrative>Zhuang; Chuang</narrative>
+                <narrative xml:lang="fr">zhuang; chuang</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>zh</code>
             <name>
                 <narrative>Chinese</narrative>
+                <narrative xml:lang="fr">chinois</narrative>
             </name>
         </codelist-item>
         <codelist-item>
             <code>zu</code>
             <name>
                 <narrative>Zulu</narrative>
+                <narrative xml:lang="fr">zoulou</narrative>
             </name>
         </codelist-item>
     </codelist-items>
