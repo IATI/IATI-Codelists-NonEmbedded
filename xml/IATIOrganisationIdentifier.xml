@@ -171,6 +171,16 @@ Pour des informations générales sur l’élaboration d’identifiants d’orga
             <url>http://ec.europa.eu/echo/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-ESFD</code>
+            <name>
+                <narrative>Economic and Social Fund for Development</narrative>
+            </name>
+            <description>
+                <narrative>The Economic and Social Fund for Development (ESFD) is a governmental body dedicated to alleviate poverty in Lebanon through the creation of employment opportunities and through the improvement of living conditions in disadvantaged communities.</narrative>
+            </description>
+            <url>http://www.esfd.cdr.gov.lb/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-EC_FPI</code>
             <name>
                 <narrative>European Commission – Service for Foreign Policy Instruments</narrative>
