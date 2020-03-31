@@ -291,7 +291,7 @@
             </description>
             <category>23000</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2010-01-01" withdrawal-date="2010-12-31">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>21011</code>
             <name>
                 <narrative>Global Campaign for Education</narrative>
