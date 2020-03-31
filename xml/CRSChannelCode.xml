@@ -303,7 +303,7 @@
             </description>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2010-01-01" withdrawal-date="2010-12-31">
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>21013</code>
             <name>
                 <narrative>Health Action International</narrative>
