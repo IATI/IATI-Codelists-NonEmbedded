@@ -1961,6 +1961,13 @@
                 <narrative xml:lang="fr">Institut des Nations Unies pour la recherche sur le désarmement</narrative>
             </name>
         </codelist-item>
+        <codelist-item status="active">
+            <code>41151</code>
+            <name>
+                <narrative>International Agency for Research on Cancer</narrative>
+                <narrative xml:lang="fr">Centre international de recherche sur le cancer</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="active" activation-date="2020-02-28">
             <code>46027</code>
             <name>
