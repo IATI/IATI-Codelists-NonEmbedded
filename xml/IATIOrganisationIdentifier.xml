@@ -364,12 +364,10 @@
             </description>
             <url>http://wash-alliance.org/</url>
         </codelist-item>
-    </codelist-items>
-    </codelist-item>
         <codelist-item activation-date="2020-05-12">
             <code>XI-IATI-WBTF</code>
             <name>
-                <narrative>World Bank Trust Funds (WBTF)</narrative>
+                <narrative>World Bank Trust Funds(WBTF)</narrative>
             </name>
             <description>
                 <narrative>A trust fund (TF) is a financing arrangement established with contributions from one or more external development partner(s)/partners, and in some cases, from the World Bank Group, to support development-related activities. The World Bank acts as a trustee/administrator for development partners (donors) funds and implements the activities financed through trust funds in accordance with the signed agreements with donors. As part of fiduciary obligations, the World Bank as Trustee/administrator of trust funds maintains the records for trust funds activities distinct and separate from the activities of IBRD and IDA. The Bank also provides periodic report on the financial situation and results of the individual trust funds to donors.</narrative>
