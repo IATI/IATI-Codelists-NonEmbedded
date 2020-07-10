@@ -374,5 +374,15 @@
             </description>
             <url>http://wash-alliance.org/</url>
         </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-WVDRC</code>
+            <name>
+                <narrative>World Vision DRC</narrative>
+            </name>
+            <description>
+                <narrative>Our teams have been working in the DRC since 1984. Today, we are working to contribute to the measurable and sustainable improvement of well-being for 5,311,208 children and their communities through transformational development and humanitarian relief programmes focused on: health and nutrition, education, water and sanitation, protecting children, livelihoods and resilience, food aid, psychosocial support and the reintegration if displaced people.</narrative>
+            </description>
+            <url>https://www.wvi.org/congo-drc/about-us</url>
+        </codelist-item>
     </codelist-items>
 </codelist>
