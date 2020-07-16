@@ -3,7 +3,7 @@ name: CI
 on: [push, pull_request]
 
 jobs:
-  build:
+  lint:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -27,12 +27,7 @@ jobs:
       run: |
         wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/codelist.xsd"
         wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/xml.xsd"
-
-  lint:
-    needs: [build]
-    runs-on: ubuntu-latest
-    steps:
-      - name: flake8 lint
-        run: flake8 --exclude=pyenv* --ignore E501
-      - name: xml lint
-        run: xmllint --schema codelist.xsd --noout xml/*
+    - name: flake8 lint
+      run: flake8 --exclude=pyenv* --ignore E501
+    - name: xml lint
+      run: xmllint --schema codelist.xsd --noout xml/*
