@@ -19,10 +19,10 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-pip-
           ${{ runner.os }}-
-    - name: Install Python dependencies
-      run: pip install -r requirements.txt
     - name: Install xmllint
       run: sudo apt-get install libxml2-utils
+    - name: Install Python dependencies
+      run: pip install -r requirements.txt
     - name: wget schema
       run: |
         wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/codelist.xsd"
