@@ -19,8 +19,8 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-pip-
           ${{ runner.os }}-
-    - name: Install xmllint
-      run: sudo apt-get install libxml2-utils
+    - name: Install xmllint and dependencies
+      run: sudo apt-get install libxml2-utils libxml2-dev libxslt-dev python-dev
     - name: Install Python dependencies
       run: pip install -r requirements.txt
     - name: wget schema
