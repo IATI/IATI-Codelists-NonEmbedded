@@ -83,6 +83,16 @@
             <url>http://www.aias.gov.mz/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-AJS</code>
+            <name>
+                <narrative>Associations des Juristes Sénégalaises (AJS)</narrative>
+            </name>
+            <description>
+                <narrative>The Association des Juristes Sénégalaises (AJS) is an association of women lawyers who promote and contribute to the protection of the rights of individuals, particularly women and children.</narrative>
+            </description>
+            <url>http://www.femmesjuristes.org</url>
+        </codelist-item>        
+        <codelist-item>
             <code>XI-IATI-ATTIC</code>
             <name>
                 <narrative>Association of Technicians in Information Technology and Communication (ATTIC)</narrative>
@@ -263,6 +273,16 @@
                 <narrative>Since 2008, the International Climate Initiative (IKI) of the Federal Ministry for the Environment, Nature Conservation, Building and Nuclear Safety (BMUB) has been financing climate and biodiversity projects in developing and newly industrialising countries, as well as in countries in transition.</narrative>
             </description>
             <url>https://www.international-climate-initiative.com/</url>
+        </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-KHF</code>
+            <name>
+                <narrative>The King Hussein Foundation (KHF)</narrative>
+            </name>
+            <description>
+                <narrative>Their mission is to build upon King Hussein’s lifelong commitment to peace, sustainable community development and cross-cultural understanding through national and regional programs that promote education and leadership, economic empowerment and participatory decision-making.</narrative>
+            </description>
+            <url>http://www.kinghusseinfoundation.org/</url>
         </codelist-item>
         <codelist-item>
             <code>XI-IATI-LPI</code>
