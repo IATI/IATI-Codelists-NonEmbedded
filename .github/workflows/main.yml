@@ -1,0 +1,33 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.7"
+      - name: Cache pip
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+            ${{ runner.os }}-
+      - name: Install xmllint and dependencies
+        run: sudo apt-get install libxml2-utils libxml2-dev libxslt-dev python-dev
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: wget schema
+        run: |
+          wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/codelist.xsd"
+          wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/xml.xsd"
+      - name: flake8 lint
+        run: flake8 --exclude=pyenv* --ignore E501
+      - name: xml lint
+        run: xmllint --schema codelist.xsd --noout xml/*
