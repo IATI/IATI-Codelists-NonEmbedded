@@ -20,5 +20,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           repository: codeforIATI/codelists
-          token: ${{ secrets.REPO_ACCESS_TOKEN }}
+          token: ${{ secrets.TOKEN }}
           event-type: build
