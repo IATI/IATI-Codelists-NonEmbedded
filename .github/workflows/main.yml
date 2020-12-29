@@ -15,3 +15,10 @@ jobs:
           wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/xml.xsd"
       - name: xml lint
         run: xmllint --schema codelist.xsd --noout xml/*
+      - name: Trigger a build on the codelists repo
+        if: github.ref == 'refs/heads/master'
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          repository: codeforIATI/codelists
+          token: ${{ secrets.REPO_ACCESS_TOKEN }}
+          event-type: build
