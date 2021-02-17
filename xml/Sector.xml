@@ -973,10 +973,6 @@
                 <narrative>Prisons</narrative>
                 <narrative xml:lang="fr">Prisons</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>151</category>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
@@ -1091,10 +1087,6 @@
                 <narrative>Tax policy and administration support</narrative>
                 <narrative xml:lang="fr">Politique et administration fiscales</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>151</category>
         </codelist-item>
         <codelist-item status="active">
@@ -1467,10 +1459,6 @@
                 <narrative>Recreation and sport</narrative>
                 <narrative xml:lang="fr">Récréation et sport</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>160</category>
         </codelist-item>
         <codelist-item status="active">
@@ -1479,10 +1467,6 @@
                 <narrative>Culture</narrative>
                 <narrative xml:lang="fr">Culture</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>160</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
@@ -1671,10 +1655,6 @@
                 <narrative>Education and training in transport and storage</narrative>
                 <narrative xml:lang="fr">Education/formation dans les transports et le stockage</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>210</category>
         </codelist-item>
         <codelist-item status="active">
@@ -1695,10 +1675,6 @@
                 <narrative>Communications policy, planning and administration</narrative>
                 <narrative xml:lang="fr">Politiques, planification et administration des communications</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>220</category>
         </codelist-item>
         <codelist-item status="active">
@@ -1826,9 +1802,6 @@
             <name>
                 <narrative>Gas-fired power plants</narrative>
             </name>
-            <description>
-                <narrative/>
-            </description>
             <category>230</category>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
@@ -1836,9 +1809,6 @@
             <name>
                 <narrative>Coal-fired power plants</narrative>
             </name>
-            <description>
-                <narrative/>
-            </description>
             <category>230</category>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
@@ -1866,9 +1836,6 @@
             <name>
                 <narrative>Geothermal energy</narrative>
             </name>
-            <description>
-                <narrative/>
-            </description>
             <category>230</category>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
@@ -1949,10 +1916,6 @@
                 <narrative>Energy sector policy, planning and administration</narrative>
                 <narrative xml:lang="fr">Politiques, planification et administration du secteur de l'énergie</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>231</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2273,10 +2236,6 @@
                 <narrative>Retail distribution of liquid or solid fossil fuels</narrative>
                 <narrative xml:lang="fr">Distribution au détail de carburants fossiles liquide ou solides</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>236</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
@@ -2357,10 +2316,6 @@
                 <narrative>Education/training in banking and financial services</narrative>
                 <narrative xml:lang="fr">Education/formation bancaire et dans les services financiers</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>240</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2549,10 +2504,6 @@
                 <narrative>Agricultural education/training</narrative>
                 <narrative xml:lang="fr">Education et formation dans le domaine agricole</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>311</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2669,10 +2620,6 @@
                 <narrative>Forestry education/training</narrative>
                 <narrative xml:lang="fr">Education et formation en sylviculture</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>312</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2693,10 +2640,6 @@
                 <narrative>Forestry services</narrative>
                 <narrative xml:lang="fr">Services sylvicoles</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>312</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2729,10 +2672,6 @@
                 <narrative>Fishery education/training</narrative>
                 <narrative xml:lang="fr">Education et formation dans le domaine de la pêche</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>313</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2777,10 +2716,6 @@
                 <narrative>Industrial development</narrative>
                 <narrative xml:lang="fr">Développement industriel</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>321</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2801,10 +2736,6 @@
                 <narrative>Cottage industries and handicraft</narrative>
                 <narrative xml:lang="fr">Artisanat</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>321</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2861,10 +2792,6 @@
                 <narrative>Fertilizer plants</narrative>
                 <narrative xml:lang="fr">Production d'engrais chimiques</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>321</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2873,10 +2800,6 @@
                 <narrative>Cement/lime/plaster</narrative>
                 <narrative xml:lang="fr">Ciment, chaux et plâtre</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>321</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2921,10 +2844,6 @@
                 <narrative>Non-ferrous metal industries</narrative>
                 <narrative xml:lang="fr">Industries des métaux non ferreux</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>321</category>
         </codelist-item>
         <codelist-item status="active">
@@ -3197,10 +3116,6 @@
                 <narrative>Tourism policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique du tourisme et gestion administrative</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>332</category>
         </codelist-item>
         <codelist-item status="active">
@@ -3269,10 +3184,6 @@
                 <narrative>Environmental education/training</narrative>
                 <narrative xml:lang="fr">Education et formation environnementales</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>410</category>
         </codelist-item>
         <codelist-item status="active">
@@ -3293,10 +3204,6 @@
                 <narrative>Multisector aid</narrative>
                 <narrative xml:lang="fr">Aide plurisectorielle</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>430</category>
         </codelist-item>
         <codelist-item status="active">
@@ -3521,10 +3428,6 @@
                 <narrative>Debt forgiveness</narrative>
                 <narrative xml:lang="fr">Annulation de la dette</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>600</category>
         </codelist-item>
         <codelist-item status="active">
@@ -3545,10 +3448,6 @@
                 <narrative>Rescheduling and refinancing</narrative>
                 <narrative xml:lang="fr">Rééchelonnement d'échéances et refinancement</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>600</category>
         </codelist-item>
         <codelist-item status="active">
@@ -3689,10 +3588,6 @@
                 <narrative>Administrative costs (non-sector allocable)</narrative>
                 <narrative xml:lang="fr">Frais administratifs (non alloués par secteur)</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>910</category>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
@@ -3710,9 +3605,6 @@
             <name>
                 <narrative>Support to international NGOs</narrative>
             </name>
-            <description>
-                <narrative/>
-            </description>
             <category>920</category>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
