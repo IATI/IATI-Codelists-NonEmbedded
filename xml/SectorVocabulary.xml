@@ -89,7 +89,7 @@
                 <narrative>A value from the top-level list of UN sustainable development goals (SDGs) (e.g. ‘1’)</narrative>
                 <narrative xml:lang="fr">Valeur tirée de la liste des principaux objectifs de développement durable (ODD) de l'ONU (p. ex. '1')</narrative>
             </description>
-            <url>http://reference.iatistandard.org/codelists/unsdg-goals/</url>
+            <url>http://reference.iatistandard.org/codelists/unsdg-goals</url>
         </codelist-item>
         <codelist-item>
             <code>8</code>
