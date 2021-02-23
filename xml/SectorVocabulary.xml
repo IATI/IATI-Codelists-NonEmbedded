@@ -101,7 +101,7 @@
                 <narrative>A value from the second-level list of UN sustainable development goals (SDGs) (e.g. ‘1.1’)</narrative>
                 <narrative xml:lang="fr">Valeur tirée de la liste des sous-objectifs de développement durable (ODD) de l'ONU (p. ex. '1.1')</narrative>
             </description>
-            <url>http://reference.iatistandard.org/codelists/unsdg-targets/</url>
+            <url>http://reference.iatistandard.org/codelists/unsdg-targets</url>
         </codelist-item>
         <codelist-item>
             <code>9</code>
