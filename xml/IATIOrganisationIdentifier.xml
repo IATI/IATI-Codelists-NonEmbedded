@@ -89,6 +89,16 @@ Pour des informations générales sur l’élaboration d’identifiants d’orga
             <url>http://www.aias.gov.mz/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-AJS</code>
+            <name>
+                <narrative>Associations des Juristes Sénégalaises (AJS)</narrative>
+            </name>
+            <description>
+                <narrative>The Association des Juristes Sénégalaises (AJS) is an association of women lawyers who promote and contribute to the protection of the rights of individuals, particularly women and children.</narrative>
+            </description>
+            <url>http://www.femmesjuristes.org</url>
+        </codelist-item>        
+        <codelist-item>
             <code>XI-IATI-ATTIC</code>
             <name>
                 <narrative>Association of Technicians in Information Technology and Communication (ATTIC)</narrative>
@@ -97,6 +107,16 @@ Pour des informations générales sur l’élaboration d’identifiants d’orga
                 <narrative>ATTIC, a non-political non-profit association in Republic of Chad, aims to help develop and integrate the promotion of information and communication technologies in the development policy of the formal and non-formal sectors, to fight against food insecurity and poverty, by strengthening the means of vulnerable households, refugees, returnees and internally displaced persons, and by providing socio-professional training and integration for vulnerable groups.</narrative>
             </description>
             <url>Website is still in progress</url>
+        </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-BBDN</code>
+            <name>
+                <narrative>Bangladesh Business &amp; Disability Network</narrative>
+            </name>
+            <description>
+                <narrative>The Bangladesh Business and Disability Network (BBDN) is a voluntary group of representatives from business, industry, employers’ organizations and selected non-governmental and disabled peoples’ organizations. BBDN has a primary purpose of facilitating disability and work place diversity in Bangladesh from the perspective of the business and human rights cases.</narrative>
+            </description>
+            <url>https://www.bbdn.com.bd/</url>
         </codelist-item>
         <codelist-item>
             <code>XI-IATI-EBRD</code>
@@ -261,6 +281,16 @@ Pour des informations générales sur l’élaboration d’identifiants d’orga
             <url>https://www.international-climate-initiative.com/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-KHF</code>
+            <name>
+                <narrative>The King Hussein Foundation (KHF)</narrative>
+            </name>
+            <description>
+                <narrative>Their mission is to build upon King Hussein’s lifelong commitment to peace, sustainable community development and cross-cultural understanding through national and regional programs that promote education and leadership, economic empowerment and participatory decision-making.</narrative>
+            </description>
+            <url>http://www.kinghusseinfoundation.org/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-LPI</code>
             <name>
                 <narrative>Living Peace Institute</narrative>
@@ -369,6 +399,26 @@ Pour des informations générales sur l’élaboration d’identifiants d’orga
                 <narrative>The WASH Alliance International is a consortium of member organisations in the Netherlands and partner organisations worldwide, working on sustainable WASH for everyone.</narrative>
             </description>
             <url>http://wash-alliance.org/</url>
+        </codelist-item>
+        <codelist-item activation-date="2020-05-12">
+            <code>XI-IATI-WBTF</code>
+            <name>
+                <narrative>World Bank Trust Funds (WBTF)</narrative>
+            </name>
+            <description>
+                <narrative>A trust fund (TF) is a financing arrangement established with contributions from one or more external development partner(s)/partners, and in some cases, from the World Bank Group, to support development-related activities. The World Bank acts as a trustee/administrator for development partners (donors) funds and implements the activities financed through trust funds in accordance with the signed agreements with donors. As part of fiduciary obligations, the World Bank as Trustee/administrator of trust funds maintains the records for trust funds activities distinct and separate from the activities of IBRD and IDA. The Bank also provides periodic report on the financial situation and results of the individual trust funds to donors.</narrative>
+            </description>
+            <url>https://www.worldbank.org/en/publication/trust-fund-annual-report-2019</url>
+        </codelist-item>
+        <codelist-item>
+            <code>XI-IATI-WVDRC</code>
+            <name>
+                <narrative>World Vision DRC</narrative>
+            </name>
+            <description>
+                <narrative>Our teams have been working in the DRC since 1984. Today, we are working to contribute to the measurable and sustainable improvement of well-being for 5,311,208 children and their communities through transformational development and humanitarian relief programmes focused on: health and nutrition, education, water and sanitation, protecting children, livelihoods and resilience, food aid, psychosocial support and the reintegration if displaced people.</narrative>
+            </description>
+            <url>https://www.wvi.org/congo-drc/about-us</url>
         </codelist-item>
     </codelist-items>
 </codelist>
