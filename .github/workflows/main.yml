@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install xmllint and dependencies
-        run: sudo apt-get install libxml2-utils libxml2-dev libxslt-dev python-dev
+        run: sudo apt-get update && sudo apt-get install libxml2-utils libxml2-dev libxslt-dev python-dev
       - name: wget schema
         run: |
           wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/codelist.xsd"
