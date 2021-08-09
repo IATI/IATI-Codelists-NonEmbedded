@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Collaboration Type</narrative>
+            <narrative xml:lang="fr">Type de collaboration</narrative>
         </name>
         <description>
             <narrative>OECD DAC classification used to determine the character of resource flows (bilateral or multilateral).</narrative>
+            <narrative xml:lang="fr">Classification du CAD de l'OCDE qui permet de distinguer la nature des apports de ressources (bilatérale ou multilatérale).</narrative>
         </description>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>
@@ -37,7 +39,7 @@
             <code>4</code>
             <name>
                 <narrative>Multilateral outflows</narrative>
-                <narrative xml:lang="fr">Apports des institutions multilatérales</narrative>
+                <narrative xml:lang="fr">Apports des agences multilatérales</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active">

@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Budget Not Provided</narrative>
+            <narrative xml:lang="fr">Budget absent</narrative>
         </name>
         <description>
             <narrative>A codelist defining the reasons why an activity does not contain any iati-activity/budget elements.</narrative>
+            <narrative xml:lang="fr">Une liste de codes définissant la raison pour laquelle une activité ne contient aucun élément iati-activity/budget</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

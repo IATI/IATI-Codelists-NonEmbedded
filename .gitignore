@@ -1,4 +1,1 @@
-pyenv*
-source/
-*.swp
-*~
+/pyenv/

@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Result Vocabulary</narrative>
+            <narrative xml:lang="fr">Vocabulaire de résultat</narrative>
         </name>
         <description>
             <narrative>The ResultVocabulary codelist currently includes only 1 code (99) that can be used by organisations to define different results frameworks they are using.</narrative>
+            <narrative xml:lang="fr">La liste de codes Vocabulaire de résultat contient présentement un seul code (99) qui peut être utilisé pour définir le cadre de résultat utilisé par une organisation.</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>CRS Additional Other Flags</narrative>
+            <narrative xml:lang="fr">Autres étiquettes additionnes du SNPC</narrative>
         </name>
         <description>
-            <narrative>OECD DAC classification used to distinguish aid modalities. </narrative>
+            <narrative>OECD DAC classification used to distinguish aid modalities.</narrative>
+            <narrative xml:lang="fr">Classification du CAD de l'OCDE qui permet de distinguer les modalités d'aide</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

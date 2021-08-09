@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Region</narrative>
+            <narrative xml:lang="fr">Région</narrative>
         </name>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>
@@ -54,8 +55,8 @@
         <codelist-item>
             <code>389</code>
             <name>
-                <narrative>North &amp; Central America, regional</narrative>
-                <narrative xml:lang="fr">Amérique N. &amp; C., régional</narrative>
+                <narrative>Caribbean &amp; Central America, regional</narrative>
+                <narrative xml:lang="fr">Caraïbes et Amérique centrale, régional</narrative>
             </name>
         </codelist-item>
         <codelist-item>

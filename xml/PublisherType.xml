@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Publisher Type</narrative>
+            <narrative xml:lang="fr">Type de diffuseur</narrative>
         </name>
         <category>
             <narrative>Non-Core</narrative>

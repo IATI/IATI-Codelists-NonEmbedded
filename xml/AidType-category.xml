@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Aid Type (category)</narrative>
+            <narrative xml:lang="fr">Type d'aide (catégorie)</narrative>
         </name>
         <description>
-            <narrative>This codelists exists to group the Aid Type codelist into categories. It is not used as a codelist in its own right.</narrative>
+            <narrative>This codelist exists to group the Aid Type codelist into categories. It is not used as a codelist in its own right.</narrative>
+            <narrative xml:lang="fr">Cette liste de code vise à regrouper les éléments de la liste Type d'aide en catégories. Elle n'est pas utilisée comme liste de codes en elle-même.</narrative>
         </description>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>

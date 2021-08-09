@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Finance Type (category)</narrative>
+            <narrative xml:lang="fr">Type de financement (catégorie)</narrative>
         </name>
         <description>
             <narrative>This codelists exists to group the Finance Type codelist into categories. It is not used as a codelist in its own right.</narrative>
+            <narrative xml:lang="fr">Cette liste sert à grouper la liste de codes Type de financement en catégories. Elle n'est pas utilisée comme liste de codes en elle-même.</narrative>
         </description>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>

@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Finance Type</narrative>
+            <narrative xml:lang="fr">Type de financement</narrative>
         </name>
         <description>
             <narrative>DAC/CRS transaction classification used to distinguish financial instruments,  e.g. grants or loans.</narrative>
+            <narrative xml:lang="fr">Classification de transaction du CAD/SNPC pour distinguer les instruments financiers, par exemple les subventions ou prêts.</narrative>
         </description>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>

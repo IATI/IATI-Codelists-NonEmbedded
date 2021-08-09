@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Earmarking Category</narrative>
+            <narrative xml:lang="fr">Catégorie de préaffectation</narrative>
         </name>
         <description>
             <narrative>This codelist has been created by IATI and is derived from the Grand Bargain Earmarking Modality codelist.</narrative>
+            <narrative xml:lang="fr">Cette liste de code a été créée par l'IITA d'après la liste de code des modalités de préaffectation du "Grand Bargain".</narrative>
         </description>
         <url>https://reliefweb.int/sites/reliefweb.int/files/resources/Grand_Bargain_final_22_May_FINAL-2.pdf</url>
         <category>

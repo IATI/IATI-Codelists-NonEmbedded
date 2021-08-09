@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Budget Identifier</narrative>
+            <narrative xml:lang="fr">Identification budgétaire</narrative>
         </name>
         <description>
             <narrative>IATI Functional and Administrative Common Code : One of several possible Budget Identifier Vocabularies. As of version 2.03 this codelist has been deprecated.</narrative>
+            <narrative xml:lang="fr">Code commun administratif et fonctionnel de l'IITA: un des nombreux vocabulaires d'identification budgétaire possible. Cette liste de codes a été dépréciée à la version 2.03.</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

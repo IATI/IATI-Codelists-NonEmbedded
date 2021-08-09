@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Budget Identifier Sector (category)</narrative>
+            <narrative xml:lang="fr">Secteur d'identification budgétaire (catégorie)</narrative>
         </name>
         <description>
-            <narrative>This codelists exists to group the Budget Identifier codelist into categories. It is not used as a codelist in its own right.</narrative>
+            <narrative>This codelist exists to group the Budget Identifier codelist into categories. It is not used as a codelist in its own right.</narrative>
+            <narrative xml:lang="fr">Cette liste de codes sert à grouper la liste de codes Identification budgétaire en catégories. Elle n'est pas utilisée comme liste de codes en elle-même.</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

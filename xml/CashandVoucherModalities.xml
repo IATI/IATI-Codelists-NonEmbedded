@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Cash and Voucher Modalities</narrative>
+            <narrative xml:lang="fr">Modalités par espèces et coupons</narrative>
         </name>
         <description>
             <narrative>This codelist has been created by IATI following agreements and recommendations of the Tracking Cash and Voucher Assistance (CVA) Working Group. Definitions of the codes have been aligned with the CaLP Glossary:http://www.cashlearning.org/resources/glossary.</narrative>
+            <narrative xml:lang="fr">Cette liste de codes a été créée par l'IITA à partir des accords et recommendations du groupe de travail sur l'aide par espèces et coupons. Les définitions de ces codes suivent celles du CaLP Glossary:http://www.cashlearning.org/resources/glossary</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>
@@ -29,5 +31,5 @@
                 <narrative>A paper, token or e-voucher that can be exchanged for a set quantity or value of goods or services, denominated either as a cash value (e.g. $15) or predetermined commodities (e.g. 5 kg maize) or specific services (e.g. milling of 5 kg of maize), or a combination of value and commodities. Vouchers are restricted by default, although the degree of restriction will vary based on the programme design and type of voucher. They are redeemable with preselected vendors or in ‘fairs’ created by the implementing agency. The terms vouchers, stamps, or coupons might be used interchangeably.</narrative>
             </description>
         </codelist-item>
-   </codelist-items>
-</codelist>   
+    </codelist-items>
+</codelist>

@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>DAC 3 Digit Sector</narrative>
+            <narrative xml:lang="fr">Secteur du CAD à 3 chiffres</narrative>
         </name>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>
@@ -127,6 +128,7 @@
             <code>230</code>
             <name>
                 <narrative>ENERGY GENERATION AND SUPPLY</narrative>
+                <narrative xml:lang="fr">PRODUCTION ET DISTRIBUTION D’ENERGIE</narrative>
             </name>
             <description>
                 <narrative>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</narrative>
@@ -342,9 +344,11 @@
             <code>920</code>
             <name>
                 <narrative>SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)</narrative>
+                <narrative xml:lang="fr">CONCOURS FOURNIS AUX ORGANISATIONS NON-GOUVERNEMENTALES (ONG)</narrative>
             </name>
             <description>
                 <narrative>In the donor country.</narrative>
+                <narrative xml:lang="fr">Contributions aux ONG nationales et internationales pour utilisation à la discrétion de ces dernières.</narrative>
             </description>
         </codelist-item>
         <codelist-item>

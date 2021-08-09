@@ -2,18 +2,24 @@
     <metadata>
         <name>
             <narrative>IATI Organisation Identifier</narrative>
+            <narrative xml:lang="fr">Identifiant d'organisation de l'IITA</narrative>
         </name>
         <description>
-            <narrative>
-            This is a list of organisation identifiers that is maintained by the IATI Secretariat.
-            The prefix for organisations on this list is XI-IATI
+            <narrative>This is a list of organisation identifiers that is maintained by the IATI Secretariat.
+The prefix for organisations on this list is XI-IATI
 
-            If a bona fide organisation is not registered with any recognised or appropriate registration agency (http://iatistandard.org/202/codelists/OrganisationRegistrationAgency/) they should contact the IATI Technical Team who will exceptionally allocate an organisation identifier using the XI-IATI prefix.
+If a bona fide organisation is not registered with any recognised or appropriate registration agency (http://iatistandard.org/202/codelists/OrganisationRegistrationAgency/) they should contact the IATI Technical Team who will exceptionally allocate an organisation identifier using the XI-IATI prefix.
 
-            While some of these identifiers have been derived from DAC codes, this 'meaning' is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.
+While some of these identifiers have been derived from DAC codes, this 'meaning' is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.
 
-            For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/
-            </narrative>
+For general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/</narrative>
+            <narrative xml:lang="fr">Une liste d’identifiants d’organisation gérée par le Secrétariat de l’IITA. Le préfixe pour les organisations de cette liste est XI-IATI.
+
+Si une organisation légitime n’est enregistrée auprès d’aucune agence d’enregistrement reconnue ou appropriée (http://iatistandard.org/202/codelists/OrganisationRegistrationAgency/), elle devrait contacter l’équipe technique de l’IITA qui lui attribuera de façon exceptionnelle un identifiant d’organisation avec le préfixe XI-IATI.
+
+Bien que certains de ces identifiants soient dérivés de codes du CAD, cette « signification » n’est pas transmise.  En d’autres termes, les identifiants attribués par l’IITA n’ont pas de signification en soi.
+
+Pour des informations générales sur l’élaboration d’identifiants d’organisation, veuillez consulter http://iatistandard.org/organisation-identifiers/</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

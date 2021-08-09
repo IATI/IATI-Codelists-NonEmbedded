@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Loan Repayment Period</narrative>
+            <narrative xml:lang="fr">Période de remboursement du prêt</narrative>
         </name>
         <description>
-            <narrative>CRS Loan Repayment No of Payments </narrative>
+            <narrative>CRS Loan Repayment No of Payments</narrative>
+            <narrative xml:lang="fr">SNPC Remboursement du prêt nombre de paiements</narrative>
         </description>
         <category>
             <narrative>Non-Core</narrative>

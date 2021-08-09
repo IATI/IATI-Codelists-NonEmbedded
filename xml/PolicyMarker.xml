@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>Policy Marker</narrative>
+            <narrative xml:lang="fr">Marqueur d'objectifs politiques</narrative>
         </name>
         <description>
             <narrative>The Policy Marker codelist is derived from the policy markers declared by the WP-STAT. The codes themselves are created by IATI.</narrative>
+            <narrative xml:lang="fr">La liste de codes Marqueur d'objectifs politiques est dérivée des marqueurs d'objectifs politiques déclarés par le WP-STAT. Les codes eux-mêmes sont créés par l'IITA.</narrative>
         </description>
         <url>http://www.oecd.org/dac/stats/dacandcrscodelists.htm</url>
         <category>

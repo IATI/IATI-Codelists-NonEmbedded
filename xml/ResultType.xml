@@ -2,6 +2,7 @@
     <metadata>
         <name>
             <narrative>Result Type</narrative>
+            <narrative xml:lang="fr">Type de résultat</narrative>
         </name>
         <category>
             <narrative>Non-Core</narrative>

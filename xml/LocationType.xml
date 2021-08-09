@@ -2,13 +2,13 @@
     <metadata>
         <name>
             <narrative>Location Type</narrative>
+            <narrative xml:lang="fr">Type de lieu</narrative>
         </name>
         <description>
-            <narrative>
-            US NGA Feature Designation Codes
-            
-            On this codelist 'category' is used for the Feature Class.
-        </narrative>
+            <narrative>US NGA Feature Designation Codes
+
+On this codelist 'category' is used for the Feature Class.</narrative>
+            <narrative xml:lang="fr">Codes du US NGA désignant des entités géographiques. Dans cette liste, "catégorie" correspond au type d'entité.</narrative>
         </description>
         <url>http://geonames.nga.mil/namesgaz/</url>
         <category>

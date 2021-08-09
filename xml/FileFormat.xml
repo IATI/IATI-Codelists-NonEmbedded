@@ -2,9 +2,11 @@
     <metadata>
         <name>
             <narrative>File Format</narrative>
+            <narrative xml:lang="fr">Format de fichier</narrative>
         </name>
         <description>
             <narrative>File format of published documents.</narrative>
+            <narrative xml:lang="fr">Format de fichier de documents publiés.</narrative>
         </description>
         <url>http://www.iana.org/assignments/media-types</url>
         <category>
@@ -26,10 +28,6 @@
         </codelist-item>
         <codelist-item>
             <code>application/A2L</code>
-            <category>application</category>
-        </codelist-item>
-        <codelist-item>
-            <code>application/activemessage</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -149,7 +147,7 @@
             <category>application</category>
         </codelist-item>
         <codelist-item>
-            <code>application/CALS-1840</code>
+            <code>application/cals-1840</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -188,7 +186,7 @@
             <code>application/cdmi-queue</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/cdni</code>
             <category>application</category>
         </codelist-item>
@@ -208,7 +206,7 @@
             <code>application/cfw</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/clue_info+xml</code>
             <category>application</category>
         </codelist-item>
@@ -224,7 +222,7 @@
             <code>application/coap-group+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/coap-payload</code>
             <category>application</category>
         </codelist-item>
@@ -240,15 +238,15 @@
             <code>application/cpl+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/cose</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/cose-key</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/cose-key-set</code>
             <category>application</category>
         </codelist-item>
@@ -264,7 +262,7 @@
             <code>application/CSTAdata+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/csvm+json</code>
             <category>application</category>
         </codelist-item>
@@ -304,11 +302,11 @@
             <code>application/dicom</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/dicom+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/dicom+xml</code>
             <category>application</category>
         </codelist-item>
@@ -356,39 +354,39 @@
             <code>application/EDI-X12</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/efi</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/EmergencyCallData.Comment+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/EmergencyCallData.Control+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/EmergencyCallData.DeviceInfo+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/EmergencyCallData.eCall.MSD</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/EmergencyCallData.ProviderInfo+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/EmergencyCallData.ServiceInfo+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/EmergencyCallData.SubscriberInfo+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/EmergencyCallData.VEDS+xml</code>
             <category>application</category>
         </codelist-item>
@@ -456,15 +454,15 @@
             <code>application/framework-attributes+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/geo+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/geo+json-seq</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/gml+xml</code>
             <category>application</category>
         </codelist-item>
@@ -604,7 +602,7 @@
             <code>application/ld+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/lgr+xml</code>
             <category>application</category>
         </codelist-item>
@@ -804,7 +802,7 @@
             <code>application/msword</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item activation-date="2016-11-17" withdrawal-date="2017-11-17">
+        <codelist-item activation-date="2016-11-17" withdrawal-date="2017-11-17" status="withdrawn">
             <code>application/mud+json</code>
             <category>application</category>
         </codelist-item>
@@ -812,11 +810,11 @@
             <code>application/mxf</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/n-quads</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/n-triples</code>
             <category>application</category>
         </codelist-item>
@@ -932,7 +930,7 @@
             <code>application/pkcs8</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/pkcs12</code>
             <category>application</category>
         </codelist-item>
@@ -968,15 +966,15 @@
             <code>application/postscript</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/ppsp-tracker+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/problem+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/problem+xml</code>
             <category>application</category>
         </codelist-item>
@@ -1056,7 +1054,7 @@
             <code>application/resource-lists+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/rfc+xml</code>
             <category>application</category>
         </codelist-item>
@@ -1080,7 +1078,7 @@
             <code>application/rpki-manifest</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/rpki-publication</code>
             <category>application</category>
         </codelist-item>
@@ -1120,7 +1118,7 @@
             <code>application/scaip+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/scim+json</code>
             <category>application</category>
         </codelist-item>
@@ -1202,6 +1200,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/slate</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>application/smil - OBSOLETED in favor of application/smil+xml</code>
             <category>application</category>
         </codelist-item>
         <codelist-item status="withdrawn">
@@ -1320,7 +1322,7 @@
             <code>application/timestamped-data</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/trig</code>
             <category>application</category>
         </codelist-item>
@@ -1364,11 +1366,11 @@
             <code>application/vemmi</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.1000minds.decision-model+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.3gpp.access-transfer-events+xml</code>
             <category>application</category>
         </codelist-item>
@@ -1376,7 +1378,7 @@
             <code>application/vnd.3gpp.bsf+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.3gpp.mid-call+xml</code>
             <category>application</category>
         </codelist-item>
@@ -1392,11 +1394,11 @@
             <code>application/vnd.3gpp.pic-bw-var</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.3gpp-prose-pc3ch+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.3gpp-prose+xml</code>
             <category>application</category>
         </codelist-item>
@@ -1404,23 +1406,23 @@
             <code>application/vnd.3gpp.sms</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.3gpp.sms+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.3gpp.srvcc-ext+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.3gpp.SRVCC-info+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.3gpp.state-and-event-info+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.3gpp.ussd+xml</code>
             <category>application</category>
         </codelist-item>
@@ -1436,7 +1438,7 @@
             <code>application/vnd.3gpp2.tcap</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.3lightssoftware.imagescal</code>
             <category>application</category>
         </codelist-item>
@@ -1504,7 +1506,7 @@
             <code>application/vnd.airzip.filesecure.azs</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.amazon.mobi8-ebook</code>
             <category>application</category>
         </codelist-item>
@@ -1520,7 +1522,7 @@
             <code>application/vnd.amundsen.maze+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.anki</code>
             <category>application</category>
         </codelist-item>
@@ -1548,7 +1550,7 @@
             <code>application/vnd.api+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.apothekende.reservation+json</code>
             <category>application</category>
         </codelist-item>
@@ -1558,6 +1560,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.apple.installer+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>application/vnd.arastra.swi - OBSOLETED in favor of application/vnd.aristanetworks.swi</code>
             <category>application</category>
         </codelist-item>
         <codelist-item status="withdrawn">
@@ -1592,7 +1598,7 @@
             <code>application/vnd.balsamiq.bmml+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.balsamiq.bmpr</code>
             <category>application</category>
         </codelist-item>
@@ -1600,11 +1606,11 @@
             <code>application/vnd.bekitzur-stech+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.bint.med-content</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.biopax.rdf+xml</code>
             <category>application</category>
         </codelist-item>
@@ -1640,7 +1646,7 @@
             <code>application/vnd.canon-lips</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.capasystems-pg+json</code>
             <category>application</category>
         </codelist-item>
@@ -1656,7 +1662,7 @@
             <code>application/vnd.chemdraw+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.chess-pgn</code>
             <category>application</category>
         </codelist-item>
@@ -1712,7 +1718,7 @@
             <code>application/vnd.collection.next+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.comicbook+zip</code>
             <category>application</category>
         </codelist-item>
@@ -1724,7 +1730,7 @@
             <code>application/vnd.commonspace</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.coreos.ignition+json</code>
             <category>application</category>
         </codelist-item>
@@ -1800,7 +1806,7 @@
             <code>application/vnd.cybank</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.d2l.coursepackage1p0+zip</code>
             <category>application</category>
         </codelist-item>
@@ -1812,11 +1818,11 @@
             <code>application/vnd.data-vision.rdz</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.datapackage+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.dataresource+json</code>
             <category>application</category>
         </codelist-item>
@@ -1884,7 +1890,7 @@
             <code>application/vnd.dreamfactory</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.drive+json</code>
             <category>application</category>
         </codelist-item>
@@ -2020,11 +2026,11 @@
             <code>application/vnd.ecowin.seriesupdate</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.efi.img</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.efi.iso</code>
             <category>application</category>
         </codelist-item>
@@ -2068,7 +2074,7 @@
             <code>application/vnd.ericsson.quickcall</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.espass-espass+zip</code>
             <category>application</category>
         </codelist-item>
@@ -2164,7 +2170,7 @@
             <code>application/vnd.etsi.tsl.der</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.evolv.ecig.theme</code>
             <category>application</category>
         </codelist-item>
@@ -2184,7 +2190,7 @@
             <code>application/vnd.f-secure.mobile</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.fastcopy-disk-image</code>
             <category>application</category>
         </codelist-item>
@@ -2204,7 +2210,7 @@
             <code>application/vnd.ffsns</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.filmit.zfc</code>
             <category>application</category>
         </codelist-item>
@@ -2212,7 +2218,7 @@
             <code>application/vnd.fints</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.firemonkeys.cloudcell</code>
             <category>application</category>
         </codelist-item>
@@ -2308,6 +2314,10 @@
             <code>application/vnd.geo+json</code>
             <category>application</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>application/vnd.geocube+xml - OBSOLETED by request</code>
+            <category>application</category>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>application/vnd.geocube+xml</code>
             <category>application</category>
@@ -2346,6 +2356,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.globalplatform.card-content-mgt-response</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>application/vnd.gmx - DEPRECATED</code>
             <category>application</category>
         </codelist-item>
         <codelist-item status="withdrawn">
@@ -2424,7 +2438,7 @@
             <code>application/vnd.hbci</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.hc+json</code>
             <category>application</category>
         </codelist-item>
@@ -2432,7 +2446,7 @@
             <code>application/vnd.hcl-bireports</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.hdt</code>
             <category>application</category>
         </codelist-item>
@@ -2476,11 +2490,11 @@
             <code>application/vnd.hydrostatix.sof-data</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.hyper-item+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.hyperdrive+json</code>
             <category>application</category>
         </codelist-item>
@@ -2524,11 +2538,11 @@
             <code>application/vnd.igloader</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.imagemeter.folder+zip</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.imagemeter.image+zip</code>
             <category>application</category>
         </codelist-item>
@@ -2578,6 +2592,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.informedcontrol.rms+xml</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>application/vnd.informix-visionary - OBSOLETED in favor of application/vnd.visionary</code>
             <category>application</category>
         </codelist-item>
         <codelist-item>
@@ -2776,7 +2794,7 @@
             <code>application/vnd.kodak-descriptor</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.las.las+json</code>
             <category>application</category>
         </codelist-item>
@@ -2828,11 +2846,7 @@
             <code>application/vnd.macports.portpkg</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
-            <code>application/vnd.macports.portpkg</code>
-            <category>application</category>
-        </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.mapbox-vector-tile</code>
             <category>application</category>
         </codelist-item>
@@ -2900,7 +2914,7 @@
             <code>application/vnd.microsoft.portable-executable</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.microsoft.windows.thumbnail-cache</code>
             <category>application</category>
         </codelist-item>
@@ -3080,11 +3094,11 @@
             <code>application/vnd.ms-powerpoint.template.macroEnabled.12</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.ms-PrintDeviceCapabilities+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.ms-PrintSchemaTicket+xml</code>
             <category>application</category>
         </codelist-item>
@@ -3096,11 +3110,11 @@
             <code>application/vnd.ms-tnef</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.ms-windows.devicepairing</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.ms-windows.nwprinting.oob</code>
             <category>application</category>
         </codelist-item>
@@ -3108,7 +3122,7 @@
             <code>application/vnd.ms-windows.printerpairing</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.ms-windows.wsd.oob</code>
             <category>application</category>
         </codelist-item>
@@ -3192,7 +3206,7 @@
             <code>application/vnd.ncd.reference</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.nearst.inv+json</code>
             <category>application</category>
         </codelist-item>
@@ -3274,6 +3288,10 @@
         </codelist-item>
         <codelist-item>
             <code>application/vnd.nokia.n-gage.data</code>
+            <category>application</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>application/vnd.nokia.n-gage.symbian.install - OBSOLETE; no replacement given</code>
             <category>application</category>
         </codelist-item>
         <codelist-item status="withdrawn">
@@ -3400,7 +3418,7 @@
             <code>application/vnd.obn</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.ocf+cbor</code>
             <category>application</category>
         </codelist-item>
@@ -3548,11 +3566,11 @@
             <code>application/vnd.oma.group-usage-list+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.oma.lwm2m+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.oma.lwm2m+tlv</code>
             <category>application</category>
         </codelist-item>
@@ -3620,35 +3638,35 @@
             <code>application/vnd.oma-scws-http-response</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.onepager</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.onepagertamp</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.onepagertamx</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.onepagertat</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.onepagertatp</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.onepagertatx</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.openblox.game-binary</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.openblox.game+xml</code>
             <category>application</category>
         </codelist-item>
@@ -3656,7 +3674,7 @@
             <code>application/vnd.openeye.oeb</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.openstreetmap.data+xml</code>
             <category>application</category>
         </codelist-item>
@@ -3988,11 +4006,11 @@
             <code>application/vnd.otps.ct-kip+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.oxli.countgraph</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.pagerduty+json</code>
             <category>application</category>
         </codelist-item>
@@ -4100,7 +4118,7 @@
             <code>application/vnd.qualcomm.brew-app-res</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.quarantainenet</code>
             <category>application</category>
         </codelist-item>
@@ -4180,7 +4198,7 @@
             <code>application/vnd.rapid</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.rar</code>
             <category>application</category>
         </codelist-item>
@@ -4312,7 +4330,7 @@
             <code>application/vnd.shana.informed.package</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.sigrok.session</code>
             <category>application</category>
         </codelist-item>
@@ -4432,7 +4450,7 @@
             <code>application/vnd.syncml+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.tableschema+json</code>
             <category>application</category>
         </codelist-item>
@@ -4444,7 +4462,7 @@
             <code>application/vnd.tcpdump.pcap</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.tml</code>
             <category>application</category>
         </codelist-item>
@@ -4456,7 +4474,7 @@
             <code>application/vnd.tmobile-livetv</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.tri.onesource</code>
             <category>application</category>
         </codelist-item>
@@ -4548,7 +4566,7 @@
             <code>application/vnd.uplanet.list-wbxml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.uri-map</code>
             <category>application</category>
         </codelist-item>
@@ -4572,7 +4590,7 @@
             <code>application/vnd.vectorworks</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/vnd.vel+json</code>
             <category>application</category>
         </codelist-item>
@@ -4868,6 +4886,10 @@
             <code>application/xenc+xml</code>
             <category>application</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>application/xhtml-voice+xml - OBSOLETE; no replacement given</code>
+            <category>application</category>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>application/xhtml-voice+xml</code>
             <category>application</category>
@@ -4912,19 +4934,19 @@
             <code>application/yang</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/yang-data+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/yang-data+xml</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/yang-patch+json</code>
             <category>application</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>application/yang-patch+xml</code>
             <category>application</category>
         </codelist-item>
@@ -5104,7 +5126,7 @@
             <code>audio/EVRCWB1</code>
             <category>audio</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>audio/EVS</code>
             <category>audio</category>
         </codelist-item>
@@ -5116,7 +5138,7 @@
             <code>audio/fwdred</code>
             <category>audio</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>audio/G711-0</code>
             <category>audio</category>
         </codelist-item>
@@ -5212,19 +5234,19 @@
             <code>audio/LPC</code>
             <category>audio</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>audio/MELP</code>
             <category>audio</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>audio/MELP600</code>
             <category>audio</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>audio/MELP1200</code>
             <category>audio</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>audio/MELP2400</code>
             <category>audio</category>
         </codelist-item>
@@ -5500,6 +5522,10 @@
             <code>audio/vnd.octel.sbc</code>
             <category>audio</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>audio/vnd.qcelp - DEPRECATED in favor of audio/qcelp</code>
+            <category>audio</category>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>audio/vnd.qcelp</code>
             <category>audio</category>
@@ -5528,31 +5554,31 @@
             <code>audio/vorbis-config</code>
             <category>audio</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>font/collection</code>
             <category>font</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>font/otf</code>
             <category>font</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>font/sfnt</code>
             <category>font</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>font/ttf</code>
             <category>font</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>font/woff</code>
             <category>font</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>font/woff2</code>
             <category>font</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>image/bmp</code>
             <category>image</category>
         </codelist-item>
@@ -5560,11 +5586,11 @@
             <code>image/cgm</code>
             <category>image</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>image/dicom-rle</code>
             <category>image</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>image/emf</code>
             <category>image</category>
         </codelist-item>
@@ -5588,7 +5614,7 @@
             <code>image/ief</code>
             <category>image</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>image/jls</code>
             <category>image</category>
         </codelist-item>
@@ -5716,7 +5742,7 @@
             <code>image/vnd.ms-modi</code>
             <category>image</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>image/vnd.mozilla.apng</code>
             <category>image</category>
         </codelist-item>
@@ -5764,7 +5790,7 @@
             <code>image/vnd.zbrush.pcx</code>
             <category>image</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>image/wmf</code>
             <category>image</category>
         </codelist-item>
@@ -5824,6 +5850,10 @@
             <code>message/imdn+xml</code>
             <category>message</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>message/news - OBSOLETED by RFC5537</code>
+            <category>message</category>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>message/news</code>
             <category>message</category>
@@ -5852,6 +5882,10 @@
             <code>message/tracking-status</code>
             <category>message</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>message/vnd.si.simp - OBSOLETED by request</code>
+            <category>message</category>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>message/vnd.si.simp</code>
             <category>message</category>
@@ -5860,7 +5894,7 @@
             <code>message/vnd.wfa.wsc</code>
             <category>message</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>model/3mf</code>
             <category>model</category>
         </codelist-item>
@@ -5868,7 +5902,7 @@
             <code>model/example</code>
             <category>model</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>model/gltf+json</code>
             <category>model</category>
         </codelist-item>
@@ -5924,7 +5958,7 @@
             <code>model/vnd.parasolid.transmit.text</code>
             <category>model</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>model/vnd.rosette.annotated-data-model</code>
             <category>model</category>
         </codelist-item>
@@ -6004,7 +6038,7 @@
             <code>multipart/signed</code>
             <category>multipart</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>multipart/vnd.bint.med-plus</code>
             <category>multipart</category>
         </codelist-item>
@@ -6040,12 +6074,20 @@
             <code>text/csv-schema</code>
             <category>text</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>text/directory - DEPRECATED by RFC6350</code>
+            <category>text</category>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>text/directory</code>
             <category>text</category>
         </codelist-item>
         <codelist-item>
             <code>text/dns</code>
+            <category>text</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>text/ecmascript - OBSOLETED in favor of application/ecmascript</code>
             <category>text</category>
         </codelist-item>
         <codelist-item status="withdrawn">
@@ -6076,6 +6118,10 @@
             <code>text/html</code>
             <category>text</category>
         </codelist-item>
+        <codelist-item status="active">
+            <code>text/javascript - OBSOLETED in favor of application/javascript</code>
+            <category>text</category>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>text/javascript</code>
             <category>text</category>
@@ -6084,7 +6130,11 @@
             <code>text/jcr-cnd</code>
             <category>text</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="active">
+            <code>text/markdown (TEMPORARY - registered 2014-11-11, expires 2015-11-11)</code>
+            <category>text</category>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>text/markdown</code>
             <category>text</category>
         </codelist-item>
@@ -6120,7 +6170,7 @@
             <code>text/prs.lines.tag</code>
             <category>text</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>text/prs.prop.logic</code>
             <category>text</category>
         </codelist-item>
@@ -6160,7 +6210,7 @@
             <code>text/sgml</code>
             <category>text</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>text/strings</code>
             <category>text</category>
         </codelist-item>
@@ -6200,7 +6250,7 @@
             <code>text/vnd.abc</code>
             <category>text</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>text/vnd.ascii-art</code>
             <category>text</category>
         </codelist-item>
@@ -6270,6 +6320,10 @@
         </codelist-item>
         <codelist-item>
             <code>text/vnd.radisys.msml-basic-layout</code>
+            <category>text</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>text/vnd.si.uricatalogue - OBSOLETED by request</code>
             <category>text</category>
         </codelist-item>
         <codelist-item status="withdrawn">
@@ -6376,7 +6430,7 @@
             <code>video/H264-SVC</code>
             <category>video</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>video/H265</code>
             <category>video</category>
         </codelist-item>
@@ -6616,7 +6670,7 @@
             <code>video/vnd.vivo</code>
             <category>video</category>
         </codelist-item>
-        <codelist-item>
+        <codelist-item status="withdrawn">
             <code>video/VP8</code>
             <category>video</category>
         </codelist-item>
