@@ -125,10 +125,6 @@
                 <narrative>Association of Geoscientists for International Development</narrative>
                 <narrative xml:lang="fr">Association de géoscientifiques pour le développement international</narrative>
             </name>
-            <acronym>
-                <narrative>AGID</narrative>
-                <narrative xml:lang="fr">AGID</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -137,10 +133,6 @@
                 <narrative>Agency for International Trade Information and Co-operation</narrative>
                 <narrative xml:lang="fr">Agence de coopération et d'information pour le commerce international</narrative>
             </name>
-            <acronym>
-                <narrative>AITIC</narrative>
-                <narrative xml:lang="fr">ACICI</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -149,10 +141,6 @@
                 <narrative>Latin American Council for Social Sciences</narrative>
                 <narrative xml:lang="fr">Conseil latino-américain des sciences sociales</narrative>
             </name>
-            <acronym>
-                <narrative>CLASCO</narrative>
-                <narrative xml:lang="fr">CLASCO</narrative>
-            </acronym>
             <category>23000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -161,10 +149,6 @@
                 <narrative>Council for the Development of Economic and Social Research in Africa</narrative>
                 <narrative xml:lang="fr">Conseil pour le développement de la recherche en sciences sociales en Afrique</narrative>
             </name>
-            <acronym>
-                <narrative>CODESRIA</narrative>
-                <narrative xml:lang="fr">CODESRIA</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
@@ -173,10 +157,6 @@
                 <narrative>Consumer Unity and Trust Society International</narrative>
                 <narrative xml:lang="fr">Consumer Unity and Trust Society International</narrative>
             </name>
-            <acronym>
-                <narrative>CUTS</narrative>
-                <narrative xml:lang="fr">CUTS</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -193,10 +173,6 @@
                 <narrative>Environmental Liaison Centre International</narrative>
                 <narrative xml:lang="fr">Centre international de liaison pour l’environnement</narrative>
             </name>
-            <acronym>
-                <narrative>ELCI</narrative>
-                <narrative xml:lang="fr">CILE</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -205,10 +181,6 @@
                 <narrative>Eurostep</narrative>
                 <narrative xml:lang="fr">Eurostep</narrative>
             </name>
-            <acronym>
-                <narrative>Eurostep</narrative>
-                <narrative xml:lang="fr">Eurostep</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -217,10 +189,6 @@
                 <narrative>Forum for Agricultural Research in Africa</narrative>
                 <narrative xml:lang="fr">Forum pour la recherche agricole en Afrique</narrative>
             </name>
-            <acronym>
-                <narrative>FARA</narrative>
-                <narrative xml:lang="fr">FARA</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -229,10 +197,6 @@
                 <narrative>Forum for African Women Educationalists</narrative>
                 <narrative xml:lang="fr">Forum des éducatrices africaines</narrative>
             </name>
-            <acronym>
-                <narrative>FAWE</narrative>
-                <narrative xml:lang="fr">FAWE</narrative>
-            </acronym>
             <category>23000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
@@ -241,10 +205,6 @@
                 <narrative>Global Campaign for Education</narrative>
                 <narrative xml:lang="fr">Campagne mondiale pour l’éducation</narrative>
             </name>
-            <acronym>
-                <narrative>GCE</narrative>
-                <narrative xml:lang="fr">CME</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1999-01-01">
@@ -253,10 +213,6 @@
                 <narrative>Health Action International</narrative>
                 <narrative xml:lang="fr">Health Action International</narrative>
             </name>
-            <acronym>
-                <narrative>HAI</narrative>
-                <narrative xml:lang="fr">HAI</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -265,10 +221,6 @@
                 <narrative>Human Rights Information and Documentation Systems</narrative>
                 <narrative xml:lang="fr">Systèmes d’Information et de Documentation sur les Droits de l’Homme</narrative>
             </name>
-            <acronym>
-                <narrative>HURIDOCS</narrative>
-                <narrative xml:lang="fr">HURIDOCS</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -277,10 +229,6 @@
                 <narrative>International Catholic Rural Association</narrative>
                 <narrative xml:lang="fr">Association internationale rurale catholique</narrative>
             </name>
-            <acronym>
-                <narrative>ICRA</narrative>
-                <narrative xml:lang="fr">ICRA</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -289,10 +237,6 @@
                 <narrative>International Committee of the Red Cross</narrative>
                 <narrative xml:lang="fr">Comité international de la Croix-Rouge</narrative>
             </name>
-            <acronym>
-                <narrative>ICRC</narrative>
-                <narrative xml:lang="fr">CICR</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -301,10 +245,6 @@
                 <narrative>International Centre for Trade and Sustainable Development</narrative>
                 <narrative xml:lang="fr">Centre international de commerce et de développement durable</narrative>
             </name>
-            <acronym>
-                <narrative>ICTSD</narrative>
-                <narrative xml:lang="fr">ICTSD</narrative>
-            </acronym>
             <category>32000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2000-01-01">
@@ -313,10 +253,6 @@
                 <narrative>International Federation of Red Cross and Red Crescent Societies</narrative>
                 <narrative xml:lang="fr">Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge</narrative>
             </name>
-            <acronym>
-                <narrative>IFRCRCS</narrative>
-                <narrative xml:lang="fr">FISCRCR</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -325,10 +261,6 @@
                 <narrative>International Federation of Settlements and Neighbourhood Centres</narrative>
                 <narrative xml:lang="fr">Fédération internationale des centres sociaux et communautaires</narrative>
             </name>
-            <acronym>
-                <narrative>IFS</narrative>
-                <narrative xml:lang="fr">IFS</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
@@ -345,10 +277,6 @@
                 <narrative>International Institute for Environment and Development</narrative>
                 <narrative xml:lang="fr">Institut international pour l’environnement et le développement</narrative>
             </name>
-            <acronym>
-                <narrative>IIED</narrative>
-                <narrative xml:lang="fr">IIED</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
@@ -357,10 +285,6 @@
                 <narrative>International Network for Alternative Financial Institutions</narrative>
                 <narrative xml:lang="fr">Réseau international d’institutions financières</narrative>
             </name>
-            <acronym>
-                <narrative>INAFI</narrative>
-                <narrative xml:lang="fr">INAFI</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -369,10 +293,6 @@
                 <narrative>International Planned Parenthood Federation</narrative>
                 <narrative xml:lang="fr">Fédération internationale pour le planning familial</narrative>
             </name>
-            <acronym>
-                <narrative>IPPF</narrative>
-                <narrative xml:lang="fr">IPPF</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
@@ -381,10 +301,6 @@
                 <narrative>Inter Press Service, International Association</narrative>
                 <narrative xml:lang="fr">Inter Press Service, International Association</narrative>
             </name>
-            <acronym>
-                <narrative>IPS</narrative>
-                <narrative xml:lang="fr">IPS</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -393,10 +309,6 @@
                 <narrative>International Seismological Centre</narrative>
                 <narrative xml:lang="fr">Centre séismologique international</narrative>
             </name>
-            <acronym>
-                <narrative>ISC</narrative>
-                <narrative xml:lang="fr">ISC</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -405,10 +317,6 @@
                 <narrative>International Service for Human Rights</narrative>
                 <narrative xml:lang="fr">Service International pour les Droits de l’Homme</narrative>
             </name>
-            <acronym>
-                <narrative>ISHR</narrative>
-                <narrative xml:lang="fr">ISHR</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -417,10 +325,6 @@
                 <narrative>ITF Enhancing Human Security</narrative>
                 <narrative xml:lang="fr">ITF Améliorer la sécurité humaine</narrative>
             </name>
-            <acronym>
-                <narrative>ITF</narrative>
-                <narrative xml:lang="fr">ITF</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -429,10 +333,6 @@
                 <narrative>International University Exchange Fund - IUEF Stip. in Africa and Latin America</narrative>
                 <narrative xml:lang="fr">Fonds international d’échanges universitaires - Échanges intéressant l’Afrique et l’Amérique latine</narrative>
             </name>
-            <acronym>
-                <narrative>IUEF</narrative>
-                <narrative xml:lang="fr">FIEU</narrative>
-            </acronym>
             <category>23000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2001-01-01">
@@ -441,10 +341,6 @@
                 <narrative>Doctors Without Borders</narrative>
                 <narrative xml:lang="fr">Médecins Sans Frontières</narrative>
             </name>
-            <acronym>
-                <narrative>MSF</narrative>
-                <narrative xml:lang="fr">MSF</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -453,10 +349,6 @@
                 <narrative>Pan African Institute for Development</narrative>
                 <narrative xml:lang="fr">Institut panafricain pour le développement</narrative>
             </name>
-            <acronym>
-                <narrative>PAID</narrative>
-                <narrative xml:lang="fr">IPD</narrative>
-            </acronym>
             <category>23000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
@@ -465,10 +357,6 @@
                 <narrative>PANOS Institute</narrative>
                 <narrative xml:lang="fr">Institut PANOS</narrative>
             </name>
-            <acronym>
-                <narrative>PANOS</narrative>
-                <narrative xml:lang="fr">PANOS</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
@@ -477,10 +365,6 @@
                 <narrative>Population Services International</narrative>
                 <narrative xml:lang="fr">Organisation internationale pour les services en matière de population</narrative>
             </name>
-            <acronym>
-                <narrative>PSI</narrative>
-                <narrative xml:lang="fr">PSI</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -489,10 +373,6 @@
                 <narrative>Transparency International</narrative>
                 <narrative xml:lang="fr">Transparency International</narrative>
             </name>
-            <acronym>
-                <narrative>TI</narrative>
-                <narrative xml:lang="fr">TI</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -501,10 +381,6 @@
                 <narrative>International Union Against Tuberculosis and Lung Disease</narrative>
                 <narrative xml:lang="fr">Union Internationale Contre la Tuberculose et les Maladies Respiratoires</narrative>
             </name>
-            <acronym>
-                <narrative>UNION</narrative>
-                <narrative xml:lang="fr">UNION</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -513,10 +389,6 @@
                 <narrative>World Organisation Against Torture</narrative>
                 <narrative xml:lang="fr">Organisation mondiale contre la torture</narrative>
             </name>
-            <acronym>
-                <narrative>OMCT</narrative>
-                <narrative xml:lang="fr">OMCT</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -525,10 +397,6 @@
                 <narrative>World University Service</narrative>
                 <narrative xml:lang="fr">Entraide universitaire mondiale</narrative>
             </name>
-            <acronym>
-                <narrative>WUS</narrative>
-                <narrative xml:lang="fr">EUM</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -537,10 +405,6 @@
                 <narrative>Women's World Banking</narrative>
                 <narrative xml:lang="fr">Banque mondiale des femmes</narrative>
             </name>
-            <acronym>
-                <narrative>WWB</narrative>
-                <narrative xml:lang="fr">WWB</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2006-01-01">
@@ -557,10 +421,6 @@
                 <narrative>International Institute for Sustainable Development</narrative>
                 <narrative xml:lang="fr">Institut international de développement durable</narrative>
             </name>
-            <acronym>
-                <narrative>IISD</narrative>
-                <narrative xml:lang="fr">IIDD</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -569,10 +429,6 @@
                 <narrative>International Women's Tribune Centre</narrative>
                 <narrative xml:lang="fr">Centre de la tribune internationale de la femme</narrative>
             </name>
-            <acronym>
-                <narrative>IWTC</narrative>
-                <narrative xml:lang="fr">CTIF</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2005-01-01">
@@ -581,10 +437,6 @@
                 <narrative>Society for International Development</narrative>
                 <narrative xml:lang="fr">Société pour le développement international</narrative>
             </name>
-            <acronym>
-                <narrative>SID</narrative>
-                <narrative xml:lang="fr">SDI</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2005-01-01">
@@ -593,10 +445,6 @@
                 <narrative>International Peacebuilding Alliance</narrative>
                 <narrative xml:lang="fr">Alliance internationale pour la consolidation de la paix</narrative>
             </name>
-            <acronym>
-                <narrative>Interpeace</narrative>
-                <narrative xml:lang="fr">Interpeace</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -605,10 +453,6 @@
                 <narrative>European Parliamentarians for Africa</narrative>
                 <narrative xml:lang="fr">Association des parlementaires d’Europe pour l’Afrique</narrative>
             </name>
-            <acronym>
-                <narrative>AWEPA</narrative>
-                <narrative xml:lang="fr">AWEPA</narrative>
-            </acronym>
             <category>32000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -617,10 +461,6 @@
                 <narrative>International Council for the Control of Iodine Deficiency Disorders</narrative>
                 <narrative xml:lang="fr">Conseil international pour la lutte contre les troubles dus à une carence en iode</narrative>
             </name>
-            <acronym>
-                <narrative>ICCIDD</narrative>
-                <narrative xml:lang="fr">ICCIDD</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -629,10 +469,6 @@
                 <narrative>African Medical and Research Foundation</narrative>
                 <narrative xml:lang="fr">Fondation africaine pour la médecine et la recherche</narrative>
             </name>
-            <acronym>
-                <narrative>AMREF</narrative>
-                <narrative xml:lang="fr">AMREF</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -641,10 +477,6 @@
                 <narrative>Agency for Cooperation and Research in Development</narrative>
                 <narrative xml:lang="fr">Association de Coopération et de Recherche pour le Développement</narrative>
             </name>
-            <acronym>
-                <narrative>ACORD</narrative>
-                <narrative xml:lang="fr">ACORD</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -661,10 +493,6 @@
                 <narrative>Association of African Universities</narrative>
                 <narrative xml:lang="fr">Association des universités africaines</narrative>
             </name>
-            <acronym>
-                <narrative>AAU</narrative>
-                <narrative xml:lang="fr">AUA</narrative>
-            </acronym>
             <category>23000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -673,10 +501,6 @@
                 <narrative>European Centre for Development Policy Management</narrative>
                 <narrative xml:lang="fr">Centre européen de gestion de politiques de développement</narrative>
             </name>
-            <acronym>
-                <narrative>ECDPM</narrative>
-                <narrative xml:lang="fr">ECDPM</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -693,10 +517,6 @@
                 <narrative>Institut Supérieur Panafricaine d’Economie Coopérative</narrative>
                 <narrative xml:lang="fr">Institut supérieur panafricaine d’economie coopérative</narrative>
             </name>
-            <acronym>
-                <narrative>ISPEC</narrative>
-                <narrative xml:lang="fr">ISPEC</narrative>
-            </acronym>
             <category>23000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -713,10 +533,6 @@
                 <narrative>Life and Peace Institute</narrative>
                 <narrative xml:lang="fr">Institut Vie et Paix</narrative>
             </name>
-            <acronym>
-                <narrative>LPI</narrative>
-                <narrative xml:lang="fr">IVP</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -725,10 +541,6 @@
                 <narrative>Regional AIDS Training Network</narrative>
                 <narrative xml:lang="fr">Réseau régional de formation sur le SIDA</narrative>
             </name>
-            <acronym>
-                <narrative>RATN</narrative>
-                <narrative xml:lang="fr">RRFS</narrative>
-            </acronym>
             <category>23000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -737,10 +549,6 @@
                 <narrative>Renewable Energy and Energy Efficiency Partnership</narrative>
                 <narrative xml:lang="fr">Partenariat pour les énergies renouvelables et l'efficience énergétique</narrative>
             </name>
-            <acronym>
-                <narrative>REEEP</narrative>
-                <narrative xml:lang="fr">REEEP</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -749,10 +557,6 @@
                 <narrative>International Centre for Transitional Justice</narrative>
                 <narrative xml:lang="fr">Centre International pour la Justice Transitionnelle</narrative>
             </name>
-            <acronym>
-                <narrative>ICTJ</narrative>
-                <narrative xml:lang="fr">ICTJ</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -761,10 +565,6 @@
                 <narrative>International Crisis Group</narrative>
                 <narrative xml:lang="fr">International Crisis Group</narrative>
             </name>
-            <acronym>
-                <narrative>ICG</narrative>
-                <narrative xml:lang="fr">ICG</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -773,10 +573,6 @@
                 <narrative>Africa Solidarity Fund</narrative>
                 <narrative xml:lang="fr">Fonds solidaire pour l'Afrique</narrative>
             </name>
-            <acronym>
-                <narrative>ASF</narrative>
-                <narrative xml:lang="fr">ASF</narrative>
-            </acronym>
             <category>23000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -785,10 +581,6 @@
                 <narrative>Association for the Prevention of Torture</narrative>
                 <narrative xml:lang="fr">Association pour la prévention de la torture</narrative>
             </name>
-            <acronym>
-                <narrative>APT</narrative>
-                <narrative xml:lang="fr">APT</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -797,10 +589,6 @@
                 <narrative>International Rehabilitation Council for Torture Victims</narrative>
                 <narrative xml:lang="fr">Conseil international de réhabilitation pour les victimes de torture</narrative>
             </name>
-            <acronym>
-                <narrative>IRCT</narrative>
-                <narrative xml:lang="fr">IRCT</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -809,10 +597,6 @@
                 <narrative>The Nature Conservancy</narrative>
                 <narrative xml:lang="fr">The Nature Conservancy</narrative>
             </name>
-            <acronym>
-                <narrative>TNC</narrative>
-                <narrative xml:lang="fr">TNC</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
@@ -821,10 +605,6 @@
                 <narrative>Conservation International</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>CI</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
@@ -833,10 +613,6 @@
                 <narrative>Clinton Health Access Initiative, Inc.</narrative>
                 <narrative xml:lang="fr">Initiative Clinton pour l'accès à la santé</narrative>
             </name>
-            <acronym>
-                <narrative>CHAI</narrative>
-                <narrative xml:lang="fr">CHAI</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -845,10 +621,6 @@
                 <narrative>OXFAM International</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>OXFAM-I</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -865,10 +637,6 @@
                 <narrative>Family Health International 360</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>FHI360</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -877,10 +645,6 @@
                 <narrative>International Relief and Development</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>IRD</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -897,10 +661,6 @@
                 <narrative>International Rescue Committee</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>IRC</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -909,10 +669,6 @@
                 <narrative>Pact World</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>PACT</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active">
@@ -929,10 +685,6 @@
                 <narrative>OXFAM - provider country office</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>OXFAM</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -972,10 +724,6 @@
                 <narrative>Global Alliance for Improved Nutrition</narrative>
                 <narrative xml:lang="fr">Alliance mondiale pour une meilleure nutrition</narrative>
             </name>
-            <acronym>
-                <narrative>GAIN</narrative>
-                <narrative xml:lang="fr">GAIN</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -984,10 +732,6 @@
                 <narrative>Global e-Schools and Communities Initiative</narrative>
                 <narrative xml:lang="fr">Initiative mondiale en faveur de l’informatique dans les écoles et dans les communautés</narrative>
             </name>
-            <acronym>
-                <narrative>GeSCI</narrative>
-                <narrative xml:lang="fr">GeSCI</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -996,10 +740,6 @@
                 <narrative>Global Water Partnership</narrative>
                 <narrative xml:lang="fr">Partenariat mondial pour l'eau</narrative>
             </name>
-            <acronym>
-                <narrative>GWP</narrative>
-                <narrative xml:lang="fr">GWP</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1008,10 +748,6 @@
                 <narrative>International AIDS Vaccine Initiative</narrative>
                 <narrative xml:lang="fr">Initiative internationale pour un vaccin contre le SIDA</narrative>
             </name>
-            <acronym>
-                <narrative>IAVI</narrative>
-                <narrative xml:lang="fr">IAVI</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1020,10 +756,6 @@
                 <narrative>International Partnership on Microbicides</narrative>
                 <narrative xml:lang="fr">Partenariat international pour des microbicides</narrative>
             </name>
-            <acronym>
-                <narrative>IPM</narrative>
-                <narrative xml:lang="fr">IPM</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1032,10 +764,6 @@
                 <narrative>Global Alliance for ICT and Development</narrative>
                 <narrative xml:lang="fr">Alliance mondiale pour les TIC et le développement</narrative>
             </name>
-            <acronym>
-                <narrative>GAID</narrative>
-                <narrative xml:lang="fr">GAID</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1052,10 +780,6 @@
                 <narrative>Small Arms Survey</narrative>
                 <narrative xml:lang="fr">Small Arms Survey</narrative>
             </name>
-            <acronym>
-                <narrative>SAS</narrative>
-                <narrative xml:lang="fr">SAS</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1064,10 +788,6 @@
                 <narrative>International drug purchase facility</narrative>
                 <narrative xml:lang="fr">Facilité internationale d'achat de médicaments</narrative>
             </name>
-            <acronym>
-                <narrative>UNITAID</narrative>
-                <narrative xml:lang="fr">UNITAID</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1076,10 +796,6 @@
                 <narrative>International Union for the Conservation of Nature</narrative>
                 <narrative xml:lang="fr">Union internationale pour la conservation de la nature</narrative>
             </name>
-            <acronym>
-                <narrative>IUCN</narrative>
-                <narrative xml:lang="fr">UICN</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1088,10 +804,6 @@
                 <narrative>Global Climate Partnership Fund</narrative>
                 <narrative xml:lang="fr">Global Climate Partnership Fund</narrative>
             </name>
-            <acronym>
-                <narrative>GCPF</narrative>
-                <narrative xml:lang="fr">GCPF</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1100,10 +812,6 @@
                 <narrative>Microfinance Enhancement Facility</narrative>
                 <narrative xml:lang="fr">Mécanisme de soutien au microfinancement</narrative>
             </name>
-            <acronym>
-                <narrative>MEF</narrative>
-                <narrative xml:lang="fr">MEF</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1112,10 +820,6 @@
                 <narrative>Regional Micro, Small and Medium Enterprise Investment Fund for Sub-Saharan Africa</narrative>
                 <narrative xml:lang="fr">Fonds régional d’investissement pour les très petites, petites et moyennes entreprises d’Afrique subsaharienne</narrative>
             </name>
-            <acronym>
-                <narrative>REGMIFA</narrative>
-                <narrative xml:lang="fr">REGMIFA</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1124,10 +828,6 @@
                 <narrative>Global Energy Efficiency and Renewable Energy Fund</narrative>
                 <narrative xml:lang="fr">Fonds mondial pour la promotion de l'efficacité énergétique et des énergies renouvelables</narrative>
             </name>
-            <acronym>
-                <narrative>GEEREF</narrative>
-                <narrative xml:lang="fr">GEEREF</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -1136,10 +836,6 @@
                 <narrative>European Fund for Southeast Europe</narrative>
                 <narrative xml:lang="fr">European Fund for Southeast Europe</narrative>
             </name>
-            <acronym>
-                <narrative>EFSE</narrative>
-                <narrative xml:lang="fr">EFSE</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -1148,10 +844,6 @@
                 <narrative>SANAD Fund for Micro, Small and Medium Enterprises</narrative>
                 <narrative xml:lang="fr">SANAD Fund for Micro, Small and Medium Enterprises</narrative>
             </name>
-            <acronym>
-                <narrative>SANAD</narrative>
-                <narrative xml:lang="fr">SANAD</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1160,10 +852,6 @@
                 <narrative>African Finance Corporation</narrative>
                 <narrative xml:lang="fr">African Finance Corporation</narrative>
             </name>
-            <acronym>
-                <narrative>AFC</narrative>
-                <narrative xml:lang="fr">AFC</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1172,10 +860,6 @@
                 <narrative>Currency Exchange Fund N.V.</narrative>
                 <narrative xml:lang="fr">Currency Exchange Fund N.V.</narrative>
             </name>
-            <acronym>
-                <narrative>TCX</narrative>
-                <narrative xml:lang="fr">TCX</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1184,10 +868,6 @@
                 <narrative>Global Energy Efficiency and Renewable Energy Fund</narrative>
                 <narrative xml:lang="fr">Global Energy Efficiency and Renewable Energy Fund</narrative>
             </name>
-            <acronym>
-                <narrative>GEEREF II</narrative>
-                <narrative xml:lang="fr">GEEREF II</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active">
@@ -1204,10 +884,6 @@
                 <narrative>Global Development Network</narrative>
                 <narrative xml:lang="fr">Réseau de développement mondial</narrative>
             </name>
-            <acronym>
-                <narrative>GDN</narrative>
-                <narrative xml:lang="fr">GDN</narrative>
-            </acronym>
             <category>32000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1216,10 +892,6 @@
                 <narrative>Global Knowledge Partnership</narrative>
                 <narrative xml:lang="fr">Alliance mondiale pour le savoir</narrative>
             </name>
-            <acronym>
-                <narrative>GKP</narrative>
-                <narrative xml:lang="fr">GKP</narrative>
-            </acronym>
             <category>32000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1228,10 +900,6 @@
                 <narrative>International Land Coalition</narrative>
                 <narrative xml:lang="fr">Coalition internationale pour l'accès à la terre</narrative>
             </name>
-            <acronym>
-                <narrative>ILC</narrative>
-                <narrative xml:lang="fr">ILC</narrative>
-            </acronym>
             <category>32000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -1240,10 +908,6 @@
                 <narrative>Extractive Industries Transparency Initiative International Secretariat</narrative>
                 <narrative xml:lang="fr">Secrétariat de l'Initiative pour la transparence dans les industries extractives</narrative>
             </name>
-            <acronym>
-                <narrative>EITI</narrative>
-                <narrative xml:lang="fr">ITIE</narrative>
-            </acronym>
             <category>32000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -1252,10 +916,6 @@
                 <narrative>Parliamentary Network on the World Bank</narrative>
                 <narrative xml:lang="fr">Réseau parlementaire sur la Banque mondaile</narrative>
             </name>
-            <acronym>
-                <narrative>PNoWB</narrative>
-                <narrative xml:lang="fr">RPsBM</narrative>
-            </acronym>
             <category>32000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
@@ -1264,10 +924,6 @@
                 <narrative>Coalition for Epidemic Preparedness Innovations</narrative>
                 <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation</narrative>
             </name>
-            <acronym>
-                <narrative>CEPI</narrative>
-                <narrative xml:lang="fr">CIPE</narrative>
-            </acronym>
             <category>31000</category>
         </codelist-item>
         <codelist-item status="active">
@@ -1307,10 +963,6 @@
                 <narrative>Convention to Combat Desertification</narrative>
                 <narrative xml:lang="fr">Convention sur la lutte contre la désertification</narrative>
             </name>
-            <acronym>
-                <narrative>UNCCD</narrative>
-                <narrative xml:lang="fr">CCD</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1319,10 +971,6 @@
                 <narrative>Desert Locust Control Organisation for Eastern Africa</narrative>
                 <narrative xml:lang="fr">Organisation de lutte contre le criquet pèlerin dans l'Est Africain</narrative>
             </name>
-            <acronym>
-                <narrative>DLCO-EA</narrative>
-                <narrative xml:lang="fr">OLCP-EA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1331,10 +979,6 @@
                 <narrative>Economic Commission for Africa</narrative>
                 <narrative xml:lang="fr">Commission économique pour l'Afrique</narrative>
             </name>
-            <acronym>
-                <narrative>ECA</narrative>
-                <narrative xml:lang="fr">CEA</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1343,10 +987,6 @@
                 <narrative>Economic Commission for Latin America and the Caribbean</narrative>
                 <narrative xml:lang="fr">Commission économique pour l'Amérique latine et les Caraïbes</narrative>
             </name>
-            <acronym>
-                <narrative>ECLAC</narrative>
-                <narrative xml:lang="fr">CEPALC</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1355,10 +995,6 @@
                 <narrative>Economic and Social Commission for Western Asia</narrative>
                 <narrative xml:lang="fr">Commission économique et sociale pour l'Asie occidentale</narrative>
             </name>
-            <acronym>
-                <narrative>ESCWA</narrative>
-                <narrative xml:lang="fr">CESAO</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1367,10 +1003,6 @@
                 <narrative>Economic and Social Commission for Asia and the Pacific</narrative>
                 <narrative xml:lang="fr">Commission économique et sociale pour l'Asie et le Pacifique</narrative>
             </name>
-            <acronym>
-                <narrative>ESCAP</narrative>
-                <narrative xml:lang="fr">CESAP</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1379,10 +1011,6 @@
                 <narrative>International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only)</narrative>
                 <narrative xml:lang="fr">Agence internationale de l'énergie atomique (Contributions au Fonds de Coopération Technique uniquement)</narrative>
             </name>
-            <acronym>
-                <narrative>IAEA-TCF</narrative>
-                <narrative xml:lang="fr">AIEA-FTC</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1391,10 +1019,6 @@
                 <narrative>International Fund for Agricultural Development</narrative>
                 <narrative xml:lang="fr">Fonds international de développement agricole</narrative>
             </name>
-            <acronym>
-                <narrative>IFAD</narrative>
-                <narrative xml:lang="fr">FIDA</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -1403,10 +1027,6 @@
                 <narrative>International Research and Training Institute for the Advancement of Women</narrative>
                 <narrative xml:lang="fr">International Research and Training Institute for the Advancement of Women</narrative>
             </name>
-            <acronym>
-                <narrative>INSTRAW</narrative>
-                <narrative xml:lang="fr">INSTRAW</narrative>
-            </acronym>
             <category>41000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1415,10 +1035,6 @@
                 <narrative>Joint United Nations Programme on HIV/AIDS</narrative>
                 <narrative xml:lang="fr">Programme commun des Nations Unies sur le VIH/SIDA</narrative>
             </name>
-            <acronym>
-                <narrative>UNAIDS</narrative>
-                <narrative xml:lang="fr">ONUSIDA</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1427,10 +1043,6 @@
                 <narrative>United Nations Capital Development Fund</narrative>
                 <narrative xml:lang="fr">Fonds d’équipement des Nations Unies</narrative>
             </name>
-            <acronym>
-                <narrative>UNCDF</narrative>
-                <narrative xml:lang="fr">FENU</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1439,10 +1051,6 @@
                 <narrative>United Nations Conference on Trade and Development</narrative>
                 <narrative xml:lang="fr">Conférence des Nations Unies sur le commerce et le développement</narrative>
             </name>
-            <acronym>
-                <narrative>UNCTAD</narrative>
-                <narrative xml:lang="fr">CNUCED</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1451,10 +1059,6 @@
                 <narrative>United Nations Development Programme</narrative>
                 <narrative xml:lang="fr">Programme des Nations Unies pour le développement</narrative>
             </name>
-            <acronym>
-                <narrative>UNDP</narrative>
-                <narrative xml:lang="fr">PNUD</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1463,10 +1067,6 @@
                 <narrative>United Nations Environment Programme</narrative>
                 <narrative xml:lang="fr">Programme des Nations Unies pour l'environnement</narrative>
             </name>
-            <acronym>
-                <narrative>UNEP</narrative>
-                <narrative xml:lang="fr">PNUE</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1475,10 +1075,6 @@
                 <narrative>United Nations Population Fund</narrative>
                 <narrative xml:lang="fr">Fonds des Nations Unies pour la population</narrative>
             </name>
-            <acronym>
-                <narrative>UNFPA</narrative>
-                <narrative xml:lang="fr">UNFPA</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1487,10 +1083,6 @@
                 <narrative>United Nations Human Settlement Programme</narrative>
                 <narrative xml:lang="fr">Programme des Nations Unies pour les établissements humains</narrative>
             </name>
-            <acronym>
-                <narrative>UN Habitat</narrative>
-                <narrative xml:lang="fr">UN Habitat</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1499,10 +1091,6 @@
                 <narrative>United Nations Office of the United Nations High Commissioner for Refugees</narrative>
                 <narrative xml:lang="fr">Haut Commissariat des Nations Unies pour les réfugiés</narrative>
             </name>
-            <acronym>
-                <narrative>UNHCR</narrative>
-                <narrative xml:lang="fr">HCR</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1511,10 +1099,6 @@
                 <narrative>United Nations Children’s Fund</narrative>
                 <narrative xml:lang="fr">Fonds des Nations Unies pour l'enfance</narrative>
             </name>
-            <acronym>
-                <narrative>UNICEF</narrative>
-                <narrative xml:lang="fr">UNICEF</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1523,10 +1107,6 @@
                 <narrative>United Nations Industrial Development Organisation</narrative>
                 <narrative xml:lang="fr">Organisation des Nations Unies pour le développement industriel</narrative>
             </name>
-            <acronym>
-                <narrative>UNIDO</narrative>
-                <narrative xml:lang="fr">ONUDI</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -1535,10 +1115,6 @@
                 <narrative>United Nations Development Fund for Women</narrative>
                 <narrative xml:lang="fr">United Nations Development Fund for Women</narrative>
             </name>
-            <acronym>
-                <narrative>UNIFEM</narrative>
-                <narrative xml:lang="fr">UNIFEM</narrative>
-            </acronym>
             <category>41000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1547,10 +1123,6 @@
                 <narrative>United Nations Institute for Training and Research</narrative>
                 <narrative xml:lang="fr">Institut des Nations Unies pour la formation et la recherche</narrative>
             </name>
-            <acronym>
-                <narrative>UNITAR</narrative>
-                <narrative xml:lang="fr">UNITAR</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1559,10 +1131,6 @@
                 <narrative>United Nations Mine Action Service</narrative>
                 <narrative xml:lang="fr">Service de l'action antimines des Nations Unies</narrative>
             </name>
-            <acronym>
-                <narrative>UNMAS</narrative>
-                <narrative xml:lang="fr">UNMAS</narrative>
-            </acronym>
             <category>41600</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1571,10 +1139,6 @@
                 <narrative>United Nations Office of Co-ordination of Humanitarian Affairs</narrative>
                 <narrative xml:lang="fr">Bureau des Nations Unies pour la coordination de l'assistance humanitaire</narrative>
             </name>
-            <acronym>
-                <narrative>UNOCHA</narrative>
-                <narrative xml:lang="fr">OCHA</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1583,10 +1147,6 @@
                 <narrative>United Nations Office on Drugs and Crime</narrative>
                 <narrative xml:lang="fr">Office des Nations Unies contre la drogue et le crime</narrative>
             </name>
-            <acronym>
-                <narrative>UNODC</narrative>
-                <narrative xml:lang="fr">UNODC</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1595,10 +1155,6 @@
                 <narrative>United Nations Research Institute for Social Development</narrative>
                 <narrative xml:lang="fr">Institut de recherche des Nations Unies pour le développement social</narrative>
             </name>
-            <acronym>
-                <narrative>UNRISD</narrative>
-                <narrative xml:lang="fr">UNRISD</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1607,10 +1163,6 @@
                 <narrative>United Nations Relief and Works Agency for Palestine Refugees in the Near East</narrative>
                 <narrative xml:lang="fr">Office de secours et de travaux des Nations Unies pour les réfugiés de Palestine dans le Proche-Orient</narrative>
             </name>
-            <acronym>
-                <narrative>UNRWA</narrative>
-                <narrative xml:lang="fr">UNRWA</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1619,10 +1171,6 @@
                 <narrative>United Nations System Staff College</narrative>
                 <narrative xml:lang="fr">Ecole des cadres du système des Nations Unies</narrative>
             </name>
-            <acronym>
-                <narrative>UNSSC</narrative>
-                <narrative xml:lang="fr">UNSSC</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1631,10 +1179,6 @@
                 <narrative>United Nations System Standing Committee on Nutrition</narrative>
                 <narrative xml:lang="fr">Comité permanent de la nutrition du système des Nations Unies</narrative>
             </name>
-            <acronym>
-                <narrative>UNSCN</narrative>
-                <narrative xml:lang="fr">UNSCN</narrative>
-            </acronym>
             <category>41600</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1643,10 +1187,6 @@
                 <narrative>United Nations Special Initiative on Africa</narrative>
                 <narrative xml:lang="fr">Initiative spéciale des Nations Unies pour l'Afrique</narrative>
             </name>
-            <acronym>
-                <narrative>UNSIA</narrative>
-                <narrative xml:lang="fr">UNSIA</narrative>
-            </acronym>
             <category>41600</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1655,10 +1195,6 @@
                 <narrative>United Nations University (including Endowment Fund)</narrative>
                 <narrative xml:lang="fr">Université des Nations Unies (y compris le Fonds de dotation)</narrative>
             </name>
-            <acronym>
-                <narrative>UNU</narrative>
-                <narrative xml:lang="fr">UNU</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1667,10 +1203,6 @@
                 <narrative>United Nations Volunteers</narrative>
                 <narrative xml:lang="fr">Programme des volontaires des Nations Unies</narrative>
             </name>
-            <acronym>
-                <narrative>UNV</narrative>
-                <narrative xml:lang="fr">UNV</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1679,10 +1211,6 @@
                 <narrative>United Nations Voluntary Fund on Disability</narrative>
                 <narrative xml:lang="fr">Fonds de contributions voluntaires des Nations Unies pour les handicapés</narrative>
             </name>
-            <acronym>
-                <narrative>UNVFD</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>41600</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1691,10 +1219,6 @@
                 <narrative>United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights</narrative>
                 <narrative xml:lang="fr">Fonds de contributions volontaires des Nations Unies pour la coopération technique dans le domaine des droits de l'homme</narrative>
             </name>
-            <acronym>
-                <narrative>UNVFTC</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>41600</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1703,10 +1227,6 @@
                 <narrative>United Nations Voluntary Fund for Victims of Torture</narrative>
                 <narrative xml:lang="fr">Fonds de contributions volontaires des Nations Unies pour les victimes de la torture</narrative>
             </name>
-            <acronym>
-                <narrative>UNVFVT</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>41600</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1715,10 +1235,6 @@
                 <narrative>World Food Programme</narrative>
                 <narrative xml:lang="fr">Programme alimentaire mondial</narrative>
             </name>
-            <acronym>
-                <narrative>WFP</narrative>
-                <narrative xml:lang="fr">PAM</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1727,10 +1243,6 @@
                 <narrative>United Nations Peacebuilding Fund</narrative>
                 <narrative xml:lang="fr">Fonds des Nations Unies pour la consolidation de la paix</narrative>
             </name>
-            <acronym>
-                <narrative>PBF</narrative>
-                <narrative xml:lang="fr">PBF</narrative>
-            </acronym>
             <category>41400</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1739,10 +1251,6 @@
                 <narrative>United Nations Democracy Fund</narrative>
                 <narrative xml:lang="fr">Fonds des Nations Unies pour la démocratie</narrative>
             </name>
-            <acronym>
-                <narrative>UNDEF</narrative>
-                <narrative xml:lang="fr">FNUD</narrative>
-            </acronym>
             <category>41600</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1751,10 +1259,6 @@
                 <narrative>World Health Organisation - core voluntary contributions account</narrative>
                 <narrative xml:lang="fr">Organisation mondiale de la santé - compte de contributions volontaires sans objet désigné</narrative>
             </name>
-            <acronym>
-                <narrative>WHO-CVCA</narrative>
-                <narrative xml:lang="fr">OMS-CVSOD</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1763,10 +1267,6 @@
                 <narrative>International Labour Organisation - Regular Budget Supplementary Account</narrative>
                 <narrative xml:lang="fr">Organisation internationale du Travail - Compte supplémentaire du budget ordinaire</narrative>
             </name>
-            <acronym>
-                <narrative>ILO-RBSA</narrative>
-                <narrative xml:lang="fr">OIT-CSBO</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1775,10 +1275,6 @@
                 <narrative>International Maritime Organisation - Technical Co-operation Fund</narrative>
                 <narrative xml:lang="fr">Organisation maritime internationale - Programme intégré de coopération technique</narrative>
             </name>
-            <acronym>
-                <narrative>IMO-TCF</narrative>
-                <narrative xml:lang="fr">OMI-PICT</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1787,10 +1283,6 @@
                 <narrative>United Nations Entity for Gender Equality and the Empowerment of Women</narrative>
                 <narrative xml:lang="fr">Entité des Nations Unies pour l'égalité des sexes et l'autonomisation de la femme</narrative>
             </name>
-            <acronym>
-                <narrative>UNWOMEN</narrative>
-                <narrative xml:lang="fr">ONU Femmes</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1799,10 +1291,6 @@
                 <narrative>Central Emergency Response Fund</narrative>
                 <narrative xml:lang="fr">Fonds central pour les interventions d'urgence</narrative>
             </name>
-            <acronym>
-                <narrative>CERF</narrative>
-                <narrative xml:lang="fr">CERF</narrative>
-            </acronym>
             <category>41400</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1811,10 +1299,6 @@
                 <narrative>United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs</narrative>
                 <narrative xml:lang="fr">Département des affaires politiques des Nations unies, fonds fiduciaire de soutien aux affaires politiques</narrative>
             </name>
-            <acronym>
-                <narrative>UNDPPA-SZA</narrative>
-                <narrative xml:lang="fr">UNDPPA-SZA</narrative>
-            </acronym>
             <category>41500</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1823,10 +1307,6 @@
                 <narrative>United Nations Development Coordination Office</narrative>
                 <narrative xml:lang="fr">Bureau de la coordination des activités de développement des Nations Unies</narrative>
             </name>
-            <acronym>
-                <narrative>UNDCO</narrative>
-                <narrative xml:lang="fr">UNDCO</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1835,10 +1315,6 @@
                 <narrative>United Nations Institute for Disarmament Research</narrative>
                 <narrative xml:lang="fr">Institut des Nations unies pour la recherche sur le désarmement</narrative>
             </name>
-            <acronym>
-                <narrative>UNIDIR</narrative>
-                <narrative xml:lang="fr">UNIDIR</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1847,10 +1323,6 @@
                 <narrative>International Agency for Research on Cancer</narrative>
                 <narrative xml:lang="fr">Centre international de recherche sur le cancer</narrative>
             </name>
-            <acronym>
-                <narrative>IARC</narrative>
-                <narrative xml:lang="fr">CIRC</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active">
@@ -1867,10 +1339,6 @@
                 <narrative>Food and Agricultural Organisation</narrative>
                 <narrative xml:lang="fr">Organisation des Nations Unies pour l'alimentation et l'agriculture</narrative>
             </name>
-            <acronym>
-                <narrative>FAO</narrative>
-                <narrative xml:lang="fr">FAO</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1879,10 +1347,6 @@
                 <narrative>International Labour Organisation - Assessed Contributions</narrative>
                 <narrative xml:lang="fr">Organisation internationale du travail - contributions obligatoires</narrative>
             </name>
-            <acronym>
-                <narrative>ILO-Assessed</narrative>
-                <narrative xml:lang="fr">OIT-Obligatoires</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1891,10 +1355,6 @@
                 <narrative>International Telecommunications Union</narrative>
                 <narrative xml:lang="fr">Union internationale des télécommunications</narrative>
             </name>
-            <acronym>
-                <narrative>ITU</narrative>
-                <narrative xml:lang="fr">UIT</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1903,10 +1363,6 @@
                 <narrative>United Nations Educational, Scientific and Cultural Organisation</narrative>
                 <narrative xml:lang="fr">Organisation des Nations Unies pour l’éducation, la science et la culture</narrative>
             </name>
-            <acronym>
-                <narrative>UNESCO</narrative>
-                <narrative xml:lang="fr">UNESCO</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1915,10 +1371,6 @@
                 <narrative>United Nations</narrative>
                 <narrative xml:lang="fr">Organisation des Nations Unies</narrative>
             </name>
-            <acronym>
-                <narrative>UN</narrative>
-                <narrative xml:lang="fr">ONU</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1927,10 +1379,6 @@
                 <narrative>Universal Postal Union</narrative>
                 <narrative xml:lang="fr">Union postale universelle</narrative>
             </name>
-            <acronym>
-                <narrative>UPU</narrative>
-                <narrative xml:lang="fr">UPU</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1939,10 +1387,6 @@
                 <narrative>World Health Organisation - assessed contributions</narrative>
                 <narrative xml:lang="fr">Organisation mondiale de la santé - contributions obligatoires</narrative>
             </name>
-            <acronym>
-                <narrative>WHO-Assessed</narrative>
-                <narrative xml:lang="fr">OMS-obligatoires</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1951,10 +1395,6 @@
                 <narrative>World Intellectual Property Organisation</narrative>
                 <narrative xml:lang="fr">Organisation mondiale de la propriété intellectuelle</narrative>
             </name>
-            <acronym>
-                <narrative>WIPO</narrative>
-                <narrative xml:lang="fr">OMPI</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1963,10 +1403,6 @@
                 <narrative>World Meteorological Organisation</narrative>
                 <narrative xml:lang="fr">Organisation météorologique mondiale</narrative>
             </name>
-            <acronym>
-                <narrative>WMO</narrative>
-                <narrative xml:lang="fr">OMM</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1975,10 +1411,6 @@
                 <narrative>United Nations Department of Peace Operations - UN Peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.</narrative>
                 <narrative xml:lang="fr">Département des opérations de paix des Nations unies. Opérations de maintien de la paix [seulement MINURSO,MINUSCA,MINUSMA, MINUSTAH,MONUSCO,MINUAD, FINUL,FISNUA,MINUK, MINUL,UNMISS,ONUCI]. Notifier les contributions mission par mission au format SNPC++.</narrative>
             </name>
-            <acronym>
-                <narrative>UNDPO-UN Peacekeeping operations</narrative>
-                <narrative xml:lang="fr">UNDPO</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2010-01-01" withdrawal-date="2019-12-31">
@@ -1987,10 +1419,6 @@
                 <narrative>United Nations Peacebuilding Fund (Window One:  Flexible Contributions Only)</narrative>
                 <narrative xml:lang="fr">Fonds des Nations Unies pour la consolidation de la paix (Guichet un:  contributions sans conditions)</narrative>
             </name>
-            <acronym>
-                <narrative>PBF Window 1</narrative>
-                <narrative xml:lang="fr">PBF Guichet un</narrative>
-            </acronym>
             <category>41000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -1999,10 +1427,6 @@
                 <narrative>International Atomic Energy Agency - assessed contributions</narrative>
                 <narrative xml:lang="fr">Agence internationale de l'énergie atomique - contributions obligatoires</narrative>
             </name>
-            <acronym>
-                <narrative>IAEA-Assessed</narrative>
-                <narrative xml:lang="fr">AIEA-obligatoires</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2011,10 +1435,6 @@
                 <narrative>United Nations High Commissioner for Human Rights (extrabudgetary contributions only)</narrative>
                 <narrative xml:lang="fr">Haut-Commissariat des Nations unies aux droits de l'homme (contributions extrabudgétaires uniquement)</narrative>
             </name>
-            <acronym>
-                <narrative>OHCHR</narrative>
-                <narrative xml:lang="fr">HCDH</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2023,10 +1443,6 @@
                 <narrative>United Nations Economic Commission for Europe (extrabudgetary contributions only)</narrative>
                 <narrative xml:lang="fr">Commission économique des Nations unies pour l'Europe (contributions extrabudgétaires uniquement)</narrative>
             </name>
-            <acronym>
-                <narrative>UNECE</narrative>
-                <narrative xml:lang="fr">CEE-ONU</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2035,10 +1451,6 @@
                 <narrative>United Nations Office for Disaster Reduction</narrative>
                 <narrative xml:lang="fr">Bureau des Nations Unies pour la prévention de catastrophes</narrative>
             </name>
-            <acronym>
-                <narrative>UNDRR</narrative>
-                <narrative xml:lang="fr">UNDRR</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2047,10 +1459,6 @@
                 <narrative>United Nations Framework Convention on Climate Change</narrative>
                 <narrative xml:lang="fr">Convention-cadre des Nations unies sur les changements climatiques</narrative>
             </name>
-            <acronym>
-                <narrative>UNFCCC</narrative>
-                <narrative xml:lang="fr">CCNUCC</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
@@ -2059,10 +1467,6 @@
                 <narrative>Green Climate Fund</narrative>
                 <narrative xml:lang="fr">Fonds vert pour le climat</narrative>
             </name>
-            <acronym>
-                <narrative>GCF</narrative>
-                <narrative xml:lang="fr">GCF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2071,10 +1475,6 @@
                 <narrative>Global Mechanism</narrative>
                 <narrative xml:lang="fr">Mécanisme mondial</narrative>
             </name>
-            <acronym>
-                <narrative>GM</narrative>
-                <narrative xml:lang="fr">MM</narrative>
-            </acronym>
             <category>41600</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2083,10 +1483,6 @@
                 <narrative>World Tourism Organisation</narrative>
                 <narrative xml:lang="fr">Organisation mondiale du tourisme</narrative>
             </name>
-            <acronym>
-                <narrative>UNWTO</narrative>
-                <narrative xml:lang="fr">OMT</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2095,10 +1491,6 @@
                 <narrative>Technology Bank for Least Developed Countries</narrative>
                 <narrative xml:lang="fr">Banque de Technologies en faveur des Pays les Moins Avancés</narrative>
             </name>
-            <acronym>
-                <narrative>UN-TBLDC</narrative>
-                <narrative xml:lang="fr">UN-TBLDC</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2115,10 +1507,6 @@
                 <narrative>UN-Multi Partner Trust Fund Office</narrative>
                 <narrative xml:lang="fr">UN-Multi Partner Trust Fund Office</narrative>
             </name>
-            <acronym>
-                <narrative>UN-MPTFO</narrative>
-                <narrative xml:lang="fr">UN-MPTFO</narrative>
-            </acronym>
             <category>41400</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2135,10 +1523,6 @@
                 <narrative>United Nations Reducing Emissions from Deforestation and Forest Degradation</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>UN-REDD</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>41400</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2147,10 +1531,6 @@
                 <narrative>United Nations Office for Project Services</narrative>
                 <narrative xml:lang="fr">Le Bureau des Nations Unies pour les services d'appui aux projets</narrative>
             </name>
-            <acronym>
-                <narrative>UNOPS</narrative>
-                <narrative xml:lang="fr">UNOPS</narrative>
-            </acronym>
             <category>41300</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2159,10 +1539,6 @@
                 <narrative>UN-led Country-based Pooled Funds</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>UN-CBPF</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>41400</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2191,10 +1567,6 @@
                 <narrative>European Commission - Development Share of Budget</narrative>
                 <narrative xml:lang="fr">Commission européenne - partie du budget affectée au développement</narrative>
             </name>
-            <acronym>
-                <narrative>EC</narrative>
-                <narrative xml:lang="fr">CE</narrative>
-            </acronym>
             <category>42000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2203,10 +1575,6 @@
                 <narrative>European Commission - European Development Fund</narrative>
                 <narrative xml:lang="fr">Commission européenne - Fonds européen de développement</narrative>
             </name>
-            <acronym>
-                <narrative>EDF</narrative>
-                <narrative xml:lang="fr">FED</narrative>
-            </acronym>
             <category>42000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2215,10 +1583,6 @@
                 <narrative>European Investment Bank</narrative>
                 <narrative xml:lang="fr">Banque européenne d'investissement</narrative>
             </name>
-            <acronym>
-                <narrative>EIB</narrative>
-                <narrative xml:lang="fr">BEI</narrative>
-            </acronym>
             <category>42000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2004-01-01" withdrawal-date="2009-12-31">
@@ -2227,10 +1591,6 @@
                 <narrative>Facility for Euro-Mediterranean Investment and Partnership Trust Fund</narrative>
                 <narrative xml:lang="fr">Facility for Euro-Mediterranean Investment and Partnership Trust Fund</narrative>
             </name>
-            <acronym>
-                <narrative>FEMIP</narrative>
-                <narrative xml:lang="fr">FEMIP</narrative>
-            </acronym>
             <category>42000</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2247,10 +1607,6 @@
                 <narrative>International Monetary Fund - Poverty Reduction and Growth Trust</narrative>
                 <narrative xml:lang="fr">Fonds monétaire international – Facilité pour la réduction de la pauvreté et pour la croissance</narrative>
             </name>
-            <acronym>
-                <narrative>IMF-PRGT</narrative>
-                <narrative xml:lang="fr">FMI-FRPC</narrative>
-            </acronym>
             <category>43000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2259,10 +1615,6 @@
                 <narrative>International Monetary Fund - Poverty Reduction and Growth - Heavily Indebted Poor Countries Debt Relief Initiative Trust Fund [includes HIPC, Extended Credit Facility (ECF), and ECF-HIPC sub-accounts]</narrative>
                 <narrative xml:lang="fr">Fonds monétaire international – Réduction de la pauvreté et croissance – Initiative d’allègement de la dette en faveur des pays pauvres très endettés [y compris Initiative PPTE, Facilité élargie de crédit (FEC) et sous-comptes (FEC-PPTE)]</narrative>
             </name>
-            <acronym>
-                <narrative>IMF-PRG-HIPC</narrative>
-                <narrative xml:lang="fr">FMI-FRPC-PPTE</narrative>
-            </acronym>
             <category>43000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2005-01-01">
@@ -2271,10 +1623,6 @@
                 <narrative>International Monetary Fund - Subsidization of Emergency Post Conflict Assistance/Emergency Assistance for Natural Disasters for PRGT-eligible members</narrative>
                 <narrative xml:lang="fr">Fonds monétaire international – Aide d’urgence après un conflit (EPCA) et aide d’urgence à la suite de catastrophes naturelles (ENDA) pour les membres pouvant bénéficier de la FRPC</narrative>
             </name>
-            <acronym>
-                <narrative>IMF-EPCA-ENDA</narrative>
-                <narrative xml:lang="fr">FMI-EPCA-ENDA</narrative>
-            </acronym>
             <category>43000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -2283,10 +1631,6 @@
                 <narrative>International Monetary Fund - Poverty Reduction and Growth - Multilateral Debt Relief Initiative Trust</narrative>
                 <narrative xml:lang="fr">Fonds monétaire international – Facilité pour la réduction de la pauvreté et pour la croissance – Initiative d’allègement de la dette multilatérale</narrative>
             </name>
-            <acronym>
-                <narrative>IMF-PRG-MDRI</narrative>
-                <narrative xml:lang="fr">FMI-FRPC-IADM</narrative>
-            </acronym>
             <category>43000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -2295,10 +1639,6 @@
                 <narrative>International Monetary Fund - Post-Catastrophe Debt Relief Trust</narrative>
                 <narrative xml:lang="fr">Fonds monétaire international  - Fonds fiduciaire pour l'allégement de la dette après une catastrophe</narrative>
             </name>
-            <acronym>
-                <narrative>IMF-PCDR</narrative>
-                <narrative xml:lang="fr">FMI-ADAC</narrative>
-            </acronym>
             <category>43000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
@@ -2307,10 +1647,6 @@
                 <narrative>Catastrophe Containment and Relief Trust</narrative>
                 <narrative xml:lang="fr">Fonds fiduciaire d’assistance et de riposte aux catastrophes</narrative>
             </name>
-            <acronym>
-                <narrative>IMF-CCR</narrative>
-                <narrative xml:lang="fr">FMI-ARC</narrative>
-            </acronym>
             <category>43000</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2327,10 +1663,6 @@
                 <narrative>International Bank for Reconstruction and Development</narrative>
                 <narrative xml:lang="fr">Banque internationale pour la reconstruction et le développement</narrative>
             </name>
-            <acronym>
-                <narrative>IBRD</narrative>
-                <narrative xml:lang="fr">BIRD</narrative>
-            </acronym>
             <category>44000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2339,10 +1671,6 @@
                 <narrative>International Development Association</narrative>
                 <narrative xml:lang="fr">Association internationale de développement</narrative>
             </name>
-            <acronym>
-                <narrative>IDA</narrative>
-                <narrative xml:lang="fr">IDA</narrative>
-            </acronym>
             <category>44000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2351,10 +1679,6 @@
                 <narrative>International Development Association - Heavily Indebted Poor Countries Debt Initiative Trust Fund</narrative>
                 <narrative xml:lang="fr">Association internationale de développement - Fonds fiduciaire de l'IDA en faveur des pays pauvres très endettés</narrative>
             </name>
-            <acronym>
-                <narrative>IDA-HIPC</narrative>
-                <narrative xml:lang="fr">IDA-PPTE</narrative>
-            </acronym>
             <category>44000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2363,10 +1687,6 @@
                 <narrative>International Finance Corporation</narrative>
                 <narrative xml:lang="fr">Société financière internationale</narrative>
             </name>
-            <acronym>
-                <narrative>IFC</narrative>
-                <narrative xml:lang="fr">SFI</narrative>
-            </acronym>
             <category>44000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2375,10 +1695,6 @@
                 <narrative>Multilateral Investment Guarantee Agency</narrative>
                 <narrative xml:lang="fr">Agence multilatérale de garantie des investissements</narrative>
             </name>
-            <acronym>
-                <narrative>MIGA</narrative>
-                <narrative xml:lang="fr">AMGI</narrative>
-            </acronym>
             <category>44000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2006-01-01">
@@ -2387,10 +1703,6 @@
                 <narrative>Advance Market Commitments</narrative>
                 <narrative xml:lang="fr">Garanties de marché</narrative>
             </name>
-            <acronym>
-                <narrative>AMCs</narrative>
-                <narrative xml:lang="fr">AMC</narrative>
-            </acronym>
             <category>44000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -2399,10 +1711,6 @@
                 <narrative>International Development Association - Multilateral Debt Relief Initiative</narrative>
                 <narrative xml:lang="fr">Association internationale de développement - Initiative d’allégement de la dette multilatérale</narrative>
             </name>
-            <acronym>
-                <narrative>IDA-MDRI</narrative>
-                <narrative xml:lang="fr">IDA-IADM</narrative>
-            </acronym>
             <category>44000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2411,10 +1719,6 @@
                 <narrative>Partnership for Market Implementation</narrative>
                 <narrative xml:lang="fr">Partnership for Market Implementation</narrative>
             </name>
-            <acronym>
-                <narrative>PMI</narrative>
-                <narrative xml:lang="fr">PMI</narrative>
-            </acronym>
             <category>44000</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2431,10 +1735,6 @@
                 <narrative>World Trade Organisation - International Trade Centre</narrative>
                 <narrative xml:lang="fr">Centre du commerce international de l'Organisation mondiale du commerce</narrative>
             </name>
-            <acronym>
-                <narrative>WTO-ITC</narrative>
-                <narrative xml:lang="fr">OMC-CCI</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2443,10 +1743,6 @@
                 <narrative>World Trade Organisation - Advisory Centre on WTO Law</narrative>
                 <narrative xml:lang="fr">Centre consultatif sur la législation de l'Organisation mondiale du commerce</narrative>
             </name>
-            <acronym>
-                <narrative>WTO-ACWL</narrative>
-                <narrative xml:lang="fr">OMC-CCLO</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -2455,10 +1751,6 @@
                 <narrative>World Trade Organisation - Doha Development Agenda Global Trust Fund</narrative>
                 <narrative xml:lang="fr">Organisation mondiale du commerce - Fonds global d'affectation spéciale pour le Programme de Doha pour le développement</narrative>
             </name>
-            <acronym>
-                <narrative>WTO-DDAGTF</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2475,10 +1767,6 @@
                 <narrative>African Development Bank</narrative>
                 <narrative xml:lang="fr">Banque africaine de développement</narrative>
             </name>
-            <acronym>
-                <narrative>Afr.DB</narrative>
-                <narrative xml:lang="fr">BAfD</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2487,10 +1775,6 @@
                 <narrative>African Development Fund</narrative>
                 <narrative xml:lang="fr">Fonds africain de développement</narrative>
             </name>
-            <acronym>
-                <narrative>Afr.DF</narrative>
-                <narrative xml:lang="fr">FAD</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2499,10 +1783,6 @@
                 <narrative>Asian Development Bank</narrative>
                 <narrative xml:lang="fr">Banque asiatique de développement</narrative>
             </name>
-            <acronym>
-                <narrative>AsDB</narrative>
-                <narrative xml:lang="fr">BAsD</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2511,10 +1791,6 @@
                 <narrative>Asian Development Fund</narrative>
                 <narrative xml:lang="fr">Fonds asiatique de développement</narrative>
             </name>
-            <acronym>
-                <narrative>AsDF</narrative>
-                <narrative xml:lang="fr">FAsD</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2008-01-01">
@@ -2523,10 +1799,6 @@
                 <narrative>Black Sea Trade and Development Bank</narrative>
                 <narrative xml:lang="fr">Black Sea Trade and Development Bank</narrative>
             </name>
-            <acronym>
-                <narrative>BSTDB</narrative>
-                <narrative xml:lang="fr">BSTDB</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2535,10 +1807,6 @@
                 <narrative>Central American Bank for Economic Integration</narrative>
                 <narrative xml:lang="fr">Banque centroaméricaine d'intégration économique</narrative>
             </name>
-            <acronym>
-                <narrative>CABEI</narrative>
-                <narrative xml:lang="fr">BCAIE</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2547,10 +1815,6 @@
                 <narrative>Development Bank of Latin America</narrative>
                 <narrative xml:lang="fr">Banque de développement de l'Amérique latine</narrative>
             </name>
-            <acronym>
-                <narrative>CAF</narrative>
-                <narrative xml:lang="fr">CAF</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2559,10 +1823,6 @@
                 <narrative>Caribbean Development Bank</narrative>
                 <narrative xml:lang="fr">Banque de développement des Caraïbes</narrative>
             </name>
-            <acronym>
-                <narrative>CDB</narrative>
-                <narrative xml:lang="fr">BDC</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2571,10 +1831,6 @@
                 <narrative>Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund</narrative>
                 <narrative xml:lang="fr">Banque interaméricaine de développement, Société interaméricaine d'investissements, Fonds multilatéral d'investissements</narrative>
             </name>
-            <acronym>
-                <narrative>IDB</narrative>
-                <narrative xml:lang="fr">BID</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2583,10 +1839,6 @@
                 <narrative>Inter-American Development Bank, Fund for Special Operations</narrative>
                 <narrative xml:lang="fr">Banque interaméricaine de développement, Fonds opérations spécial</narrative>
             </name>
-            <acronym>
-                <narrative>IDB FSO</narrative>
-                <narrative xml:lang="fr">BID FOS</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -2595,10 +1847,6 @@
                 <narrative>European Bank for Reconstruction and Development</narrative>
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement</narrative>
             </name>
-            <acronym>
-                <narrative>EBRD</narrative>
-                <narrative xml:lang="fr">BERD</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -2607,10 +1855,6 @@
                 <narrative>European Bank for Reconstruction and Development – technical co-operation and special funds (ODA-eligible countries only)</narrative>
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (pays éligibles à l'APD)</narrative>
             </name>
-            <acronym>
-                <narrative>EBRD TFs - ODA Countries Only</narrative>
-                <narrative xml:lang="fr">BERD-CTFS pays éligibles à l'APD</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -2619,10 +1863,6 @@
                 <narrative>European Bank for Reconstruction and Development – technical co-operation and special funds (all EBRD countries of operations)</narrative>
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (tous pays)</narrative>
             </name>
-            <acronym>
-                <narrative>EBRD TFs - All Countries</narrative>
-                <narrative xml:lang="fr">BERD-CTFS tous pays</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -2631,10 +1871,6 @@
                 <narrative>European Bank for Reconstruction and Development - Early Transition Countries Fund</narrative>
                 <narrative xml:lang="fr">Banque européenne de reconstruction et de développement - Initiative en faveur des pays en transition précoce</narrative>
             </name>
-            <acronym>
-                <narrative>EBRD-ETC</narrative>
-                <narrative xml:lang="fr">BERD-ETC</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -2643,10 +1879,6 @@
                 <narrative>European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund</narrative>
                 <narrative xml:lang="fr">Banque européenne de reconstruction et de développement - Fonds spécial pour les Balkans occidentaux</narrative>
             </name>
-            <acronym>
-                <narrative>EBRD-WBJTF</narrative>
-                <narrative xml:lang="fr">BERD-FSpBO</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -2655,10 +1887,6 @@
                 <narrative>Central African States Development Bank</narrative>
                 <narrative xml:lang="fr">Banque de développement des États de l'Afrique Centrale</narrative>
             </name>
-            <acronym>
-                <narrative>BDEAC</narrative>
-                <narrative xml:lang="fr">BDEAC</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -2667,10 +1895,6 @@
                 <narrative>West African Development Bank</narrative>
                 <narrative xml:lang="fr">Banque ouest-africaine de développement</narrative>
             </name>
-            <acronym>
-                <narrative>BOAD</narrative>
-                <narrative xml:lang="fr">BOAD</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2012-01-01">
@@ -2679,10 +1903,6 @@
                 <narrative>African Export Import Bank</narrative>
                 <narrative xml:lang="fr">Banque Africaine d'Import-Export</narrative>
             </name>
-            <acronym>
-                <narrative>Afreximbank</narrative>
-                <narrative xml:lang="fr">Afreximbank</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2012-01-01">
@@ -2691,10 +1911,6 @@
                 <narrative>Eastern and Southern African Trade and Development Bank</narrative>
                 <narrative xml:lang="fr">Banque de l’Afrique de l’Est et de l’Afrique Australe pour le Commerce et le Développement</narrative>
             </name>
-            <acronym>
-                <narrative>TDB</narrative>
-                <narrative xml:lang="fr">TDB</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
@@ -2703,10 +1919,6 @@
                 <narrative>Council of Europe Development Bank</narrative>
                 <narrative xml:lang="fr">Banque de Développement du Conseil de l'Europe</narrative>
             </name>
-            <acronym>
-                <narrative>CEB</narrative>
-                <narrative xml:lang="fr">CEB</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
@@ -2715,10 +1927,6 @@
                 <narrative>Islamic Development Bank</narrative>
                 <narrative xml:lang="fr">Banque Islamique de Développement</narrative>
             </name>
-            <acronym>
-                <narrative>IsDB</narrative>
-                <narrative xml:lang="fr">BIsD</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
@@ -2727,10 +1935,6 @@
                 <narrative>Asian Infrastructure Investment Bank</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>AIIB</narrative>
-                <narrative xml:lang="fr">BAII</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
@@ -2739,10 +1943,6 @@
                 <narrative>Financial Fund for the Development of the River Plate Basin</narrative>
                 <narrative xml:lang="fr">Fonds financier pour le développement du bassin fluvial de la Plata</narrative>
             </name>
-            <acronym>
-                <narrative>FONPLATA</narrative>
-                <narrative xml:lang="fr">FONPLATA</narrative>
-            </acronym>
             <category>46000</category>
         </codelist-item>
         <codelist-item status="active">
@@ -2759,10 +1959,6 @@
                 <narrative>African Capacity Building Foundation</narrative>
                 <narrative xml:lang="fr">Fondation pour le renforcement des capacités en Afrique</narrative>
             </name>
-            <acronym>
-                <narrative>ACBF</narrative>
-                <narrative xml:lang="fr">ACBF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2771,10 +1967,6 @@
                 <narrative>Asian Productivity Organisation</narrative>
                 <narrative xml:lang="fr">Organisation asiatique de productivité</narrative>
             </name>
-            <acronym>
-                <narrative>APO</narrative>
-                <narrative xml:lang="fr">APO</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2783,10 +1975,6 @@
                 <narrative>Association of South East Asian Nations: Economic Co-operation</narrative>
                 <narrative xml:lang="fr">Association des nations de l'Asie du Sud-Est - coopération économique</narrative>
             </name>
-            <acronym>
-                <narrative>ASEAN</narrative>
-                <narrative xml:lang="fr">ANASE</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -2795,10 +1983,6 @@
                 <narrative>ASEAN Cultural Fund</narrative>
                 <narrative xml:lang="fr">ASEAN Cultural Fund</narrative>
             </name>
-            <acronym>
-                <narrative>ASEAN(CF)</narrative>
-                <narrative xml:lang="fr">ASEAN(CF)</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2807,10 +1991,6 @@
                 <narrative>African Union (excluding peacekeeping facilities)</narrative>
                 <narrative xml:lang="fr">Union Africaine (à l'exclusion de la Facilité de soutien à la paix)</narrative>
             </name>
-            <acronym>
-                <narrative>AU</narrative>
-                <narrative xml:lang="fr">UA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -2819,10 +1999,6 @@
                 <narrative>World Vegetable Centre</narrative>
                 <narrative xml:lang="fr">Centre international de cultures maraîchères</narrative>
             </name>
-            <acronym>
-                <narrative>AVRDC</narrative>
-                <narrative xml:lang="fr">AVRDC</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2831,10 +2007,6 @@
                 <narrative>African and Malagasy Council for Higher Education</narrative>
                 <narrative xml:lang="fr">Conseil africain et malgache pour l'enseignement supérieur</narrative>
             </name>
-            <acronym>
-                <narrative>CAMES</narrative>
-                <narrative xml:lang="fr">CAMES</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -2843,10 +2015,6 @@
                 <narrative>Commonwealth Agency for Public Administration and Management</narrative>
                 <narrative xml:lang="fr">Agence du Commonwealth pour l'administration et la gestion publiques</narrative>
             </name>
-            <acronym>
-                <narrative>CAPAM</narrative>
-                <narrative xml:lang="fr">CAPAM</narrative>
-            </acronym>
             <category>32000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
@@ -2855,10 +2023,6 @@
                 <narrative>Caribbean Community Secretariat</narrative>
                 <narrative xml:lang="fr">Secrétariat de la Communauté des Caraïbes</narrative>
             </name>
-            <acronym>
-                <narrative>CARICOM</narrative>
-                <narrative xml:lang="fr">CARICOM</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2867,10 +2031,6 @@
                 <narrative>Caribbean Epidemiology Centre</narrative>
                 <narrative xml:lang="fr">Centre épidémiologique des Caraïbes</narrative>
             </name>
-            <acronym>
-                <narrative>CAREC</narrative>
-                <narrative xml:lang="fr">CAREC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2879,10 +2039,6 @@
                 <narrative>Commonwealth Foundation</narrative>
                 <narrative xml:lang="fr">Fondation du Commonwealth</narrative>
             </name>
-            <acronym>
-                <narrative>CF</narrative>
-                <narrative xml:lang="fr">CF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -2891,10 +2047,6 @@
                 <narrative>Commonwealth Fund for Technical Co-operation</narrative>
                 <narrative xml:lang="fr">Commonwealth Fund for Technical Co-operation</narrative>
             </name>
-            <acronym>
-                <narrative>CFTC</narrative>
-                <narrative xml:lang="fr">CFTC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2903,10 +2055,6 @@
                 <narrative>CGIAR Fund</narrative>
                 <narrative xml:lang="fr">CGIAR Fund</narrative>
             </name>
-            <acronym>
-                <narrative>CGIAR</narrative>
-                <narrative xml:lang="fr">CGIAR</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2009-12-31">
@@ -2915,10 +2063,6 @@
                 <narrative>Commonwealth Institute</narrative>
                 <narrative xml:lang="fr">Commonwealth Institute</narrative>
             </name>
-            <acronym>
-                <narrative>CI</narrative>
-                <narrative xml:lang="fr">CI</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -2927,10 +2071,6 @@
                 <narrative>International Centre for Tropical Agriculture</narrative>
                 <narrative xml:lang="fr">Centre international d'agriculture tropicale</narrative>
             </name>
-            <acronym>
-                <narrative>CIAT</narrative>
-                <narrative xml:lang="fr">CIAT</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -2939,10 +2079,6 @@
                 <narrative>Centre for International Forestry Research</narrative>
                 <narrative xml:lang="fr">Centre de recherche forestière internationale</narrative>
             </name>
-            <acronym>
-                <narrative>CIFOR</narrative>
-                <narrative xml:lang="fr">CIFOR</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2951,10 +2087,6 @@
                 <narrative>International Centre for Advanced Mediterranean Agronomic Studies</narrative>
                 <narrative xml:lang="fr">Centre international de hautes études agronomique méditerranéennes</narrative>
             </name>
-            <acronym>
-                <narrative>CIHEAM</narrative>
-                <narrative xml:lang="fr">CIHEAM</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -2963,10 +2095,6 @@
                 <narrative>International Maize and Wheat Improvement Centre</narrative>
                 <narrative xml:lang="fr">Centre international d’amélioration du maïs et du blé</narrative>
             </name>
-            <acronym>
-                <narrative>CIMMYT</narrative>
-                <narrative xml:lang="fr">CIMMYT</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -2975,10 +2103,6 @@
                 <narrative>International Potato Centre</narrative>
                 <narrative xml:lang="fr">Centre international de la pomme de terre</narrative>
             </name>
-            <acronym>
-                <narrative>CIP</narrative>
-                <narrative xml:lang="fr">CIP</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -2987,10 +2111,6 @@
                 <narrative>Convention on International Trade in Endangered Species of Wild Flora and Fauna</narrative>
                 <narrative xml:lang="fr">Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction</narrative>
             </name>
-            <acronym>
-                <narrative>CITES</narrative>
-                <narrative xml:lang="fr">CITES</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -2999,10 +2119,6 @@
                 <narrative>Commonwealth Legal Advisory Service</narrative>
                 <narrative xml:lang="fr">Commonwealth Legal Advisory Service</narrative>
             </name>
-            <acronym>
-                <narrative>CLAS</narrative>
-                <narrative xml:lang="fr">CLAS</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3011,10 +2127,6 @@
                 <narrative>Commonwealth Media Development Fund</narrative>
                 <narrative xml:lang="fr">Commonwealth Media Development Fund</narrative>
             </name>
-            <acronym>
-                <narrative>CMDF</narrative>
-                <narrative xml:lang="fr">CMDF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3023,10 +2135,6 @@
                 <narrative>Commonwealth of Learning</narrative>
                 <narrative xml:lang="fr">Commonwealth of Learning</narrative>
             </name>
-            <acronym>
-                <narrative>COL</narrative>
-                <narrative xml:lang="fr">COL</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
@@ -3035,10 +2143,6 @@
                 <narrative>Community of Portuguese Speaking Countries</narrative>
                 <narrative xml:lang="fr">Communauté des pays de langue portugaise</narrative>
             </name>
-            <acronym>
-                <narrative>CPLP</narrative>
-                <narrative xml:lang="fr">CPLP</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3047,10 +2151,6 @@
                 <narrative>Colombo Plan</narrative>
                 <narrative xml:lang="fr">Plan de Colombo</narrative>
             </name>
-            <acronym>
-                <narrative>CP</narrative>
-                <narrative xml:lang="fr">CP</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3059,10 +2159,6 @@
                 <narrative>Commonwealth Partnership for Technical Management</narrative>
                 <narrative xml:lang="fr">Partenariat pour la gestion technique (Commonwealth)</narrative>
             </name>
-            <acronym>
-                <narrative>CPTM</narrative>
-                <narrative xml:lang="fr">CPTM</narrative>
-            </acronym>
             <category>32000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3071,10 +2167,6 @@
                 <narrative>Sahel and West Africa Club</narrative>
                 <narrative xml:lang="fr">Club du Sahel et de l’Afrique de l’Ouest</narrative>
             </name>
-            <acronym>
-                <narrative>SWAC</narrative>
-                <narrative xml:lang="fr">CSAO</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2009-12-31">
@@ -3083,10 +2175,6 @@
                 <narrative>Commonwealth Scientific Council</narrative>
                 <narrative xml:lang="fr">Commonwealth Scientific Council</narrative>
             </name>
-            <acronym>
-                <narrative>CSC</narrative>
-                <narrative xml:lang="fr">CSC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3095,10 +2183,6 @@
                 <narrative>Commonwealth Small States Office</narrative>
                 <narrative xml:lang="fr">Commonwealth Small States Office</narrative>
             </name>
-            <acronym>
-                <narrative>CSSO</narrative>
-                <narrative xml:lang="fr">CSSO</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2009-12-31">
@@ -3107,10 +2191,6 @@
                 <narrative>Commonwealth Trade and Investment Access Facility</narrative>
                 <narrative xml:lang="fr">Commonwealth Trade and Investment Access Facility</narrative>
             </name>
-            <acronym>
-                <narrative>CTIAF</narrative>
-                <narrative xml:lang="fr">CTIAF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3119,10 +2199,6 @@
                 <narrative>Commonwealth Youth Programme</narrative>
                 <narrative xml:lang="fr">Commonwealth Youth Programme</narrative>
             </name>
-            <acronym>
-                <narrative>CYP</narrative>
-                <narrative xml:lang="fr">CYP</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
@@ -3131,10 +2207,6 @@
                 <narrative>Economic Community of West African States</narrative>
                 <narrative xml:lang="fr">Communauté économique des Etats de l’Afrique de l’Ouest</narrative>
             </name>
-            <acronym>
-                <narrative>ECOWAS</narrative>
-                <narrative xml:lang="fr">CEDEAO</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3143,10 +2215,6 @@
                 <narrative>Environmental Development Action in the Third World</narrative>
                 <narrative xml:lang="fr">Environnement et développement du Tiers-monde</narrative>
             </name>
-            <acronym>
-                <narrative>ENDA</narrative>
-                <narrative xml:lang="fr">ENDA</narrative>
-            </acronym>
             <category>21000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3155,10 +2223,6 @@
                 <narrative>European and Mediterranean Plant Protection Organisation</narrative>
                 <narrative xml:lang="fr">Organisation Européenne et Méditerranéenne pour la Protection des Plantes</narrative>
             </name>
-            <acronym>
-                <narrative>EPPO</narrative>
-                <narrative xml:lang="fr">OEPP</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3167,10 +2231,6 @@
                 <narrative>Eastern-Regional Organisation of Public Administration</narrative>
                 <narrative xml:lang="fr">Organisation régionale de l'Orient pour l'administration publique</narrative>
             </name>
-            <acronym>
-                <narrative>EROPA</narrative>
-                <narrative xml:lang="fr">EROPA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3179,10 +2239,6 @@
                 <narrative>INTERPOL Fund for Aid and Technical Assistance to Developing Countries</narrative>
                 <narrative xml:lang="fr">INTERPOL Fund for Aid and Technical Assistance to Developing Countries</narrative>
             </name>
-            <acronym>
-                <narrative>FASTPED</narrative>
-                <narrative xml:lang="fr">FASTPED</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3191,10 +2247,6 @@
                 <narrative>Forum Fisheries Agency</narrative>
                 <narrative xml:lang="fr">Agence des pêches</narrative>
             </name>
-            <acronym>
-                <narrative>FFA</narrative>
-                <narrative xml:lang="fr">FFA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3203,10 +2255,6 @@
                 <narrative>Food and Fertilizer Technology Centre</narrative>
                 <narrative xml:lang="fr">Centre des techniques de l'alimentation et des engrais</narrative>
             </name>
-            <acronym>
-                <narrative>FFTC</narrative>
-                <narrative xml:lang="fr">FFTC</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3215,10 +2263,6 @@
                 <narrative>Foundation for International Training</narrative>
                 <narrative xml:lang="fr">Fondation pour la formation internationale dans les pays du tiers monde</narrative>
             </name>
-            <acronym>
-                <narrative>FIT</narrative>
-                <narrative xml:lang="fr">FIT</narrative>
-            </acronym>
             <category>22000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3235,10 +2279,6 @@
                 <narrative>Global Environment Facility Trust Fund</narrative>
                 <narrative xml:lang="fr">Fonds pour l'environnement mondial - fonds fiduciaire</narrative>
             </name>
-            <acronym>
-                <narrative>GEF</narrative>
-                <narrative xml:lang="fr">FEM</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
@@ -3247,10 +2287,6 @@
                 <narrative>Global Fund to Fight AIDS, Tuberculosis and Malaria</narrative>
                 <narrative xml:lang="fr">Fonds mondial de lutte contre le SIDA, la tuberculose et la paludisme</narrative>
             </name>
-            <acronym>
-                <narrative>Global Fund</narrative>
-                <narrative xml:lang="fr">Fonds mondial</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3259,10 +2295,6 @@
                 <narrative>International Organisation of the Francophonie</narrative>
                 <narrative xml:lang="fr">Organisation internationale de la Francophonie</narrative>
             </name>
-            <acronym>
-                <narrative>OIF</narrative>
-                <narrative xml:lang="fr">OIF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3271,10 +2303,6 @@
                 <narrative>International African Institute</narrative>
                 <narrative xml:lang="fr">Institut international africain</narrative>
             </name>
-            <acronym>
-                <narrative>IAI</narrative>
-                <narrative xml:lang="fr">IIA</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3283,10 +2311,6 @@
                 <narrative>Inter-American Indian Institute</narrative>
                 <narrative xml:lang="fr">Inter-American Indian Institute</narrative>
             </name>
-            <acronym>
-                <narrative>IAII</narrative>
-                <narrative xml:lang="fr">IAII</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3295,10 +2319,6 @@
                 <narrative>International Bureau of Education - International Educational Reporting System (IERS)</narrative>
                 <narrative xml:lang="fr">International Bureau of Education - International Educational Reporting System (IERS)</narrative>
             </name>
-            <acronym>
-                <narrative>IBE</narrative>
-                <narrative xml:lang="fr">IBE</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3307,10 +2327,6 @@
                 <narrative>International Cotton Advisory Committee</narrative>
                 <narrative xml:lang="fr">Comité consultatif international du coton</narrative>
             </name>
-            <acronym>
-                <narrative>ICAC</narrative>
-                <narrative xml:lang="fr">CCIC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3319,10 +2335,6 @@
                 <narrative>International Centre for Agricultural Research in Dry Areas</narrative>
                 <narrative xml:lang="fr">Centre international de recherche agricole dans les zones arides</narrative>
             </name>
-            <acronym>
-                <narrative>ICARDA</narrative>
-                <narrative xml:lang="fr">ICARDA</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3331,10 +2343,6 @@
                 <narrative>International Centre for Diarrhoeal Disease Research, Bangladesh</narrative>
                 <narrative xml:lang="fr">International Centre for Diarrhoeal Disease Research, Bangladesh</narrative>
             </name>
-            <acronym>
-                <narrative>ICDDR,B</narrative>
-                <narrative xml:lang="fr">ICDDR,B</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3343,10 +2351,6 @@
                 <narrative>International Centre of Insect Physiology and Ecology</narrative>
                 <narrative xml:lang="fr">Centre international sur la physiologie et l’écologie des insectes</narrative>
             </name>
-            <acronym>
-                <narrative>ICIPE</narrative>
-                <narrative xml:lang="fr">ICIPE</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3355,10 +2359,6 @@
                 <narrative>International Centre for Development Oriented Research in Agriculture</narrative>
                 <narrative xml:lang="fr">Centre International pour la Recherche Agricole orientée vers le développement</narrative>
             </name>
-            <acronym>
-                <narrative>ICRA</narrative>
-                <narrative xml:lang="fr">ICRA</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3367,10 +2367,6 @@
                 <narrative>World AgroForestry Centre</narrative>
                 <narrative xml:lang="fr">Centre mondial de l’agroforesterie</narrative>
             </name>
-            <acronym>
-                <narrative>ICRAF</narrative>
-                <narrative xml:lang="fr">ICRAF</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3379,10 +2375,6 @@
                 <narrative>International Crop Research for Semi-Arid Tropics</narrative>
                 <narrative xml:lang="fr">Institut international de recherche sur les cultures des zones tropicales semi-arides</narrative>
             </name>
-            <acronym>
-                <narrative>ICRISAT</narrative>
-                <narrative xml:lang="fr">ICRISAT</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
@@ -3391,10 +2383,6 @@
                 <narrative>International Institute for Democracy and Electoral Assistance</narrative>
                 <narrative xml:lang="fr">International Institute for Democracy and Electoral Assistance</narrative>
             </name>
-            <acronym>
-                <narrative>IDEA</narrative>
-                <narrative xml:lang="fr">IDEA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3403,10 +2391,6 @@
                 <narrative>International Development Law Organisation</narrative>
                 <narrative xml:lang="fr">Organisation internationale de droit du développement</narrative>
             </name>
-            <acronym>
-                <narrative>IDLO</narrative>
-                <narrative xml:lang="fr">IDLO</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3415,10 +2399,6 @@
                 <narrative>International Institute for Cotton</narrative>
                 <narrative xml:lang="fr">International Institute for Cotton</narrative>
             </name>
-            <acronym>
-                <narrative>IIC</narrative>
-                <narrative xml:lang="fr">IIC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3427,10 +2407,6 @@
                 <narrative>Inter-American Institute for Co-operation on Agriculture</narrative>
                 <narrative xml:lang="fr">Institut interaméricain de coopération pour l’agriculture</narrative>
             </name>
-            <acronym>
-                <narrative>IICA</narrative>
-                <narrative xml:lang="fr">IICA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3439,10 +2415,6 @@
                 <narrative>International Institute of Tropical Agriculture</narrative>
                 <narrative xml:lang="fr">Institut international d’agriculture tropicale</narrative>
             </name>
-            <acronym>
-                <narrative>IITA</narrative>
-                <narrative xml:lang="fr">IITA</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3451,10 +2423,6 @@
                 <narrative>International Livestock Research Institute</narrative>
                 <narrative xml:lang="fr">International Livestock Research Institute</narrative>
             </name>
-            <acronym>
-                <narrative>ILRI</narrative>
-                <narrative xml:lang="fr">ILRI</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
@@ -3463,10 +2431,6 @@
                 <narrative>International Network for Bamboo and Rattan</narrative>
                 <narrative xml:lang="fr">Réseau International sur le bambou et le rotin</narrative>
             </name>
-            <acronym>
-                <narrative>INBAR</narrative>
-                <narrative xml:lang="fr">INBAR</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -3475,10 +2439,6 @@
                 <narrative>Intergovernmental Oceanographic Commission</narrative>
                 <narrative xml:lang="fr">Commission océanographique intergouvernementale</narrative>
             </name>
-            <acronym>
-                <narrative>IOC</narrative>
-                <narrative xml:lang="fr">COI</narrative>
-            </acronym>
             <category>41600</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -3487,10 +2447,6 @@
                 <narrative>International Organisation for Migration</narrative>
                 <narrative xml:lang="fr">Organisation internationale des migrations</narrative>
             </name>
-            <acronym>
-                <narrative>IOM</narrative>
-                <narrative xml:lang="fr">OIM</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3499,10 +2455,6 @@
                 <narrative>Intergovernmental Panel on Climate Change</narrative>
                 <narrative xml:lang="fr">Groupe d’experts intergouvernemental sur l’évolution du climat</narrative>
             </name>
-            <acronym>
-                <narrative>IPCC</narrative>
-                <narrative xml:lang="fr">GIEC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3511,10 +2463,6 @@
                 <narrative>Asia-Pacific Fishery Commission</narrative>
                 <narrative xml:lang="fr">Commission Asie-Pacifique des pêches</narrative>
             </name>
-            <acronym>
-                <narrative>APFIC</narrative>
-                <narrative xml:lang="fr">APFIC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3531,10 +2479,6 @@
                 <narrative>International Rice Research Institute</narrative>
                 <narrative xml:lang="fr">Institut international de recherche sur le riz</narrative>
             </name>
-            <acronym>
-                <narrative>IRRI</narrative>
-                <narrative xml:lang="fr">IIRR</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3543,10 +2487,6 @@
                 <narrative>International Seed Testing Association</narrative>
                 <narrative xml:lang="fr">Association internationale d’essais de semences</narrative>
             </name>
-            <acronym>
-                <narrative>ISTA</narrative>
-                <narrative xml:lang="fr">ISTA</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2001-01-01">
@@ -3555,10 +2495,6 @@
                 <narrative>International Tropical Timber Organisation</narrative>
                 <narrative xml:lang="fr">Organisation Internationale des Bois Tropicaux</narrative>
             </name>
-            <acronym>
-                <narrative>ITTO</narrative>
-                <narrative xml:lang="fr">OIBT</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3567,10 +2503,6 @@
                 <narrative>International Vaccine Institute</narrative>
                 <narrative xml:lang="fr">Institut international de vaccins</narrative>
             </name>
-            <acronym>
-                <narrative>IVI</narrative>
-                <narrative xml:lang="fr">IIV</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3579,10 +2511,6 @@
                 <narrative>International Water Management Institute</narrative>
                 <narrative xml:lang="fr">Institut international de gestion des ressources en eau</narrative>
             </name>
-            <acronym>
-                <narrative>IWMI</narrative>
-                <narrative xml:lang="fr">IWMI</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
@@ -3591,10 +2519,6 @@
                 <narrative>Justice Studies Centre of the Americas</narrative>
                 <narrative xml:lang="fr">Centre d’études sur la justice dans les Amériques</narrative>
             </name>
-            <acronym>
-                <narrative>JSCA</narrative>
-                <narrative xml:lang="fr">JSCA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
@@ -3603,10 +2527,6 @@
                 <narrative>Mekong River Commission</narrative>
                 <narrative xml:lang="fr">Commission du Mékong</narrative>
             </name>
-            <acronym>
-                <narrative>MRC</narrative>
-                <narrative xml:lang="fr">MRC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -3615,10 +2535,6 @@
                 <narrative>Multilateral Fund for the Implementation of the Montreal Protocol</narrative>
                 <narrative xml:lang="fr">Fonds multilatéral pour l’application du Protocole de Montréal</narrative>
             </name>
-            <acronym>
-                <narrative>Montreal Protocol</narrative>
-                <narrative xml:lang="fr">Protocol de Montréal</narrative>
-            </acronym>
             <category>41600</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3627,10 +2543,6 @@
                 <narrative>Organisation of American States</narrative>
                 <narrative xml:lang="fr">Organisation des États américains</narrative>
             </name>
-            <acronym>
-                <narrative>OAS</narrative>
-                <narrative xml:lang="fr">OEA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3639,10 +2551,6 @@
                 <narrative>Organisation for Economic Co-operation and Development (Contributions to special funds for Technical Co-operation Activities Only)</narrative>
                 <narrative xml:lang="fr">Organisation de Coopération et de développement économiques (contributions aux fonds spéciaux pour les activités de coopération technique uniquement)</narrative>
             </name>
-            <acronym>
-                <narrative>OECD</narrative>
-                <narrative xml:lang="fr">OCDE</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
@@ -3651,10 +2559,6 @@
                 <narrative>OECD Development Centre</narrative>
                 <narrative xml:lang="fr">OCDE Centre de développement</narrative>
             </name>
-            <acronym>
-                <narrative>OECD-Dev. Centre</narrative>
-                <narrative xml:lang="fr">OCDE-Centre de dév.</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
@@ -3663,10 +2567,6 @@
                 <narrative>Organisation of Eastern Caribbean States</narrative>
                 <narrative xml:lang="fr">Organisation des États des Caraïbes orientales</narrative>
             </name>
-            <acronym>
-                <narrative>OECS</narrative>
-                <narrative xml:lang="fr">OECO</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -3675,10 +2575,6 @@
                 <narrative>Pan-American Health Organisation</narrative>
                 <narrative xml:lang="fr">Organisation panaméricaine de la santé</narrative>
             </name>
-            <acronym>
-                <narrative>PAHO</narrative>
-                <narrative xml:lang="fr">OPS</narrative>
-            </acronym>
             <category>41100</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3687,10 +2583,6 @@
                 <narrative>Pan-American Institute of Geography and History</narrative>
                 <narrative xml:lang="fr">Institut panaméricain de géographie et d’histoire</narrative>
             </name>
-            <acronym>
-                <narrative>PAIGH</narrative>
-                <narrative xml:lang="fr">PAIGH</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3699,10 +2591,6 @@
                 <narrative>Pan-American Railway Congress Association</narrative>
                 <narrative xml:lang="fr">Pan-American Railway Congress Association</narrative>
             </name>
-            <acronym>
-                <narrative>PARCA</narrative>
-                <narrative xml:lang="fr">PARCA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
@@ -3711,10 +2599,6 @@
                 <narrative>Private Infrastructure Development Group</narrative>
                 <narrative xml:lang="fr">Private Infrastructure Development Group</narrative>
             </name>
-            <acronym>
-                <narrative>PIDG</narrative>
-                <narrative xml:lang="fr">PIDG</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3723,10 +2607,6 @@
                 <narrative>Pacific Islands Forum Secretariat</narrative>
                 <narrative xml:lang="fr">Secrétariat du Forum des Iles du Pacifique</narrative>
             </name>
-            <acronym>
-                <narrative>PIFS</narrative>
-                <narrative xml:lang="fr">SFIP</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3735,10 +2615,6 @@
                 <narrative>Relief Net</narrative>
                 <narrative xml:lang="fr">Relief Net</narrative>
             </name>
-            <acronym>
-                <narrative>RN</narrative>
-                <narrative xml:lang="fr">RN</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
@@ -3747,10 +2623,6 @@
                 <narrative>Southern African Development Community</narrative>
                 <narrative xml:lang="fr">Communauté pour le développement de l’Afrique australe</narrative>
             </name>
-            <acronym>
-                <narrative>SADC</narrative>
-                <narrative xml:lang="fr">SADC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3759,10 +2631,6 @@
                 <narrative>Southern African Transport and Communications Commission</narrative>
                 <narrative xml:lang="fr">Southern African Transport and Communications Commission</narrative>
             </name>
-            <acronym>
-                <narrative>SATCC</narrative>
-                <narrative xml:lang="fr">SATCC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
@@ -3771,10 +2639,6 @@
                 <narrative>(Colombo Plan) Special Commonwealth African Assistance Programme</narrative>
                 <narrative xml:lang="fr">(Colombo Plan) Special Commonwealth African Assistance Programme</narrative>
             </name>
-            <acronym>
-                <narrative>SCAAP</narrative>
-                <narrative xml:lang="fr">SCAAP</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3783,10 +2647,6 @@
                 <narrative>South East Asian Fisheries Development Centre</narrative>
                 <narrative xml:lang="fr">Centre de développement des pêches de l’Asie du Sud-Est</narrative>
             </name>
-            <acronym>
-                <narrative>SEAFDC</narrative>
-                <narrative xml:lang="fr">SEAFDC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3795,10 +2655,6 @@
                 <narrative>South East Asian Ministers of Education</narrative>
                 <narrative xml:lang="fr">Organisation des Ministres de l’éducation de l’Asie du Sud-Est</narrative>
             </name>
-            <acronym>
-                <narrative>SEAMEO</narrative>
-                <narrative xml:lang="fr">SEAMEO</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2000-01-01" withdrawal-date="2010-12-31">
@@ -3807,10 +2663,6 @@
                 <narrative>South Pacific Applied Geoscience Commission</narrative>
                 <narrative xml:lang="fr">South Pacific Applied Geoscience Commission</narrative>
             </name>
-            <acronym>
-                <narrative>SOPAC</narrative>
-                <narrative xml:lang="fr">SOPAC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2000-01-01">
@@ -3819,10 +2671,6 @@
                 <narrative>South Pacific Board for Educational Assessment</narrative>
                 <narrative xml:lang="fr">Conseil d’évaluation du Pacifique Sud pour l'éducation</narrative>
             </name>
-            <acronym>
-                <narrative>SPBEA</narrative>
-                <narrative xml:lang="fr">SPBEA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3831,10 +2679,6 @@
                 <narrative>Secretariat of the Pacific Community</narrative>
                 <narrative xml:lang="fr">Secrétariat Général de la Communauté du Pacifique</narrative>
             </name>
-            <acronym>
-                <narrative>SPC</narrative>
-                <narrative xml:lang="fr">CPS</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3843,10 +2687,6 @@
                 <narrative>Pacific Regional Environment Programme</narrative>
                 <narrative xml:lang="fr">Programme régional océanien de l’environnement</narrative>
             </name>
-            <acronym>
-                <narrative>SPREP</narrative>
-                <narrative xml:lang="fr">PROE</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
@@ -3855,10 +2695,6 @@
                 <narrative>Unrepresented Nations and Peoples’ Organisation</narrative>
                 <narrative xml:lang="fr">Organisation des peuples et des nations non représentés</narrative>
             </name>
-            <acronym>
-                <narrative>UNPO</narrative>
-                <narrative xml:lang="fr">UNPO</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3867,10 +2703,6 @@
                 <narrative>University of the South Pacific</narrative>
                 <narrative xml:lang="fr">Université du Pacifique Sud</narrative>
             </name>
-            <acronym>
-                <narrative>USP</narrative>
-                <narrative xml:lang="fr">USP</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
@@ -3879,10 +2711,6 @@
                 <narrative>West African Monetary Union</narrative>
                 <narrative xml:lang="fr">Union monétaire ouest-africaine</narrative>
             </name>
-            <acronym>
-                <narrative>WAMU</narrative>
-                <narrative xml:lang="fr">UMOA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3891,10 +2719,6 @@
                 <narrative>Africa Rice Centre</narrative>
                 <narrative xml:lang="fr">Centre du riz pour l’Afrique</narrative>
             </name>
-            <acronym>
-                <narrative>WARDA</narrative>
-                <narrative xml:lang="fr">ADRAO</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2000-01-01" withdrawal-date="2012-12-31">
@@ -3903,10 +2727,6 @@
                 <narrative>World Customs Organisation Fellowship Programme</narrative>
                 <narrative xml:lang="fr">Organisation mondiale des douanes, programme de bourses</narrative>
             </name>
-            <acronym>
-                <narrative>WCO-Fellowship Prog.</narrative>
-                <narrative xml:lang="fr">OMD-prog. De bourses</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3915,10 +2735,6 @@
                 <narrative>World Maritime University</narrative>
                 <narrative xml:lang="fr">Université maritime mondiale</narrative>
             </name>
-            <acronym>
-                <narrative>WMU</narrative>
-                <narrative xml:lang="fr">UMM</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -3927,10 +2743,6 @@
                 <narrative>WorldFish Centre</narrative>
                 <narrative xml:lang="fr">Centre international pour l’aménagement des ressources bioaquatiques</narrative>
             </name>
-            <acronym>
-                <narrative>WorldFish Centre</narrative>
-                <narrative xml:lang="fr">WorldFish Centre</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2001-01-01">
@@ -3939,10 +2751,6 @@
                 <narrative>Common Fund for Commodities</narrative>
                 <narrative xml:lang="fr">Fonds commun pour les produits de base</narrative>
             </name>
-            <acronym>
-                <narrative>CFC</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2006-01-01">
@@ -3951,10 +2759,6 @@
                 <narrative>Geneva Centre for the Democratic Control of Armed Forces</narrative>
                 <narrative xml:lang="fr">Centre de contrôle démocratique des forces armées - Genève</narrative>
             </name>
-            <acronym>
-                <narrative>DCAF</narrative>
-                <narrative xml:lang="fr">DCAF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2006-01-01">
@@ -3963,10 +2767,6 @@
                 <narrative>International Finance Facility for Immunisation</narrative>
                 <narrative xml:lang="fr">Facilité internationale de financement pour la vaccination</narrative>
             </name>
-            <acronym>
-                <narrative>IFFIm</narrative>
-                <narrative xml:lang="fr">IFFIm</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2006-01-01" withdrawal-date="2010-12-31">
@@ -3975,10 +2775,6 @@
                 <narrative>Multi-Country Demobilisation and Reintegration Program</narrative>
                 <narrative xml:lang="fr">Multi-Country Demobilisation and Reintegration Program</narrative>
             </name>
-            <acronym>
-                <narrative>MDRP</narrative>
-                <narrative xml:lang="fr">MDRP</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2005-01-01">
@@ -3987,10 +2783,6 @@
                 <narrative>Asia-Pacific Economic Cooperation Support Fund (except contributions tied to counter-terrorism activities)</narrative>
                 <narrative xml:lang="fr">Fonds de soutien de la coopération économique Asie-Pacifique (hors lutte contre le terrorisme)</narrative>
             </name>
-            <acronym>
-                <narrative>APEC ASF</narrative>
-                <narrative xml:lang="fr">APEC-ASF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2006-01-01">
@@ -3999,10 +2791,6 @@
                 <narrative>Organisation of the Black Sea Economic Cooperation</narrative>
                 <narrative xml:lang="fr">Organisation de coopération économique de la mer Noire</narrative>
             </name>
-            <acronym>
-                <narrative>BSEC</narrative>
-                <narrative xml:lang="fr">BSEC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -4019,10 +2807,6 @@
                 <narrative>Central European Initiative - Special Fund for Climate and Environmental Protection</narrative>
                 <narrative xml:lang="fr">Initiative de l’Europe centrale - Fonds Spécial pour la protection climatique et environnementale</narrative>
             </name>
-            <acronym>
-                <narrative>CEI-Climate Fund</narrative>
-                <narrative xml:lang="fr">CEI-Climate Fund</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -4031,10 +2815,6 @@
                 <narrative>Economic and Monetary Community of Central Africa</narrative>
                 <narrative xml:lang="fr">Communauté économique et monétaire de l’Afrique Centrale</narrative>
             </name>
-            <acronym>
-                <narrative>CEMAC</narrative>
-                <narrative xml:lang="fr">CEMAC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -4043,10 +2823,6 @@
                 <narrative>Asian Forest Cooperation Organisation</narrative>
                 <narrative xml:lang="fr">Asian Forest Cooperation Organisation</narrative>
             </name>
-            <acronym>
-                <narrative>AFoCO</narrative>
-                <narrative xml:lang="fr">AFoCO</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -4055,10 +2831,6 @@
                 <narrative>Integrated Framework for Trade-Related Technical Assistance to Least Developed Countries</narrative>
                 <narrative xml:lang="fr">Cadre intégré pour l'assistance technique liée au commerce en faveur des pays les moins avancés</narrative>
             </name>
-            <acronym>
-                <narrative>IF</narrative>
-                <narrative xml:lang="fr">CI</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -4067,10 +2839,6 @@
                 <narrative>New Partnership for Africa's Development</narrative>
                 <narrative xml:lang="fr">Nouveau Partenariat pour le développement de l’Afrique</narrative>
             </name>
-            <acronym>
-                <narrative>NEPAD</narrative>
-                <narrative xml:lang="fr">NEPAD</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -4079,10 +2847,6 @@
                 <narrative>Regional Organisation for the Strengthening of Supreme Audit Institutions of Francophone Sub-Saharan Countries</narrative>
                 <narrative xml:lang="fr">Conseil Régional de Formation des Institutions Supérieures de Contrôle des Finances Publiques d’Afrique Francophone Subsaharienne</narrative>
             </name>
-            <acronym>
-                <narrative>CREFIAF</narrative>
-                <narrative xml:lang="fr">CREFIAF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -4091,10 +2855,6 @@
                 <narrative>Sahara and Sahel Observatory</narrative>
                 <narrative xml:lang="fr">Observatoire du Sahara et du Sahel</narrative>
             </name>
-            <acronym>
-                <narrative>OSS</narrative>
-                <narrative xml:lang="fr">OSS</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -4103,10 +2863,6 @@
                 <narrative>South Asian Association for Regional Cooperation</narrative>
                 <narrative xml:lang="fr">Association de l'Asie du Sud pour la coopération régionale</narrative>
             </name>
-            <acronym>
-                <narrative>SAARC</narrative>
-                <narrative xml:lang="fr">SAARC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -4115,10 +2871,6 @@
                 <narrative>United Cities and Local Governments of Africa</narrative>
                 <narrative xml:lang="fr">Cités et gouvernements locaux unis d’Afrique</narrative>
             </name>
-            <acronym>
-                <narrative>UCLGA</narrative>
-                <narrative xml:lang="fr">CGLUA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
@@ -4127,10 +2879,6 @@
                 <narrative>Global Alliance for Vaccines and Immunization</narrative>
                 <narrative xml:lang="fr">Alliance mondiale pour la vaccination et l’immunisation</narrative>
             </name>
-            <acronym>
-                <narrative>GAVI</narrative>
-                <narrative xml:lang="fr">GAVI</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2005-01-01">
@@ -4139,10 +2887,6 @@
                 <narrative>Geneva International Centre for Humanitarian Demining</narrative>
                 <narrative xml:lang="fr">Centre International de Déminage Humanitaire Genève</narrative>
             </name>
-            <acronym>
-                <narrative>GICHD</narrative>
-                <narrative xml:lang="fr">CIDHG</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -4151,10 +2895,6 @@
                 <narrative>International Anti-Corruption Academy</narrative>
                 <narrative xml:lang="fr">International Anti-Corruption Academy</narrative>
             </name>
-            <acronym>
-                <narrative>IACA</narrative>
-                <narrative xml:lang="fr">IACA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
@@ -4163,10 +2903,6 @@
                 <narrative>International Centre for Genetic Engineering and Biotechnology</narrative>
                 <narrative xml:lang="fr">International Centre for Genetic Engineering and Biotechnology</narrative>
             </name>
-            <acronym>
-                <narrative>ICGEB</narrative>
-                <narrative xml:lang="fr">ICGEB</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2008-01-01">
@@ -4175,10 +2911,6 @@
                 <narrative>Latin-American Energy Organisation</narrative>
                 <narrative xml:lang="fr">Organisation latino-américaine de l'énergie</narrative>
             </name>
-            <acronym>
-                <narrative>OLADE</narrative>
-                <narrative xml:lang="fr">OLADE</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -4187,10 +2919,6 @@
                 <narrative>Nordic Development Fund</narrative>
                 <narrative xml:lang="fr">Nordic Development Fund</narrative>
             </name>
-            <acronym>
-                <narrative>NDF</narrative>
-                <narrative xml:lang="fr">NDF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -4199,10 +2927,6 @@
                 <narrative>Global Environment Facility - Least Developed Countries Fund</narrative>
                 <narrative xml:lang="fr">FEM Fonds pour les pays les moins avancés</narrative>
             </name>
-            <acronym>
-                <narrative>GEF-LDCF</narrative>
-                <narrative xml:lang="fr">FEM - FPMA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
@@ -4211,10 +2935,6 @@
                 <narrative>Global Environment Facility - Special Climate Change Fund</narrative>
                 <narrative xml:lang="fr">FEM Fonds spécial pour les changements climatiques</narrative>
             </name>
-            <acronym>
-                <narrative>GEF-SCCF</narrative>
-                <narrative xml:lang="fr">FEM - FSpCC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
@@ -4223,10 +2943,6 @@
                 <narrative>Organisation for Security and Co-operation in Europe</narrative>
                 <narrative xml:lang="fr">Organisation pour la sécurité et la oopération en Europe</narrative>
             </name>
-            <acronym>
-                <narrative>OSCE</narrative>
-                <narrative xml:lang="fr">OSCE</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
@@ -4243,10 +2959,6 @@
                 <narrative>Clean Technology Fund</narrative>
                 <narrative xml:lang="fr">Fonds pour les technologies propres</narrative>
             </name>
-            <acronym>
-                <narrative>CTF</narrative>
-                <narrative xml:lang="fr">FTP</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2012-01-01">
@@ -4255,10 +2967,6 @@
                 <narrative>Strategic Climate Fund</narrative>
                 <narrative xml:lang="fr">Fonds stratégique pour le climat</narrative>
             </name>
-            <acronym>
-                <narrative>SCF</narrative>
-                <narrative xml:lang="fr">FSC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2012-01-01">
@@ -4267,10 +2975,6 @@
                 <narrative>Global Green Growth Institute</narrative>
                 <narrative xml:lang="fr">Institut mondial de la croissance verte</narrative>
             </name>
-            <acronym>
-                <narrative>GGGI</narrative>
-                <narrative xml:lang="fr">GGGI</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
@@ -4279,10 +2983,6 @@
                 <narrative>African Risk Capacity Group</narrative>
                 <narrative xml:lang="fr">Mutuelle panafricaine de gestion des risques</narrative>
             </name>
-            <acronym>
-                <narrative>ARC</narrative>
-                <narrative xml:lang="fr">ARC</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
@@ -4291,10 +2991,6 @@
                 <narrative>Council of Europe</narrative>
                 <narrative xml:lang="fr">Conseil de l’Europe</narrative>
             </name>
-            <acronym>
-                <narrative>CoE</narrative>
-                <narrative xml:lang="fr">CoE</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
@@ -4303,10 +2999,6 @@
                 <narrative>World Customs Organisation Customs Co-operation Fund</narrative>
                 <narrative xml:lang="fr">Organisation Mondiale des Douanes Fonds de coopération douanière</narrative>
             </name>
-            <acronym>
-                <narrative>WCO CCF</narrative>
-                <narrative xml:lang="fr">OMD CCF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
@@ -4315,10 +3007,6 @@
                 <narrative>Organisation of Ibero-American States for Education, Science and Culture</narrative>
                 <narrative xml:lang="fr">Organisation des états ibéro-américains pour l'éducation, la science et la culture (OEI)</narrative>
             </name>
-            <acronym>
-                <narrative>OEI</narrative>
-                <narrative xml:lang="fr">OEI</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -4327,10 +3015,6 @@
                 <narrative>African Tax Administration Forum</narrative>
                 <narrative xml:lang="fr">Forum sur l’Administration Fiscale Africaine</narrative>
             </name>
-            <acronym>
-                <narrative>ATAF</narrative>
-                <narrative xml:lang="fr">ATAF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -4339,10 +3023,6 @@
                 <narrative>OPEC Fund for International Development</narrative>
                 <narrative xml:lang="fr">Le Fonds OPEP pour le développement international</narrative>
             </name>
-            <acronym>
-                <narrative>OFID</narrative>
-                <narrative xml:lang="fr">OFID</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
@@ -4351,10 +3031,6 @@
                 <narrative>Global Community Engagement and Resilience Fund</narrative>
                 <narrative xml:lang="fr">Fonds mondial pour l’engagement de la communauté et la résilience</narrative>
             </name>
-            <acronym>
-                <narrative>GCERF</narrative>
-                <narrative xml:lang="fr">GCERF</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
@@ -4363,10 +3039,6 @@
                 <narrative>International Renewable Energy Agency</narrative>
                 <narrative xml:lang="fr">Agence internationale pour les energies renouvelables</narrative>
             </name>
-            <acronym>
-                <narrative>IRENA</narrative>
-                <narrative xml:lang="fr">IRENA</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
@@ -4375,10 +3047,6 @@
                 <narrative>Center of Excellence in Finance</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>CEF</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
@@ -4387,10 +3055,6 @@
                 <narrative>International Investment Bank</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>IIB</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
@@ -4399,10 +3063,6 @@
                 <narrative>International Finance Facility for Education</narrative>
                 <narrative xml:lang="fr">Facilité internationale de financement pour l'éducation</narrative>
             </name>
-            <acronym>
-                <narrative>IFFEd</narrative>
-                <narrative xml:lang="fr">IFFEd</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
@@ -4411,10 +3071,6 @@
                 <narrative>World Organisation for Animal Health</narrative>
                 <narrative xml:lang="fr">Organisation mondiale de la santé animale</narrative>
             </name>
-            <acronym>
-                <narrative>OIE</narrative>
-                <narrative xml:lang="fr">OIE</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
@@ -4431,10 +3087,6 @@
                 <narrative>Global Partnership for Education</narrative>
                 <narrative xml:lang="fr">Partenariat Mondial pour l'Education</narrative>
             </name>
-            <acronym>
-                <narrative>GPE</narrative>
-                <narrative xml:lang="fr">PME</narrative>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -4443,10 +3095,6 @@
                 <narrative>Global Fund for Disaster Risk Reduction</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>GFDRR</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -4455,10 +3103,6 @@
                 <narrative>Global Agriculture and Food Security Program</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>GAFSP</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
@@ -4467,10 +3111,6 @@
                 <narrative>Forest Carbon Partnership Facility</narrative>
                 <narrative xml:lang="fr"/>
             </name>
-            <acronym>
-                <narrative>FCPF</narrative>
-                <narrative xml:lang="fr"/>
-            </acronym>
             <category>47000</category>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
@@ -4494,10 +3134,6 @@
                 <narrative>International Food Policy Research Institute</narrative>
                 <narrative xml:lang="fr">Institut International de Recherche sur les Politiques Alimentaires</narrative>
             </name>
-            <acronym>
-                <narrative>IFPRI</narrative>
-                <narrative xml:lang="fr">IFPRI</narrative>
-            </acronym>
             <category>51000</category>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
