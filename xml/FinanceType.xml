@@ -562,7 +562,7 @@
             <code>712</code>
             <name>
                 <narrative>Foreign direct investment, reinvested earnings</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Investissement étranger direct, bénéfices réinvestis</narrative>
             </name>
             <category>700</category>
         </codelist-item>
@@ -610,7 +610,7 @@
             <code>913</code>
             <name>
                 <narrative>Securities and other instruments originally issued by multilateral agencies</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Titres et autres instruments émis à l’origine par des organismes multilatéraux</narrative>
             </name>
             <category>900</category>
         </codelist-item>
