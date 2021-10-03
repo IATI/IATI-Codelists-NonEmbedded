@@ -20,9 +20,11 @@
             <code>11</code>
             <name>
                 <narrative>Local Government</narrative>
+                <narrative xml:lang="fr">Gouvernement local</narrative>
             </name>
             <description>
                 <narrative>Any local (sub national) government organisation in either donor or recipient country.</narrative>
+                <narrative xml:lang="fr">Toute organisation gouvernementale locale (infranationale) dans le pays donateur ou bénéficiaire.</narrative>
             </description>
         </codelist-item>
         <codelist-item>
@@ -57,9 +59,11 @@
             <code>24</code>
             <name>
                 <narrative>Partner Country based NGO</narrative>
+                <narrative xml:lang="fr">ONG dans le pays bénéficiaire</narrative>
             </name>
             <description>
                 <narrative>Local and National NGO / CSO based in aid/assistance recipient country</narrative>
+                <narrative xml:lang="fr">ONG ou OSC locale ou nationale basée dans le pays bénéficiaire de l’aide</narrative>
             </description>
         </codelist-item>
         <codelist-item>
@@ -94,27 +98,33 @@
             <code>71</code>
             <name>
                 <narrative>Private Sector in Provider Country</narrative>
+                <narrative xml:lang="fr">Secteur privé situé dans un pays fournisseur/donateur</narrative>
             </name>
             <description>
                 <narrative>Is in provider / donor country.</narrative>
+                <narrative xml:lang="fr">Situé dans un pays fournisseur/donateur.</narrative>
             </description>
         </codelist-item>
         <codelist-item>
             <code>72</code>
             <name>
                 <narrative>Private Sector in Aid Recipient Country</narrative>
+                <narrative xml:lang="fr">Secteur privé situé dans un pays bénéficiaire de l’aide.</narrative>
             </name>
             <description>
                 <narrative>Is in aid recipient country.</narrative>
+                <narrative xml:lang="fr">Situé dans un pays bénéficiaire de l’aide.</narrative>
             </description>
         </codelist-item>
         <codelist-item>
             <code>73</code>
             <name>
                 <narrative>Private Sector in Third Country</narrative>
+                <narrative xml:lang="fr">Secteur privé situé dans un pays tiers</narrative>
             </name>
             <description>
                 <narrative>Is not in either a donor or aid recipient country.</narrative>
+                <narrative xml:lang="fr">Situé ni dans un pays donateur, ni dans un pays bénéficiaire.</narrative>
             </description>
         </codelist-item>
         <codelist-item>
@@ -128,6 +138,7 @@
             <code>90</code>
             <name>
                 <narrative>Other</narrative>
+                <narrative xml:lang="fr">Autre</narrative>
             </name>
         </codelist-item>
     </codelist-items>
