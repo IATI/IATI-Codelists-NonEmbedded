@@ -707,7 +707,7 @@
         <codelist-item withdrawal-date="2015-06-01" status="withdrawn">
             <code>HRK</code>
             <name>
-                <narrative>Croatian Kuna</narrative>
+                <narrative>Kuna</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1058,7 +1058,7 @@
         <codelist-item withdrawal-date="2016-02-01" status="withdrawn">
             <code>MWK</code>
             <name>
-                <narrative>Kwacha</narrative>
+                <narrative>Malawi Kwacha</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1178,7 +1178,7 @@
         <codelist-item withdrawal-date="2015-12-01" status="withdrawn">
             <code>PEN</code>
             <name>
-                <narrative>Nuevo Sol </narrative>
+                <narrative>Sol</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="1986-02-01">
@@ -1256,7 +1256,7 @@
         <codelist-item withdrawal-date="2015-06-01" status="withdrawn">
             <code>RON</code>
             <name>
-                <narrative>New Romanian Leu </narrative>
+                <narrative>Romanian Leu</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1457,7 +1457,7 @@
         <codelist-item>
             <code>TOP</code>
             <name>
-                <narrative>Pa'anga</narrative>
+                <narrative>Pa’anga</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2002-11-01">
@@ -1475,7 +1475,7 @@
         <codelist-item withdrawal-date="2009-01-01" status="withdrawn">
             <code>TRY</code>
             <name>
-                <narrative>New Turkish Lira</narrative>
+                <narrative>Turkish Lira</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -1587,6 +1587,12 @@
             <code>VEB</code>
             <name>
                 <narrative>Bolivar</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VED</code>
+            <name>
+                <narrative>Bolívar Soberano</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2018-08-01">
