@@ -31,10 +31,6 @@
                 <narrative>GRANTS</narrative>
                 <narrative xml:lang="fr">DONS</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>1000</code>
@@ -42,10 +38,6 @@
                 <narrative>GUARANTEES AND OTHER UNFUNDED CONTINGENT LIABILITIES</narrative>
                 <narrative xml:lang="fr">GARANTIES ET AUTRES ENGAGEMENTS CONDITIONNELS NON PROVISIONNÉS</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>200</code>
@@ -86,10 +78,6 @@
                 <narrative>DEBT INSTRUMENTS</narrative>
                 <narrative xml:lang="fr">INSTRUMENTS DE DETTE</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>430</code>
@@ -97,10 +85,6 @@
                 <narrative>MEZZANINE FINANCE INSTRUMENTS</narrative>
                 <narrative xml:lang="fr">INSTRUMENTS DE DETTE</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>500</code>
@@ -108,10 +92,6 @@
                 <narrative>EQUITY  AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</narrative>
                 <narrative xml:lang="fr">ACTIONS ET  PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
         <codelist-item status="active">
             <code>600</code>
@@ -152,10 +132,6 @@
                 <narrative>OTHER SECURITIES/CLAIMS</narrative>
                 <narrative xml:lang="fr">AUTRES TITRES/CREANCES</narrative>
             </name>
-            <description>
-                <narrative/>
-                <narrative xml:lang="fr"/>
-            </description>
         </codelist-item>
     </codelist-items>
 </codelist>
