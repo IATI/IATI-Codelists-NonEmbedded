@@ -1,8 +1,9 @@
 IATI NonEmbedded Codelists
 ==========================
 
-.. image:: https://travis-ci.org/IATI/IATI-Codelists-NonEmbedded.svg?branch=master
-    :target: https://travis-ci.org/IATI/IATI-Codelists-NonEmbedded
+.. image:: https://github.com/IATI/IATI-Codelists-NonEmbedded/workflows/CI/badge.svg
+   :target: https://github.com/IATI/IATI-Codelists-NonEmbedded/actions
+
 .. image:: https://requires.io/github/IATI/IATI-Codelists-NonEmbedded/requirements.svg?branch=master
     :target: https://requires.io/github/IATI/IATI-Codelists-NonEmbedded/requirements/?branch=master
     :alt: Requirements Status
