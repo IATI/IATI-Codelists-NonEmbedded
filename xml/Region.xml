@@ -15,6 +15,7 @@
             <name>
                 <narrative>States Ex-Yugoslavia unspecified</narrative>
                 <narrative xml:lang="fr">Etats ex-Yougoslavie non spécifié</narrative>
+                <narrative xml:lang="es">Estados sin especificar de la ex-Yugoslavia</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -22,6 +23,7 @@
             <name>
                 <narrative>Europe, regional</narrative>
                 <narrative xml:lang="fr">Europe, régional</narrative>
+                <narrative xml:lang="es">Europa, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -29,6 +31,7 @@
             <name>
                 <narrative>North of Sahara, regional</narrative>
                 <narrative xml:lang="fr">Nord du Sahara, régional</narrative>
+                <narrative xml:lang="es">Norte del Sáhara, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -36,6 +39,7 @@
             <name>
                 <narrative>South of Sahara, regional</narrative>
                 <narrative xml:lang="fr">Sud du Sahara, régional</narrative>
+                <narrative xml:lang="es">Sur del Sáhara, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -43,6 +47,7 @@
             <name>
                 <narrative>Africa, regional</narrative>
                 <narrative xml:lang="fr">Afrique, régional</narrative>
+                <narrative xml:lang="es">África, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-05-04">
@@ -50,6 +55,7 @@
             <name>
                 <narrative>West Indies, regional</narrative>
                 <narrative xml:lang="fr">Indes occ., régional</narrative>
+                <narrative xml:lang="es">Indias Occidentales, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -57,6 +63,7 @@
             <name>
                 <narrative>Caribbean &amp; Central America, regional</narrative>
                 <narrative xml:lang="fr">Caraïbes et Amérique centrale, régional</narrative>
+                <narrative xml:lang="es">El Caribe y América Central, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -64,6 +71,7 @@
             <name>
                 <narrative>South America, regional</narrative>
                 <narrative xml:lang="fr">Amérique du Sud, régional</narrative>
+                <narrative xml:lang="es">América del Sur, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -71,6 +79,7 @@
             <name>
                 <narrative>America, regional</narrative>
                 <narrative xml:lang="fr">Amérique, régional</narrative>
+                <narrative xml:lang="es">América, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -78,6 +87,7 @@
             <name>
                 <narrative>Middle East, regional</narrative>
                 <narrative xml:lang="fr">Moyen-Orient, régional</narrative>
+                <narrative xml:lang="es">Oriente Medio, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -85,6 +95,7 @@
             <name>
                 <narrative>Central Asia, regional</narrative>
                 <narrative xml:lang="fr">Asie centrale, régional</narrative>
+                <narrative xml:lang="es">Asia Central, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -92,6 +103,7 @@
             <name>
                 <narrative>South Asia, regional</narrative>
                 <narrative xml:lang="fr">Asie du Sud, régional</narrative>
+                <narrative xml:lang="es">Asia Meridional, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -99,6 +111,7 @@
             <name>
                 <narrative>South &amp; Central Asia, regional</narrative>
                 <narrative xml:lang="fr">Asie du Sud &amp; C., régional</narrative>
+                <narrative xml:lang="es">Asia Meridional y Central, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -106,6 +119,7 @@
             <name>
                 <narrative>Far East Asia, regional</narrative>
                 <narrative xml:lang="fr">Extrême-Orient, régional</narrative>
+                <narrative xml:lang="es">El Lejano Oriente y Asia, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -113,6 +127,7 @@
             <name>
                 <narrative>Asia, regional</narrative>
                 <narrative xml:lang="fr">Asie, régional</narrative>
+                <narrative xml:lang="es">Asia, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -120,6 +135,7 @@
             <name>
                 <narrative>Oceania, regional</narrative>
                 <narrative xml:lang="fr">Océanie, régional</narrative>
+                <narrative xml:lang="es">Oceanía, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -127,6 +143,7 @@
             <name>
                 <narrative>Developing countries, unspecified</narrative>
                 <narrative xml:lang="fr">Pays en développement, non spécifié</narrative>
+                <narrative xml:lang="es">Países en desarrollo, sin especificar</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-05-04">
@@ -134,6 +151,7 @@
             <name>
                 <narrative>Eastern Africa, regional</narrative>
                 <narrative xml:lang="fr">Afrique de l'est, régional</narrative>
+                <narrative xml:lang="es">África Oriental, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-05-04">
@@ -141,6 +159,7 @@
             <name>
                 <narrative>Middle Africa, regional</narrative>
                 <narrative xml:lang="fr">Afrique centrale, régional</narrative>
+                <narrative xml:lang="es">Oriente Medio y África, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-05-04">
@@ -148,6 +167,7 @@
             <name>
                 <narrative>Southern Africa, regional</narrative>
                 <narrative xml:lang="fr">Afrique australe, régional</narrative>
+                <narrative xml:lang="es">África Meridional, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-05-04">
@@ -155,6 +175,7 @@
             <name>
                 <narrative>Western Africa, regional</narrative>
                 <narrative xml:lang="fr">Afrique occidentale, régional</narrative>
+                <narrative xml:lang="es">África Occidental, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-05-04">
@@ -162,6 +183,7 @@
             <name>
                 <narrative>Caribbean, regional</narrative>
                 <narrative xml:lang="fr">Caraïbes, régional</narrative>
+                <narrative xml:lang="es">El Caribe, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-05-04">
@@ -169,6 +191,7 @@
             <name>
                 <narrative>Central America, regional</narrative>
                 <narrative xml:lang="fr">Amérique centrale, régional</narrative>
+                <narrative xml:lang="es">América Central, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-05-04">
@@ -176,6 +199,7 @@
             <name>
                 <narrative>Melanesia, regional</narrative>
                 <narrative xml:lang="fr">Mélanésie, régional</narrative>
+                <narrative xml:lang="es">Melanesia, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-05-04">
@@ -183,6 +207,7 @@
             <name>
                 <narrative>Micronesia, regional</narrative>
                 <narrative xml:lang="fr">Micronésie, régional</narrative>
+                <narrative xml:lang="es">Micronesia, regional</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-05-04">
@@ -190,6 +215,7 @@
             <name>
                 <narrative>Polynesia, regional</narrative>
                 <narrative xml:lang="fr">Polynésie, régional</narrative>
+                <narrative xml:lang="es">Polinesia, regional</narrative>
             </name>
         </codelist-item>
     </codelist-items>

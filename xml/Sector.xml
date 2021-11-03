@@ -15,6 +15,7 @@
             <name>
                 <narrative>Education policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique de l'éducation et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas de la educación</narrative>
             </name>
             <description>
                 <narrative>Education sector policy, planning and programmes; aid to education ministries, administration and management systems; institution capacity building and advice; school management and governance; curriculum and materials development; unspecified education activities.</narrative>
@@ -27,6 +28,7 @@
             <name>
                 <narrative>Education facilities and training</narrative>
                 <narrative xml:lang="fr">Equipements scolaires et formation</narrative>
+                <narrative xml:lang="es">Instalaciones educativas y capacitación</narrative>
             </name>
             <description>
                 <narrative>Educational buildings, equipment, materials; subsidiary services to education (boarding facilities, staff housing); language training; colloquia, seminars, lectures, etc.</narrative>
@@ -39,6 +41,7 @@
             <name>
                 <narrative>Teacher training</narrative>
                 <narrative xml:lang="fr">Formation des enseignants</narrative>
+                <narrative xml:lang="es">Capacitación de docentes</narrative>
             </name>
             <description>
                 <narrative>Teacher education (where the level of education is unspecified); in-service and pre-service training; materials development.</narrative>
@@ -51,6 +54,7 @@
             <name>
                 <narrative>Educational research</narrative>
                 <narrative xml:lang="fr">Recherche en éducation</narrative>
+                <narrative xml:lang="es">Investigación educativa</narrative>
             </name>
             <description>
                 <narrative>Research and studies on education effectiveness, relevance and quality; systematic evaluation and monitoring.</narrative>
@@ -63,6 +67,7 @@
             <name>
                 <narrative>Primary education</narrative>
                 <narrative xml:lang="fr">Enseignement primaire</narrative>
+                <narrative xml:lang="es">Educación primaria</narrative>
             </name>
             <description>
                 <narrative>Formal and non-formal primary education for children; all elementary and first cycle systematic instruction; provision of learning materials.</narrative>
@@ -75,6 +80,7 @@
             <name>
                 <narrative>Basic life skills for adults</narrative>
                 <narrative xml:lang="fr">Education pour une meilleure qualité de vie pour les adultes</narrative>
+                <narrative xml:lang="es">Competencias básicas para la vida dirigidas a adultos</narrative>
             </name>
             <description>
                 <narrative>Formal and non-formal education for basic life skills for adults (adults education); literacy and numeracy training. Excludes health education (12261) and activities related to prevention of noncommunicable diseases. (123xx).</narrative>
@@ -88,6 +94,7 @@
             <name>
                 <narrative>Basic life skills for youth</narrative>
                 <narrative xml:lang="fr">Éducation pour une meilleure qualité de vie pour les jeunes</narrative>
+                <narrative xml:lang="es">Competencias básicas para la vida dirigidas a jóvenes</narrative>
             </name>
             <description>
                 <narrative>Formal and non-formal education for basic life skills for young people.</narrative>
@@ -100,6 +107,7 @@
             <name>
                 <narrative>Primary education equivalent for adults</narrative>
                 <narrative xml:lang="fr">Education primaire des adultes</narrative>
+                <narrative xml:lang="es">Equivalente a la educación primaria para adultos</narrative>
             </name>
             <description>
                 <narrative>Formal primary education for adults.</narrative>
@@ -112,6 +120,7 @@
             <name>
                 <narrative>Early childhood education</narrative>
                 <narrative xml:lang="fr">Education de la petite enfance</narrative>
+                <narrative xml:lang="es">Educación de la primera infancia</narrative>
             </name>
             <description>
                 <narrative>Formal and non-formal pre-school education.</narrative>
@@ -124,6 +133,7 @@
             <name>
                 <narrative>School feeding</narrative>
                 <narrative xml:lang="fr">Alimentation à l'école</narrative>
+                <narrative xml:lang="es">Alimentación escolar</narrative>
             </name>
             <description>
                 <narrative>Provision of meals or snacks at school; other uses of food for the achievement of educational outcomes including 'take-home' food rations provided as economic incentives to families (or foster families, or other child care institutions) in return for a child's regular attendance at school; food provided to adults or youth who attend literacy or vocational training programmes; food for pre-school activities with an educational component. These activities may help reduce children's hunger during the school day if provision of food/meals contains bioavailable nutrients to address specific nutrition needs and have nutrition expected outcomes in school children, or if the rationale mainstream nutrition or expected outcome is nutrition-linked.</narrative>
@@ -136,6 +146,7 @@
             <name>
                 <narrative>Lower secondary education</narrative>
                 <narrative xml:lang="fr">Premier cycle de l'enseignement secondaire</narrative>
+                <narrative xml:lang="es">Educación secundaria baja</narrative>
             </name>
             <description>
                 <narrative>Second cycle systematic instruction at junior level.</narrative>
@@ -148,6 +159,7 @@
             <name>
                 <narrative>Upper Secondary Education (modified and includes data from 11322)</narrative>
                 <narrative xml:lang="fr">Enseignement secondaire supérieur (modifié et comprend les données de 11322)</narrative>
+                <narrative xml:lang="es">Educación secundaria alta (modificada, incluye datos de 11322)</narrative>
             </name>
             <description>
                 <narrative>Second cycle systematic instruction at senior levels.</narrative>
@@ -161,6 +173,7 @@
             <name>
                 <narrative>Lower secondary education</narrative>
                 <narrative xml:lang="fr">Premier cycle de l'enseignement secondaire</narrative>
+                <narrative xml:lang="es">Educación secundaria baja</narrative>
             </name>
             <description>
                 <narrative>Second cycle systematic instruction at junior level.</narrative>
@@ -173,6 +186,7 @@
             <name>
                 <narrative>Upper secondary education</narrative>
                 <narrative xml:lang="fr">Deuxième cycle de l'enseignement secondaire</narrative>
+                <narrative xml:lang="es">Educación secundaria alta</narrative>
             </name>
             <description>
                 <narrative>Second cycle systematic instruction at senior level.</narrative>
@@ -185,6 +199,7 @@
             <name>
                 <narrative>Vocational training</narrative>
                 <narrative xml:lang="fr">Formation professionnelle</narrative>
+                <narrative xml:lang="es">Capacitación profesional</narrative>
             </name>
             <description>
                 <narrative>Elementary vocational training and secondary level technical education; on-the job training; apprenticeships; including informal vocational training.</narrative>
@@ -197,6 +212,7 @@
             <name>
                 <narrative>Higher education</narrative>
                 <narrative xml:lang="fr">Enseignement supérieur</narrative>
+                <narrative xml:lang="es">Educación superior</narrative>
             </name>
             <description>
                 <narrative>Degree and diploma programmes at universities, colleges and polytechnics; scholarships.</narrative>
@@ -209,6 +225,7 @@
             <name>
                 <narrative>Advanced technical and managerial training</narrative>
                 <narrative xml:lang="fr">Formation technique supérieure de gestion</narrative>
+                <narrative xml:lang="es">Capacitación técnica y administrativa avanzada</narrative>
             </name>
             <description>
                 <narrative>Professional-level vocational training programmes and in-service training.</narrative>
@@ -221,6 +238,7 @@
             <name>
                 <narrative>Health policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique de la santé et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas de la salud</narrative>
             </name>
             <description>
                 <narrative>Health sector policy, planning and programmes; aid to health ministries, public health administration; institution capacity building and advice; medical insurance programmes; including health system strengthening and health governance; unspecified health activities.</narrative>
@@ -233,6 +251,7 @@
             <name>
                 <narrative>Medical education/training</narrative>
                 <narrative xml:lang="fr">Education et formation médicales</narrative>
+                <narrative xml:lang="es">Educación o capacitación médica</narrative>
             </name>
             <description>
                 <narrative>Medical education and training for tertiary level services.</narrative>
@@ -245,6 +264,7 @@
             <name>
                 <narrative>Medical research</narrative>
                 <narrative xml:lang="fr">Recherche médicale</narrative>
+                <narrative xml:lang="es">Investigación médica</narrative>
             </name>
             <description>
                 <narrative>General medical research (excluding basic health research and research for prevention and control of NCDs (12382)).</narrative>
@@ -257,6 +277,7 @@
             <name>
                 <narrative>Medical services</narrative>
                 <narrative xml:lang="fr">Services médicaux</narrative>
+                <narrative xml:lang="es">Servicios médicos</narrative>
             </name>
             <description>
                 <narrative>Laboratories, specialised clinics and hospitals (including equipment and supplies); ambulances; dental services; medical rehabilitation. Excludes noncommunicable diseases (123xx).</narrative>
@@ -269,6 +290,7 @@
             <name>
                 <narrative>Health statistics and data</narrative>
                 <narrative xml:lang="fr">Statistiques et données sur la santé</narrative>
+                <narrative xml:lang="es">Estadísticas y datos sanitarios</narrative>
             </name>
             <description>
                 <narrative>Collection, production, management and dissemination of statistics and data related to health. Includes health surveys, establishment of health databases, data collection on epidemics, etc.</narrative>
@@ -293,6 +315,7 @@
             <name>
                 <narrative>Basic health care</narrative>
                 <narrative xml:lang="fr">Soins et services de santé de base</narrative>
+                <narrative xml:lang="es">Atención sanitaria básica</narrative>
             </name>
             <description>
                 <narrative>Basic and primary health care programmes; paramedical and nursing care programmes; supply of drugs, medicines and vaccines related to basic health care; activities aimed at achieving universal health coverage.</narrative>
@@ -305,6 +328,7 @@
             <name>
                 <narrative>Basic health infrastructure</narrative>
                 <narrative xml:lang="fr">Infrastructure pour la santé de base</narrative>
+                <narrative xml:lang="es">Infraestructura de la salud básica</narrative>
             </name>
             <description>
                 <narrative>District-level hospitals, clinics and dispensaries and related medical equipment; excluding specialised hospitals and clinics (12191).</narrative>
@@ -317,6 +341,7 @@
             <name>
                 <narrative>Basic nutrition</narrative>
                 <narrative xml:lang="fr">Nutrition de base</narrative>
+                <narrative xml:lang="es">Nutrición básica</narrative>
             </name>
             <description>
                 <narrative>Micronutrient deficiency identification and supplementation; Infant and young child feeding promotion including exclusive breastfeeding; Non-emergency management of acute malnutrition and other targeted feeding programs (including complementary feeding); Staple food fortification including salt iodization; Nutritional status monitoring and national nutrition surveillance; Research, capacity building, policy development, monitoring and evaluation in support of these interventions.  Use code 11250 for school feeding and 43072 for household food security.</narrative>
@@ -329,6 +354,7 @@
             <name>
                 <narrative>Infectious disease control</narrative>
                 <narrative xml:lang="fr">Lutte contre les maladies infectieuses</narrative>
+                <narrative xml:lang="es">Lucha contra las enfermedades infecciosas</narrative>
             </name>
             <description>
                 <narrative>Immunisation; prevention and control of infectious and parasite diseases, except malaria (12262), tuberculosis (12263), COVID-19 (12264), HIV/AIDS and other STDs (13040). It includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea worm), viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and viruses, pediculosis, etc.</narrative>
@@ -341,6 +367,7 @@
             <name>
                 <narrative>Health education</narrative>
                 <narrative xml:lang="fr">Education sanitaire</narrative>
+                <narrative xml:lang="es">Educación sanitaria</narrative>
             </name>
             <description>
                 <narrative>Information, education and training of the population for improving health knowledge and practices; public health and awareness campaigns; promotion of improved personal hygiene practices, including use of sanitation facilities and handwashing with soap.</narrative>
@@ -353,6 +380,7 @@
             <name>
                 <narrative>Malaria control</narrative>
                 <narrative xml:lang="fr">Lutte contre le paludisme</narrative>
+                <narrative xml:lang="es">Lucha contra el paludismo</narrative>
             </name>
             <description>
                 <narrative>Prevention and control of malaria.</narrative>
@@ -365,6 +393,7 @@
             <name>
                 <narrative>Tuberculosis control</narrative>
                 <narrative xml:lang="fr">Lutte contre la tuberculose</narrative>
+                <narrative xml:lang="es">Lucha contra tuberculosis</narrative>
             </name>
             <description>
                 <narrative>Immunisation, prevention and control of tuberculosis.</narrative>
@@ -377,6 +406,7 @@
             <name>
                 <narrative>COVID-19 control</narrative>
                 <narrative xml:lang="fr">Lutte contre la COVID-19</narrative>
+                <narrative xml:lang="es">Lucha contra la COVID-19</narrative>
             </name>
             <description>
                 <narrative>All activities related to COVID-19 control e.g. information, education and communication; testing; prevention; immunisation, treatment, care.</narrative>
@@ -389,6 +419,7 @@
             <name>
                 <narrative>Health personnel development</narrative>
                 <narrative xml:lang="fr">Formation de personnel de santé</narrative>
+                <narrative xml:lang="es">Desarrollo del personal sanitario</narrative>
             </name>
             <description>
                 <narrative>Training of health staff for basic health care services.</narrative>
@@ -401,6 +432,7 @@
             <name>
                 <narrative>NCDs control, general</narrative>
                 <narrative xml:lang="fr">Lutte contre les MNT, général</narrative>
+                <narrative xml:lang="es">Lucha contra enfermedades no transmisibles, general</narrative>
             </name>
             <description>
                 <narrative>Programmes for the prevention and control of NCDs which cannot be broken down into the codes below.</narrative>
@@ -413,6 +445,7 @@
             <name>
                 <narrative>Tobacco use control</narrative>
                 <narrative xml:lang="fr">Lutte contre l'usage du tabac</narrative>
+                <narrative xml:lang="es">Lucha contra el tabaquismo</narrative>
             </name>
             <description>
                 <narrative>Population/individual measures and interventions to reduce all forms of tobacco use in any form. Includes activities related to the implementation of the WHO Framework Convention on Tobacco Control, including specific high-impact demand reduction measures for effective tobacco control.</narrative>
@@ -425,6 +458,7 @@
             <name>
                 <narrative>Control of harmful use of alcohol and drugs</narrative>
                 <narrative xml:lang="fr">Lutte contre l'usage nocif de l'alcool et des drogues</narrative>
+                <narrative xml:lang="es">Lucha contra el consumo nocivo de alcohol y drogas</narrative>
             </name>
             <description>
                 <narrative>Prevention and reduction of harmful use of alcohol and psychoactive drugs; development, implementation, monitoring and evaluation of prevention and treatment strategies, programmes and interventions; early identification and management of health conditions caused by use of alcohol and drugs [excluding narcotics traffic control (16063)].</narrative>
@@ -437,6 +471,7 @@
             <name>
                 <narrative>Promotion of mental health and well-being</narrative>
                 <narrative xml:lang="fr">Promotion de la santé mentale et du bien-être</narrative>
+                <narrative xml:lang="es">Fomento de la salud y el bienestar mentales</narrative>
             </name>
             <description>
                 <narrative>Promotion of programmes and interventions which support mental health and well-being resiliency; prevention, care and support to individuals vulnerable to suicide. Excluding treatment of addiction to tobacco, alcohol and drugs (included in codes 12320 and 12330).</narrative>
@@ -449,6 +484,7 @@
             <name>
                 <narrative>Other prevention and treatment of NCDs</narrative>
                 <narrative xml:lang="fr">Autre prévention et traitement des MNT</narrative>
+                <narrative xml:lang="es">Otro tipo de prevenciones y tratamientos de enfermedades no transmisibles</narrative>
             </name>
             <description>
                 <narrative>Population/individual measures to reduce exposure to unhealthy diets and physical inactivity and to strengthen capacity for prevention, early detection, treatment and sustained management of NCDs including: Cardiovascular disease control: Prevention, screening and treatment of cardiovascular diseases (including hypertension, hyperlipidaemia, ischaemic heart diseases, stroke, rheumatic heart disease, congenital heart disease, heart failure, etc.). Diabetes control: Prevention, screening, diagnosis, treatment and management of complications from all types of diabetes. Exposure to physical inactivity: Promotion of physical activity through supportive built environment (urban design, transport), sports, health care, schools and community programmes and mass media campaign. Exposure to unhealthy diet: Programmes and interventions that promote healthy diet through reduced consumption of salt, sugar and fats and increased consumption of fruits and vegetables e.g. food reformulation, nutrient labelling, food taxes, marketing restriction on unhealthy foods, nutrition education and counselling, and settings-based interventions (schools, workplaces, villages, communities). Cancer control: Prevention (including immunisation, HPV and HBV), early diagnosis (including pathology), screening, treatment (e.g. radiotherapy, chemotherapy, surgery) and palliative care for all types of cancers. Implementation, maintenance and improvement of cancer registries are also included. Chronic respiratory diseases: Prevention, early diagnosis and treatment of chronic respiratory diseases, including asthma. Excludes: Tobacco use control (12320), Control of harmful use of alcohol and drugs (12330), research for the prevention and control of NCDs (12382).</narrative>
@@ -461,6 +497,7 @@
             <name>
                 <narrative>Research for prevention and control of NCDs</narrative>
                 <narrative xml:lang="fr">Recherche pour la prévention et le contrôle des MNT</narrative>
+                <narrative xml:lang="es">Investigación para la prevención de y lucha contra enfermedades no transmisibles</narrative>
             </name>
             <description>
                 <narrative>Research to enhance understanding of NCDs, their risk factors, epidemiology, social determinants and economic impact; translational and implementation research to enhance operationalisation of cost-effective strategies to prevent and control NCDs; surveillance and monitoring of NCD mortality, morbidity, risk factor exposures, and national capacity to prevent and control NCDs.</narrative>
@@ -473,6 +510,7 @@
             <name>
                 <narrative>Population policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique/programmes en matière de population et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas en materia demográfica</narrative>
             </name>
             <description>
                 <narrative>Population/development policies; demographic research/analysis; reproductive health research; unspecified population activities. (Use purpose code 15190 for data on migration and refugees. Use code 13096 for census work, vital registration and migration data collection.)</narrative>
@@ -485,6 +523,7 @@
             <name>
                 <narrative>Reproductive health care</narrative>
                 <narrative xml:lang="fr">Soins en matière de fertilité</narrative>
+                <narrative xml:lang="es">Atención de la salud reproductiva</narrative>
             </name>
             <description>
                 <narrative>Promotion of reproductive health; prenatal and postnatal care including delivery; prevention and treatment of infertility; prevention and management of consequences of abortion; safe motherhood activities.</narrative>
@@ -497,6 +536,7 @@
             <name>
                 <narrative>Family planning</narrative>
                 <narrative xml:lang="fr">Planification familiale</narrative>
+                <narrative xml:lang="es">Planificación familiar</narrative>
             </name>
             <description>
                 <narrative>Family planning services including counselling; information, education and communication (IEC) activities; delivery of contraceptives; capacity building and training.</narrative>
@@ -509,6 +549,7 @@
             <name>
                 <narrative>STD control including HIV/AIDS</narrative>
                 <narrative xml:lang="fr">Lutte contre les MST et VIH/sida</narrative>
+                <narrative xml:lang="es">Lucha contra enfermedades de transmisión sexual, incluido el VIH/sida</narrative>
             </name>
             <description>
                 <narrative>All activities related to sexually transmitted diseases and HIV/AIDS control e.g. information, education and communication; testing; prevention; treatment, care.</narrative>
@@ -521,6 +562,7 @@
             <name>
                 <narrative>Personnel development for population and reproductive health</narrative>
                 <narrative xml:lang="fr">Formation de personnel en matière de population et de santé et fertilité</narrative>
+                <narrative xml:lang="es">Desarrollo del personal de salud reproductiva y de la población</narrative>
             </name>
             <description>
                 <narrative>Education and training of health staff for population and reproductive health care services.</narrative>
@@ -533,6 +575,7 @@
             <name>
                 <narrative>Population statistics and data</narrative>
                 <narrative xml:lang="fr">Statistiques et données démographiques</narrative>
+                <narrative xml:lang="es">Estadísticas y datos demográficos</narrative>
             </name>
             <description>
                 <narrative>Collection, production, management and dissemination of statistics and data related to Population and Reproductive Health. Includes census work, vital registration, migration data collection, demographic data, etc.</narrative>
@@ -545,6 +588,7 @@
             <name>
                 <narrative>Water sector policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique et gestion administrative du secteur de l'eau</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas del sector del agua</narrative>
             </name>
             <description>
                 <narrative>Water sector policy and governance, including legislation, regulation, planning and management as well as transboundary management of water; institutional capacity development; activities supporting the Integrated Water Resource Management approach (IWRM:  see box below).</narrative>
@@ -557,6 +601,7 @@
             <name>
                 <narrative>Water resources conservation (including data collection)</narrative>
                 <narrative xml:lang="fr">Préservation des ressources en eau (y compris collecte de données)</narrative>
+                <narrative xml:lang="es">Conservación de los recursos hídricos (incluida la recogida de datos)</narrative>
             </name>
             <description>
                 <narrative>Collection and usage of quantitative and qualitative data on water resources; creation and sharing of water knowledge; conservation and rehabilitation of inland surface waters (rivers, lakes etc.), ground water and coastal waters; prevention of water contamination.</narrative>
@@ -569,6 +614,7 @@
             <name>
                 <narrative>Water supply and sanitation - large systems</narrative>
                 <narrative xml:lang="fr">Approvisionnement en eau et assainissement - systèmes à grande échelle</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento: grandes sistemas</narrative>
             </name>
             <description>
                 <narrative>Programmes where components according to 14021 and 14022 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14021], sanitation [14022], and hygiene [12261].</narrative>
@@ -581,6 +627,7 @@
             <name>
                 <narrative>Water supply - large systems</narrative>
                 <narrative xml:lang="fr">Approvisionnement en eau – systèmes à grande échelle</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua: grandes sistemas</narrative>
             </name>
             <description>
                 <narrative>Potable water treatment plants; intake works; storage; water supply pumping stations; large scale transmission / conveyance and distribution systems.</narrative>
@@ -593,6 +640,7 @@
             <name>
                 <narrative>Sanitation - large systems</narrative>
                 <narrative xml:lang="fr">Assainissement - systèmes à grande échelle</narrative>
+                <narrative xml:lang="es">Saneamiento: grandes sistemas</narrative>
             </name>
             <description>
                 <narrative>Large scale sewerage including trunk sewers and sewage pumping stations; domestic and industrial waste water treatment plants.</narrative>
@@ -605,6 +653,7 @@
             <name>
                 <narrative>Basic drinking water supply and basic sanitation</narrative>
                 <narrative xml:lang="fr">Approvisionnement en eau potable et assainissement - dispositifs de base</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua potable y saneamiento básicos</narrative>
             </name>
             <description>
                 <narrative>Programmes where components according to 14031 and 14032 cannot be identified. When components are known, they should individually be reported under their respective purpose codes: water supply [14031], sanitation [14032], and hygiene [12261].</narrative>
@@ -617,6 +666,7 @@
             <name>
                 <narrative>Basic drinking water supply</narrative>
                 <narrative xml:lang="fr">Approvisionnement en eau potable – dispositifs de base</narrative>
+                <narrative xml:lang="es">Abastecimiento básico de agua potable</narrative>
             </name>
             <description>
                 <narrative>Rural water supply schemes using handpumps, spring catchments, gravity-fed systems, rainwater collection and fog harvesting, storage tanks, small distribution systems typically with shared connections/points of use. Urban schemes using handpumps and local neighbourhood networks including those with shared connections.</narrative>
@@ -629,6 +679,7 @@
             <name>
                 <narrative>Basic sanitation</narrative>
                 <narrative xml:lang="fr">Assainissement - dispositifs de base</narrative>
+                <narrative xml:lang="es">Saneamiento básico</narrative>
             </name>
             <description>
                 <narrative>Latrines, on-site disposal and alternative sanitation systems, including the promotion of household and community investments in the construction of these facilities. (Use code 12261 for activities promoting improved personal hygiene practices.)</narrative>
@@ -641,6 +692,7 @@
             <name>
                 <narrative>River basins development</narrative>
                 <narrative xml:lang="fr">Aménagement de bassins fluviaux</narrative>
+                <narrative xml:lang="es">Desarrollo de cuencas fluviales</narrative>
             </name>
             <description>
                 <narrative>Infrastructure-focused integrated river basin projects and related institutional activities; river flow control; dams and reservoirs [excluding dams primarily for irrigation (31140) and hydropower (23220) and activities related to river transport (21040)].</narrative>
@@ -653,6 +705,7 @@
             <name>
                 <narrative>Waste management/disposal</narrative>
                 <narrative xml:lang="fr">Traitement des déchets</narrative>
+                <narrative xml:lang="es">Gestión y eliminación de residuos</narrative>
             </name>
             <description>
                 <narrative>Municipal and industrial solid waste management, including hazardous and toxic waste; collection, disposal and treatment; landfill areas; composting and reuse.</narrative>
@@ -665,6 +718,7 @@
             <name>
                 <narrative>Education and training in water supply and sanitation</narrative>
                 <narrative xml:lang="fr">Education et formation dans la distribution d'eau et d'assainissement</narrative>
+                <narrative xml:lang="es">Educación y formación en abastecimiento de agua y saneamiento</narrative>
             </name>
             <description>
                 <narrative>Education and training for sector professionals and service providers.</narrative>
@@ -677,6 +731,7 @@
             <name>
                 <narrative>Public sector policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politiques publiques et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas del sector público</narrative>
             </name>
             <description>
                 <narrative>Institution-building assistance to strengthen core public sector management systems and capacities. This includes general public policy management, co-ordination, planning and reform; human resource management; organisational development; civil service reform; e-government; development planning, monitoring and evaluation; support to ministries involved in aid co-ordination; other ministries and government departments when sector cannot be specified. (Use specific sector codes for development of systems and capacities in sector ministries. For macro-economic policy use code 15142. For public procurement use code 15125.)</narrative>
@@ -690,6 +745,7 @@
             <name>
                 <narrative>Public finance management (PFM)</narrative>
                 <narrative xml:lang="fr">Gestion des finances publiques</narrative>
+                <narrative xml:lang="es">Gestión financiera pública (GFP)</narrative>
             </name>
             <description>
                 <narrative>Fiscal policy and planning; support to ministries of finance; strengthening financial and managerial accountability; public expenditure management; improving financial management systems; budget drafting; inter-governmental fiscal relations, public audit, public debt. (Use code 15114 for domestic revenue mobilisation and code 33120 for customs).</narrative>
@@ -703,6 +759,7 @@
             <name>
                 <narrative>Decentralisation and support to subnational government</narrative>
                 <narrative xml:lang="fr">Décentralisation et soutien aux administrations infranationales</narrative>
+                <narrative xml:lang="es">Descentralización y apoyo a gobiernos subnacionales</narrative>
             </name>
             <description>
                 <narrative>Decentralisation processes (including political, administrative and fiscal dimensions); intergovernmental relations and federalism; strengthening departments of regional and local government, regional and local authorities and their national associations. (Use specific sector codes for decentralisation of sector management and services.)</narrative>
@@ -716,6 +773,7 @@
             <name>
                 <narrative>Anti-corruption organisations and institutions</narrative>
                 <narrative xml:lang="fr">Organisations et institutions pour la lutte contre la corruption</narrative>
+                <narrative xml:lang="es">Instituciones y organizaciones contra la corrupción</narrative>
             </name>
             <description>
                 <narrative>Specialised organisations, institutions and frameworks for the prevention of and combat against corruption, bribery, money-laundering and other aspects of organised crime, with or without law enforcement powers, e.g. anti-corruption commissions and monitoring bodies, special investigation services, institutions and initiatives of integrity and ethics oversight, specialised NGOs, other civil society and citizens' organisations directly concerned with corruption.</narrative>
@@ -728,6 +786,7 @@
             <name>
                 <narrative>Domestic revenue mobilisation</narrative>
                 <narrative xml:lang="fr">Mobilisation des ressources intérieures</narrative>
+                <narrative xml:lang="es">Movilización de los ingresos nacionales</narrative>
             </name>
             <description>
                 <narrative>Support to domestic revenue mobilisation/tax policy, analysis and administration as well as non-tax public revenue, which includes work with ministries of finance, line ministries, revenue authorities or other local, regional or national public bodies. (Use code 16010 for social security and other social protection.)</narrative>
@@ -741,6 +800,7 @@
             <name>
                 <narrative>Tax collection</narrative>
                 <narrative xml:lang="fr">Recouvrement de l'impôt</narrative>
+                <narrative xml:lang="es">Recaudación de impuestos</narrative>
             </name>
             <description>
                 <narrative>Operation of the inland revenue authority.</narrative>
@@ -753,6 +813,7 @@
             <name>
                 <narrative>Budget planning</narrative>
                 <narrative xml:lang="fr">Planification budgétaire</narrative>
+                <narrative xml:lang="es">Planificación presupuestaria</narrative>
             </name>
             <description>
                 <narrative>Operation of the budget office and planning as part of the budget process.</narrative>
@@ -765,6 +826,7 @@
             <name>
                 <narrative>National audit</narrative>
                 <narrative xml:lang="fr">Contrôle interne national</narrative>
+                <narrative xml:lang="es">Auditoría nacional</narrative>
             </name>
             <description>
                 <narrative>Operation of the accounting and audit services.</narrative>
@@ -777,6 +839,7 @@
             <name>
                 <narrative>Debt and aid management</narrative>
                 <narrative xml:lang="fr">Gestion de l'aide et de la dette publique</narrative>
+                <narrative xml:lang="es">Administración de la deuda y la asistencia</narrative>
             </name>
             <description>
                 <narrative>Management of public debt and foreign aid received (in the partner country). For reporting on debt reorganisation, use codes 600xx.</narrative>
@@ -789,6 +852,7 @@
             <name>
                 <narrative>Public sector financial management</narrative>
                 <narrative xml:lang="fr">Gestion financière du secteur public</narrative>
+                <narrative xml:lang="es">Administración financiera del sector público</narrative>
             </name>
             <description>
                 <narrative>Strengthening financial and managerial accountability; public expenditure management; improving financial management systems; tax assessment procedures; budget drafting; field auditing; measures against waste, fraud and corruption.</narrative>
@@ -801,6 +865,7 @@
             <name>
                 <narrative>Foreign affairs</narrative>
                 <narrative xml:lang="fr">Affaires étrangères</narrative>
+                <narrative xml:lang="es">Asuntos exteriores</narrative>
             </name>
             <description>
                 <narrative>Administration of external affairs and services.</narrative>
@@ -813,6 +878,7 @@
             <name>
                 <narrative>Diplomatic missions</narrative>
                 <narrative xml:lang="fr">Missions diplomatiques</narrative>
+                <narrative xml:lang="es">Misiones diplomáticas</narrative>
             </name>
             <description>
                 <narrative>Operation of diplomatic and consular missions stationed abroad or at offices of international organisations.</narrative>
@@ -825,6 +891,7 @@
             <name>
                 <narrative>Administration of developing countries' foreign aid</narrative>
                 <narrative xml:lang="fr">Gestion de l'aide étrangère des pays en développement</narrative>
+                <narrative xml:lang="es">Administración de la asistencia exterior de los países en desarrollo</narrative>
             </name>
             <description>
                 <narrative>Support to administration of developing countries' foreign aid (including triangular and south-south cooperation).</narrative>
@@ -837,6 +904,7 @@
             <name>
                 <narrative>General personnel services</narrative>
                 <narrative xml:lang="fr">Services généraux de personnel</narrative>
+                <narrative xml:lang="es">Servicios generales de personal</narrative>
             </name>
             <description>
                 <narrative>Administration and operation of the civil service including policies, procedures and regulations.</narrative>
@@ -849,6 +917,7 @@
             <name>
                 <narrative>Public Procurement</narrative>
                 <narrative xml:lang="fr">Marchés publics</narrative>
+                <narrative xml:lang="es">Contratación pública</narrative>
             </name>
             <description>
                 <narrative>Support to public procurement, including to create and evaluate legal frameworks; advice in establishing strategic orientation of public procurement policies and reforms; advice in designing public procurement systems and processes; support to public procurement institutions (including electronic procurement) as well as structures or initiatives to assess public procurement systems; and development of professional capacity of public procurement bodies and staff.</narrative>
@@ -861,6 +930,7 @@
             <name>
                 <narrative>Other general public services</narrative>
                 <narrative xml:lang="fr">Autres services généraux</narrative>
+                <narrative xml:lang="es">Otros servicios públicos generales</narrative>
             </name>
             <description>
                 <narrative>Maintenance and storage of government records and archives, operation of government-owned or occupied buildings, central motor vehicle pools, government-operated printing offices, centralised computer and data processing services, etc.</narrative>
@@ -873,6 +943,7 @@
             <name>
                 <narrative>National monitoring and evaluation</narrative>
                 <narrative xml:lang="fr">Suivi et evaluation au niveau national</narrative>
+                <narrative xml:lang="es">Seguimiento y evaluación nacional</narrative>
             </name>
             <description>
                 <narrative>Operation or support of institutions providing national monitoring and evaluation.</narrative>
@@ -885,6 +956,7 @@
             <name>
                 <narrative>Local government finance</narrative>
                 <narrative xml:lang="fr">Financement des gouvernements locaux</narrative>
+                <narrative xml:lang="es">Financiación del gobierno local</narrative>
             </name>
             <description>
                 <narrative>Financial transfers to local government; support to institutions managing such transfers. (Use specific sector codes for sector-related transfers.)</narrative>
@@ -897,6 +969,7 @@
             <name>
                 <narrative>Other central transfers to institutions</narrative>
                 <narrative xml:lang="fr">Autres transferts du centre à des institutions</narrative>
+                <narrative xml:lang="es">Otras transferencias centrales a instituciones</narrative>
             </name>
             <description>
                 <narrative>Transfers to non sector-specific autonomous bodies or state-owned enterprises outside of local government finance; support to institutions managing such transfers. (Use specific sector codes for sector-related transfers.)</narrative>
@@ -909,6 +982,7 @@
             <name>
                 <narrative>Legal and judicial development</narrative>
                 <narrative xml:lang="fr">Développement des services légaux et judiciaires</narrative>
+                <narrative xml:lang="es">Desarrollo jurídico y judicial</narrative>
             </name>
             <description>
                 <narrative>Support to institutions, systems and procedures of the justice sector, both formal and informal; support to ministries of justice, the interior and home affairs; judges and courts; legal drafting services; bar and lawyers associations; professional legal education; maintenance of law and order and public safety; border management; law enforcement agencies, police, prisons and their supervision; ombudsmen; alternative dispute resolution, arbitration and mediation; legal aid and counsel; traditional, indigenous and paralegal practices that fall outside the formal legal system. Measures that support the improvement of legal frameworks, constitutions, laws and regulations; legislative and constitutional drafting and review; legal reform; integration of formal and informal systems of law. Public legal education; dissemination of information on entitlements and remedies for injustice; awareness campaigns. (Use codes 152xx for activities that are primarily aimed at supporting security system reform or undertaken in connection with post-conflict and peace building activities. Use code 15190 for capacity building in border management related to migration.)</narrative>
@@ -922,6 +996,7 @@
             <name>
                 <narrative>Justice, law and order policy, planning and administration</narrative>
                 <narrative xml:lang="fr">Développement et administration des politiques de justice et de maintien de l'ordre</narrative>
+                <narrative xml:lang="es">Políticas, planificación y administración de la justicia, la ley y el orden</narrative>
             </name>
             <description>
                 <narrative>Judicial law and order sectors; policy development within ministries of justice or equivalents.</narrative>
@@ -934,6 +1009,7 @@
             <name>
                 <narrative>Police</narrative>
                 <narrative xml:lang="fr">Police</narrative>
+                <narrative xml:lang="es">Policía</narrative>
             </name>
             <description>
                 <narrative>Police affairs and services.</narrative>
@@ -946,6 +1022,7 @@
             <name>
                 <narrative>Fire and rescue services</narrative>
                 <narrative xml:lang="fr">Incendies et services de sauvetage</narrative>
+                <narrative xml:lang="es">Servicios de lucha contra incendios y de rescate</narrative>
             </name>
             <description>
                 <narrative>Fire-prevention and fire-fighting affairs and services.</narrative>
@@ -958,6 +1035,7 @@
             <name>
                 <narrative>Judicial affairs</narrative>
                 <narrative xml:lang="fr">Système judiciaire</narrative>
+                <narrative xml:lang="es">Asuntos judiciales</narrative>
             </name>
             <description>
                 <narrative>Civil and criminal law courts and the judicial system, including enforcement of fines and legal settlements imposed by the courts and operation of parole and probation systems.</narrative>
@@ -970,6 +1048,7 @@
             <name>
                 <narrative>Ombudsman</narrative>
                 <narrative xml:lang="fr">Ombudsman</narrative>
+                <narrative xml:lang="es">Ómbudsman</narrative>
             </name>
             <description>
                 <narrative>Independent service representing the interests of the public by investigating and addressing complaints of unfair treatment or maladministration.</narrative>
@@ -982,6 +1061,7 @@
             <name>
                 <narrative>Immigration</narrative>
                 <narrative xml:lang="fr">Immigration</narrative>
+                <narrative xml:lang="es">Inmigración</narrative>
             </name>
             <description>
                 <narrative>Immigration affairs and services, including alien registration, issuing work and travel documents to immigrants.</narrative>
@@ -994,6 +1074,7 @@
             <name>
                 <narrative>Prisons</narrative>
                 <narrative xml:lang="fr">Prisons</narrative>
+                <narrative xml:lang="es">Prisiones</narrative>
             </name>
             <category>151</category>
         </codelist-item>
@@ -1002,6 +1083,7 @@
             <name>
                 <narrative>Government administration</narrative>
                 <narrative xml:lang="fr">Administration gouvernementale</narrative>
+                <narrative xml:lang="es">Administración pública</narrative>
             </name>
             <description>
                 <narrative>Systems of government including parliament, local government, decentralisation; civil service and civil service reform. Including general services by government (or commissioned by government) not elsewhere specified e.g. police, fire protection; cartography, meteorology, legal metrology, aerial surveys and remote sensing; administrative buildings.</narrative>
@@ -1014,6 +1096,7 @@
             <name>
                 <narrative>Macroeconomic policy</narrative>
                 <narrative xml:lang="fr">Politique macroéconomique</narrative>
+                <narrative xml:lang="es">Políticas macroeconómicas</narrative>
             </name>
             <description>
                 <narrative>Support to macroeconomic stability, debt sustainability and structural reforms. Includes technical assistance for strategic formulation of policies, laws and regulation; capacity building to enhance public sector development; policy-based funding. For fiscal policy and domestic revenue mobilisation use codes 15111 and 15114.</narrative>
@@ -1026,6 +1109,7 @@
             <name>
                 <narrative>Meteorological services</narrative>
                 <narrative xml:lang="fr">Services météorologiques</narrative>
+                <narrative xml:lang="es">Servicios meteorológicos</narrative>
             </name>
             <description>
                 <narrative>Operation or support of institutions dealing with weather forecasting.</narrative>
@@ -1038,6 +1122,7 @@
             <name>
                 <narrative>National standards development</narrative>
                 <narrative xml:lang="fr">Élaboration des normes nationales</narrative>
+                <narrative xml:lang="es">Desarrollo de normas nacionales</narrative>
             </name>
             <description>
                 <narrative>Operation or support of institutions dealing with national standards development. (Use code 16062 for statistical capacity-building.)</narrative>
@@ -1050,6 +1135,7 @@
             <name>
                 <narrative>Democratic participation and civil society</narrative>
                 <narrative xml:lang="fr">Participation démocratique et société civile</narrative>
+                <narrative xml:lang="es">Participación democrática y sociedad civil</narrative>
             </name>
             <description>
                 <narrative>Support to the exercise of democracy and diverse forms of participation of citizens beyond elections (15151); direct democracy instruments such as referenda and citizens' initiatives; support to organisations to represent and advocate for their members, to monitor, engage and hold governments to account, and to help citizens learn to act in the public sphere; curricula and teaching for civic education at various levels. (This purpose code is restricted to activities targeting governance issues. When assistance to civil society is for non-governance purposes use other appropriate purpose codes.)</narrative>
@@ -1062,6 +1148,7 @@
             <name>
                 <narrative>Elections</narrative>
                 <narrative xml:lang="fr">Élections</narrative>
+                <narrative xml:lang="es">Elecciones</narrative>
             </name>
             <description>
                 <narrative>Electoral management bodies and processes, election observation, voters' education. (Use code 15230 when in the context of an international peacekeeping operation.)</narrative>
@@ -1074,6 +1161,7 @@
             <name>
                 <narrative>Legislatures and political parties</narrative>
                 <narrative xml:lang="fr">Assemblées législatives et partis politiques</narrative>
+                <narrative xml:lang="es">Órganos legislativos y partidos políticos</narrative>
             </name>
             <description>
                 <narrative>Assistance to strengthen key functions of legislatures/ parliaments including subnational assemblies and councils (representation; oversight; legislation), such as improving the capacity of legislative bodies, improving legislatures' committees and administrative procedures,; research and information management systems; providing training programmes for legislators and support personnel. Assistance to political parties and strengthening of party systems.</narrative>
@@ -1086,6 +1174,7 @@
             <name>
                 <narrative>Media and free flow of information</narrative>
                 <narrative xml:lang="fr">Médias et liberté de l'information</narrative>
+                <narrative xml:lang="es">Medios de comunicación y libre circulación de la información</narrative>
             </name>
             <description>
                 <narrative>Activities that support free and uncensored flow of information on public issues; activities that increase the editorial and technical skills and the integrity of the print and broadcast media, e.g. training of journalists. (Use codes 22010-22040 for provision of equipment and capital assistance to media.)</narrative>
@@ -1098,6 +1187,7 @@
             <name>
                 <narrative>Executive office</narrative>
                 <narrative xml:lang="fr">Exécutif</narrative>
+                <narrative xml:lang="es">Oficina ejecutiva</narrative>
             </name>
             <description>
                 <narrative>Administration, operation or support of executive office. Includes office of the chief executive at all levels of government (monarch, governor-general, president, prime minister, governor, mayor, etc.).</narrative>
@@ -1110,6 +1200,7 @@
             <name>
                 <narrative>Tax policy and administration support</narrative>
                 <narrative xml:lang="fr">Politique et administration fiscales</narrative>
+                <narrative xml:lang="es">Políticas tributarias y apoyo a la administración</narrative>
             </name>
             <category>151</category>
         </codelist-item>
@@ -1118,6 +1209,7 @@
             <name>
                 <narrative>Other non-tax revenue mobilisation</narrative>
                 <narrative xml:lang="fr">Mobilisation des ressources intérieures autre que les recettes non-fiscales</narrative>
+                <narrative xml:lang="es">Movilización de otros ingresos no tributarios</narrative>
             </name>
             <description>
                 <narrative>Non-tax public revenue, which includes line ministries, revenue authorities or other local, regional or national public bodies.</narrative>
@@ -1130,6 +1222,7 @@
             <name>
                 <narrative>Human rights</narrative>
                 <narrative xml:lang="fr">Droits de la personne</narrative>
+                <narrative xml:lang="es">Derechos humanos</narrative>
             </name>
             <description>
                 <narrative>Measures to support specialised official human rights institutions and mechanisms at universal, regional, national and local levels in their statutory roles to promote and protect civil and political, economic, social and cultural rights as defined in international conventions and covenants; translation of international human rights commitments into national legislation; reporting and follow-up; human rights dialogue. Human rights defenders and human rights NGOs; human rights advocacy, activism, mobilisation; awareness raising and public human rights education. Human rights programming targeting specific groups, e.g. children, persons with disabilities, migrants, ethnic, religious, linguistic and sexual minorities, indigenous people and those suffering from caste discrimination, victims of trafficking, victims of torture. (Use code 15230 when in the context of a peacekeeping operation and code 15180 for ending violence against women and girls. Use code 15190 for human rights programming for refugees or migrants, including when they are victims of trafficking.Use code 16070 for Fundamental Principles and Rights at Work, i.e. Child Labour, Forced Labour, Non-discrimination in employment and occupation, Freedom of Association and Collective Bargaining.)</narrative>
@@ -1142,6 +1235,7 @@
             <name>
                 <narrative>Elections</narrative>
                 <narrative xml:lang="fr">Élections</narrative>
+                <narrative xml:lang="es">Elecciones</narrative>
             </name>
             <description>
                 <narrative>Electoral assistance and monitoring, voters' education [other than in connection with UN peace building (15230)].</narrative>
@@ -1154,6 +1248,7 @@
             <name>
                 <narrative>Human rights</narrative>
                 <narrative xml:lang="fr">Droits de la personne</narrative>
+                <narrative xml:lang="es">Derechos humanos</narrative>
             </name>
             <description>
                 <narrative>Monitoring of human rights performance; support for national and regional human rights bodies; protection of ethnic, religious and cultural minorities [other than in connection with un peace building (15230)].</narrative>
@@ -1166,6 +1261,7 @@
             <name>
                 <narrative>Free flow of information</narrative>
                 <narrative xml:lang="fr">Liberté de l’information</narrative>
+                <narrative xml:lang="es">Libre circulación de la información</narrative>
             </name>
             <description>
                 <narrative>Uncensored flow of information on public issues, including activities that increase the professionalism, skills and integrity of the print and broadcast media (e.g. training of journalists).</narrative>
@@ -1178,6 +1274,7 @@
             <name>
                 <narrative>Women's equality organisations and institutions</narrative>
                 <narrative xml:lang="fr">Organisations et institutions pour l’égalité des femmes</narrative>
+                <narrative xml:lang="es">Instituciones y organizaciones de defensa de la igualdad de las mujeres</narrative>
             </name>
             <description>
                 <narrative>Support for institutions and organisations (governmental and non-governmental) working for gender equality and women's empowerment.</narrative>
@@ -1190,6 +1287,7 @@
             <name>
                 <narrative>Women's rights organisations and movements, and government institutions</narrative>
                 <narrative xml:lang="fr">Organisations et mouvements de défense des droits des femmes et institutions gouvernementales</narrative>
+                <narrative xml:lang="es">Organizaciones y movimientos, e instituciones gubernamentales, en defensa de los derechos de las mujeres</narrative>
             </name>
             <description>
                 <narrative>Support for feminist, women-led and women's rights organisations and movements, and institutions (governmental and non-govermental) at all levels to enhance their effectiveness, influence and substainability (activities and core-funding). These organisations exist to bring about transformative change for gender equality and/or the rights of women and girls in developing countries. Their activities include agenda-setting, advocacy, policy dialogue, capacity development, awareness raising and prevention, service provision, conflict-prevention and peacebuilding, research, organising, and alliance and network building</narrative>
@@ -1202,6 +1300,7 @@
             <name>
                 <narrative>Ending violence against women and girls</narrative>
                 <narrative xml:lang="fr">Élimination de la violence à l'égard des femmes et des filles</narrative>
+                <narrative xml:lang="es">Eliminación de la violencia contra las mujeres y las niñas</narrative>
             </name>
             <description>
                 <narrative>Support to programmes designed to prevent and eliminate all forms of violence against women and girls/gender-based violence. This encompasses a broad range of forms of physical, sexual and psychological violence including but not limited to: intimate partner violence (domestic violence); sexual violence; female genital mutilation/cutting (FGM/C); child, early and forced marriage; acid throwing; honour killings; and trafficking of women and girls. Prevention activities may include efforts to empower women and girls; change attitudes, norms and behaviour; adopt and enact legal reforms; and strengthen implementation of laws and policies on ending violence against women and girls, including through strengthening institutional capacity. Interventions to respond to violence against women and girls/gender-based violence may include expanding access to services including legal assistance, psychosocial counselling and health care; training personnel to respond more effectively to the needs of survivors; and ensuring investigation, prosecution and punishment of perpetrators of violence.</narrative>
@@ -1214,6 +1313,7 @@
             <name>
                 <narrative>Local government administration</narrative>
                 <narrative xml:lang="fr">Administration publique locale</narrative>
+                <narrative xml:lang="es">Administración local</narrative>
             </name>
             <description>
                 <narrative>Decentralisation processes (including political, administrative and fiscal dimensions); intergovernmental relations and federalism; strengthening local authorities.</narrative>
@@ -1226,6 +1326,7 @@
             <name>
                 <narrative>Facilitation of orderly, safe, regular and responsible migration and mobility</narrative>
                 <narrative xml:lang="fr">Faciliter la migration et la mobilité de façon ordonnée, sans danger, régulière et responsable</narrative>
+                <narrative xml:lang="es">Facilitación de la migración y la movilidad de forma ordenada, segura, regular y responsable</narrative>
             </name>
             <description>
                 <narrative>Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:• Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.• Measures to improve migrant labour recruitment systems in developing countries.• Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.• Support to effective strategies to ensure international protection and the right to asylum.• Support to effective strategies to ensure access to justice and assistance for displaced persons.• Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).• Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers' interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country.</narrative>
@@ -1238,6 +1339,7 @@
             <name>
                 <narrative>Government and civil society statistics and data</narrative>
                 <narrative xml:lang="fr">Statistiques et données du gouvernement et de la société civile</narrative>
+                <narrative xml:lang="es">Estadísticas y datos relativos al gobierno y a la sociedad civil</narrative>
             </name>
             <description>
                 <narrative>Collection, production, management and dissemination of statistics and data related to Government &amp; Civil Society. Includes macroeconomic statistics, government finance, fiscal and public sector statistics, support to development of administrative data infrastructure, civil society surveys.</narrative>
@@ -1262,6 +1364,7 @@
             <name>
                 <narrative>Security system management and reform</narrative>
                 <narrative xml:lang="fr">Gestion et réforme des systèmes de sécurité</narrative>
+                <narrative xml:lang="es">Gestión y reforma del sistema de seguridad</narrative>
             </name>
             <description>
                 <narrative>Technical co-operation provided to parliament, government ministries, law enforcement agencies and the judiciary to assist review and reform of the security system to improve democratic governance and civilian control; technical co-operation provided to government to improve civilian oversight and democratic control of budgeting, management, accountability and auditing of security expenditure, including military budgets, as part of a public expenditure management programme; assistance to civil society to enhance its competence and capacity to scrutinise the security system so that it is managed in accordance with democratic norms and principles of accountability, transparency and good governance. [Other than in the context of an international peacekeeping operation (15230)].</narrative>
@@ -1274,6 +1377,7 @@
             <name>
                 <narrative>Civilian peace-building, conflict prevention and resolution</narrative>
                 <narrative xml:lang="fr">Dispositifs civils de construction de la paix, et de prévention et de règlement des conflits</narrative>
+                <narrative xml:lang="es">Capacidad civil de prevención y resolución de conflictos y de consolidación de la paz</narrative>
             </name>
             <description>
                 <narrative>Support for civilian activities related to peace building, conflict prevention and resolution, including capacity building, monitoring, dialogue and information exchange. Bilateral participation in international civilian peace missions such as those conducted by the UN Department of Political Affairs (UNDPA) or the European Union (European Security and Defence Policy), and contributions to civilian peace funds or commissions (e.g. Peacebuilding Commission, Peacebuilding thematic window of the MDG achievement fund etc.). The contributions can take the form of financing or provision of equipment or civilian or military personnel (e.g. for training civilians).(Use code 15230 for bilateral participation in international peacekeeping operations).</narrative>
@@ -1286,6 +1390,7 @@
             <name>
                 <narrative>Participation in international peacekeeping operations</narrative>
                 <narrative xml:lang="fr">Participation à des opérations internationales de maintien de la paix</narrative>
+                <narrative xml:lang="es">Participación en operaciones internacionales de mantenimiento de la paz</narrative>
             </name>
             <description>
                 <narrative>Bilateral participation in peacekeeping operations mandated or authorised by the United Nations (UN) through Security Council resolutions, and conducted by international organisations, e.g. UN, NATO, the European Union (Security and Defence Policy security-related operations), or regional groupings of developing countries. Direct contributions to the UN Department for Peacekeeping Operations (UNDPKO) budget are excluded from bilateral ODA (they are reportable in part as multilateral ODA, see Annex 9). The activities that can be reported as bilateral ODA under this code are limited to: human rights and election monitoring; reintegration of demobilised soldiers; rehabilitation of basic national infrastructure; monitoring or retraining of civil administrators and police forces; security sector reform and other rule of law-related activities; training in customs and border control procedures; advice or training in fiscal or macroeconomic stabilisation policy; repatriation and demobilisation of armed factions, and disposal of their weapons; explosive mine removal. The enforcement aspects of international peacekeeping operations are not reportable as ODA. ODA-eligible bilateral participation in peacekeeping operations can take the form of financing or provision of equipment or military or civilian personnel (e.g. police officers). The reportable cost is calculated as the excess over what the personnel and equipment would have cost to maintain had they not been assigned to take part in a peace operation. Costs for military contingents participating in UNDPKO peacekeeping operations are not reportable as ODA. International peacekeeping operations may include humanitarian-type activities (contributions to the form of equipment or personnel), as described in codes 7xxxx. These should be included under code 15230 if they are an integrated part of the activities above, otherwise they should be reported as humanitarian aid. NB: When using this code, indicate the name of the operation in the short description of the activity reported.</narrative>
@@ -1298,6 +1403,7 @@
             <name>
                 <narrative>Reintegration and SALW control</narrative>
                 <narrative xml:lang="fr">Réintégration et contrôle des armes légères et de petit calibre</narrative>
+                <narrative xml:lang="es">Reintegración y control de armas pequeñas y armas ligeras (APAL)</narrative>
             </name>
             <description>
                 <narrative>Reintegration of demobilised military personnel into the economy; conversion of production facilities from military to civilian outputs; technical co-operation to control, prevent and/or reduce the proliferation of small arms and light weapons (SALW) – see para. 80 of the Directives for definition of SALW activities covered. [Other than in the context of an international peacekeeping operation (15230) or child soldiers (15261)].</narrative>
@@ -1310,6 +1416,7 @@
             <name>
                 <narrative>Removal of land mines and explosive remnants of war</narrative>
                 <narrative xml:lang="fr">Enlèvement des mines terrestres et restes explosifs de guerre</narrative>
+                <narrative xml:lang="es">Remoción de minas terrestres y restos explosivos de guerra</narrative>
             </name>
             <description>
                 <narrative>All activities related to land mines and explosive remnants of war which have benefits to developing countries as their main objective, including removal of land mines and explosive remnants of war, and stockpile destruction for developmental purposes [other than in the context of an international peacekeeping operation (15230)]; risk education and awareness raising; rehabilitation, reintegration and assistance to victims, and research and development on demining and clearance. Only activities for civilian purposes are ODA-eligible.</narrative>
@@ -1322,6 +1429,7 @@
             <name>
                 <narrative>Child soldiers (prevention and demobilisation)</narrative>
                 <narrative xml:lang="fr">Enfants soldats (Prévention et démobilisation)</narrative>
+                <narrative xml:lang="es">Niños soldados (prevención y desmovilización)</narrative>
             </name>
             <description>
                 <narrative>Technical co-operation provided to government – and assistance to civil society organisations – to support and apply legislation designed to prevent the recruitment of child soldiers, and to demobilise, disarm, reintegrate, repatriate and resettle (DDR) child soldiers.</narrative>
@@ -1334,6 +1442,7 @@
             <name>
                 <narrative>Social Protection</narrative>
                 <narrative xml:lang="fr">Protection sociale</narrative>
+                <narrative xml:lang="es">Protección social</narrative>
             </name>
             <description>
                 <narrative>Social protection or social security strategies, legislation and administration; institution capacity building and advice; social security and other social schemes; support programmes, cash benefits, pensions and special programmes for older persons, orphans, persons with disabilities, children, mothers with newborns, those living in poverty, without jobs and other vulnerable groups; social dimensions of structural adjustment.</narrative>
@@ -1347,6 +1456,7 @@
             <name>
                 <narrative>Social protection and welfare services policy, planning and administration</narrative>
                 <narrative xml:lang="fr">Politiques, planification et administration des services de protection sociale</narrative>
+                <narrative xml:lang="es">Políticas, planificación y administración en materia de protección y servicios sociales</narrative>
             </name>
             <description>
                 <narrative>Administration of overall social protection policies, plans, programmes and budgets including legislation, standards and statistics on social protection.</narrative>
@@ -1359,6 +1469,7 @@
             <name>
                 <narrative>Social security (excl pensions)</narrative>
                 <narrative xml:lang="fr">Protection sociale (excluant retraites)</narrative>
+                <narrative xml:lang="es">Seguridad social (excepto pensiones)</narrative>
             </name>
             <description>
                 <narrative>Social protection shemes in the form of cash or in-kind benefits to people unable to work due to sickness or injury.</narrative>
@@ -1371,6 +1482,7 @@
             <name>
                 <narrative>General pensions</narrative>
                 <narrative xml:lang="fr">Retraites</narrative>
+                <narrative xml:lang="es">Pensiones generales</narrative>
             </name>
             <description>
                 <narrative>Social protection schemes in the form of cash or in-kind benefits, including pensions, against the risks linked to old age.</narrative>
@@ -1383,6 +1495,7 @@
             <name>
                 <narrative>Civil service pensions</narrative>
                 <narrative xml:lang="fr">Régimes de retraite des fonctionnaires</narrative>
+                <narrative xml:lang="es">Pensiones de la administración pública</narrative>
             </name>
             <description>
                 <narrative>Pension schemes for government personnel.</narrative>
@@ -1395,6 +1508,7 @@
             <name>
                 <narrative>Social services (incl youth development and women+ children)</narrative>
                 <narrative xml:lang="fr">Services sociaux (y compris jeunes, femmes et enfants)</narrative>
+                <narrative xml:lang="es">Servicios sociales (incluido el desarrollo de la juventud y servicios dirigidos a mujeres y niños)</narrative>
             </name>
             <description>
                 <narrative>Social protection schemes in the form of cash or in-kind benefits to households with dependent children, including parental leave benefits.</narrative>
@@ -1407,6 +1521,7 @@
             <name>
                 <narrative>Employment creation</narrative>
                 <narrative xml:lang="fr">Création d'emplois</narrative>
+                <narrative xml:lang="es">Creación de empleo</narrative>
             </name>
             <description>
                 <narrative>Employment policy and planning; institution capacity building and advice; employment creation and income generation programmes; including activities specifically designed for the needs of vulnerable groups.</narrative>
@@ -1419,6 +1534,7 @@
             <name>
                 <narrative>Housing policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique du logement et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas de la vivienda</narrative>
             </name>
             <description>
                 <narrative>Housing sector policy, planning and programmes;  excluding low-cost housing and slum clearance (16040).</narrative>
@@ -1431,6 +1547,7 @@
             <name>
                 <narrative>Low-cost housing</narrative>
                 <narrative xml:lang="fr">Logement à coût réduit</narrative>
+                <narrative xml:lang="es">Viviendas de bajo costo</narrative>
             </name>
             <description>
                 <narrative>Including slum clearance.</narrative>
@@ -1443,6 +1560,7 @@
             <name>
                 <narrative>Multisector aid for basic social services</narrative>
                 <narrative xml:lang="fr">Aide plurisectorielle pour les services sociaux de base</narrative>
+                <narrative xml:lang="es">Ayuda multisectorial para servicios sociales básicos</narrative>
             </name>
             <description>
                 <narrative>Basic social services are defined to include basic education, basic health, basic nutrition, population/reproductive health and basic drinking water supply and basic sanitation.</narrative>
@@ -1455,6 +1573,7 @@
             <name>
                 <narrative>Culture and recreation</narrative>
                 <narrative xml:lang="fr">Culture et loisirs</narrative>
+                <narrative xml:lang="es">Cultura y actividades recreativas</narrative>
             </name>
             <description>
                 <narrative>Including libraries and museums.</narrative>
@@ -1468,6 +1587,7 @@
             <name>
                 <narrative>Statistical capacity building</narrative>
                 <narrative xml:lang="fr">Renforcement des capacités statistiques</narrative>
+                <narrative xml:lang="es">Creación de capacidades estadísticas</narrative>
             </name>
             <description>
                 <narrative>All statistical activities, such as data collection, processing, dissemination and analysis; support to development and management of official statistics including demographic, social, economic, environmental and multi-sectoral statistics; statistical quality frameworks; development of human and technological resources for statistics, investments in data innovation. Activities related to data and statistics in the sectors 120, 130 or 150 should preferably be coded under the voluntary purpose codes 12196, 13096 and 15196. Activities with the sole purpose of monitoring development co-operation activities, including if performed by third parties, should be coded under 91010 (Administrative costs).</narrative>
@@ -1480,6 +1600,7 @@
             <name>
                 <narrative>Narcotics control</narrative>
                 <narrative xml:lang="fr">Lutte contre le trafic de drogues</narrative>
+                <narrative xml:lang="es">Lucha contra los estupefacientes</narrative>
             </name>
             <description>
                 <narrative>In-country and customs controls including training of the police; educational programmes and awareness campaigns to restrict narcotics traffic and in-country distribution. ODA recording of narcotics control expenditures is limited to activities that focus on economic development and welfare including alternative development programmes and crop substitution (see 31165 and 43050). Activities by the donor country to interdict drug supplies destroy crops or train or finance military personnel in anti-narcotics activities are not reportable.</narrative>
@@ -1492,6 +1613,7 @@
             <name>
                 <narrative>Social mitigation of HIV/AIDS</narrative>
                 <narrative xml:lang="fr">Atténuation de l'impact social du VIH/sida</narrative>
+                <narrative xml:lang="es">Mitigación social del VIH/sida</narrative>
             </name>
             <description>
                 <narrative>Special programmes to address the consequences of HIV/AIDS, e.g. social, legal and economic assistance to people living with HIV/AIDS including food security and employment; support to vulnerable groups and children orphaned by HIV/AIDS; human rights of HIV/AIDS affected people.</narrative>
@@ -1504,6 +1626,7 @@
             <name>
                 <narrative>Recreation and sport</narrative>
                 <narrative xml:lang="fr">Récréation et sport</narrative>
+                <narrative xml:lang="es">Actividades recreativas y deporte</narrative>
             </name>
             <category>160</category>
         </codelist-item>
@@ -1512,6 +1635,7 @@
             <name>
                 <narrative>Culture</narrative>
                 <narrative xml:lang="fr">Culture</narrative>
+                <narrative xml:lang="es">Cultura</narrative>
             </name>
             <category>160</category>
         </codelist-item>
@@ -1520,6 +1644,7 @@
             <name>
                 <narrative>Labour rights</narrative>
                 <narrative xml:lang="fr">Droits du travail</narrative>
+                <narrative xml:lang="es">Derechos laborales</narrative>
             </name>
             <description>
                 <narrative>Advocacy for international labour standards, labour law, fundamental principles and rights at work (child labour, forced labour, non-discrimination in the workplace, freedom of association and collective bargaining); formalisation of informal work, occupational safety and health.</narrative>
@@ -1532,6 +1657,7 @@
             <name>
                 <narrative>Social dialogue</narrative>
                 <narrative xml:lang="fr">Dialogue social</narrative>
+                <narrative xml:lang="es">Diálogo social</narrative>
             </name>
             <description>
                 <narrative>Capacity building and advice in support of social dialogue; support to social dialogue institutions, bodies and mechanisms; capacity building of workers' and employers' organisations.</narrative>
@@ -1544,6 +1670,7 @@
             <name>
                 <narrative>Transport policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique des transports et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas del transporte</narrative>
             </name>
             <description>
                 <narrative>Transport sector policy, planning and programmes; aid to transport ministries; institution capacity building and advice; unspecified transport; activities that combine road, rail, water and/or air transport. Includes prevention of road accidents. Whenever possible, report transport of goods under the sector of the good being transported.</narrative>
@@ -1557,6 +1684,7 @@
             <name>
                 <narrative>Transport policy, planning and administration</narrative>
                 <narrative xml:lang="fr">Politiques, planification et administration des transports</narrative>
+                <narrative xml:lang="es">Políticas, planificación y administración del transporte</narrative>
             </name>
             <description>
                 <narrative>Administration of affairs and services concerning transport systems.</narrative>
@@ -1569,6 +1697,7 @@
             <name>
                 <narrative>Public transport services</narrative>
                 <narrative xml:lang="fr">Transports en commun</narrative>
+                <narrative xml:lang="es">Servicios de transporte público</narrative>
             </name>
             <description>
                 <narrative>Administration of affairs and services concerning public transport.</narrative>
@@ -1581,6 +1710,7 @@
             <name>
                 <narrative>Transport regulation</narrative>
                 <narrative xml:lang="fr">Réglementation des transports</narrative>
+                <narrative xml:lang="es">Regulación del transporte</narrative>
             </name>
             <description>
                 <narrative>Supervision and regulation of users, operations, construction and maintenance of transport systems (registration, licensing, inspection of equipment, operator skills and training; safety standards, franchises, tariffs, levels of service, etc.).</narrative>
@@ -1593,6 +1723,7 @@
             <name>
                 <narrative>Road transport</narrative>
                 <narrative xml:lang="fr">Transport routier</narrative>
+                <narrative xml:lang="es">Transporte por carretera</narrative>
             </name>
             <description>
                 <narrative>Road infrastructure, road vehicles; passenger road transport, motor passenger cars.</narrative>
@@ -1606,6 +1737,7 @@
             <name>
                 <narrative>Feeder road construction</narrative>
                 <narrative xml:lang="fr">Construction des voies de desserte</narrative>
+                <narrative xml:lang="es">Construcción de carreteras secundarias</narrative>
             </name>
             <description>
                 <narrative>Construction or operation of feeder road transport systems and facilities.</narrative>
@@ -1618,6 +1750,7 @@
             <name>
                 <narrative>Feeder road maintenance</narrative>
                 <narrative xml:lang="fr">Entretien des voies de desserte</narrative>
+                <narrative xml:lang="es">Mantenimiento de carreteras secundarias</narrative>
             </name>
             <description>
                 <narrative>Maintenance of feeder road transport systems and facilities.</narrative>
@@ -1630,6 +1763,7 @@
             <name>
                 <narrative>National road construction</narrative>
                 <narrative xml:lang="fr">Construction des routes nationales</narrative>
+                <narrative xml:lang="es">Construcción de carreteras nacionales</narrative>
             </name>
             <description>
                 <narrative>Construction or operation of national road transport systems and facilities.</narrative>
@@ -1642,6 +1776,7 @@
             <name>
                 <narrative>National road maintenance</narrative>
                 <narrative xml:lang="fr">Entretien des routes nationales</narrative>
+                <narrative xml:lang="es">Mantenimiento de carreteras nacionales</narrative>
             </name>
             <description>
                 <narrative>Maintenance of national road transport systems and facilities.</narrative>
@@ -1654,6 +1789,7 @@
             <name>
                 <narrative>Rail transport</narrative>
                 <narrative xml:lang="fr">Transport ferroviaire</narrative>
+                <narrative xml:lang="es">Transporte por ferrocarril</narrative>
             </name>
             <description>
                 <narrative>Rail infrastructure, rail equipment, locomotives, other rolling stock; including light rail (tram) and underground systems.</narrative>
@@ -1666,6 +1802,7 @@
             <name>
                 <narrative>Water transport</narrative>
                 <narrative xml:lang="fr">Transport par voies d'eau</narrative>
+                <narrative xml:lang="es">Transporte por agua</narrative>
             </name>
             <description>
                 <narrative>Harbours and docks, harbour guidance systems, ships and boats; river and other inland water transport, inland barges and vessels.</narrative>
@@ -1678,6 +1815,7 @@
             <name>
                 <narrative>Air transport</narrative>
                 <narrative xml:lang="fr">Transport aérien</narrative>
+                <narrative xml:lang="es">Transporte aéreo</narrative>
             </name>
             <description>
                 <narrative>Airports, airport guidance systems, aeroplanes, aeroplane maintenance equipment.</narrative>
@@ -1690,6 +1828,7 @@
             <name>
                 <narrative>Storage</narrative>
                 <narrative xml:lang="fr">Stockage</narrative>
+                <narrative xml:lang="es">Almacenamiento</narrative>
             </name>
             <description>
                 <narrative>Whether or not related to transportation. Whenever possible, report storage projects under the sector of the resource being stored.</narrative>
@@ -1702,6 +1841,7 @@
             <name>
                 <narrative>Education and training in transport and storage</narrative>
                 <narrative xml:lang="fr">Education/formation dans les transports et le stockage</narrative>
+                <narrative xml:lang="es">Educación y capacitación en transporte y almacenamiento</narrative>
             </name>
             <category>210</category>
         </codelist-item>
@@ -1710,6 +1850,7 @@
             <name>
                 <narrative>Communications policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique des communications et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas de las comunicaciones</narrative>
             </name>
             <description>
                 <narrative>Communications sector policy, planning and programmes; institution capacity building and advice; including postal services development; unspecified communications activities.</narrative>
@@ -1723,6 +1864,7 @@
             <name>
                 <narrative>Communications policy, planning and administration</narrative>
                 <narrative xml:lang="fr">Politiques, planification et administration des communications</narrative>
+                <narrative xml:lang="es">Políticas, planificación y administración de las comunicaciones</narrative>
             </name>
             <category>220</category>
         </codelist-item>
@@ -1731,6 +1873,7 @@
             <name>
                 <narrative>Postal services</narrative>
                 <narrative xml:lang="fr">Services postaux</narrative>
+                <narrative xml:lang="es">Servicios postales</narrative>
             </name>
             <description>
                 <narrative>Development and operation of postal services.</narrative>
@@ -1743,6 +1886,7 @@
             <name>
                 <narrative>Information services</narrative>
                 <narrative xml:lang="fr">Services d'information</narrative>
+                <narrative xml:lang="es">Servicios de información</narrative>
             </name>
             <description>
                 <narrative>Provision of information services.</narrative>
@@ -1755,6 +1899,7 @@
             <name>
                 <narrative>Telecommunications</narrative>
                 <narrative xml:lang="fr">Télécommunications</narrative>
+                <narrative xml:lang="es">Telecomunicaciones</narrative>
             </name>
             <description>
                 <narrative>Telephone networks, telecommunication satellites, earth stations.</narrative>
@@ -1767,6 +1912,7 @@
             <name>
                 <narrative>Radio/television/print media</narrative>
                 <narrative xml:lang="fr">Radio, télévision, presse écrite</narrative>
+                <narrative xml:lang="es">Medios de radio, televisión y prensa escrita</narrative>
             </name>
             <description>
                 <narrative>Radio and TV links, equipment; newspapers; printing and publishing.</narrative>
@@ -1779,6 +1925,7 @@
             <name>
                 <narrative>Information and communication technology (ICT)</narrative>
                 <narrative xml:lang="fr">Technologies de l'information et de la communication (TIC)</narrative>
+                <narrative xml:lang="es">Tecnología de la información y las comunicaciones (TIC)</narrative>
             </name>
             <description>
                 <narrative>Computer hardware and software; internet access; IT training. When sector cannot be specified.</narrative>
@@ -1791,6 +1938,7 @@
             <name>
                 <narrative>Energy policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique de l’énergie et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas de la energía</narrative>
             </name>
             <description>
                 <narrative>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</narrative>
@@ -1803,6 +1951,7 @@
             <name>
                 <narrative>Power generation/non-renewable sources</narrative>
                 <narrative xml:lang="fr">Production d’énergie (sources non renouvelables)</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes no renovables</narrative>
             </name>
             <description>
                 <narrative>Thermal power plants including when heat source cannot be determined; combined gas-coal power plants.</narrative>
@@ -1815,6 +1964,7 @@
             <name>
                 <narrative>Power generation/renewable sources</narrative>
                 <narrative xml:lang="fr">Production d’énergie (sources renouvelables)</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </name>
             <description>
                 <narrative>Including policy, planning, development programmes, surveys and incentives. Fuelwood/ charcoal production should be included under forestry (31261).</narrative>
@@ -1827,6 +1977,7 @@
             <name>
                 <narrative>Electrical transmission/ distribution</narrative>
                 <narrative xml:lang="fr">Transmission et distribution d’électricité</narrative>
+                <narrative xml:lang="es">Transmisión o distribución eléctrica</narrative>
             </name>
             <description>
                 <narrative>Distribution from power source to end user; transmission lines.</narrative>
@@ -1839,6 +1990,7 @@
             <name>
                 <narrative>Gas distribution</narrative>
                 <narrative xml:lang="fr">Distribution de gaz</narrative>
+                <narrative xml:lang="es">Distribución del gas</narrative>
             </name>
             <description>
                 <narrative>Delivery for use by ultimate consumer.</narrative>
@@ -1851,6 +2003,7 @@
             <name>
                 <narrative>Oil-fired power plants</narrative>
                 <narrative xml:lang="fr">Centrales alimentées au fuel</narrative>
+                <narrative xml:lang="es">Centrales de combustible</narrative>
             </name>
             <description>
                 <narrative>Including diesel power plants.</narrative>
@@ -1863,6 +2016,7 @@
             <name>
                 <narrative>Gas-fired power plants</narrative>
                 <narrative xml:lang="fr">Centrales alimentées au gaz</narrative>
+                <narrative xml:lang="es">Centrales de gas</narrative>
             </name>
             <category>230</category>
         </codelist-item>
@@ -1871,6 +2025,7 @@
             <name>
                 <narrative>Coal-fired power plants</narrative>
                 <narrative xml:lang="fr">Centrales alimentées au charbon</narrative>
+                <narrative xml:lang="es">Centrales de carbón</narrative>
             </name>
             <category>230</category>
         </codelist-item>
@@ -1879,6 +2034,7 @@
             <name>
                 <narrative>Nuclear power plants</narrative>
                 <narrative xml:lang="fr">Centrales nucléaires</narrative>
+                <narrative xml:lang="es">Centrales nucleares</narrative>
             </name>
             <description>
                 <narrative>Including nuclear safety.</narrative>
@@ -1891,6 +2047,7 @@
             <name>
                 <narrative>Hydro-electric power plants</narrative>
                 <narrative xml:lang="fr">Centrales et barrages hydroélectriques</narrative>
+                <narrative xml:lang="es">Centrales hidroeléctricas</narrative>
             </name>
             <description>
                 <narrative>Including power-generating river barges.</narrative>
@@ -1903,6 +2060,7 @@
             <name>
                 <narrative>Geothermal energy</narrative>
                 <narrative xml:lang="fr">Énergie géothermique</narrative>
+                <narrative xml:lang="es">Energía geotérmica</narrative>
             </name>
             <category>230</category>
         </codelist-item>
@@ -1911,6 +2069,7 @@
             <name>
                 <narrative>Solar energy</narrative>
                 <narrative xml:lang="fr">Énergie solaire</narrative>
+                <narrative xml:lang="es">Energía solar</narrative>
             </name>
             <description>
                 <narrative>Including photo-voltaic cells, solar thermal applications and solar heating.</narrative>
@@ -1923,6 +2082,7 @@
             <name>
                 <narrative>Wind power</narrative>
                 <narrative xml:lang="fr">Énergie éolienne</narrative>
+                <narrative xml:lang="es">Energía eólica</narrative>
             </name>
             <description>
                 <narrative>Wind energy for water lifting and electric power generation.</narrative>
@@ -1935,6 +2095,7 @@
             <name>
                 <narrative>Ocean power</narrative>
                 <narrative xml:lang="fr">Énergie marémotrice</narrative>
+                <narrative xml:lang="es">Energía marina</narrative>
             </name>
             <description>
                 <narrative>Including ocean thermal energy conversion, tidal and wave power.</narrative>
@@ -1947,6 +2108,7 @@
             <name>
                 <narrative>Biomass</narrative>
                 <narrative xml:lang="fr">Biomasse</narrative>
+                <narrative xml:lang="es">Biomasa</narrative>
             </name>
             <description>
                 <narrative>Densification technologies and use of biomass for direct power generation including biogas, gas obtained from sugar cane and other plant residues, anaerobic digesters.</narrative>
@@ -1959,6 +2121,7 @@
             <name>
                 <narrative>Energy education/training</narrative>
                 <narrative xml:lang="fr">Éducation et formation dans le domaine de l’énergie</narrative>
+                <narrative xml:lang="es">Educación y capacitación en energía</narrative>
             </name>
             <description>
                 <narrative>Applies to all energy sub-sectors; all levels of training.</narrative>
@@ -1971,6 +2134,7 @@
             <name>
                 <narrative>Energy research</narrative>
                 <narrative xml:lang="fr">Recherche dans le domaine de l’énergie</narrative>
+                <narrative xml:lang="es">Investigación sobre la energía</narrative>
             </name>
             <description>
                 <narrative>Including general inventories, surveys.</narrative>
@@ -1983,6 +2147,7 @@
             <name>
                 <narrative>Energy policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique énergétique et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas de la energía</narrative>
             </name>
             <description>
                 <narrative>Energy sector policy, planning; aid to energy ministries and other governmental or nongovernmental institutions for activities related to the SDG7; institution capacity building and advice; tariffs, market building, unspecified energy activities; energy activities for which a more specific code cannot be assigned.</narrative>
@@ -1996,6 +2161,7 @@
             <name>
                 <narrative>Energy sector policy, planning and administration</narrative>
                 <narrative xml:lang="fr">Politiques, planification et administration du secteur de l'énergie</narrative>
+                <narrative xml:lang="es">Políticas, planificación y administración del sector energético</narrative>
             </name>
             <category>231</category>
         </codelist-item>
@@ -2004,6 +2170,7 @@
             <name>
                 <narrative>Energy regulation</narrative>
                 <narrative xml:lang="fr">Réglementation de l'énergie</narrative>
+                <narrative xml:lang="es">Regulación de la energía</narrative>
             </name>
             <description>
                 <narrative>Regulation of the energy sector, including wholesale and retail electricity provision.</narrative>
@@ -2016,6 +2183,7 @@
             <name>
                 <narrative>Energy education/training</narrative>
                 <narrative xml:lang="fr">Éducation et formation dans le domaine de l'énergie</narrative>
+                <narrative xml:lang="es">Educación y capacitación en energía</narrative>
             </name>
             <description>
                 <narrative>All levels of training not included elsewhere.</narrative>
@@ -2028,6 +2196,7 @@
             <name>
                 <narrative>Energy research</narrative>
                 <narrative xml:lang="fr">Recherche dans le domaine de l'énergie</narrative>
+                <narrative xml:lang="es">Investigación sobre la energía</narrative>
             </name>
             <description>
                 <narrative>Including general inventories, surveys.</narrative>
@@ -2040,6 +2209,7 @@
             <name>
                 <narrative>Energy conservation and demand-side efficiency</narrative>
                 <narrative xml:lang="fr">Économies d'énergie et efficacité du côté de la demande</narrative>
+                <narrative xml:lang="es">Conservación de la energía y eficiencia desde el punto de vista de la demanda</narrative>
             </name>
             <description>
                 <narrative>Support for energy demand reduction, e.g. building and industry upgrades, smart grids, metering and tariffs. For clean cooking appliances use code 32174.</narrative>
@@ -2052,6 +2222,7 @@
             <name>
                 <narrative>Energy generation, renewable sources - multiple technologies</narrative>
                 <narrative xml:lang="fr">Production d'énergie, sources renouvelables - multiples technologies</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables: múltiples tecnologías</narrative>
             </name>
             <description>
                 <narrative>Renewable energy generation programmes that cannot be attributed to one single technology (codes 23220 through 23280 below). Fuelwood/charcoal production should be included under forestry 31261.</narrative>
@@ -2064,6 +2235,7 @@
             <name>
                 <narrative>Hydro-electric power plants</narrative>
                 <narrative xml:lang="fr">Centrales hydrauliques</narrative>
+                <narrative xml:lang="es">Centrales hidroeléctricas</narrative>
             </name>
             <description>
                 <narrative>Including energy generating river barges.</narrative>
@@ -2076,6 +2248,7 @@
             <name>
                 <narrative>Solar energy for centralised grids</narrative>
                 <narrative xml:lang="fr">Energie solaire pour réseaux centralisés</narrative>
+                <narrative xml:lang="es">Energía solar para redes centralizadas</narrative>
             </name>
             <description>
                 <narrative>Including photo-voltaic cells, concentrated solar power systems connected to the main grid and net-metered decentralised solutions.</narrative>
@@ -2088,6 +2261,7 @@
             <name>
                 <narrative>Solar energy for isolated grids and standalone systems</narrative>
                 <narrative xml:lang="fr">Energie solaire pour réseaux isolés et systèmes autonomes</narrative>
+                <narrative xml:lang="es">Energía solar para redes aisladas y sistemas autónomos</narrative>
             </name>
             <description>
                 <narrative>Solar power generation for isolated mini-grids, solar home systems (including integrated wiring and related appliances), solar lanterns distribution and commercialisation. This code refers to the power generation component only.</narrative>
@@ -2100,6 +2274,7 @@
             <name>
                 <narrative>Solar energy - thermal applications</narrative>
                 <narrative xml:lang="fr">Energie solaire - usage thermique</narrative>
+                <narrative xml:lang="es">Energía solar: aplicaciones térmicas</narrative>
             </name>
             <description>
                 <narrative>Solar solutions for indoor space and water heating (except for solar cook stoves 32174).</narrative>
@@ -2112,6 +2287,7 @@
             <name>
                 <narrative>Wind energy</narrative>
                 <narrative xml:lang="fr">Énergie éolienne</narrative>
+                <narrative xml:lang="es">Energía eólica</narrative>
             </name>
             <description>
                 <narrative>Wind energy for water lifting and electric power generation.</narrative>
@@ -2124,6 +2300,7 @@
             <name>
                 <narrative>Marine energy</narrative>
                 <narrative xml:lang="fr">Énergie marine</narrative>
+                <narrative xml:lang="es">Energía marina</narrative>
             </name>
             <description>
                 <narrative>Including ocean thermal energy conversion, tidal and wave power.</narrative>
@@ -2136,6 +2313,7 @@
             <name>
                 <narrative>Geothermal energy</narrative>
                 <narrative xml:lang="fr">Énergie géothermique</narrative>
+                <narrative xml:lang="es">Energía geotérmica</narrative>
             </name>
             <description>
                 <narrative>Use of geothermal energy for generating electric power or directly as heat for agriculture, etc.</narrative>
@@ -2148,6 +2326,7 @@
             <name>
                 <narrative>Biofuel-fired power plants</narrative>
                 <narrative xml:lang="fr">Centrales à biocombustibles</narrative>
+                <narrative xml:lang="es">Centrales de biocombustibles</narrative>
             </name>
             <description>
                 <narrative>Use of solids and liquids produced from biomass for direct power generation. Also includes biogases from anaerobic fermentation (e.g. landfill gas, sewage sludge gas, fermentation of energy crops and manure) and thermal processes (also known as syngas); waste-fired power plants making use of biodegradable municipal waste (household waste and waste from companies and public services that resembles household waste, collected at installations specifically designed for their disposal with recovery of combustible liquids, gases or heat). See code 23360 for non-renewable waste-fired power plants.</narrative>
@@ -2160,6 +2339,7 @@
             <name>
                 <narrative>Energy generation, non-renewable sources, unspecified</narrative>
                 <narrative xml:lang="fr">Production d'énergie, sources non renouvelables - non spécifié</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes no renovables, sin especificar</narrative>
             </name>
             <description>
                 <narrative>Thermal power plants including when energy source cannot be determined; combined gas-coal power plants.</narrative>
@@ -2172,6 +2352,7 @@
             <name>
                 <narrative>Coal-fired electric power plants</narrative>
                 <narrative xml:lang="fr">Centrales au charbon</narrative>
+                <narrative xml:lang="es">Centrales eléctricas de carbón</narrative>
             </name>
             <description>
                 <narrative>Thermal electric power plants that use coal as the energy source.</narrative>
@@ -2184,6 +2365,7 @@
             <name>
                 <narrative>Oil-fired electric power plants</narrative>
                 <narrative xml:lang="fr">Centrales au fioul</narrative>
+                <narrative xml:lang="es">Centrales eléctricas de combustible líquido</narrative>
             </name>
             <description>
                 <narrative>Thermal electric power plants that use fuel oil or diesel fuel as the energy source.</narrative>
@@ -2196,6 +2378,7 @@
             <name>
                 <narrative>Natural gas-fired electric power plants</narrative>
                 <narrative xml:lang="fr">Centrales au gaz naturel</narrative>
+                <narrative xml:lang="es">Centrales eléctricas de gas natural</narrative>
             </name>
             <description>
                 <narrative>Electric power plants that are fuelled by natural gas; related feed-in infrastructure (LNG terminals, gasifiers, pipelines to feed the plant).</narrative>
@@ -2208,6 +2391,7 @@
             <name>
                 <narrative>Fossil fuel electric power plants with carbon capture and storage (CCS)</narrative>
                 <narrative xml:lang="fr">Centrales thermiques classiques avec captage et stockage du carbone (CSC)</narrative>
+                <narrative xml:lang="es">Centrales eléctricas de combustible fósil con captura y almacenamiento de carbono</narrative>
             </name>
             <description>
                 <narrative>Fossil fuel electric power plants employing technologies to capture carbon dioxide emissions. CCS not related to power plants should be included under 41020. CCS activities are not reportable as ODA.</narrative>
@@ -2220,6 +2404,7 @@
             <name>
                 <narrative>Non-renewable waste-fired electric power plants</narrative>
                 <narrative xml:lang="fr">Production d'électricité, déchets non renouvelables</narrative>
+                <narrative xml:lang="es">Centrales eléctricas de residuos no renovables</narrative>
             </name>
             <description>
                 <narrative>Electric power plants that use non-biodegradable industrial and municipal waste as the energy source.</narrative>
@@ -2232,6 +2417,7 @@
             <name>
                 <narrative>Hybrid energy electric power plants</narrative>
                 <narrative xml:lang="fr">Centrales hybrides</narrative>
+                <narrative xml:lang="es">Centrales eléctricas de energía híbrida</narrative>
             </name>
             <description>
                 <narrative>Electric power plants that make use of both non-renewable and renewable energy sources.</narrative>
@@ -2244,6 +2430,7 @@
             <name>
                 <narrative>Nuclear energy electric power plants and nuclear safety</narrative>
                 <narrative xml:lang="fr">Centrales nucléaires et sûreté nucléaire</narrative>
+                <narrative xml:lang="es">Centrales eléctricas de energía nuclear y seguridad nuclear</narrative>
             </name>
             <description>
                 <narrative>See note regarding ODA eligibility of nuclear energy.</narrative>
@@ -2256,6 +2443,7 @@
             <name>
                 <narrative>Heat plants</narrative>
                 <narrative xml:lang="fr">Production de chaleur seule</narrative>
+                <narrative xml:lang="es">Centrales de producción de calor</narrative>
             </name>
             <description>
                 <narrative>Power plants which are designed to produce heat only.</narrative>
@@ -2268,6 +2456,7 @@
             <name>
                 <narrative>District heating and cooling</narrative>
                 <narrative xml:lang="fr">Réseaux urbains de chaleur et de froid</narrative>
+                <narrative xml:lang="es">Calefacción y refrigeración urbanas</narrative>
             </name>
             <description>
                 <narrative>Distribution of heat generated in a centralised location, or delivery of chilled water, for residential and commercial heating or cooling purposes.</narrative>
@@ -2280,6 +2469,7 @@
             <name>
                 <narrative>Electric power transmission and distribution (centralised grids)</narrative>
                 <narrative xml:lang="fr">Transport et distribution d'électricité (réseaux centralisés)</narrative>
+                <narrative xml:lang="es">Transmisión y distribución de energía eléctrica (redes centralizadas)</narrative>
             </name>
             <description>
                 <narrative>Grid distribution from power source to end user; transmission lines. Also includes storage of energy to generate power (e.g. pumped hydro, batteries) and the extension of grid access, often to rural areas.</narrative>
@@ -2292,6 +2482,7 @@
             <name>
                 <narrative>Electric power transmission and distribution (isolated mini-grids)</narrative>
                 <narrative xml:lang="fr">Transport et distribution d'électricité (petits réseaux isolés)</narrative>
+                <narrative xml:lang="es">Transmisión y distribución de energía eléctrica (minirredes aisladas)</narrative>
             </name>
             <description>
                 <narrative>Includes village grids and other electricity distribution technologies to end users that are not connected to the main national grid. Also includes related electricity storage. This code refers to the network infrastructure only regardless of the power generation technologies.</narrative>
@@ -2304,6 +2495,7 @@
             <name>
                 <narrative>Retail gas distribution</narrative>
                 <narrative xml:lang="fr">Distribution au détail de gaz</narrative>
+                <narrative xml:lang="es">Distribución de gas al por menor</narrative>
             </name>
             <description>
                 <narrative>Includes urban infrastructure for the delivery of urban gas and LPG cylinder production, distribution and refill. Excludes gas distribution for purposes of electricity generation (23340) and pipelines (32262).</narrative>
@@ -2316,6 +2508,7 @@
             <name>
                 <narrative>Retail distribution of liquid or solid fossil fuels</narrative>
                 <narrative xml:lang="fr">Distribution au détail de carburants fossiles liquide ou solides</narrative>
+                <narrative xml:lang="es">Distribución de combustibles fósiles líquidos o sólidos al por menor</narrative>
             </name>
             <category>236</category>
         </codelist-item>
@@ -2324,6 +2517,7 @@
             <name>
                 <narrative>Electric mobility infrastructures</narrative>
                 <narrative xml:lang="fr">Infrastructures électriques à l'usage de la mobilité</narrative>
+                <narrative xml:lang="es">Infraestructuras para la movilidad eléctrica</narrative>
             </name>
             <description>
                 <narrative>Includes electricity or hydrogen recharging stations for private and public transport systems and related infrastructure (except for rail transport 21030).</narrative>
@@ -2336,6 +2530,7 @@
             <name>
                 <narrative>Financial policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique des finances et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas financieras</narrative>
             </name>
             <description>
                 <narrative>Finance sector policy, planning and programmes; institution capacity building and advice; financial markets and systems.</narrative>
@@ -2348,6 +2543,7 @@
             <name>
                 <narrative>Monetary institutions</narrative>
                 <narrative xml:lang="fr">Institutions monétaires</narrative>
+                <narrative xml:lang="es">Instituciones financieras</narrative>
             </name>
             <description>
                 <narrative>Central banks.</narrative>
@@ -2360,6 +2556,7 @@
             <name>
                 <narrative>Formal sector financial intermediaries</narrative>
                 <narrative xml:lang="fr">Intermédiaires financiers officiels</narrative>
+                <narrative xml:lang="es">Intermediarios financieros del sector formal</narrative>
             </name>
             <description>
                 <narrative>All formal sector financial intermediaries; credit lines; insurance, leasing, venture capital, etc. (except when focused on only one sector).</narrative>
@@ -2372,6 +2569,7 @@
             <name>
                 <narrative>Informal/semi-formal financial intermediaries</narrative>
                 <narrative xml:lang="fr">Intermédiaires financiers du secteur informel et semi formel</narrative>
+                <narrative xml:lang="es">Intermediarios financieros formales o semiformales</narrative>
             </name>
             <description>
                 <narrative>Micro credit, savings and credit co-operatives etc.</narrative>
@@ -2384,6 +2582,7 @@
             <name>
                 <narrative>Remittance facilitation, promotion and optimisation</narrative>
                 <narrative xml:lang="fr">Facilitation, promotion et optimisation des transferts de fonds des migrants</narrative>
+                <narrative xml:lang="es">Facilitación, promoción y optimización de remesas</narrative>
             </name>
             <description>
                 <narrative>Includes programmes aiming at reducing the sending costs of remittances.</narrative>
@@ -2396,6 +2595,7 @@
             <name>
                 <narrative>Education/training in banking and financial services</narrative>
                 <narrative xml:lang="fr">Education/formation bancaire et dans les services financiers</narrative>
+                <narrative xml:lang="es">Educación o capacitación en servicios bancarios y financieros</narrative>
             </name>
             <category>240</category>
         </codelist-item>
@@ -2404,6 +2604,7 @@
             <name>
                 <narrative>Business policy and administration</narrative>
                 <narrative xml:lang="fr">Politique commerciale et administration</narrative>
+                <narrative xml:lang="es">Políticas y administración empresariales</narrative>
             </name>
             <description>
                 <narrative>Public sector policies and institution support to the business environment and investment climate, including business regulations, property rights, non-discrimination, investment promotion, competition policy, enterprises law, private-public partnerships.</narrative>
@@ -2416,6 +2617,7 @@
             <name>
                 <narrative>Privatisation</narrative>
                 <narrative xml:lang="fr">Privatisation</narrative>
+                <narrative xml:lang="es">Privatización</narrative>
             </name>
             <description>
                 <narrative>When sector cannot be specified. Including general state enterprise restructuring or demonopolisation programmes; planning, programming, advice.</narrative>
@@ -2428,6 +2630,7 @@
             <name>
                 <narrative>Business development services</narrative>
                 <narrative xml:lang="fr">Business development services</narrative>
+                <narrative xml:lang="es">Servicios de desarrollo empresarial</narrative>
             </name>
             <description>
                 <narrative>Public and private provision of business development services, e.g. incubators, business strategies, commercial linkages programmes and matchmaking services. Includes support to private organisations representing businesses, e.g. business associations; chambers of commerce; producer associations; providers of know-how and other business development services. For financial services use CRS codes 24030 or 24040. For SME development and for support to companies in the industrial sector use codes 32130 through 32172. For support to companies in the agricultural sector use code 31120.</narrative>
@@ -2440,6 +2643,7 @@
             <name>
                 <narrative>Responsible business conduct</narrative>
                 <narrative xml:lang="fr">Code de conduite responsable</narrative>
+                <narrative xml:lang="es">Conducta empresarial responsable</narrative>
             </name>
             <description>
                 <narrative>Support to policy reform, implementation and enforcement of responsible business conduct (RBC) principles and standards as well as facilitation of responsible business practices by companies. Includes establishing and enforcing a legal and regulatory framework to protect stakeholder rights and the environment, rewarding best performers; exemplifying RBC in government economic activities, such as state-owned enterprises' operations or public procurement; support to the implementation of the OECD Guidelines for MNEs, including disclosure, human rights, employment and industrial relations, environment, combating bribery, consumer interests, science and technology, competition and taxation.</narrative>
@@ -2452,6 +2656,7 @@
             <name>
                 <narrative>Agricultural policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique agricole et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas agrícolas</narrative>
             </name>
             <description>
                 <narrative>Agricultural sector policy, planning and programmes; aid to agricultural ministries;  institution capacity building and advice; unspecified agriculture.</narrative>
@@ -2464,6 +2669,7 @@
             <name>
                 <narrative>Agricultural development</narrative>
                 <narrative xml:lang="fr">Développement agricole</narrative>
+                <narrative xml:lang="es">Desarrollo agrícola</narrative>
             </name>
             <description>
                 <narrative>Integrated projects; farm development.</narrative>
@@ -2476,6 +2682,7 @@
             <name>
                 <narrative>Agricultural land resources</narrative>
                 <narrative xml:lang="fr">Ressources en terres cultivables</narrative>
+                <narrative xml:lang="es">Recursos agrícolas terrestres</narrative>
             </name>
             <description>
                 <narrative>Including soil degradation control; soil improvement; drainage of water logged areas; soil desalination; agricultural land surveys; land reclamation; erosion control, desertification control.</narrative>
@@ -2488,6 +2695,7 @@
             <name>
                 <narrative>Agricultural water resources</narrative>
                 <narrative xml:lang="fr">Ressources en eau à usage agricole</narrative>
+                <narrative xml:lang="es">Recursos agrícolas hídricos</narrative>
             </name>
             <description>
                 <narrative>Irrigation, reservoirs, hydraulic structures, ground water exploitation for agricultural use.</narrative>
@@ -2500,6 +2708,7 @@
             <name>
                 <narrative>Agricultural inputs</narrative>
                 <narrative xml:lang="fr">Produits à usage agricole</narrative>
+                <narrative xml:lang="es">Insumos agrícolas</narrative>
             </name>
             <description>
                 <narrative>Supply of seeds, fertilizers, agricultural machinery/equipment.</narrative>
@@ -2512,6 +2721,7 @@
             <name>
                 <narrative>Food crop production</narrative>
                 <narrative xml:lang="fr">Production agricole</narrative>
+                <narrative xml:lang="es">Producción de cultivos alimentarios</narrative>
             </name>
             <description>
                 <narrative>Including grains (wheat, rice, barley, maize, rye, oats, millet, sorghum); horticulture; vegetables; fruit and berries; other annual and perennial crops. [Use code 32161 for agro-industries.]</narrative>
@@ -2524,6 +2734,7 @@
             <name>
                 <narrative>Industrial crops/export crops</narrative>
                 <narrative xml:lang="fr">Production industrielle de récoltes/récoltes destinées à l'exportation</narrative>
+                <narrative xml:lang="es">Cultivos industriales o de exportación</narrative>
             </name>
             <description>
                 <narrative>Including sugar; coffee, cocoa, tea; oil seeds, nuts, kernels; fibre crops; tobacco; rubber. [Use code 32161 for agro-industries.]</narrative>
@@ -2536,6 +2747,7 @@
             <name>
                 <narrative>Livestock</narrative>
                 <narrative xml:lang="fr">Bétail</narrative>
+                <narrative xml:lang="es">Ganadería</narrative>
             </name>
             <description>
                 <narrative>Animal husbandry; animal feed aid.</narrative>
@@ -2548,6 +2760,7 @@
             <name>
                 <narrative>Agrarian reform</narrative>
                 <narrative xml:lang="fr">Réforme agraire</narrative>
+                <narrative xml:lang="es">Reforma agraria</narrative>
             </name>
             <description>
                 <narrative>Including agricultural sector adjustment.</narrative>
@@ -2560,6 +2773,7 @@
             <name>
                 <narrative>Agricultural alternative development</narrative>
                 <narrative xml:lang="fr">Développement agricole alternatif</narrative>
+                <narrative xml:lang="es">Desarrollo de alternativas agrícolas</narrative>
             </name>
             <description>
                 <narrative>Projects to reduce illicit drug cultivation through other agricultural marketing and production opportunities (see code 43050 for non-agricultural alternative development).</narrative>
@@ -2572,6 +2786,7 @@
             <name>
                 <narrative>Agricultural extension</narrative>
                 <narrative xml:lang="fr">Vulgarisation agricole</narrative>
+                <narrative xml:lang="es">Extensión agrícola</narrative>
             </name>
             <description>
                 <narrative>Non-formal training in agriculture.</narrative>
@@ -2584,6 +2799,7 @@
             <name>
                 <narrative>Agricultural education/training</narrative>
                 <narrative xml:lang="fr">Education et formation dans le domaine agricole</narrative>
+                <narrative xml:lang="es">Educación o capacitación agrícola</narrative>
             </name>
             <category>311</category>
         </codelist-item>
@@ -2592,6 +2808,7 @@
             <name>
                 <narrative>Agricultural research</narrative>
                 <narrative xml:lang="fr">Recherche agronomique</narrative>
+                <narrative xml:lang="es">Investigación agrícola</narrative>
             </name>
             <description>
                 <narrative>Plant breeding, physiology, genetic resources, ecology, taxonomy, disease control, agricultural bio-technology; including livestock research (animal health, breeding and genetics, nutrition, physiology).</narrative>
@@ -2604,6 +2821,7 @@
             <name>
                 <narrative>Agricultural services</narrative>
                 <narrative xml:lang="fr">Services agricoles</narrative>
+                <narrative xml:lang="es">Servicios agrícolas</narrative>
             </name>
             <description>
                 <narrative>Marketing policies &amp; organisation; storage and transportation, creation of strategic reserves.</narrative>
@@ -2616,6 +2834,7 @@
             <name>
                 <narrative>Plant and post-harvest protection and pest control</narrative>
                 <narrative xml:lang="fr">Protection des plantes et des récoltes, lutte antiacridienne</narrative>
+                <narrative xml:lang="es">Protección y lucha contra las plagas de plantas y poscosecha</narrative>
             </name>
             <description>
                 <narrative>Including integrated plant protection, biological plant protection activities, supply and management of agrochemicals, supply of pesticides, plant protection policy and legislation.</narrative>
@@ -2628,6 +2847,7 @@
             <name>
                 <narrative>Agricultural financial services</narrative>
                 <narrative xml:lang="fr">Services financiers agricoles</narrative>
+                <narrative xml:lang="es">Servicios financieros agrícolas</narrative>
             </name>
             <description>
                 <narrative>Financial intermediaries for the agricultural sector including credit schemes; crop insurance.</narrative>
@@ -2640,6 +2860,7 @@
             <name>
                 <narrative>Agricultural co-operatives</narrative>
                 <narrative xml:lang="fr">Coopératives agricoles</narrative>
+                <narrative xml:lang="es">Cooperativas agrícolas</narrative>
             </name>
             <description>
                 <narrative>Including farmers' organisations.</narrative>
@@ -2652,6 +2873,7 @@
             <name>
                 <narrative>Livestock/veterinary services</narrative>
                 <narrative xml:lang="fr">Services vétérinaires (bétail)</narrative>
+                <narrative xml:lang="es">Servicios ganaderos o veterinarios</narrative>
             </name>
             <description>
                 <narrative>Animal health and management, genetic resources, feed resources.</narrative>
@@ -2664,6 +2886,7 @@
             <name>
                 <narrative>Forestry policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique de la sylviculture et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas forestales</narrative>
             </name>
             <description>
                 <narrative>Forestry sector policy, planning and programmes; institution capacity building and advice; forest surveys; unspecified forestry and agro-forestry activities.</narrative>
@@ -2676,6 +2899,7 @@
             <name>
                 <narrative>Forestry development</narrative>
                 <narrative xml:lang="fr">Développement sylvicole</narrative>
+                <narrative xml:lang="es">Desarrollo forestal</narrative>
             </name>
             <description>
                 <narrative>Afforestation for industrial and rural consumption; exploitation and utilisation; erosion control, desertification control; integrated forestry projects.</narrative>
@@ -2688,6 +2912,7 @@
             <name>
                 <narrative>Fuelwood/charcoal</narrative>
                 <narrative xml:lang="fr">Reboisement (bois de chauffage et charbon de bois)</narrative>
+                <narrative xml:lang="es">Leña o carbón vegetal</narrative>
             </name>
             <description>
                 <narrative>Sustainable forestry development whose primary purpose is production of fuelwood and charcoal. Further transformation of biomass in biofuels is coded under 32173.</narrative>
@@ -2700,6 +2925,7 @@
             <name>
                 <narrative>Forestry education/training</narrative>
                 <narrative xml:lang="fr">Education et formation en sylviculture</narrative>
+                <narrative xml:lang="es">Educación y capacitación en silvicultura</narrative>
             </name>
             <category>312</category>
         </codelist-item>
@@ -2708,6 +2934,7 @@
             <name>
                 <narrative>Forestry research</narrative>
                 <narrative xml:lang="fr">Recherche en sylviculture</narrative>
+                <narrative xml:lang="es">Investigación sobre silvicultura</narrative>
             </name>
             <description>
                 <narrative>Including artificial regeneration, genetic improvement, production methods, fertilizer, harvesting.</narrative>
@@ -2720,6 +2947,7 @@
             <name>
                 <narrative>Forestry services</narrative>
                 <narrative xml:lang="fr">Services sylvicoles</narrative>
+                <narrative xml:lang="es">Servicios relacionados con la silvicultura</narrative>
             </name>
             <category>312</category>
         </codelist-item>
@@ -2728,6 +2956,7 @@
             <name>
                 <narrative>Fishing policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique de la pêche et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas pesqueras</narrative>
             </name>
             <description>
                 <narrative>Fishing sector policy, planning and programmes; institution capacity building and advice; ocean and coastal fishing; marine and freshwater fish surveys and prospecting; fishing boats/equipment; unspecified fishing activities.</narrative>
@@ -2740,6 +2969,7 @@
             <name>
                 <narrative>Fishery development</narrative>
                 <narrative xml:lang="fr">Développement de la pêche</narrative>
+                <narrative xml:lang="es">Desarrollo pesquero</narrative>
             </name>
             <description>
                 <narrative>Exploitation and utilisation of fisheries; fish stock protection; aquaculture; integrated fishery projects.</narrative>
@@ -2752,6 +2982,7 @@
             <name>
                 <narrative>Fishery education/training</narrative>
                 <narrative xml:lang="fr">Education et formation dans le domaine de la pêche</narrative>
+                <narrative xml:lang="es">Educación o capacitación en pesca</narrative>
             </name>
             <category>313</category>
         </codelist-item>
@@ -2760,6 +2991,7 @@
             <name>
                 <narrative>Fishery research</narrative>
                 <narrative xml:lang="fr">Recherche dans le domaine de la pêche</narrative>
+                <narrative xml:lang="es">Investigación sobre pesca</narrative>
             </name>
             <description>
                 <narrative>Pilot fish culture; marine/freshwater biological research.</narrative>
@@ -2772,6 +3004,7 @@
             <name>
                 <narrative>Fishery services</narrative>
                 <narrative xml:lang="fr">Services dans le domaine de la pêche</narrative>
+                <narrative xml:lang="es">Servicios pesqueros</narrative>
             </name>
             <description>
                 <narrative>Fishing harbours; fish markets; fishery transport and cold storage.</narrative>
@@ -2784,6 +3017,7 @@
             <name>
                 <narrative>Industrial policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique de l'industrie et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas industriales</narrative>
             </name>
             <description>
                 <narrative>Industrial sector policy, planning and programmes; institution capacity building and advice; unspecified industrial activities; manufacturing of goods not specified below.</narrative>
@@ -2796,6 +3030,7 @@
             <name>
                 <narrative>Industrial development</narrative>
                 <narrative xml:lang="fr">Développement industriel</narrative>
+                <narrative xml:lang="es">Desarrollo industrial</narrative>
             </name>
             <category>321</category>
         </codelist-item>
@@ -2804,6 +3039,7 @@
             <name>
                 <narrative>Small and medium-sized enterprises (SME) development</narrative>
                 <narrative xml:lang="fr">Développement des Petites et moyennes entreprises (PME)</narrative>
+                <narrative xml:lang="es">Desarrollo de pequeñas y medianas empresas (pymes)</narrative>
             </name>
             <description>
                 <narrative>Direct support to improve the productive capacity and business management of micro, small and medium-sized enterprises in the industrial sector, including accounting, auditing, advisory services, technological transfer and skill upgrading. For business policy and institutional support use code 25010. For business development services through business intermediary organisations (e.g. business associations; chambers of commerce; producer associations; incubators; providers of know-how and other business development services) use CRS code 250xx. For farm and agricultural development use code 31120.</narrative>
@@ -2816,6 +3052,7 @@
             <name>
                 <narrative>Cottage industries and handicraft</narrative>
                 <narrative xml:lang="fr">Artisanat</narrative>
+                <narrative xml:lang="es">Industria familiar y artesanía</narrative>
             </name>
             <category>321</category>
         </codelist-item>
@@ -2824,6 +3061,7 @@
             <name>
                 <narrative>Agro-industries</narrative>
                 <narrative xml:lang="fr">Agro-industries</narrative>
+                <narrative xml:lang="es">Agroindustrias</narrative>
             </name>
             <description>
                 <narrative>Staple food processing, dairy products, slaughter houses and equipment, meat and fish processing and preserving, oils/fats, sugar refineries, beverages/tobacco, animal feeds production.</narrative>
@@ -2836,6 +3074,7 @@
             <name>
                 <narrative>Forest industries</narrative>
                 <narrative xml:lang="fr">Industries forestières</narrative>
+                <narrative xml:lang="es">Industrias forestales</narrative>
             </name>
             <description>
                 <narrative>Wood production, pulp/paper production.</narrative>
@@ -2848,6 +3087,7 @@
             <name>
                 <narrative>Textiles, leather and substitutes</narrative>
                 <narrative xml:lang="fr">Industrie textile, cuirs et produits similaires</narrative>
+                <narrative xml:lang="es">Textiles, cuero y sustitutos</narrative>
             </name>
             <description>
                 <narrative>Including knitting factories.</narrative>
@@ -2860,6 +3100,7 @@
             <name>
                 <narrative>Chemicals</narrative>
                 <narrative xml:lang="fr">Produits chimiques</narrative>
+                <narrative xml:lang="es">Químicos</narrative>
             </name>
             <description>
                 <narrative>Industrial and non-industrial production facilities; includes pesticides production.</narrative>
@@ -2872,6 +3113,7 @@
             <name>
                 <narrative>Fertilizer plants</narrative>
                 <narrative xml:lang="fr">Production d'engrais chimiques</narrative>
+                <narrative xml:lang="es">Plantas de fertilizantes</narrative>
             </name>
             <category>321</category>
         </codelist-item>
@@ -2880,6 +3122,7 @@
             <name>
                 <narrative>Cement/lime/plaster</narrative>
                 <narrative xml:lang="fr">Ciment, chaux et plâtre</narrative>
+                <narrative xml:lang="es">Cemento, cal o yeso</narrative>
             </name>
             <category>321</category>
         </codelist-item>
@@ -2888,6 +3131,7 @@
             <name>
                 <narrative>Energy manufacturing (fossil fuels)</narrative>
                 <narrative xml:lang="fr">Fabrication d'énergie (combustibles fossiles)</narrative>
+                <narrative xml:lang="es">Producción de energía (combustibles fósiles)</narrative>
             </name>
             <description>
                 <narrative>Including gas liquefaction; petroleum refineries, wholesale distribution of fossil fuels. (Use 23640 for retail distribution of gas and 23641 for retail distribution of liquid or solid fossil fuels.)</narrative>
@@ -2900,6 +3144,7 @@
             <name>
                 <narrative>Pharmaceutical production</narrative>
                 <narrative xml:lang="fr">Produits pharmaceutiques</narrative>
+                <narrative xml:lang="es">Producción farmacéutica</narrative>
             </name>
             <description>
                 <narrative>Medical equipment/supplies; drugs, medicines, vaccines; hygienic products.</narrative>
@@ -2912,6 +3157,7 @@
             <name>
                 <narrative>Basic metal industries</narrative>
                 <narrative xml:lang="fr">Industrie métallurgique de base</narrative>
+                <narrative xml:lang="es">Industrias metalúrgicas básicas</narrative>
             </name>
             <description>
                 <narrative>Iron and steel, structural metal production.</narrative>
@@ -2924,6 +3170,7 @@
             <name>
                 <narrative>Non-ferrous metal industries</narrative>
                 <narrative xml:lang="fr">Industries des métaux non ferreux</narrative>
+                <narrative xml:lang="es">Industrias de metales no-ferrosos</narrative>
             </name>
             <category>321</category>
         </codelist-item>
@@ -2932,6 +3179,7 @@
             <name>
                 <narrative>Engineering</narrative>
                 <narrative xml:lang="fr">Construction mécanique et électrique</narrative>
+                <narrative xml:lang="es">Ingeniería</narrative>
             </name>
             <description>
                 <narrative>Manufacturing of electrical and non-electrical machinery, engines/turbines.</narrative>
@@ -2944,6 +3192,7 @@
             <name>
                 <narrative>Transport equipment industry</narrative>
                 <narrative xml:lang="fr">Matériel de transport</narrative>
+                <narrative xml:lang="es">Industria de equipos de transporte</narrative>
             </name>
             <description>
                 <narrative>Shipbuilding, fishing boats building; railroad equipment; motor vehicles and motor passenger cars; aircraft; navigation/guidance systems.</narrative>
@@ -2956,6 +3205,7 @@
             <name>
                 <narrative>Modern biofuels manufacturing</narrative>
                 <narrative xml:lang="fr">Production de biocarburants modernes</narrative>
+                <narrative xml:lang="es">Producción de biocombustibles modernos</narrative>
             </name>
             <description>
                 <narrative>Includes biogas, liquid biofuels and pellets for domestic and non-domestic use. Excludes raw fuelwood and charcoal (31261).</narrative>
@@ -2968,6 +3218,7 @@
             <name>
                 <narrative>Clean cooking appliances manufacturing</narrative>
                 <narrative xml:lang="fr">Production d'appareils de cuisine propres</narrative>
+                <narrative xml:lang="es">Fabricación de equipos de cocina no contaminantes</narrative>
             </name>
             <description>
                 <narrative>Includes manufacturing and distribution of efficient biomass cooking stoves, gasifiers, liquid biofuels stoves, solar stoves, gas and biogas stoves, electric stoves.</narrative>
@@ -2980,6 +3231,7 @@
             <name>
                 <narrative>Technological research and development</narrative>
                 <narrative xml:lang="fr">Recherche et développement technologiques</narrative>
+                <narrative xml:lang="es">Investigación y desarrollo tecnológicos</narrative>
             </name>
             <description>
                 <narrative>Including industrial standards; quality management; metrology; testing; accreditation; certification.</narrative>
@@ -2992,6 +3244,7 @@
             <name>
                 <narrative>Mineral/mining policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique de l'industrie extractive et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas mineras o minerales</narrative>
             </name>
             <description>
                 <narrative>Mineral and mining sector policy, planning and programmes;  mining legislation, mining cadastre, mineral resources inventory, information systems, institution capacity building and advice;  unspecified mineral resources exploitation.</narrative>
@@ -3004,6 +3257,7 @@
             <name>
                 <narrative>Mineral prospection and exploration</narrative>
                 <narrative xml:lang="fr">Prospection et exploration des minerais</narrative>
+                <narrative xml:lang="es">Prospección y exploración de minerales</narrative>
             </name>
             <description>
                 <narrative>Geology, geophysics, geochemistry;  excluding hydrogeology (14010) and environmental geology (41010), mineral extraction and processing, infrastructure, technology, economics, safety and environment management.</narrative>
@@ -3016,6 +3270,7 @@
             <name>
                 <narrative>Coal</narrative>
                 <narrative xml:lang="fr">Charbon</narrative>
+                <narrative xml:lang="es">Carbón</narrative>
             </name>
             <description>
                 <narrative>Including lignite and peat.</narrative>
@@ -3028,6 +3283,7 @@
             <name>
                 <narrative>Oil and gas (upstream)</narrative>
                 <narrative xml:lang="fr">Pétrole et gaz (en amont)</narrative>
+                <narrative xml:lang="es">Petróleo y gas (exploración y producción)</narrative>
             </name>
             <description>
                 <narrative>Petroleum, natural gas, condensates, liquefied petroleum gas (LPG), liquefied natural gas (LNG); including drilling and production, oil and gas pipelines.</narrative>
@@ -3040,6 +3296,7 @@
             <name>
                 <narrative>Ferrous metals</narrative>
                 <narrative xml:lang="fr">Métaux ferreux</narrative>
+                <narrative xml:lang="es">Metales ferrosos</narrative>
             </name>
             <description>
                 <narrative>Iron and ferro-alloy metals.</narrative>
@@ -3052,6 +3309,7 @@
             <name>
                 <narrative>Nonferrous metals</narrative>
                 <narrative xml:lang="fr">Métaux non ferreux</narrative>
+                <narrative xml:lang="es">Metales no ferrosos</narrative>
             </name>
             <description>
                 <narrative>Aluminium, copper, lead, nickel, tin, zinc.</narrative>
@@ -3064,6 +3322,7 @@
             <name>
                 <narrative>Precious metals/materials</narrative>
                 <narrative xml:lang="fr">Métaux et minerais précieux</narrative>
+                <narrative xml:lang="es">Metales o materiales preciosos</narrative>
             </name>
             <description>
                 <narrative>Gold, silver, platinum, diamonds, gemstones.</narrative>
@@ -3076,6 +3335,7 @@
             <name>
                 <narrative>Industrial minerals</narrative>
                 <narrative xml:lang="fr">Minerais industriels</narrative>
+                <narrative xml:lang="es">Minerales industriales</narrative>
             </name>
             <description>
                 <narrative>Baryte, limestone, feldspar, kaolin, sand, gypsym, gravel, ornamental stones.</narrative>
@@ -3088,6 +3348,7 @@
             <name>
                 <narrative>Fertilizer minerals</narrative>
                 <narrative xml:lang="fr">Engrais minéraux</narrative>
+                <narrative xml:lang="es">Minerales fertilizantes</narrative>
             </name>
             <description>
                 <narrative>Phosphates, potash.</narrative>
@@ -3100,6 +3361,7 @@
             <name>
                 <narrative>Offshore minerals</narrative>
                 <narrative xml:lang="fr">Ressources des fonds marins</narrative>
+                <narrative xml:lang="es">Minerales mar adentro</narrative>
             </name>
             <description>
                 <narrative>Polymetallic nodules, phosphorites, marine placer deposits.</narrative>
@@ -3112,6 +3374,7 @@
             <name>
                 <narrative>Construction policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique de la construction et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas de la construcción</narrative>
             </name>
             <description>
                 <narrative>Construction sector policy and planning; excluding construction activities within specific sectors (e.g., hospital or school construction).</narrative>
@@ -3124,6 +3387,7 @@
             <name>
                 <narrative>Trade policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique commerciale et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas del comercio</narrative>
             </name>
             <description>
                 <narrative>Trade policy and planning; support to ministries and departments responsible for trade policy; trade-related legislation and regulatory reforms; policy analysis and implementation of multilateral trade agreements e.g. technical barriers to trade and sanitary and phytosanitary measures (TBT/SPS) except at regional level (see 33130); mainstreaming trade in national development strategies (e.g. poverty reduction strategy papers); wholesale/retail trade; unspecified trade and trade promotion activities.</narrative>
@@ -3136,6 +3400,7 @@
             <name>
                 <narrative>Trade facilitation</narrative>
                 <narrative xml:lang="fr">Facilitation du commerce</narrative>
+                <narrative xml:lang="es">Facilitación del comercio</narrative>
             </name>
             <description>
                 <narrative>Simplification and harmonisation of international import and export procedures (e.g. customs valuation, licensing procedures, transport formalities, payments, insurance); support to customs departments  and other border agencies, including in particular implementation of the provisions of the WTO Trade Facilitation Agreement; tariff reforms.</narrative>
@@ -3148,6 +3413,7 @@
             <name>
                 <narrative>Regional trade agreements (RTAs)</narrative>
                 <narrative xml:lang="fr">Accords commerciaux régionaux</narrative>
+                <narrative xml:lang="es">Acuerdos comerciales regionales</narrative>
             </name>
             <description>
                 <narrative>Support to regional trade arrangements [e.g. Southern African Development Community (SADC), Association of Southeast Asian Nations (ASEAN), Free Trade Area of the Americas (FTAA), African Caribbean Pacific/European Union (ACP/EU)], including work on technical barriers to trade and sanitary and phytosanitary measures (TBT/SPS) at regional level; elaboration of rules of origin and introduction of special and differential treatment in RTAs.</narrative>
@@ -3160,6 +3426,7 @@
             <name>
                 <narrative>Multilateral trade negotiations</narrative>
                 <narrative xml:lang="fr">Négociations commerciales multilatérales</narrative>
+                <narrative xml:lang="es">Negociaciones comerciales multilaterales</narrative>
             </name>
             <description>
                 <narrative>Support developing countries' effective participation in multilateral trade negotiations, including training of negotiators, assessing impacts of negotiations; accession to the World Trade Organisation (WTO) and other multilateral trade-related organisations.</narrative>
@@ -3172,6 +3439,7 @@
             <name>
                 <narrative>Trade-related adjustment</narrative>
                 <narrative xml:lang="fr">Ajustement lié au commerce</narrative>
+                <narrative xml:lang="es">Ajustes relacionados con el comercio</narrative>
             </name>
             <description>
                 <narrative>Contributions to the government budget to assist the implementation of recipients' own trade reforms and adjustments to trade policy measures by other countries; assistance to manage shortfalls in the balance of payments due to changes in the world trading environment.</narrative>
@@ -3184,6 +3452,7 @@
             <name>
                 <narrative>Trade education/training</narrative>
                 <narrative xml:lang="fr">Education/formation dans le domaine du commerce</narrative>
+                <narrative xml:lang="es">Educación o capacitación en comercio</narrative>
             </name>
             <description>
                 <narrative>Human resources development in trade not included under any of the above codes. Includes university programmes in trade.</narrative>
@@ -3196,6 +3465,7 @@
             <name>
                 <narrative>Tourism policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique du tourisme et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas del turismo</narrative>
             </name>
             <category>332</category>
         </codelist-item>
@@ -3204,6 +3474,7 @@
             <name>
                 <narrative>Environmental policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique de l'environnement et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas del medio ambiente</narrative>
             </name>
             <description>
                 <narrative>Environmental policy, laws, regulations and economic instruments; administrational institutions and practices; environmental and land use planning and decision-making procedures; seminars, meetings; miscellaneous conservation and protection measures not specified below.</narrative>
@@ -3216,6 +3487,7 @@
             <name>
                 <narrative>Biosphere protection</narrative>
                 <narrative xml:lang="fr">Protection de la biosphère</narrative>
+                <narrative xml:lang="es">Protección de la biosfera</narrative>
             </name>
             <description>
                 <narrative>Air pollution control, ozone layer preservation; marine pollution control.</narrative>
@@ -3228,6 +3500,7 @@
             <name>
                 <narrative>Biodiversity</narrative>
                 <narrative xml:lang="fr">Diversité biologique</narrative>
+                <narrative xml:lang="es">Biodiversidad</narrative>
             </name>
             <description>
                 <narrative>Including natural reserves and actions in the surrounding areas; other measures to protect endangered or vulnerable species and their habitats (e.g. wetlands preservation).</narrative>
@@ -3240,6 +3513,7 @@
             <name>
                 <narrative>Site preservation</narrative>
                 <narrative xml:lang="fr">Protection des sites</narrative>
+                <narrative xml:lang="es">Conservación de lugares</narrative>
             </name>
             <description>
                 <narrative>Applies to unique cultural landscape; including sites/objects of historical, archeological, aesthetic, scientific or educational value.</narrative>
@@ -3252,6 +3526,7 @@
             <name>
                 <narrative>Flood prevention/control</narrative>
                 <narrative xml:lang="fr">Prévention et lutte contre les inondations</narrative>
+                <narrative xml:lang="es">Prevención o control de las inundaciones</narrative>
             </name>
             <description>
                 <narrative>Floods from rivers or the sea; including sea water intrusion control and sea level rise related activities.</narrative>
@@ -3264,6 +3539,7 @@
             <name>
                 <narrative>Environmental education/training</narrative>
                 <narrative xml:lang="fr">Education et formation environnementales</narrative>
+                <narrative xml:lang="es">Educación o capacitación ambiental</narrative>
             </name>
             <category>410</category>
         </codelist-item>
@@ -3272,6 +3548,7 @@
             <name>
                 <narrative>Environmental research</narrative>
                 <narrative xml:lang="fr">Recherche environnementale</narrative>
+                <narrative xml:lang="es">Investigación ambiental</narrative>
             </name>
             <description>
                 <narrative>Including establishment of databases, inventories/accounts of physical and natural resources; environmental profiles and impact studies if not sector specific.</narrative>
@@ -3284,6 +3561,7 @@
             <name>
                 <narrative>Multisector aid</narrative>
                 <narrative xml:lang="fr">Aide plurisectorielle</narrative>
+                <narrative xml:lang="es">Asistencia multisectorial</narrative>
             </name>
             <category>430</category>
             <budget-alignment:status>Unmappable</budget-alignment:status>
@@ -3293,6 +3571,7 @@
             <name>
                 <narrative>Urban development and management</narrative>
                 <narrative xml:lang="fr">Développement et gestion urbaine</narrative>
+                <narrative xml:lang="es">Desarrollo y administración urbanos</narrative>
             </name>
             <description>
                 <narrative>Integrated urban development projects; local development and urban management; urban infrastructure and services; municipal finances; urban environmental management; urban development and planning; urban renewal and urban housing; land information systems.</narrative>
@@ -3306,6 +3585,7 @@
             <name>
                 <narrative>Urban land policy and management</narrative>
                 <narrative xml:lang="fr">Politique et gestion du territoire urbain</narrative>
+                <narrative xml:lang="es">Políticas y administración de terrenos urbanos</narrative>
             </name>
             <description>
                 <narrative>Urban development and planning; urban management, land information systems.</narrative>
@@ -3318,6 +3598,7 @@
             <name>
                 <narrative>Urban development</narrative>
                 <narrative xml:lang="fr">Développement urbain</narrative>
+                <narrative xml:lang="es">Desarrollo urbano</narrative>
             </name>
             <description>
                 <narrative>Integrated urban development projects; local development; urban infrastructure and services; municipal finances; urban environment systems; urban renewal and urban housing.</narrative>
@@ -3330,6 +3611,7 @@
             <name>
                 <narrative>Rural development</narrative>
                 <narrative xml:lang="fr">Développement rural</narrative>
+                <narrative xml:lang="es">Desarrollo rural</narrative>
             </name>
             <description>
                 <narrative>Integrated rural development projects;  e.g. regional development planning;  promotion of decentralised and multi-sectoral competence for planning, co-ordination and management;  implementation of regional development and measures (including natural reserve management);  land management;  land use planning; land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas;  geographical information systems.</narrative>
@@ -3343,6 +3625,7 @@
             <name>
                 <narrative>Rural land policy and management</narrative>
                 <narrative xml:lang="fr">Administration de l'aménagement du territoire rural</narrative>
+                <narrative xml:lang="es">Políticas y administración de terrenos rurales</narrative>
             </name>
             <description>
                 <narrative>Regional development planning; promotion of decentralised and multi-sectoral competence for planning, co-ordination and management; land management; land use planning; geographical information systems.</narrative>
@@ -3355,6 +3638,7 @@
             <name>
                 <narrative>Rural development</narrative>
                 <narrative xml:lang="fr">Développement rural</narrative>
+                <narrative xml:lang="es">Desarrollo rural</narrative>
             </name>
             <description>
                 <narrative>Integrated rural development projects; implementation of regional development and measures (including natural reserve management); land settlement and resettlement activities [excluding resettlement of refugees and internally displaced persons (72010)]; functional integration of rural and urban areas.</narrative>
@@ -3367,6 +3651,7 @@
             <name>
                 <narrative>Non-agricultural alternative development</narrative>
                 <narrative xml:lang="fr">Développement alternatif non agricole</narrative>
+                <narrative xml:lang="es">Desarrollo de alternativas no agrícolas</narrative>
             </name>
             <description>
                 <narrative>Projects to reduce illicit drug cultivation through, for example, non-agricultural income opportunities, social and physical infrastructure (see code 31165 for agricultural alternative development).</narrative>
@@ -3380,6 +3665,7 @@
             <name>
                 <narrative>Disaster Risk Reduction</narrative>
                 <narrative xml:lang="fr">Réduction des risques de catastrophe</narrative>
+                <narrative xml:lang="es">Reducción del riesgo de desastres</narrative>
             </name>
             <description>
                 <narrative>Disaster risk reduction activities if not sector specific. Comprises risk assessments, structural prevention measures (e.g. flood prevention infrastructure), preparedness measures (e.g. early warning systems) normative prevention measures (e.g. building codes, land-use planning), and risk transfer systems (e.g. insurance schemes, risk funds). Also includes building local and national capacities and supporting the establishment of efficient and sustainable national structures able to promote disaster risk reduction.</narrative>
@@ -3392,6 +3678,7 @@
             <name>
                 <narrative>Food security policy and administrative management</narrative>
                 <narrative xml:lang="fr">Politique de sécurité alimentaire et gestion administrative</narrative>
+                <narrative xml:lang="es">Gestión administrativa y políticas de la seguridad alimentaria</narrative>
             </name>
             <description>
                 <narrative>Food security policy, programmes and activities; institution capacity strengthening; policies, programmes for the reduction of food loss/waste; food security information systems, data collection, statistics, analysis, tools, methods; coordination and governance mechanisms; other unspecified food security activities.</narrative>
@@ -3404,6 +3691,7 @@
             <name>
                 <narrative>Household food security programmes</narrative>
                 <narrative xml:lang="fr">Programmes de sécurité alimentaire des ménages</narrative>
+                <narrative xml:lang="es">Programas de seguridad alimentaria familiar</narrative>
             </name>
             <description>
                 <narrative>Short or longer term household food security programmes and activities that improve the access of households to nutritionally adequate diets (excluding any cash transfers within broader social welfare programmes that do not have a specific food security, food acquisition or nutrition focus which should be reported under code 16010).</narrative>
@@ -3416,6 +3704,7 @@
             <name>
                 <narrative>Food safety and quality</narrative>
                 <narrative xml:lang="fr">Sécurité et qualité alimentaire</narrative>
+                <narrative xml:lang="es">Inocuidad y calidad alimentarias</narrative>
             </name>
             <description>
                 <narrative>Food safety and quality policies, programmes and activities, including food inspection and certification; strengthening food safety/quality capacities and development of standards along the value chain; monitoring/surveillance and laboratory capacities; and delivery of information, communication, education.</narrative>
@@ -3428,6 +3717,7 @@
             <name>
                 <narrative>Multisector education/training</narrative>
                 <narrative xml:lang="fr">Education et formation plurisectorielles</narrative>
+                <narrative xml:lang="es">Educación o capacitación multisectorial</narrative>
             </name>
             <description>
                 <narrative>Including scholarships.</narrative>
@@ -3441,6 +3731,7 @@
             <name>
                 <narrative>Research/scientific institutions</narrative>
                 <narrative xml:lang="fr">Institutions scientifiques et de recherche</narrative>
+                <narrative xml:lang="es">Instituciones científicas o de investigación</narrative>
             </name>
             <description>
                 <narrative>When sector cannot be identified.</narrative>
@@ -3454,6 +3745,7 @@
             <name>
                 <narrative>General budget support-related aid</narrative>
                 <narrative xml:lang="fr">Aide relative au soutien budgétaire général</narrative>
+                <narrative xml:lang="es">Asistencia relacionada con el apoyo presupuestario general</narrative>
             </name>
             <description>
                 <narrative>Unearmarked contributions to the government budget; support for the implementation of macroeconomic reforms (structural adjustment programmes, poverty reduction strategies); general programme assistance (when not allocable by sector).</narrative>
@@ -3466,6 +3758,7 @@
             <name>
                 <narrative>Food assistance</narrative>
                 <narrative xml:lang="fr">Assistance alimentaire</narrative>
+                <narrative xml:lang="es">Asistencia alimentaria</narrative>
             </name>
             <description>
                 <narrative>Supply of edible human food under national or international programmes including transport costs, cash payments made for food supplies; project food assistance aid and food assistance aid for market sales when benefiting sector not specified. Excludes food security policy and administrative management (43071), household food security programmes (43072) and emergency food assistance aid (72040). Report as multilateral: i) food assistance aid by EU financed out of its budget and allocated pro rata to EU member countries; and ii) core contributions to the World Food Programme.</narrative>
@@ -3479,6 +3772,7 @@
             <name>
                 <narrative>Import support (capital goods)</narrative>
                 <narrative xml:lang="fr">Subventions à l'importation (biens d'équipement)</narrative>
+                <narrative xml:lang="es">Apoyo a importaciones (bienes de capital)</narrative>
             </name>
             <description>
                 <narrative>Capital goods and services; lines of credit.</narrative>
@@ -3491,6 +3785,7 @@
             <name>
                 <narrative>Import support (commodities)</narrative>
                 <narrative xml:lang="fr">Subventions à l'importation (produits)</narrative>
+                <narrative xml:lang="es">Apoyo a importaciones (productos básicos)</narrative>
             </name>
             <description>
                 <narrative>Commodities, general goods and services, oil imports.</narrative>
@@ -3503,6 +3798,7 @@
             <name>
                 <narrative>Action relating to debt</narrative>
                 <narrative xml:lang="fr">Actions se rapportant à la dette</narrative>
+                <narrative xml:lang="es">Acciones relativas a la deuda</narrative>
             </name>
             <description>
                 <narrative>Actions falling outside the code headings below.</narrative>
@@ -3515,6 +3811,7 @@
             <name>
                 <narrative>Debt forgiveness</narrative>
                 <narrative xml:lang="fr">Annulation de la dette</narrative>
+                <narrative xml:lang="es">Condonación de la deuda</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -3523,6 +3820,7 @@
             <name>
                 <narrative>Relief of multilateral debt</narrative>
                 <narrative xml:lang="fr">Allégement de la dette multilatérale</narrative>
+                <narrative xml:lang="es">Alivio de la deuda multilateral</narrative>
             </name>
             <description>
                 <narrative>Grants or credits to cover debt owed to multilateral financial institutions; including contributions to Heavily Indebted Poor Countries (HIPC) Trust Fund.</narrative>
@@ -3535,6 +3833,7 @@
             <name>
                 <narrative>Rescheduling and refinancing</narrative>
                 <narrative xml:lang="fr">Rééchelonnement d'échéances et refinancement</narrative>
+                <narrative xml:lang="es">Reprogramación y refinanciación</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -3543,6 +3842,7 @@
             <name>
                 <narrative>Debt for development swap</narrative>
                 <narrative xml:lang="fr">Echange de dette à des fins de développement</narrative>
+                <narrative xml:lang="es">Canje de deuda por proyectos de desarrollo</narrative>
             </name>
             <description>
                 <narrative>Allocation of debt claims to use for development (e.g., debt for education, debt for environment).</narrative>
@@ -3555,6 +3855,7 @@
             <name>
                 <narrative>Other debt swap</narrative>
                 <narrative xml:lang="fr">Autres échanges de dette</narrative>
+                <narrative xml:lang="es">Otros canjes de deuda</narrative>
             </name>
             <description>
                 <narrative>Where the debt swap benefits an external agent i.e. is not specifically for development purposes.</narrative>
@@ -3567,6 +3868,7 @@
             <name>
                 <narrative>Debt buy-back</narrative>
                 <narrative xml:lang="fr">Rachat de la dette</narrative>
+                <narrative xml:lang="es">Recompra de deuda</narrative>
             </name>
             <description>
                 <narrative>Purchase of debt for the purpose of cancellation.</narrative>
@@ -3579,6 +3881,7 @@
             <name>
                 <narrative>Material relief assistance and services</narrative>
                 <narrative xml:lang="fr">Assistance matérielle et services d'urgence</narrative>
+                <narrative xml:lang="es">Asistencia y servicios de socorro material</narrative>
             </name>
             <description>
                 <narrative>Shelter, water, sanitation, education, health services including supply of medicines and malnutrition management, including medical nutrition management; supply of other nonfood relief items (including cash and voucher delivery modalities) for the benefit of crisisaffected people, including refugees and internally displaced people in developing countries, Includes assistance delivered by or coordinated by international civil protection units in the immediate aftermath of a disaster (in-kind assistance, deployment of specially-equipped teams, logistics and transportation, or assessment and coordination by experts sent to the field). Also includes measures to promote and protect the safety, well-being, dignity and integrity of crisis-affected people including refugees and internally displaced persons in developing countries. (Activities designed to protect the security of persons or properties through the use or display of force are not reportable as ODA.)</narrative>
@@ -3591,6 +3894,7 @@
             <name>
                 <narrative>Basic Health Care Services in Emergencies</narrative>
                 <narrative xml:lang="fr">Services de soins de santé de base dans les situations d'urgence</narrative>
+                <narrative xml:lang="es">Servicios de atención sanitaria básica en emergencias</narrative>
             </name>
             <description>
                 <narrative>Provision of health services (basic health services, mental health, sexual and reproductive health), medical nutritional intervention (therapeutic feeding and medical interventions for treating malnutrition) and supply of medicines for the benefit of affected people. Excludes supplemental feeding (72040).</narrative>
@@ -3603,6 +3907,7 @@
             <name>
                 <narrative>Education in emergencies</narrative>
                 <narrative xml:lang="fr">Education dans les situations d'urgence</narrative>
+                <narrative xml:lang="es">Educación en emergencias</narrative>
             </name>
             <description>
                 <narrative>Support for education facilities (including restoring pre-existing essential infrastructure and school facilities), teaching, training and learning materials (including digital technologies, as appropriate) and immediate access to quality basic and primary education (including formal and non-formal education), and secondary education (including vocational training and secondary level technical education) in emergencies for the benefit of affected children and youth, particularly targeting girls and women and refugees, life skills for youth and adults, and vocational training for youth and adults</narrative>
@@ -3615,6 +3920,7 @@
             <name>
                 <narrative>Emergency food assistance</narrative>
                 <narrative xml:lang="fr">Assistance alimentaire d'urgence</narrative>
+                <narrative xml:lang="es">Asistencia alimentaria en emergencias</narrative>
             </name>
             <description>
                 <narrative>Provision and distribution of food; cash and vouchers for the purchase of food; non-medical nutritional interventions for the benefit of crisis-affected people, including refugees and internally displaced people in developing countries in emergency situations. Includes logistical costs. Excludes non-emergency food assistance (52010), food security policy and administrative management (43071), household food programmes (43072) and medical nutrition interventions (therapeutic feeding) (72010 and 72011).</narrative>
@@ -3627,6 +3933,7 @@
             <name>
                 <narrative>Relief co-ordination and support services</narrative>
                 <narrative xml:lang="fr">Coordination des secours et services de soutien</narrative>
+                <narrative xml:lang="es">Servicios de apoyo y coordinación del socorro</narrative>
             </name>
             <description>
                 <narrative>Measures to co-ordinate the assessment and safe delivery of humanitarian aid, including logistic, transport and communication systems; direct financial or technical support to national governments of affected countries to manage a disaster situation; activities to build an evidence base for humanitarian financing and operations, sharing this information and developing standards and guidelines for more effective response; funding for identifying and sharing innovative and scalable solutions to deliver effective humanitarian assistance.</narrative>
@@ -3639,6 +3946,7 @@
             <name>
                 <narrative>Immediate post-emergency reconstruction and rehabilitation</narrative>
                 <narrative xml:lang="fr">Reconstruction et réhabilitation immédiate post-urgence</narrative>
+                <narrative xml:lang="es">Reconstrucción y rehabilitación inmediata posemergencias</narrative>
             </name>
             <description>
                 <narrative>Social and economic rehabilitation in the aftermath of emergencies to facilitate recovery and resilience building and enable populations to restore their livelihoods in the wake of an emergency situation (e.g. trauma counselling and treatment, employment programmes). Includes infrastructure necessary for the delivery of humanitarian aid; restoring pre-existing essential infrastructure and facilities (e.g. water and sanitation, shelter, health care services, education); rehabilitation of basic agricultural inputs and livestock. Excludes longer-term reconstruction ('build back better') which is reportable against relevant sectors.</narrative>
@@ -3651,6 +3959,7 @@
             <name>
                 <narrative>Disaster prevention and preparedness</narrative>
                 <narrative xml:lang="fr">Prévention des catastrophes et préparation à leur survenue</narrative>
+                <narrative xml:lang="es">Prevención y preparación para casos de desastre</narrative>
             </name>
             <description>
                 <narrative>Disaster risk reduction activities (e.g. developing knowledge, natural risks cartography, legal norms for construction); early warning systems; emergency contingency stocks and contingency planning including preparations for forced displacement.</narrative>
@@ -3663,6 +3972,7 @@
             <name>
                 <narrative>Multi-hazard response preparedness</narrative>
                 <narrative xml:lang="fr">Préparation aux interventions multi-risques</narrative>
+                <narrative xml:lang="es">Preparación de respuesta multirriesgos</narrative>
             </name>
             <description>
                 <narrative>Building the responsiveness, capability and capacity of international, regional and national humanitarian actors to disasters. Support to the institutional capacities of national and local government, specialised humanitarian bodies, and civil society organisations to anticipate, respond and recover from the impact of potential, imminent and current hazardous events and emergency situations that pose humanitarian threats and could call for a humanitarian response. This includes risk analysis and assessment, mitigation, preparedness, such as stockpiling of emergency items and training and capacity building aimed to increase the speed and effectiveness of lifesaving assistance delivered in the occurrence of crisis.</narrative>
@@ -3675,6 +3985,7 @@
             <name>
                 <narrative>Administrative costs (non-sector allocable)</narrative>
                 <narrative xml:lang="fr">Frais administratifs (non alloués par secteur)</narrative>
+                <narrative xml:lang="es">Costos administrativos (no asignable por sectores)</narrative>
             </name>
             <category>910</category>
         </codelist-item>
@@ -3683,6 +3994,7 @@
             <name>
                 <narrative>Support to national NGOs</narrative>
                 <narrative xml:lang="fr">En faveur des ONG nationales</narrative>
+                <narrative xml:lang="es">Apoyo a las ONG nacionales</narrative>
             </name>
             <description>
                 <narrative>In the donor country.</narrative>
@@ -3695,6 +4007,7 @@
             <name>
                 <narrative>Support to international NGOs</narrative>
                 <narrative xml:lang="fr">En faveur des ONG internationales</narrative>
+                <narrative xml:lang="es">Apoyo a las ONG internacionales</narrative>
             </name>
             <category>920</category>
         </codelist-item>
@@ -3703,6 +4016,7 @@
             <name>
                 <narrative>Support to local and regional NGOs</narrative>
                 <narrative xml:lang="fr">En faveur des ONG locales et régionales</narrative>
+                <narrative xml:lang="es">Apoyo a las ONG locales y regionales</narrative>
             </name>
             <description>
                 <narrative>In the recipient country or region.</narrative>
@@ -3715,6 +4029,7 @@
             <name>
                 <narrative>Refugees/asylum seekers  in donor countries (non-sector allocable)</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d'asile dans les pays donneurs (non alloués)</narrative>
+                <narrative xml:lang="es">Refugiados o solicitantes de asilo en países donantes (no asignable por sectores)</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months, when costs cannot be disaggregated. See section II.6 and Annex 17.</narrative>
@@ -3727,6 +4042,7 @@
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - food and shelter</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d'asile dans les pays donneurs - nourriture et hébergement</narrative>
+                <narrative xml:lang="es">Refugiados o solicitantes de asilo en países donantes: alimentación y alojamiento</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months – food and shelter: - Food and other essential temporary sustenance provisions such as clothing. - Temporary accommodation facilities (e.g. reception centres, containers, tent camps). In respect of buildings, only the costs of maintenance and upkeep may be reported as ODA. The cost of renting temporary accommodation facilities is eligible. (All construction costs are excluded).</narrative>
@@ -3739,6 +4055,7 @@
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - training</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d'asile dans les pays donneurs - formation</narrative>
+                <narrative xml:lang="es">Refugiados o solicitantes de asilo en países donantes: capacitación</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months – training: - Early childhood education, primary and secondary education for children (this includes school costs but excludes vocational training), as part of temporary sustenance. - Language training and other ad-hoc basic training for refugees e.g. basic life skills for youth and adults (literacy and numeracy training).</narrative>
@@ -3751,6 +4068,7 @@
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - health</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d'asile dans les pays donneurs - santé</narrative>
+                <narrative xml:lang="es">Refugiados o solicitantes de asilo en países donantes: salud</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: basic health care and psycho-social support for persons with specific needs e.g. unaccompanied minors, persons with disabilities, survivors of violence and torture.</narrative>
@@ -3763,6 +4081,7 @@
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - other temporary sustenance</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d'asile dans les pays donneurs - autre entretien temporaire</narrative>
+                <narrative xml:lang="es">Refugiados o solicitantes de asilo en países donantes: otro tipo de sustento temporal</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: temporary sustenance other than food and shelter (code 93011), training (93012) and health (93013), i.e.  cash 'pocket money' to cover subsistence costs and assistance in the asylum procedure: translation of documents, legal and administrative counselling, interpretation services.</narrative>
@@ -3775,6 +4094,7 @@
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - voluntary repatriation</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d'asile dans les pays donneurs - retour volontaire</narrative>
+                <narrative xml:lang="es">Refugiados o solicitantes de asilo en países donantes: repatriación voluntaria</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: voluntary repatriation of refugees to a developing country during first twelve months.</narrative>
@@ -3787,6 +4107,7 @@
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - transport</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d'asile dans les pays donneurs - transport</narrative>
+                <narrative xml:lang="es">Refugiados o solicitantes de asilo en países donantes: transporte</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: transport to the host country in the case of resettlement programmes and transport within the host country.</narrative>
@@ -3799,6 +4120,7 @@
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - rescue at sea</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d'asile dans les pays donneurs - sauvetage en mer</narrative>
+                <narrative xml:lang="es">Refugiados y solicitantes de asilo en países donantes: salvamento marítimo</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: rescue of refugees at sea when it is the main purpose of the operation. Only the additional costs related to the operation may be counted.</narrative>
@@ -3811,6 +4133,7 @@
             <name>
                 <narrative>Refugees/asylum seekers in donor countries - administrative costs</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d'asile dans les pays donneurs - coûts administratifs</narrative>
+                <narrative xml:lang="es">Refugiados o solicitantes de asilo en países donantes: costos administrativos</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months: administrative costs. Only overhead costs attached to the direct provision of temporary sustenance to refugees are eligible. This includes costs of personnel assigned to provide eligible services to refugees, but does not include costs of personnel who are not involved in the direct execution of these services, e.g. management, human resources, information technology.</narrative>
@@ -3823,6 +4146,7 @@
             <name>
                 <narrative>Sectors not specified</narrative>
                 <narrative xml:lang="fr">Secteur non spécifié</narrative>
+                <narrative xml:lang="es">Sectores no especificados</narrative>
             </name>
             <description>
                 <narrative>Contributions to general development of the recipient should be included under programme assistance (51010).</narrative>
@@ -3836,6 +4160,7 @@
             <name>
                 <narrative>Promotion of development awareness (non-sector allocable)</narrative>
                 <narrative xml:lang="fr">Sensibilisation au développement (non alloués par secteur)</narrative>
+                <narrative xml:lang="es">Sensibilización sobre el desarrollo (no asignable por sectores)</narrative>
             </name>
             <description>
                 <narrative>Spending in donor country for heightened awareness/interest in development co-operation (brochures, lectures, special research projects, etc.).</narrative>

@@ -15,6 +15,7 @@
             <name>
                 <narrative>Education, Level Unspecified</narrative>
                 <narrative xml:lang="fr">Education, Niveau non spécifié</narrative>
+                <narrative xml:lang="es">Educación, nivel no especificado</narrative>
             </name>
             <description>
                 <narrative>The codes in this category are to be used only when level of education is unspecified or unknown (e.g. training of primary school teachers should be coded under 11220).</narrative>
@@ -26,6 +27,7 @@
             <name>
                 <narrative>Basic Education</narrative>
                 <narrative xml:lang="fr">Education de Base</narrative>
+                <narrative xml:lang="es">Educación básica</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -33,6 +35,7 @@
             <name>
                 <narrative>Secondary Education</narrative>
                 <narrative xml:lang="fr">Education Secondaire</narrative>
+                <narrative xml:lang="es">Educación secundaria</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -40,6 +43,7 @@
             <name>
                 <narrative>Post-Secondary Education</narrative>
                 <narrative xml:lang="fr">Education Post Secondaire</narrative>
+                <narrative xml:lang="es">Educación terciaria</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -47,6 +51,7 @@
             <name>
                 <narrative>Health, General</narrative>
                 <narrative xml:lang="fr">Santé, Général</narrative>
+                <narrative xml:lang="es">Salud, general</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -54,6 +59,7 @@
             <name>
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
+                <narrative xml:lang="es">Salud básica</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -61,6 +67,7 @@
             <name>
                 <narrative>Non-communicable diseases (NCDs)</narrative>
                 <narrative xml:lang="fr">Maladies non-transmissibles (MNT)</narrative>
+                <narrative xml:lang="es">Enfermedades no transmisibles</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -68,6 +75,7 @@
             <name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Políticas y programas demográficos y salud reproductiva</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -75,6 +83,7 @@
             <name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -82,6 +91,7 @@
             <name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </name>
             <description>
                 <narrative>N.B. Use code 51010 for general budget support.</narrative>
@@ -93,6 +103,7 @@
             <name>
                 <narrative>Conflict, Peace &amp; Security</narrative>
                 <narrative xml:lang="fr">Conflits, Paix et Sécurité</narrative>
+                <narrative xml:lang="es">Conflicto, paz y seguridad</narrative>
             </name>
             <description>
                 <narrative>N.B. Further notes on ODA eligibility (and exclusions) of conflict, peace and security related activities are given in paragraphs 76-81 of the Directives.</narrative>
@@ -104,6 +115,7 @@
             <name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -111,6 +123,7 @@
             <name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </name>
             <description>
                 <narrative>Note: Manufacturing of transport equipment should be included under code 32172.</narrative>
@@ -122,6 +135,7 @@
             <name>
                 <narrative>Communications</narrative>
                 <narrative xml:lang="fr">Communications</narrative>
+                <narrative xml:lang="es">Comunicaciones</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
@@ -129,6 +143,7 @@
             <name>
                 <narrative>ENERGY GENERATION AND SUPPLY</narrative>
                 <narrative xml:lang="fr">PRODUCTION ET DISTRIBUTION D’ENERGIE</narrative>
+                <narrative xml:lang="es">Generación y suministro de energía</narrative>
             </name>
             <description>
                 <narrative>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</narrative>
@@ -139,6 +154,7 @@
             <name>
                 <narrative>Energy Policy</narrative>
                 <narrative xml:lang="fr">Politique de l'énergie</narrative>
+                <narrative xml:lang="es">Política energética</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -146,6 +162,7 @@
             <name>
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -153,6 +170,7 @@
             <name>
                 <narrative>Energy generation, non-renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources non renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes no renovables</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -160,6 +178,7 @@
             <name>
                 <narrative>Hybrid energy plants</narrative>
                 <narrative xml:lang="fr">Centrales hybrides</narrative>
+                <narrative xml:lang="es">Centrales de energía híbrida</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -167,6 +186,7 @@
             <name>
                 <narrative>Nuclear energy plants</narrative>
                 <narrative xml:lang="fr">Centrales nucléaires</narrative>
+                <narrative xml:lang="es">Centrales de energía nuclear</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -174,6 +194,7 @@
             <name>
                 <narrative>Energy distribution</narrative>
                 <narrative xml:lang="fr">Distribution de l'énergie</narrative>
+                <narrative xml:lang="es">Distribución de la energía</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -181,6 +202,7 @@
             <name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -188,6 +210,7 @@
             <name>
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
+                <narrative xml:lang="es">Servicios empresariales y otros servicios</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -195,6 +218,7 @@
             <name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -202,6 +226,7 @@
             <name>
                 <narrative>Forestry</narrative>
                 <narrative xml:lang="fr">Sylviculture</narrative>
+                <narrative xml:lang="es">Silvicultura</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -209,6 +234,7 @@
             <name>
                 <narrative>Fishing</narrative>
                 <narrative xml:lang="fr">Pêche</narrative>
+                <narrative xml:lang="es">Pesca</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -216,6 +242,7 @@
             <name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -223,6 +250,7 @@
             <name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Recursos minerales y minería</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -230,6 +258,7 @@
             <name>
                 <narrative>Construction</narrative>
                 <narrative xml:lang="fr">Construction</narrative>
+                <narrative xml:lang="es">Construcción</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -237,6 +266,7 @@
             <name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Políticas comerciales y otras regulaciones</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -244,6 +274,7 @@
             <name>
                 <narrative>Tourism</narrative>
                 <narrative xml:lang="fr">Tourisme</narrative>
+                <narrative xml:lang="es">Turismo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -251,6 +282,7 @@
             <name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección ambiental general</narrative>
             </name>
             <description>
                 <narrative>Covers activities concerned with conservation, protection or amelioration of the physical environment without sector allocation.</narrative>
@@ -262,6 +294,7 @@
             <name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otro multisector</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -269,6 +302,7 @@
             <name>
                 <narrative>General Budget Support</narrative>
                 <narrative xml:lang="fr">Soutien Budgétaire</narrative>
+                <narrative xml:lang="es">Apoyo presupuestario general</narrative>
             </name>
             <description>
                 <narrative>Budget support in the form of sector-wide approaches (SWAps) should be included in the respective sectors.</narrative>
@@ -280,6 +314,7 @@
             <name>
                 <narrative>Development Food Assistance</narrative>
                 <narrative xml:lang="fr">Aide Alimentaire Dévelopmentale</narrative>
+                <narrative xml:lang="es">Asistencia alimentaria para el desarrollo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -287,6 +322,7 @@
             <name>
                 <narrative>Other Commodity Assistance</narrative>
                 <narrative xml:lang="fr">Aide sous forme de Produits, Autre</narrative>
+                <narrative xml:lang="es">Otro tipo de asistencia relacionada con los productos básicos</narrative>
             </name>
             <description>
                 <narrative>Non-food commodity assistance (when benefiting sector not specified).</narrative>
@@ -298,6 +334,7 @@
             <name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Medidas relativas a la deuda</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -305,6 +342,7 @@
             <name>
                 <narrative>Emergency Response</narrative>
                 <narrative xml:lang="fr">Intervention d'Urgence</narrative>
+                <narrative xml:lang="es">Respuesta ante casos de emergencia</narrative>
             </name>
             <description>
                 <narrative>An emergency is a situation which results from man made crises and/or natural disasters.</narrative>
@@ -316,6 +354,7 @@
             <name>
                 <narrative>Reconstruction Relief &amp; Rehabilitation</narrative>
                 <narrative xml:lang="fr">Reconstruction &amp; Réhabilitation</narrative>
+                <narrative xml:lang="es">Socorro relacionado con la reconstrucción y la rehabilitación</narrative>
             </name>
             <description>
                 <narrative>This relates to activities during and in the aftermath of an emergency situation.  Longer-term activities to improve the level of infrastructure or social services should be reported under the relevant economic and social sector codes. See also guideline on distinguishing humanitarian from sector-allocable aid.</narrative>
@@ -327,6 +366,7 @@
             <name>
                 <narrative>Disaster Prevention &amp; Preparedness</narrative>
                 <narrative xml:lang="fr">Prévention catastrophes/Préparation à leur survenue</narrative>
+                <narrative xml:lang="es">Prevención de desastres y preparación frente a ellos</narrative>
             </name>
             <description>
                 <narrative>See code 43060 for disaster risk reduction.</narrative>
@@ -338,6 +378,7 @@
             <name>
                 <narrative>Administrative Costs of Donors</narrative>
                 <narrative xml:lang="fr">Frais Administratifs des Donneurs</narrative>
+                <narrative xml:lang="es">Costos administrativos de donantes</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
@@ -345,6 +386,7 @@
             <name>
                 <narrative>SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)</narrative>
                 <narrative xml:lang="fr">CONCOURS FOURNIS AUX ORGANISATIONS NON-GOUVERNEMENTALES (ONG)</narrative>
+                <narrative xml:lang="es">APOYO A ORGANIZACIONES NO GUBERNAMENTALES (ONG)</narrative>
             </name>
             <description>
                 <narrative>In the donor country.</narrative>
@@ -356,6 +398,7 @@
             <name>
                 <narrative>Refugees in Donor Countries</narrative>
                 <narrative xml:lang="fr">Refugiés dans les Pays Donneurs</narrative>
+                <narrative xml:lang="es">Refugiados en países donantes</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -363,6 +406,7 @@
             <name>
                 <narrative>Unallocated / Unspecified</narrative>
                 <narrative xml:lang="fr">Non Affecté / Non Specifié</narrative>
+                <narrative xml:lang="es">Sin asignar o sin especificar</narrative>
             </name>
             <description>
                 <narrative>Contributions to general development of the recipient should be included under programme assistance (51010).</narrative>

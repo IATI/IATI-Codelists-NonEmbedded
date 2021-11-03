@@ -15,6 +15,7 @@
             <name>
                 <narrative>General budget support</narrative>
                 <narrative xml:lang="fr">Soutien budgétaire général</narrative>
+                <narrative xml:lang="es">Apoyo presupuestario general</narrative>
             </name>
             <description>
                 <narrative>Unearmarked contributions to the government budget including funding to support the implementation of macroeconomic reforms (structural adjustment programmes, poverty reduction strategies). Budget support is a method of financing a recipient country’s budget through a transfer of resources from an external financing agency to the recipient government’s national treasury. The funds thus transferred are managed in accordance with the recipient’s budgetary procedures. Funds transferred to the national treasury for financing programmes or projects managed according to different budgetary procedures from those of the recipient country, with the intention of earmarking the resources for specific uses, are therefore excluded.</narrative>
@@ -27,6 +28,7 @@
             <name>
                 <narrative>Sector budget support</narrative>
                 <narrative xml:lang="fr">Soutien budgétaire sectoriel</narrative>
+                <narrative xml:lang="es">Apoyo presupuestario sectorial</narrative>
             </name>
             <description>
                 <narrative>Sector budget support, like general budget support, is a financial contribution to a recipient government’s budget.  However, in sector budget support, the dialogue between donors and partner governments focuses on sector-specific concerns, rather than on overall policy and budget priorities.</narrative>
@@ -39,6 +41,7 @@
             <name>
                 <narrative>Core support to NGOs, other private bodies, PPPs and research institutes</narrative>
                 <narrative xml:lang="fr">Contributions aux budgets réguliers des ONG, autres organismes privés, partenariats public-privé (PPP) et instituts de recherche</narrative>
+                <narrative xml:lang="es">Apoyo básico a ONG, otros organismos privados, alianzas público-privadas e institutos de investigación</narrative>
             </name>
             <description>
                 <narrative>Funds are paid over to NGOs (local, national and international) for use at the latter’s discretion, and contribute to programmes and activities which NGOs have developed themselves, and which they implement on their own authority and responsibility. Core contributions to PPPs, funds paid over to foundations (e.g. philanthropic foundations), and contributions to research institutes (public and private) are also recorded here. Annex 2 of the DAC Directives provides a list of INGOs, PPPs and networks core contributions to which may be reported under B01. This list is not exclusive.</narrative>
@@ -51,6 +54,7 @@
             <name>
                 <narrative>Core contributions to multilateral institutions</narrative>
                 <narrative xml:lang="fr">Contributions aux budgets réguliers des institutions multilatérales</narrative>
+                <narrative xml:lang="es">Contribuciones básicas a instituciones multilaterales</narrative>
             </name>
             <description>
                 <narrative>These funds are classified as multilateral ODA (all other categories fall under bilateral ODA). The recipient multilateral institution pools contributions so that they lose their identity and become an integral part of its financial assets. See Annex 2 of the DAC Directives for a comprehensive list of agencies core contributions to which may be reported under B02 (Section I. Multilateral institutions).</narrative>
@@ -63,6 +67,7 @@
             <name>
                 <narrative>Contributions to specific-purpose programmes and funds managed by implementing partners</narrative>
                 <narrative xml:lang="fr">Contributions à des programmes ou fonds à objectif spécifique gérés par des partenaires d'exécution</narrative>
+                <narrative xml:lang="es">Contribuciones a programas para fines concretos y fondos administrados por asociados en la ejecución</narrative>
             </name>
             <description>
                 <narrative>In addition to their core-funded operations, international organisations, NGOs, PPPs and networks, both in provider and in third countries, set up programmes and funds with a specific sectoral, thematic or geographical focus. Donors’ bilateral contributions to such programmes and funds are recorded here.</narrative>
@@ -75,6 +80,7 @@
             <name>
                 <narrative>Contributions to multi-donor/multi-entity funding mechanisms</narrative>
                 <narrative xml:lang="fr">Contributions aux mécanismes de financement multi-donateurs / multi-entités</narrative>
+                <narrative xml:lang="es">Contribuciones a mecanismos de financiación de donantes múltiples y entidades múltiples</narrative>
             </name>
             <description>
                 <narrative>Funding mechanisms that pool contributions from several donors and that are implemented by several multilateral entities e.g. UN inter-agency pooled funds, including CERF and country-based pooled funds; Financial Intermediary Funds (GEF, CIFs) for which the World Bank is the Trustee.</narrative>
@@ -87,6 +93,7 @@
             <name>
                 <narrative>Contributions to multi-donor/single-entity funding mechanisms</narrative>
                 <narrative xml:lang="fr">Contributions aux mécanismes de financement multi-donateurs / entité unique</narrative>
+                <narrative xml:lang="es">Contribuciones a mecanismos de financiación de donantes múltiples y una entidad única</narrative>
             </name>
             <description>
                 <narrative>Contributions to multi-donor funding mechanisms managed by a single multilateral organisation e.g. UN single-agency thematic funds; World Bank or other MDB trust funds. Classify the contribution as B032 even if in the initial stages only one donor contributes to the fund.</narrative>
@@ -99,6 +106,7 @@
             <name>
                 <narrative>Contributions to single-donor funding mechanisms and contributions earmarked for a specific funding window or geographical location</narrative>
                 <narrative xml:lang="fr">Contributions aux mécanismes de financement à un seul donateur et contributions affectées à un guichet de financement ou à un emplacement géographique</narrative>
+                <narrative xml:lang="es">Contribuciones a mecanismos de financiación de un donante único y contribuciones para fines específicos para ventanillas de financiación o ubicaciones geográficas específicas</narrative>
             </name>
             <description>
                 <narrative>Contributions to funding mechanisms where the donor has a significant influence on the allocation of funds. This includes contributions to single-donor trust funds and earmarked contributions to specific countries/geographical locations or funding windows within multi-donor trust funds. When the donor designs the activity but channels it through an international organisation, the activity should be classified as C01.</narrative>
@@ -111,6 +119,7 @@
             <name>
                 <narrative>Basket funds/pooled funding</narrative>
                 <narrative xml:lang="fr">Fonds communs/financements groupés</narrative>
+                <narrative xml:lang="es">Fondos colectivos o financiación mancomunada</narrative>
             </name>
             <description>
                 <narrative>The donor contributes funds to an autonomous account, managed jointly with other donors and/or the recipient. The account will have specific purposes, modes of disbursement and accountability mechanisms, and a limited time frame. Basket funds are characterised by common project documents, common funding contracts and common reporting/audit procedures with all donors. Donors’ contributions to funds managed autonomously by international organisations are recorded under B03.</narrative>
@@ -123,6 +132,7 @@
             <name>
                 <narrative>Project-type interventions</narrative>
                 <narrative xml:lang="fr">Interventions de type projet</narrative>
+                <narrative xml:lang="es">Intervenciones basadas en proyectos</narrative>
             </name>
             <description>
                 <narrative>A project is a set of inputs, activities and outputs, agreed with the partner country*, to reach specific objectives/outcomes within a defined time frame, with a defined budget and a  defined geographical area. Projects can vary significantly in terms of objectives, complexity, amounts involved and duration. There are smaller projects that might involve modest financial resources and last only a few months, whereas large projects might involve more significant amounts, entail successive phases and last for many years. A large project with a number of different components is sometimes referred to as a programme, but should nevertheless be recorded here. Feasibility studies, appraisals and evaluations are included (whether designed as part of projects/programmes or dedicated funding arrangements). Academic studies, research and development, trainings, scholarships, and other technical assistance activities not directly linked to development projects/programmes should instead be recorded under D02. Aid channelled through NGOs or multilaterals is also recorded here. This includes payments for NGOs and multilaterals to implement donors’ projects and programmes, and funding of specified NGOs projects. By contrast, core funding of NGOs and multilaterals as well as contributions to specific-purpose funds are recorded under B.* In the cases of equity investments, humanitarian aid or aid channelled through NGOs, projects are recorded here even if there was no direct agreement between the donor and the partner country. Contributions to single-donor trust funds and contributions to trust funds earmarked for a specific funding window and/or country are recorded under B033.</narrative>
@@ -135,6 +145,7 @@
             <name>
                 <narrative>Donor country personnel</narrative>
                 <narrative xml:lang="fr">Personnel du pays donneur</narrative>
+                <narrative xml:lang="es">Personal del país donante</narrative>
             </name>
             <description>
                 <narrative>Experts, consultants, teachers, academics, researchers, volunteers and contributions to public and private bodies for sending experts to developing countries.</narrative>
@@ -147,6 +158,7 @@
             <name>
                 <narrative>Other technical assistance</narrative>
                 <narrative xml:lang="fr">Autres formes d’assistance technique</narrative>
+                <narrative xml:lang="es">Asistencia técnica de otro tipo</narrative>
             </name>
             <description>
                 <narrative>Provision, outside projects as described in category C01, of technical assistance in recipient countries (excluding technical assistance performed by donor experts reported under D01, and scholarships/training in donor country reported under E01). This includes training and research; language training; south-south studies; research studies; collaborative research between donor and recipient universities and organisations); local scholarships; development-oriented social and cultural programmes. This category also covers ad hoc contributions such as conferences, seminars and workshops, exchange visits, publications, etc.</narrative>
@@ -159,6 +171,7 @@
             <name>
                 <narrative>Scholarships/training in donor country</narrative>
                 <narrative xml:lang="fr">Bourses/formations dans le pays donneur</narrative>
+                <narrative xml:lang="es">Becas o capacitación en el país donante</narrative>
             </name>
             <description>
                 <narrative>Financial aid awards for individual students and contributions to trainees.</narrative>
@@ -171,6 +184,7 @@
             <name>
                 <narrative>Imputed student costs</narrative>
                 <narrative xml:lang="fr">Coûts imputés des étudiants</narrative>
+                <narrative xml:lang="es">Costos estudiantiles estimados</narrative>
             </name>
             <description>
                 <narrative>Indirect (“imputed”) costs of tuition in donor countries.</narrative>
@@ -183,6 +197,7 @@
             <name>
                 <narrative>Debt relief</narrative>
                 <narrative xml:lang="fr">Allégement de la dette</narrative>
+                <narrative xml:lang="es">Alivio de la deuda</narrative>
             </name>
             <description>
                 <narrative>Groups all actions relating to debt (forgiveness, conversions, swaps, buy-backs, rescheduling, refinancing).</narrative>
@@ -195,6 +210,7 @@
             <name>
                 <narrative>Administrative costs not included elsewhere</narrative>
                 <narrative xml:lang="fr">Frais administratifs non inclus ailleurs</narrative>
+                <narrative xml:lang="es">Costos administrativos no incluidos en otras secciones</narrative>
             </name>
             <description>
                 <narrative>Administrative costs of development assistance programmes not already included under other ODA items as an integral part of the costs of delivering or implementing the aid provided. This category covers situation analyses and auditing activities.As regards the salaries component of administrative costs, it relates to  in-house agency staff and contractors only; costs associated with donor experts/consultants are to be reported under category C or D01.</narrative>
@@ -207,6 +223,7 @@
             <name>
                 <narrative>Development awareness</narrative>
                 <narrative xml:lang="fr">Sensibilisation au développement</narrative>
+                <narrative xml:lang="es">Concienciación en materia de desarrollo</narrative>
             </name>
             <description>
                 <narrative>Funding of activities designed to increase public support, i.e. awareness in the donor country of development co-operation efforts, needs and issues.</narrative>
@@ -219,6 +236,7 @@
             <name>
                 <narrative>Refugees/asylum seekers in donor countries</narrative>
                 <narrative xml:lang="fr">Refugiés/demandeurs d’asile dans les pays donneurs</narrative>
+                <narrative xml:lang="es">Refugiados/solicitantes de asilo en países donantes</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months, when costs cannot be disaggregated. See section II.6 and Annex 17.</narrative>
@@ -231,6 +249,7 @@
             <name>
                 <narrative>Asylum-seekers ultimately accepted</narrative>
                 <narrative xml:lang="fr">Demandeurs d’asile finalement acceptés</narrative>
+                <narrative xml:lang="es">Solicitantes de asilo finalmente aceptados</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers, when these are ultimately accepted. This category includes only costs incurred prior to recognition.</narrative>
@@ -243,6 +262,7 @@
             <name>
                 <narrative>Asylum-seekers ultimately rejected</narrative>
                 <narrative xml:lang="fr">Demandeurs d’asile finalement déboutés</narrative>
+                <narrative xml:lang="es">Solicitantes de asilo finalmente rechazados</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to asylum seekers, when these are ultimately rejected. This category includes only costs incurred prior to rejection. Members may base their reporting on the first instance rejection, where a final decision on status is anticipated to occur after a 12-month period, and this facilitates the establishment of a conservative estimate. For further guidance on how to proceed with calculating costs related to rejected asylum seekers, see Clarification 5, third bullet in section II.6 of the Reporting Directives.</narrative>
@@ -255,6 +275,7 @@
             <name>
                 <narrative>Recognised refugees</narrative>
                 <narrative xml:lang="fr">Personnes auxquelles le statut de réfugié a été accordé</narrative>
+                <narrative xml:lang="es">Refugiados reconocidos</narrative>
             </name>
             <description>
                 <narrative>Costs incurred in donor countries for basic assistance to refugees with a recognised status. This category only includes costs after recognition (or after date of entry into a country through a resettlement programme).</narrative>
