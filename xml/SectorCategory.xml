@@ -43,7 +43,7 @@
             <name>
                 <narrative>Post-Secondary Education</narrative>
                 <narrative xml:lang="fr">Education Post Secondaire</narrative>
-                <narrative xml:lang="es">Educación terciaria</narrative>
+                <narrative xml:lang="es">Educación post-secundaria</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -75,7 +75,7 @@
             <name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
-                <narrative xml:lang="es">Políticas y programas demográficos y salud reproductiva</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -103,7 +103,7 @@
             <name>
                 <narrative>Conflict, Peace &amp; Security</narrative>
                 <narrative xml:lang="fr">Conflits, Paix et Sécurité</narrative>
-                <narrative xml:lang="es">Conflicto, paz y seguridad</narrative>
+                <narrative xml:lang="es">Prevención y resolución de conflictos, paz y seguridad</narrative>
             </name>
             <description>
                 <narrative>N.B. Further notes on ODA eligibility (and exclusions) of conflict, peace and security related activities are given in paragraphs 76-81 of the Directives.</narrative>
@@ -210,7 +210,7 @@
             <name>
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
-                <narrative xml:lang="es">Servicios empresariales y otros servicios</narrative>
+                <narrative xml:lang="es">Empresas y otros servicios</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -250,7 +250,7 @@
             <name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
-                <narrative xml:lang="es">Recursos minerales y minería</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -266,7 +266,7 @@
             <name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
-                <narrative xml:lang="es">Políticas comerciales y otras regulaciones</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -282,7 +282,7 @@
             <name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
-                <narrative xml:lang="es">Protección ambiental general</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </name>
             <description>
                 <narrative>Covers activities concerned with conservation, protection or amelioration of the physical environment without sector allocation.</narrative>
@@ -294,7 +294,7 @@
             <name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
-                <narrative xml:lang="es">Otro multisector</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -314,7 +314,7 @@
             <name>
                 <narrative>Development Food Assistance</narrative>
                 <narrative xml:lang="fr">Aide Alimentaire Dévelopmentale</narrative>
-                <narrative xml:lang="es">Asistencia alimentaria para el desarrollo</narrative>
+                <narrative xml:lang="es">Ayuda alimentaria para el desarrollo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -322,7 +322,7 @@
             <name>
                 <narrative>Other Commodity Assistance</narrative>
                 <narrative xml:lang="fr">Aide sous forme de Produits, Autre</narrative>
-                <narrative xml:lang="es">Otro tipo de asistencia relacionada con los productos básicos</narrative>
+                <narrative xml:lang="es">Otras ayudas en forma de suministro de bienes</narrative>
             </name>
             <description>
                 <narrative>Non-food commodity assistance (when benefiting sector not specified).</narrative>
@@ -334,7 +334,7 @@
             <name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
-                <narrative xml:lang="es">Medidas relativas a la deuda</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -342,7 +342,7 @@
             <name>
                 <narrative>Emergency Response</narrative>
                 <narrative xml:lang="fr">Intervention d'Urgence</narrative>
-                <narrative xml:lang="es">Respuesta ante casos de emergencia</narrative>
+                <narrative xml:lang="es">Ayuda de emergencia</narrative>
             </name>
             <description>
                 <narrative>An emergency is a situation which results from man made crises and/or natural disasters.</narrative>
@@ -354,7 +354,7 @@
             <name>
                 <narrative>Reconstruction Relief &amp; Rehabilitation</narrative>
                 <narrative xml:lang="fr">Reconstruction &amp; Réhabilitation</narrative>
-                <narrative xml:lang="es">Socorro relacionado con la reconstrucción y la rehabilitación</narrative>
+                <narrative xml:lang="es">Ayuda a la reconstrucción y a la rehabilitación</narrative>
             </name>
             <description>
                 <narrative>This relates to activities during and in the aftermath of an emergency situation.  Longer-term activities to improve the level of infrastructure or social services should be reported under the relevant economic and social sector codes. See also guideline on distinguishing humanitarian from sector-allocable aid.</narrative>
@@ -366,7 +366,7 @@
             <name>
                 <narrative>Disaster Prevention &amp; Preparedness</narrative>
                 <narrative xml:lang="fr">Prévention catastrophes/Préparation à leur survenue</narrative>
-                <narrative xml:lang="es">Prevención de desastres y preparación frente a ellos</narrative>
+                <narrative xml:lang="es">Prevención de desastres</narrative>
             </name>
             <description>
                 <narrative>See code 43060 for disaster risk reduction.</narrative>
@@ -378,7 +378,7 @@
             <name>
                 <narrative>Administrative Costs of Donors</narrative>
                 <narrative xml:lang="fr">Frais Administratifs des Donneurs</narrative>
-                <narrative xml:lang="es">Costos administrativos de donantes</narrative>
+                <narrative xml:lang="es">Costes administrativos donantes</narrative>
             </name>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
@@ -398,7 +398,7 @@
             <name>
                 <narrative>Refugees in Donor Countries</narrative>
                 <narrative xml:lang="fr">Refugiés dans les Pays Donneurs</narrative>
-                <narrative xml:lang="es">Refugiados en países donantes</narrative>
+                <narrative xml:lang="es">Ayuda a refugiados en el país donante</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -406,7 +406,7 @@
             <name>
                 <narrative>Unallocated / Unspecified</narrative>
                 <narrative xml:lang="fr">Non Affecté / Non Specifié</narrative>
-                <narrative xml:lang="es">Sin asignar o sin especificar</narrative>
+                <narrative xml:lang="es">Sin especificación / no clasificados</narrative>
             </name>
             <description>
                 <narrative>Contributions to general development of the recipient should be included under programme assistance (51010).</narrative>
