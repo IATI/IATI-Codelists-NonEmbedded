@@ -15,15 +15,21 @@ jobs:
           wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/xml.xsd"
       - name: xml lint
         run: xmllint --schema codelist.xsd --noout xml/*
+
+  trigger:
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
       - name: Trigger a build on the codelists repo
-        if: github.ref == 'refs/heads/master'
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         uses: peter-evans/repository-dispatch@v1
         with:
           repository: codeforIATI/codelists
           token: ${{ secrets.TOKEN }}
           event-type: build
+
       - name: Trigger an update on the datastore classic repo
-        if: github.ref == 'refs/heads/master'
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         uses: peter-evans/repository-dispatch@v1
         with:
           repository: codeforIATI/iati-datastore
