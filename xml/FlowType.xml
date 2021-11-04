@@ -19,6 +19,7 @@
             <name>
                 <narrative>ODA</narrative>
                 <narrative xml:lang="fr">APD</narrative>
+                <narrative xml:lang="es">Asistencia oficial para el desarrollo</narrative>
             </name>
             <description>
                 <narrative>Official Development Assistance</narrative>
@@ -30,6 +31,7 @@
             <name>
                 <narrative>OOF</narrative>
                 <narrative xml:lang="fr">AASP</narrative>
+                <narrative xml:lang="es">Otras corrientes oficiales</narrative>
             </name>
             <description>
                 <narrative>Other Official Flows</narrative>
@@ -41,6 +43,7 @@
             <name>
                 <narrative>Non-export credit OOF</narrative>
                 <narrative xml:lang="fr">AASP hors crédits-export</narrative>
+                <narrative xml:lang="es">Otras corrientes oficiales de créditos no destinados a la exportación</narrative>
             </name>
             <description>
                 <narrative>Other Official Flows, excl. export credits</narrative>
@@ -52,6 +55,7 @@
             <name>
                 <narrative>Officially supported export credits</narrative>
                 <narrative xml:lang="fr">AASP dont crédits export</narrative>
+                <narrative xml:lang="es">Créditos a la exportación con respaldo oficial</narrative>
             </name>
             <description>
                 <narrative>Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance</narrative>
@@ -63,6 +67,7 @@
             <name>
                 <narrative>Private Development Finance</narrative>
                 <narrative xml:lang="fr">Financement du développement privé</narrative>
+                <narrative xml:lang="es">Financiación privada para el desarrollo</narrative>
             </name>
             <description>
                 <narrative>Financing by civil society organisations (NGOs, philantropic foundations, etc.)</narrative>
@@ -74,6 +79,7 @@
             <name>
                 <narrative>Private Market</narrative>
                 <narrative xml:lang="fr">Apports privés aux conditions du marché</narrative>
+                <narrative xml:lang="es">Mercado privado</narrative>
             </name>
             <description>
                 <narrative>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries</narrative>
@@ -85,6 +91,7 @@
             <name>
                 <narrative>Private Foreign Direct Investment</narrative>
                 <narrative xml:lang="fr">IDE</narrative>
+                <narrative xml:lang="es">Inversión extranjera directa privada</narrative>
             </name>
             <description>
                 <narrative>Private Foreign Direct Investment</narrative>
@@ -96,6 +103,7 @@
             <name>
                 <narrative>Other Private flows at market terms</narrative>
                 <narrative xml:lang="fr">Autres apports privés aux conditions du marché</narrative>
+                <narrative xml:lang="es">Otros flujos privados con arreglo a las condiciones de mercado</narrative>
             </name>
             <description>
                 <narrative>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries</narrative>
@@ -107,6 +115,7 @@
             <name>
                 <narrative>Non flow</narrative>
                 <narrative xml:lang="fr">non apports</narrative>
+                <narrative xml:lang="es">No flujo</narrative>
             </name>
             <description>
                 <narrative>e.g. GNI, ODA%GNI, Population etc</narrative>
@@ -118,6 +127,7 @@
             <name>
                 <narrative>Other flows</narrative>
                 <narrative xml:lang="fr">Autres apports</narrative>
+                <narrative xml:lang="es">Otros flujos</narrative>
             </name>
             <description>
                 <narrative>e.g. non-ODA component of peacebuilding operations</narrative>

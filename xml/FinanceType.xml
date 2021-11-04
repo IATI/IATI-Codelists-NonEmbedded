@@ -19,6 +19,7 @@
             <name>
                 <narrative>GNI: Gross National Income</narrative>
                 <narrative xml:lang="fr">RNB : Revenu national brut</narrative>
+                <narrative xml:lang="es">INB: ingreso nacional bruto</narrative>
             </name>
             <category>0</category>
         </codelist-item>
@@ -27,6 +28,7 @@
             <name>
                 <narrative>Standard grant</narrative>
                 <narrative xml:lang="fr">Dons ordinaires</narrative>
+                <narrative xml:lang="es">Donación estándar</narrative>
             </name>
             <description>
                 <narrative>Grants are transfers in cash or in kind for which no legal debt is incurred by the recipient.</narrative>
@@ -39,6 +41,7 @@
             <name>
                 <narrative>Guarantees/insurance</narrative>
                 <narrative xml:lang="fr">Garanties/assurances</narrative>
+                <narrative xml:lang="es">Garantías o seguros</narrative>
             </name>
             <category>1000</category>
         </codelist-item>
@@ -47,6 +50,7 @@
             <name>
                 <narrative>Subsidies to national private investors</narrative>
                 <narrative xml:lang="fr">Don hors réorganisation de la dette (y compris quasi-dons)</narrative>
+                <narrative xml:lang="es">Subsidios a inversores privados nacionales</narrative>
             </name>
             <category>100</category>
         </codelist-item>
@@ -55,6 +59,7 @@
             <name>
                 <narrative>ODA % GNI</narrative>
                 <narrative xml:lang="fr">APD en % du RNB</narrative>
+                <narrative xml:lang="es">Asistencia oficial para el desarrollo en porcentaje del INB</narrative>
             </name>
             <category>0</category>
         </codelist-item>
@@ -63,6 +68,7 @@
             <name>
                 <narrative>Interest subsidy</narrative>
                 <narrative xml:lang="fr">Bonification d'intérêt</narrative>
+                <narrative xml:lang="es">Subvención de los intereses</narrative>
             </name>
             <description>
                 <narrative>A payment to soften the terms of private export credits, or loans or credits by the banking sector.</narrative>
@@ -75,6 +81,7 @@
             <name>
                 <narrative>Interest subsidy to national private exporters</narrative>
                 <narrative xml:lang="fr">Bonification d’intérêt octroyée aux exportateurs privés nationaux</narrative>
+                <narrative xml:lang="es">Subvención de los intereses a exportadores privados nacionales</narrative>
             </name>
             <category>100</category>
         </codelist-item>
@@ -83,6 +90,7 @@
             <name>
                 <narrative>Total Flows % GNI</narrative>
                 <narrative xml:lang="fr">Apports totaux en % du RNB</narrative>
+                <narrative xml:lang="es">Flujos totales en porcentaje del INB</narrative>
             </name>
             <category>0</category>
         </codelist-item>
@@ -91,6 +99,7 @@
             <name>
                 <narrative>Capital subscription on deposit basis</narrative>
                 <narrative xml:lang="fr">Souscriptions au capital sur la base des dépôt</narrative>
+                <narrative xml:lang="es">Suscripción de capital en régimen de depósito</narrative>
             </name>
             <description>
                 <narrative>Payments to multilateral agencies in the form of notes and similar instruments, unconditionally encashable at sight by the recipient institutions.</narrative>
@@ -103,6 +112,7 @@
             <name>
                 <narrative>Capital subscription on encashment basis</narrative>
                 <narrative xml:lang="fr">Souscriptions au capital sur la base des encaissements</narrative>
+                <narrative xml:lang="es">Suscripción de capital en régimen de conversión en efectivo</narrative>
             </name>
             <description>
                 <narrative>Payments to multilateral agencies in the form of notes and similar instruments, unconditionally encashable at sight by the recipient institutions.</narrative>
@@ -115,6 +125,7 @@
             <name>
                 <narrative>Population</narrative>
                 <narrative xml:lang="fr">Population</narrative>
+                <narrative xml:lang="es">Población</narrative>
             </name>
             <category>0</category>
         </codelist-item>
@@ -123,6 +134,7 @@
             <name>
                 <narrative>Aid loan excluding debt reorganisation</narrative>
                 <narrative xml:lang="fr">Prêt d’aide hors réorganisation de la dette</narrative>
+                <narrative xml:lang="es">Asistencia mediante préstamo sin reorganización de la deuda</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -131,6 +143,7 @@
             <name>
                 <narrative>Investment-related loan to developing countries</narrative>
                 <narrative xml:lang="fr">Prêt lié à un investissement dans les pays en développement</narrative>
+                <narrative xml:lang="es">Préstamo relativo a la inversión a países en desarrollo</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -139,6 +152,7 @@
             <name>
                 <narrative>Loan in a joint venture with the recipient</narrative>
                 <narrative xml:lang="fr">Prêt dans une coentreprise avec le pays bénéficiaire</narrative>
+                <narrative xml:lang="es">Préstamo en una operación conjunta con el beneficiario</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -147,6 +161,7 @@
             <name>
                 <narrative>Loan to national private investor</narrative>
                 <narrative xml:lang="fr">Prêt à un investisseur privé national</narrative>
+                <narrative xml:lang="es">Préstamo a inversionista privado nacional</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -155,6 +170,7 @@
             <name>
                 <narrative>Loan to national private exporter</narrative>
                 <narrative xml:lang="fr">Prêt à un exportateur privé national</narrative>
+                <narrative xml:lang="es">Préstamo a exportador privado nacional</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -163,6 +179,7 @@
             <name>
                 <narrative>Standard loan</narrative>
                 <narrative xml:lang="fr">Prêt ordinaire</narrative>
+                <narrative xml:lang="es">Préstamo estándar</narrative>
             </name>
             <description>
                 <narrative>Transfers in cash or in kind for which the recipient incurs legal debt (and the resulting claim is not intended to be traded).  Since payment obligations on standard loan are senior obligations, i.e. creditors are entitled to receive payments against their claims before anyone else, they are also referred to as senior loans.</narrative>
@@ -175,6 +192,7 @@
             <name>
                 <narrative>Reimbursable grant</narrative>
                 <narrative xml:lang="fr">Don remboursable</narrative>
+                <narrative xml:lang="es">Donación reembolsable</narrative>
             </name>
             <description>
                 <narrative>A contribution provided to a recipient institution for investment purposes, with the expectation of long-term reflows at conditions specified in the financing agreement. The provider assumes the risk of total or partial failure of the investment; it can also decide if and when to reclaim its investment.</narrative>
@@ -187,6 +205,7 @@
             <name>
                 <narrative>Bonds</narrative>
                 <narrative xml:lang="fr">Obligations</narrative>
+                <narrative xml:lang="es">Bonos</narrative>
             </name>
             <description>
                 <narrative>Fixed-interest debt instruments, issued by governments, public utilities, banks or companies, tradable in financial markets.</narrative>
@@ -199,6 +218,7 @@
             <name>
                 <narrative>Asset-backed securities</narrative>
                 <narrative xml:lang="fr">Titres adossés à des actifs</narrative>
+                <narrative xml:lang="es">Bonos de titulización de activos</narrative>
             </name>
             <description>
                 <narrative>Securities whose value and income payments are derived from and backed by a specific pool of underlying assets.</narrative>
@@ -211,6 +231,7 @@
             <name>
                 <narrative>Other debt securities</narrative>
                 <narrative xml:lang="fr">Autres actifs de dette</narrative>
+                <narrative xml:lang="es">Otros títulos de deuda</narrative>
             </name>
             <category>420</category>
         </codelist-item>
@@ -219,6 +240,7 @@
             <name>
                 <narrative>Subordinated loan</narrative>
                 <narrative xml:lang="fr">Prêt subordonné</narrative>
+                <narrative xml:lang="es">Préstamos subordinados</narrative>
             </name>
             <description>
                 <narrative>A loan that, in the event of default, will only be repaid after all senior obligations have been satisfied.  In compensation for the increased risk, mezzanine debt holders require a higher return for their investment than secured or more senior lenders.</narrative>
@@ -231,6 +253,7 @@
             <name>
                 <narrative>Preferred equity</narrative>
                 <narrative xml:lang="fr">Action privilégiée</narrative>
+                <narrative xml:lang="es">Capital preferente</narrative>
             </name>
             <description>
                 <narrative>Equity that, in the event of default, will be repaid after all senior obligations and subordinated loans have been satisfied; and will be paid before common equity holders. It is a more expensive source of finance than senior debt, a less expensive source than equity.</narrative>
@@ -243,6 +266,7 @@
             <name>
                 <narrative>Other hybrid instruments</narrative>
                 <narrative xml:lang="fr">Autres instruments hybrides</narrative>
+                <narrative xml:lang="es">Otros instrumentos híbridos</narrative>
             </name>
             <description>
                 <narrative>Including convertible debt or equity.</narrative>
@@ -255,6 +279,7 @@
             <name>
                 <narrative>Non-banks guaranteed export credits</narrative>
                 <narrative xml:lang="fr">Crédits à l'exportation garantis du secteur non bancaire</narrative>
+                <narrative xml:lang="es">Créditos a la exportación con garantía no bancaria</narrative>
             </name>
             <category>450</category>
         </codelist-item>
@@ -263,6 +288,7 @@
             <name>
                 <narrative>Non-banks non-guaranteed portions of guaranteed export credits</narrative>
                 <narrative xml:lang="fr">Fraction non garantie des crédits à l'exportation garantis du secteur bancaire</narrative>
+                <narrative xml:lang="es">Porciones sin garantía no bancaria de los créditos a la exportación con garantía</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -271,6 +297,7 @@
             <name>
                 <narrative>Bank export credits</narrative>
                 <narrative xml:lang="fr">Crédits à l'exportation du secteur bancaire</narrative>
+                <narrative xml:lang="es">Créditos bancarios a la exportación</narrative>
             </name>
             <category>400</category>
         </codelist-item>
@@ -279,6 +306,7 @@
             <name>
                 <narrative>Common equity</narrative>
                 <narrative xml:lang="fr">Action ordinaire</narrative>
+                <narrative xml:lang="es">Capital común</narrative>
             </name>
             <description>
                 <narrative>A share in the ownership of a corporation that gives the owner claims on the residual value of the corporation after creditors’ claims have been met.</narrative>
@@ -291,6 +319,7 @@
             <name>
                 <narrative>Acquisition of equity not part of joint venture in developing countries</narrative>
                 <narrative xml:lang="fr">Acquisition de prises de participation en dehors des coentreprises avec les pays en développement</narrative>
+                <narrative xml:lang="es">Adquisición de capital que no es parte de una operación conjunta en países en desarrollo</narrative>
             </name>
             <category>500</category>
         </codelist-item>
@@ -299,6 +328,7 @@
             <name>
                 <narrative>Other acquisition of equity</narrative>
                 <narrative xml:lang="fr">Autre acquisition de prises de participation</narrative>
+                <narrative xml:lang="es">Otras adquisiciones de capital</narrative>
             </name>
             <category>500</category>
         </codelist-item>
@@ -307,6 +337,7 @@
             <name>
                 <narrative>Shares in collective investment vehicles</narrative>
                 <narrative xml:lang="fr">Parts dans des organismes collectifs d'investissement</narrative>
+                <narrative xml:lang="es">Acciones en vehículos de inversión colectiva</narrative>
             </name>
             <description>
                 <narrative>Collective undertakings through which investors pool funds for investment in financial or nonfinancial assets or both. These vehicles issue shares (if a corporate structure is used) or units (if a trust structure is used).</narrative>
@@ -319,6 +350,7 @@
             <name>
                 <narrative>Reinvested earnings</narrative>
                 <narrative xml:lang="fr">Bénéfices réinvestis</narrative>
+                <narrative xml:lang="es">Utilidades reinvertidas</narrative>
             </name>
             <description>
                 <narrative>This item is only applicable to Foreign Direct Investment (FDI). Reinvested earnings on FDI consist of the retained earnings of a direct foreign investment enterprise which are treated as if they were distributed and remitted to foreign direct investors in proportion to their ownership of the equity of the enterprise and then reinvested by them in the enterprise.</narrative>
@@ -331,6 +363,7 @@
             <name>
                 <narrative>Debt forgiveness:  ODA claims (P)</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance APD (P)</narrative>
+                <narrative xml:lang="es">Condonación de la deuda:  Títulos de asistencia oficial para el desarrollo (C)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -339,6 +372,7 @@
             <name>
                 <narrative>Debt forgiveness: ODA claims (I)</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance APD (I)</narrative>
+                <narrative xml:lang="es">Condonación de la deuda: Títulos de asistencia oficial para el desarrollo (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -347,6 +381,7 @@
             <name>
                 <narrative>Debt forgiveness: OOF claims (P)</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance AASP (P)</narrative>
+                <narrative xml:lang="es">Condonación de la deuda: Títulos de otras corrientes oficiales (C)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -355,6 +390,7 @@
             <name>
                 <narrative>Debt forgiveness: OOF claims (I)</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance AASP (I)</narrative>
+                <narrative xml:lang="es">Condonación de la deuda: Títulos de otras corrientes oficiales (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -363,6 +399,7 @@
             <name>
                 <narrative>Debt forgiveness:  Private claims (P)</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance du secteur privé (P)</narrative>
+                <narrative xml:lang="es">Condonación de la deuda:  Títulos privados (C)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -371,6 +408,7 @@
             <name>
                 <narrative>Debt forgiveness:  Private claims (I)</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance du secteur privé (I)</narrative>
+                <narrative xml:lang="es">Condonación de la deuda:  Títulos privados (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -379,6 +417,7 @@
             <name>
                 <narrative>Debt forgiveness: OOF claims (DSR)</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance AASP (DSR)</narrative>
+                <narrative xml:lang="es">Condonación de la deuda: Títulos de otras corrientes oficiales (ratio del servicio de la deuda)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -387,6 +426,7 @@
             <name>
                 <narrative>Debt forgiveness:  Private claims (DSR)</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance du secteur privé (DSR)</narrative>
+                <narrative xml:lang="es">Condonación de la deuda:  Títulos privados (ratio del servicio de la deuda)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -395,6 +435,7 @@
             <name>
                 <narrative>Debt forgiveness: Other</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : autre</narrative>
+                <narrative xml:lang="es">Condonación de la deuda: Otros</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -403,6 +444,7 @@
             <name>
                 <narrative>Debt rescheduling: ODA claims (P)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance APD (P)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: Títulos de asistencia oficial para el desarrollo (C)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -411,6 +453,7 @@
             <name>
                 <narrative>Debt rescheduling: ODA claims (I)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance APD (I)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: Títulos de asistencia oficial para el desarrollo (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -419,6 +462,7 @@
             <name>
                 <narrative>Debt rescheduling: OOF claims (P)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (P)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: Títulos de otras corrientes oficiales (C)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -427,6 +471,7 @@
             <name>
                 <narrative>Debt rescheduling: OOF claims (I)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (I)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: Títulos de otras corrientes oficiales (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -435,6 +480,7 @@
             <name>
                 <narrative>Debt rescheduling:  Private claims (P)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (P)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda:  Títulos privados (C)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -443,6 +489,7 @@
             <name>
                 <narrative>Debt rescheduling:  Private claims (I)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (I)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda:  Títulos privados (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -451,6 +498,7 @@
             <name>
                 <narrative>Debt rescheduling: OOF claims (DSR)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (RSD)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: Títulos de otras corrientes oficiales (ratio del servicio de la deuda)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -459,6 +507,7 @@
             <name>
                 <narrative>Debt rescheduling:  Private claims (DSR)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (RSD)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda:  Títulos privados (ratio del servicio de la deuda)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -467,6 +516,7 @@
             <name>
                 <narrative>Debt rescheduling: OOF claim (DSR – original loan principal)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (RSD – principal du prêt d’origine)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: Título de otras corrientes oficiales (ratio del servicio de la deuda: capital principal del préstamo original)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -475,6 +525,7 @@
             <name>
                 <narrative>Debt rescheduling: OOF claim (DSR – original loan interest)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (RSD – intérêts du prêt d’origine)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: Títulos de otras corrientes oficiales (ratio del servicio de la deuda: interés del préstamo original)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -483,6 +534,7 @@
             <name>
                 <narrative>Debt rescheduling: Private claim (DSR – original loan principal)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (RSD – principal du prêt d’origine)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: Título privado (ratio del servicio de la deuda: capital principal del préstamo original)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -491,6 +543,7 @@
             <name>
                 <narrative>Debt forgiveness/conversion: export credit claims (P)</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance de crédit à l'exportation (P)</narrative>
+                <narrative xml:lang="es">Condonación o conversión de la deuda: derechos de crédito a la exportación (C)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -499,6 +552,7 @@
             <name>
                 <narrative>Debt forgiveness/conversion:  export credit claims (I)</narrative>
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance de crédit à l'exportation (I)</narrative>
+                <narrative xml:lang="es">Condonación o conversión de la deuda: derechos de crédito a la exportación (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -507,6 +561,7 @@
             <name>
                 <narrative>Debt forgiveness:  export credit claims (DSR)</narrative>
                 <narrative xml:lang="fr">Annulation de la dette : créance de crédit à l'exportation (DSR)</narrative>
+                <narrative xml:lang="es">Condonación de la deuda: derechos de crédito a la exportación (ratio del servicio de la deuda)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -515,6 +570,7 @@
             <name>
                 <narrative>Debt rescheduling:  export credit claims (P)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance de crédit à  l'exportation (P)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: derechos de crédito a la exportación (C)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -523,6 +579,7 @@
             <name>
                 <narrative>Debt rescheduling:  export credit claims (I)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance de crédit à  l'exportation (I)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: derechos de crédito a la exportación (I)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -531,6 +588,7 @@
             <name>
                 <narrative>Debt rescheduling:  export credit claims (DSR)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance de crédit à  l'exportation (DSR)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: derechos de crédito a la exportación (ratio del servicio de la deuda)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -539,6 +597,7 @@
             <name>
                 <narrative>Debt rescheduling:  export credit claim (DSR – original loan principal)</narrative>
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance de crédit à  l'exportation (DSR - principal du prêt originel)</narrative>
+                <narrative xml:lang="es">Reprogramación de la deuda: títulos de crédito a la exportación (ratio del servicio de la deuda: capital principal del préstamo original)</narrative>
             </name>
             <category>600</category>
         </codelist-item>
@@ -547,6 +606,7 @@
             <name>
                 <narrative>Foreign direct investment, new capital outflow (includes reinvested earnings if separate identification not available)</narrative>
                 <narrative xml:lang="fr">Investissement direct international</narrative>
+                <narrative xml:lang="es">Inversión extranjera directa, nueva salida de capitales (incluidas las utilidades reinvertidas si no se dispone de identificación independiente)</narrative>
             </name>
             <category>700</category>
         </codelist-item>
@@ -555,6 +615,7 @@
             <name>
                 <narrative>Other foreign direct investment, including reinvested earnings</narrative>
                 <narrative xml:lang="fr">Autre investissement direct international , y compris les bénéfices réinvestis</narrative>
+                <narrative xml:lang="es">Otras inversiones extranjeras directas, incluidas las utilidades reinvertidas</narrative>
             </name>
             <category>700</category>
         </codelist-item>
@@ -563,6 +624,7 @@
             <name>
                 <narrative>Foreign direct investment, reinvested earnings</narrative>
                 <narrative xml:lang="fr">Investissement étranger direct, bénéfices réinvestis</narrative>
+                <narrative xml:lang="es">Inversión extranjera directa, utilidades reinvertidas</narrative>
             </name>
             <category>700</category>
         </codelist-item>
@@ -571,6 +633,7 @@
             <name>
                 <narrative>Bank bonds</narrative>
                 <narrative xml:lang="fr">Obligations du secteur bancaire</narrative>
+                <narrative xml:lang="es">Bonos bancarios</narrative>
             </name>
             <category>800</category>
         </codelist-item>
@@ -579,6 +642,7 @@
             <name>
                 <narrative>Non-bank  bonds</narrative>
                 <narrative xml:lang="fr">Obligations du secteur non bancaire</narrative>
+                <narrative xml:lang="es">Bonos no bancarios</narrative>
             </name>
             <category>800</category>
         </codelist-item>
@@ -587,6 +651,7 @@
             <name>
                 <narrative>Other bank securities/claims</narrative>
                 <narrative xml:lang="fr">Autres titres/créances du secteur bancaire</narrative>
+                <narrative xml:lang="es">Otras garantías o créditos bancarios</narrative>
             </name>
             <category>900</category>
         </codelist-item>
@@ -595,6 +660,7 @@
             <name>
                 <narrative>Other non-bank securities/claims</narrative>
                 <narrative xml:lang="fr">Autres titres/créances du secteur non bancaire</narrative>
+                <narrative xml:lang="es">Otras garantías o créditos no bancarios</narrative>
             </name>
             <category>900</category>
         </codelist-item>
@@ -603,6 +669,7 @@
             <name>
                 <narrative>Purchase of securities from issuing agencies</narrative>
                 <narrative xml:lang="fr">Titres et autres instruments émis par les agences multilatérales</narrative>
+                <narrative xml:lang="es">Adquisición de títulos de organismos emisores</narrative>
             </name>
             <category>900</category>
         </codelist-item>
@@ -611,6 +678,7 @@
             <name>
                 <narrative>Securities and other instruments originally issued by multilateral agencies</narrative>
                 <narrative xml:lang="fr">Titres et autres instruments émis à l’origine par des organismes multilatéraux</narrative>
+                <narrative xml:lang="es">Títulos y otros instrumentos emitidos originalmente por organismos multilaterales</narrative>
             </name>
             <category>900</category>
         </codelist-item>
