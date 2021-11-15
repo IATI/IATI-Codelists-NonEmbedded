@@ -981,6 +981,12 @@
                 <narrative>Uzbekistan Sum</narrative>
             </name>
         </codelist-item>
+        <codelist-item>
+            <code>VED</code>
+            <name>
+                <narrative>Bolivar Soberano</narrative>
+            </name>
+        </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2018-12-06">
             <code>VEF</code>
             <name>
