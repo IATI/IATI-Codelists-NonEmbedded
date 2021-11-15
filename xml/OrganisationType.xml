@@ -15,6 +15,7 @@
                 <narrative>Government</narrative>
                 <narrative xml:lang="fr">Gouvernement</narrative>
                 <narrative xml:lang="es">Gobierno</narrative>
+                <narrative xml:lang="pt">Governo</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -23,6 +24,7 @@
                 <narrative>Local Government</narrative>
                 <narrative xml:lang="fr">Gouvernement local</narrative>
                 <narrative xml:lang="es">Gobierno local</narrative>
+                <narrative xml:lang="pt">Governo local</narrative>
             </name>
             <description>
                 <narrative>Any local (sub national) government organisation in either donor or recipient country.</narrative>
@@ -35,6 +37,7 @@
                 <narrative>Other Public Sector</narrative>
                 <narrative xml:lang="fr">Autre secteur public</narrative>
                 <narrative xml:lang="es">Otras entidades del sector público</narrative>
+                <narrative xml:lang="pt">Outro, setor público</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -43,6 +46,7 @@
                 <narrative>International NGO</narrative>
                 <narrative xml:lang="fr">ONG internationale</narrative>
                 <narrative xml:lang="es">ONG internacional</narrative>
+                <narrative xml:lang="pt">ONG internacional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -51,6 +55,7 @@
                 <narrative>National NGO</narrative>
                 <narrative xml:lang="fr">ONG nationale</narrative>
                 <narrative xml:lang="es">ONG nacional</narrative>
+                <narrative xml:lang="pt">ONG nacional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -59,6 +64,7 @@
                 <narrative>Regional NGO</narrative>
                 <narrative xml:lang="fr">ONG regionale</narrative>
                 <narrative xml:lang="es">ONG regional</narrative>
+                <narrative xml:lang="pt">ONG regional</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -67,6 +73,7 @@
                 <narrative>Partner Country based NGO</narrative>
                 <narrative xml:lang="fr">ONG dans le pays bénéficiaire</narrative>
                 <narrative xml:lang="es">ONG con sede en el país asociado</narrative>
+                <narrative xml:lang="pt">ONG sediada em país parceiro</narrative>
             </name>
             <description>
                 <narrative>Local and National NGO / CSO based in aid/assistance recipient country</narrative>
@@ -79,6 +86,7 @@
                 <narrative>Public Private Partnership</narrative>
                 <narrative xml:lang="fr">Partenariat public-privé</narrative>
                 <narrative xml:lang="es">Alianza público-privada</narrative>
+                <narrative xml:lang="pt">Parceria público-privada</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -87,6 +95,7 @@
                 <narrative>Multilateral</narrative>
                 <narrative xml:lang="fr">Multilatéral</narrative>
                 <narrative xml:lang="es">Multilateral</narrative>
+                <narrative xml:lang="pt">Multilateral</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -95,6 +104,7 @@
                 <narrative>Foundation</narrative>
                 <narrative xml:lang="fr">Fondation</narrative>
                 <narrative xml:lang="es">Fundación</narrative>
+                <narrative xml:lang="pt">Fundação</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -103,6 +113,7 @@
                 <narrative>Private Sector</narrative>
                 <narrative xml:lang="fr">Secteur privé</narrative>
                 <narrative xml:lang="es">Sector privado</narrative>
+                <narrative xml:lang="pt">Setor privado</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -111,6 +122,7 @@
                 <narrative>Private Sector in Provider Country</narrative>
                 <narrative xml:lang="fr">Secteur privé situé dans un pays fournisseur/donateur</narrative>
                 <narrative xml:lang="es">Sector privado en el país proveedor</narrative>
+                <narrative xml:lang="pt">Setor privado no país provedor</narrative>
             </name>
             <description>
                 <narrative>Is in provider / donor country.</narrative>
@@ -123,6 +135,7 @@
                 <narrative>Private Sector in Aid Recipient Country</narrative>
                 <narrative xml:lang="fr">Secteur privé situé dans un pays bénéficiaire de l’aide.</narrative>
                 <narrative xml:lang="es">Sector privado en el país beneficiario de la ayuda</narrative>
+                <narrative xml:lang="pt">Setor privado no país destinatário da ajuda</narrative>
             </name>
             <description>
                 <narrative>Is in aid recipient country.</narrative>
@@ -135,6 +148,7 @@
                 <narrative>Private Sector in Third Country</narrative>
                 <narrative xml:lang="fr">Secteur privé situé dans un pays tiers</narrative>
                 <narrative xml:lang="es">Sector privado en un país tercero</narrative>
+                <narrative xml:lang="pt">Setor privado num país terceiro</narrative>
             </name>
             <description>
                 <narrative>Is not in either a donor or aid recipient country.</narrative>
@@ -147,6 +161,7 @@
                 <narrative>Academic, Training and Research</narrative>
                 <narrative xml:lang="fr">Universitaire, formation et recherche</narrative>
                 <narrative xml:lang="es">Institución académica, de capacitación e investigación</narrative>
+                <narrative xml:lang="pt">Instituição académica, de formação ou de investigação</narrative>
             </name>
         </codelist-item>
         <codelist-item>
@@ -155,6 +170,7 @@
                 <narrative>Other</narrative>
                 <narrative xml:lang="fr">Autre</narrative>
                 <narrative xml:lang="es">Otros</narrative>
+                <narrative xml:lang="pt">Outros</narrative>
             </name>
         </codelist-item>
     </codelist-items>

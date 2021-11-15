@@ -20,6 +20,7 @@
                 <narrative>ODA</narrative>
                 <narrative xml:lang="fr">APD</narrative>
                 <narrative xml:lang="es">Asistencia oficial para el desarrollo</narrative>
+                <narrative xml:lang="pt">APD</narrative>
             </name>
             <description>
                 <narrative>Official Development Assistance</narrative>
@@ -32,6 +33,7 @@
                 <narrative>OOF</narrative>
                 <narrative xml:lang="fr">AASP</narrative>
                 <narrative xml:lang="es">Otras corrientes oficiales</narrative>
+                <narrative xml:lang="pt">OFP</narrative>
             </name>
             <description>
                 <narrative>Other Official Flows</narrative>
@@ -44,6 +46,7 @@
                 <narrative>Non-export credit OOF</narrative>
                 <narrative xml:lang="fr">AASP hors crédits-export</narrative>
                 <narrative xml:lang="es">Otras corrientes oficiales de créditos no destinados a la exportación</narrative>
+                <narrative xml:lang="pt">OFP de créditos que não à exportação</narrative>
             </name>
             <description>
                 <narrative>Other Official Flows, excl. export credits</narrative>
@@ -56,6 +59,7 @@
                 <narrative>Officially supported export credits</narrative>
                 <narrative xml:lang="fr">AASP dont crédits export</narrative>
                 <narrative xml:lang="es">Créditos a la exportación con respaldo oficial</narrative>
+                <narrative xml:lang="pt">Créditos à exportação com apoio público</narrative>
             </name>
             <description>
                 <narrative>Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance</narrative>
@@ -68,6 +72,7 @@
                 <narrative>Private Development Finance</narrative>
                 <narrative xml:lang="fr">Financement du développement privé</narrative>
                 <narrative xml:lang="es">Financiación privada para el desarrollo</narrative>
+                <narrative xml:lang="pt">Financiamento privado ao desenvolvimento</narrative>
             </name>
             <description>
                 <narrative>Financing by civil society organisations (NGOs, philantropic foundations, etc.)</narrative>
@@ -80,6 +85,7 @@
                 <narrative>Private Market</narrative>
                 <narrative xml:lang="fr">Apports privés aux conditions du marché</narrative>
                 <narrative xml:lang="es">Mercado privado</narrative>
+                <narrative xml:lang="pt">Mercado privado</narrative>
             </name>
             <description>
                 <narrative>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries</narrative>
@@ -92,6 +98,7 @@
                 <narrative>Private Foreign Direct Investment</narrative>
                 <narrative xml:lang="fr">IDE</narrative>
                 <narrative xml:lang="es">Inversión extranjera directa privada</narrative>
+                <narrative xml:lang="pt">Investimento direto estrangeiro privado</narrative>
             </name>
             <description>
                 <narrative>Private Foreign Direct Investment</narrative>
@@ -104,6 +111,7 @@
                 <narrative>Other Private flows at market terms</narrative>
                 <narrative xml:lang="fr">Autres apports privés aux conditions du marché</narrative>
                 <narrative xml:lang="es">Otros flujos privados con arreglo a las condiciones de mercado</narrative>
+                <narrative xml:lang="pt">Outros fluxos privados aos termos do mercado</narrative>
             </name>
             <description>
                 <narrative>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries</narrative>
@@ -116,6 +124,7 @@
                 <narrative>Non flow</narrative>
                 <narrative xml:lang="fr">non apports</narrative>
                 <narrative xml:lang="es">No flujo</narrative>
+                <narrative xml:lang="pt">Não-fluxos</narrative>
             </name>
             <description>
                 <narrative>e.g. GNI, ODA%GNI, Population etc</narrative>
@@ -128,6 +137,7 @@
                 <narrative>Other flows</narrative>
                 <narrative xml:lang="fr">Autres apports</narrative>
                 <narrative xml:lang="es">Otros flujos</narrative>
+                <narrative xml:lang="pt">Outros fluxos</narrative>
             </name>
             <description>
                 <narrative>e.g. non-ODA component of peacebuilding operations</narrative>
