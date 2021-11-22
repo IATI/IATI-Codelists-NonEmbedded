@@ -335,6 +335,16 @@
             <url>https://www.facebook.com/SomaliGenderJustice/</url>
         </codelist-item>
         <codelist-item>
+            <code>XI-IATI-SORDI</code>
+            <name>
+                <narrative>Somali Research and Development Institute</narrative>
+            </name>
+            <description>
+                <narrative>Somali Research and Development Institute (SORDI) is a Somalia-focused, independent think tank, multidisciplinary research and capacity development institute specializing in addressing complex health, education, disaster climate resilience and humanitarian crisis in Somalia.</narrative>
+            </description>
+            <url>https://sordi.so/</url>
+        </codelist-item>
+        <codelist-item>
             <code>XI-IATI-SPR</code>
             <name>
                 <narrative>Synergie des Femmes pour la Paix et la Réconciliation des Peuples des Grands Lacs d'Afrique (SPR)</narrative>
