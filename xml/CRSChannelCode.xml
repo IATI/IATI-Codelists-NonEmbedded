@@ -1325,7 +1325,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="active" activation-date="2020-01-01">
             <code>41300</code>
             <name>
                 <narrative>Other UN (Core Contributions Reportable in Part)</narrative>
