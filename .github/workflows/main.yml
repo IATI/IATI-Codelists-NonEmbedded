@@ -20,7 +20,9 @@ jobs:
             ${{ runner.os }}-pip-
             ${{ runner.os }}-
       - name: Install xmllint and dependencies
-        run: sudo apt-get install libxml2-utils libxml2-dev libxslt-dev python-dev
+        run: |
+          sudo apt-get update
+          sudo apt-get install libxml2-utils libxml2-dev libxslt-dev python-dev
       - name: Install Python dependencies
         run: pip install -r requirements.txt
       - name: wget schema
