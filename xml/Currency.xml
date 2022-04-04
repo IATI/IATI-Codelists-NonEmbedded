@@ -820,10 +820,19 @@
             </name>
         </codelist-item>
         <codelist-item>
+            <code>SLE</code>
+            <name>
+                <narrative>Leone</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2022-04-01">
             <code>SLL</code>
             <name>
                 <narrative>Leone</narrative>
             </name>
+            <description>
+                <narrative>Withdrawn from ISO Currency codelist. Use code SLE.</narrative>
+            </description>
         </codelist-item>
         <codelist-item>
             <code>SOS</code>
