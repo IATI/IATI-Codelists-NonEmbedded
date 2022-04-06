@@ -820,6 +820,12 @@
             </name>
         </codelist-item>
         <codelist-item>
+            <code>SLE</code>
+            <name>
+                <narrative>Leone</narrative>
+            </name>
+        </codelist-item>
+        <codelist-item>
             <code>SLL</code>
             <name>
                 <narrative>Leone</narrative>
