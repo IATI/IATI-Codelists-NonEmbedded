@@ -444,5 +444,15 @@
             </description>
             <url>https://www.wvi.org/congo-drc/about-us</url>
         </codelist-item>
+         <codelist-item>
+            <code>XI-IATI-RUF</code>
+            <name>
+                <narrative>Red Umbrella Fund</narrative>
+            </name>
+            <description>
+                <narrative>Red Umbrella Fund works to strengthen and ensure the sustainability of the global sex workers’ rights movement by catalyzing new funding specifically for sex worker-led groups and national and regional networks. We support community-led groups and networks that work to ensure sex workers’ rights are respected as human beings and as workers so that all sex workers can live lives free from criminalisation, stigma and violence.</narrative>
+            </description>
+            <url>https://www.redumbrellafund.org</url>
+        </codelist-item>
     </codelist-items>
 </codelist>
