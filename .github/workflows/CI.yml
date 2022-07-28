@@ -45,10 +45,9 @@ jobs:
       - name: xml lint
         run: xmllint --schema IATI-Codelists/codelist.xsd --noout xml/*
 
-      - name: Build and test
+      - name: Run gen
         run: |
           ./gen.sh
-          pytest tests
 
   automerge:
     needs: build
