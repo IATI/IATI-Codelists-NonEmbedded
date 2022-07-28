@@ -45,10 +45,6 @@ jobs:
       - name: xml lint
         run: xmllint --schema IATI-Codelists/codelist.xsd --noout xml/*
 
-      - name: Run gen
-        run: |
-          ./gen.sh
-
   automerge:
     needs: build
     runs-on: ubuntu-latest
