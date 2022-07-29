@@ -1,0 +1,57 @@
+name: CI
+
+on:
+  push:
+    paths-ignore:
+      - "**/README.rst"
+      - "**/dependabot.yml"
+    branches: [master]
+  pull_request:
+    paths-ignore:
+      - "**/README.rst"
+      - "**/dependabot.yml"
+    branches: [master]
+
+concurrency: CI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Checkout Schemas repo
+        uses: actions/checkout@v3
+        with:
+          repository: IATI/IATI-Codelists
+          ref: version-2.03
+          path: IATI-Codelists
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get -y install libxml2-dev libxslt-dev libxslt1-dev python3-dev python3-lxml libxml2-utils
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install -r requirements.txt
+
+      - name: flake8 lint
+        run: flake8 --exclude=pyenv*,IATI-Codelists --ignore E501
+
+      - name: xml lint
+        run: xmllint --schema IATI-Codelists/codelist.xsd --noout xml/*
+
+  automerge:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+    steps:
+      - uses: fastify/github-action-merge-dependabot@v3.2
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
