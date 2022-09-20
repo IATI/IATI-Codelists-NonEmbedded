@@ -54,6 +54,7 @@ jobs:
       matrix:
         version: [ 2.01, 2.02, 2.03 ]
         steps:
+          - uses: actions/checkout@v3
           - name: 'Trigger update of Validator Codelists repository for version-${{ matrix.version }}'
             run: |
               HTTP_CODE=$(curl --write-out "%{http_code}\n" \
