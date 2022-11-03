@@ -3,10 +3,6 @@ IATI NonEmbedded Codelists
 
 .. image:: https://github.com/IATI/IATI-Codelists-NonEmbedded/workflows/CI/badge.svg
    :target: https://github.com/IATI/IATI-Codelists-NonEmbedded/actions
-
-.. image:: https://requires.io/github/IATI/IATI-Codelists-NonEmbedded/requirements.svg?branch=master
-    :target: https://requires.io/github/IATI/IATI-Codelists-NonEmbedded/requirements/?branch=master
-    :alt: Requirements Status
 .. image:: https://img.shields.io/badge/license-MIT-blue.svg
     :target: https://github.com/IATI/IATI-Codelists-NonEmbedded/blob/master/LICENSE
 
