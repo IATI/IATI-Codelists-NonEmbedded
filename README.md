@@ -34,6 +34,7 @@ Updates can come from a variety of sources, including [OCED DAC and CRS Codes](h
 ### IATI Datastore
 
 - The [Datastore Search](https://datastore.iatistandard.org) utilises a transformed version of the Codelists stored in [IATI/dss-filters](https://github.com/IATI/dss-filters)
+- When changes are pushed to this `master` branch, the `call-update-dss-filters` job in `.github/workflows/CI.yml` triggers a GitHub action in [IATI/dss-filters](https://github.com/IATI/dss-filters). 
 - See [IATI/dss-filters](https://github.com/IATI/dss-filters) for instructions on updating the Codelists used by Datastore Search.
 
 ## Information for developers
