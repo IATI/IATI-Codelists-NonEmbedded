@@ -671,6 +671,14 @@
             </name>
             <category>21000</category>
         </codelist-item>
+        <codelist-item status="active" activation-date="2022-01-01">
+            <code>21508</code>
+            <name>
+                <narrative>Sustainable Energy for All</narrative>
+                <narrative xml:lang="fr">Sustainable Energy for All</narrative>
+            </name>
+            <category>21000</category>
+        </codelist-item>
         <codelist-item status="active">
             <code>22000</code>
             <name>
@@ -989,7 +997,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2021-01-01">
             <code>41104</code>
             <name>
                 <narrative>Economic Commission for Latin America and the Caribbean</narrative>
@@ -997,7 +1005,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2021-01-01">
             <code>41105</code>
             <name>
                 <narrative>Economic and Social Commission for Western Asia</narrative>
@@ -1005,7 +1013,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2021-01-01">
             <code>41106</code>
             <name>
                 <narrative>Economic and Social Commission for Asia and the Pacific</narrative>
@@ -1149,7 +1157,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2021-01-01">
             <code>41128</code>
             <name>
                 <narrative>United Nations Office on Drugs and Crime</narrative>
@@ -1333,6 +1341,14 @@
             </name>
             <category>41300</category>
         </codelist-item>
+        <codelist-item status="withdrawn" activation-date="2020-01-01">
+            <code>41200</code>
+            <name>
+                <narrative>UN entities (core contributions reportable in TOSSD only)</narrative>
+                <narrative xml:lang="fr">Entités des Nations Unies (contributions de base à déclarer dans TOSSD uniquement)</narrative>
+            </name>
+            <category>41000</category>
+        </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41300</code>
             <name>
@@ -1373,7 +1389,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2021-01-01">
             <code>41305</code>
             <name>
                 <narrative>United Nations</narrative>
@@ -1445,7 +1461,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2021-01-01">
             <code>41314</code>
             <name>
                 <narrative>United Nations Economic Commission for Europe (extrabudgetary contributions only)</narrative>
