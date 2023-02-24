@@ -285,5 +285,17 @@
             </description>
             <category>H</category>
         </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>H06</code>
+            <name>
+                <narrative>Refugees and asylum seekers in other provider countries</narrative>
+                <narrative xml:lang="fr">Réfugiés et demandeurs d'asile dans d'autres pays fournisseurs</narrative>
+            </name>
+            <description>
+                <narrative>Costs incurred in other non-ODA eligible provider countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months. The host and origin country of refugees/asylum seekers shall be specified in one of the descriptive fields of the CRS (fields 14 or 19).</narrative>
+                <narrative xml:lang="fr">Coûts encourus dans d'autres pays fournisseurs non éligibles à l'APD pour l'assistance de base aux demandeurs d'asile et aux réfugiés des pays en développement, jusqu'à 12 mois. Le pays d'accueil et d'origine des réfugiés/demandeurs d'asile doit être précisé dans l'un des champs descriptifs du SNPC (champs 14 ou 19).</narrative>
+            </description>
+            <category>H</category>
+        </codelist-item>
     </codelist-items>
 </codelist>
