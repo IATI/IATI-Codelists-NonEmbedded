@@ -40,7 +40,17 @@
         <narrative>A value from the second-level list of UN sustainable development goals (SDGs) (e.g. ‘1.1’)</narrative>
       </description>
       <url>http://reference.iatistandard.org/codelists/UNSDG-Targets/</url>
-    </codelist-item>    
+    </codelist-item>  
+    <codelist-item>
+      <code>4</code>
+      <name>
+        <narrative>Team Europe Initiatives</narrative>
+      </name>
+      <description>
+        <narrative>A value from the list of Team Europe Initiatives.  Team Europe consists of the European Commission, the EU Member States — including their implementing agencies and public development banks — as well as the European Investment Bank (EIB) and the European Bank for Reconstruction and Development (EBRD).</narrative>
+      </description>
+      <url>[to follow]</url>
+    </codelist-item>      
     <codelist-item>
       <code>99</code>
       <name>
