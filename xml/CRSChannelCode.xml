@@ -671,7 +671,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2022-01-01">
+        <codelist-item status="active" activation-date="2022-01-01" withdrawal-date="2022-12-31">
             <code>21508</code>
             <name>
                 <narrative>Sustainable Energy for All</narrative>
@@ -857,8 +857,8 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>30018</code>
             <name>
-                <narrative>African Finance Corporation</narrative>
-                <narrative xml:lang="fr">African Finance Corporation</narrative>
+                <narrative>Africa Finance Corporation</narrative>
+                <narrative xml:lang="fr">Corporation Financière Africaine</narrative>
             </name>
             <category>31000</category>
         </codelist-item>
@@ -1288,7 +1288,7 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41145</code>
             <name>
-                <narrative>International Maritime Organisation - Technical Co-operation Fund</narrative>
+                <narrative>International Maritime Organization - Technical Co-operation Fund</narrative>
                 <narrative xml:lang="fr">Organisation maritime internationale - Programme intégré de coopération technique</narrative>
             </name>
             <category>41100</category>
@@ -1313,7 +1313,7 @@
             <code>41148</code>
             <name>
                 <narrative>United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs</narrative>
-                <narrative xml:lang="fr">Département des affaires politiques des Nations unies, fonds fiduciaire de soutien aux affaires politiques</narrative>
+                <narrative xml:lang="fr">Département des affaires politiques et de consolidation de la paix des Nations Unies, Fonds d'affectation spéciale à l'appui des affaires politiques</narrative>
             </name>
             <category>41500</category>
         </codelist-item>
@@ -1432,8 +1432,8 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41310</code>
             <name>
-                <narrative>United Nations Department of Peace Operations - UN Peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.</narrative>
-                <narrative xml:lang="fr">Département des opérations de paix des Nations unies. Opérations de maintien de la paix [seulement MINURSO,MINUSCA,MINUSMA, MINUSTAH,MONUSCO,MINUAD, FINUL,FISNUA,MINUK, MINUL,UNMISS,ONUCI]. Notifier les contributions mission par mission au format SNPC++.</narrative>
+                <narrative>United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.</narrative>
+                <narrative xml:lang="fr">Département des opérations de paix des Nations unies. Opérations de maintien de la paix [seulement MINURSO,MINUSCA,MINUSMA, MINUSTAH,MONUSCO,MINUAD, FINUL,FISNUA,MINUK, MINUL,UNMISS,ONUCI]. Notifier les contributions mission par mission au format SNPC++</narrative>
             </name>
             <category>41300</category>
         </codelist-item>
@@ -1472,7 +1472,7 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41315</code>
             <name>
-                <narrative>United Nations Office for Disaster Reduction</narrative>
+                <narrative>United Nations Office for Disaster Risk Reduction</narrative>
                 <narrative xml:lang="fr">Bureau des Nations Unies pour la prévention de catastrophes</narrative>
             </name>
             <category>41300</category>
@@ -1504,7 +1504,7 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41319</code>
             <name>
-                <narrative>World Tourism Organisation</narrative>
+                <narrative>World Tourism Organization</narrative>
                 <narrative xml:lang="fr">Organisation mondiale du tourisme</narrative>
             </name>
             <category>41300</category>
@@ -1718,6 +1718,14 @@
             <name>
                 <narrative>Catastrophe Containment and Relief Trust</narrative>
                 <narrative xml:lang="fr">Fonds fiduciaire d’assistance et de riposte aux catastrophes</narrative>
+            </name>
+            <category>43000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2015-01-01">
+            <code>43007</code>
+            <name>
+                <narrative>IMF’s Resilience and Sustainability Trust</narrative>
+                <narrative xml:lang="fr">Fonds fiduciaire pour la résilience et la durabilité</narrative>
             </name>
             <category>43000</category>
         </codelist-item>
@@ -2740,8 +2748,8 @@
         <codelist-item status="active" activation-date="2000-01-01">
             <code>47095</code>
             <name>
-                <narrative>South Pacific Board for Educational Assessment</narrative>
-                <narrative xml:lang="fr">Conseil d’évaluation du Pacifique Sud pour l'éducation</narrative>
+                <narrative>Educational Quality and Assessment Programme</narrative>
+                <narrative xml:lang="fr">Programme d'évaluation et de qualité de l'éducation</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -3012,8 +3020,8 @@
         <codelist-item status="active" activation-date="2010-01-01">
             <code>47131</code>
             <name>
-                <narrative>Organisation for Security and Co-operation in Europe</narrative>
-                <narrative xml:lang="fr">Organisation pour la sécurité et la oopération en Europe</narrative>
+                <narrative>Organization for Security and Co-operation in Europe</narrative>
+                <narrative xml:lang="fr">Organisation pour la sécurité et la coopération en Europe</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -3068,7 +3076,7 @@
         <codelist-item status="active" activation-date="2013-01-01">
             <code>47139</code>
             <name>
-                <narrative>World Customs Organisation Customs Co-operation Fund</narrative>
+                <narrative>World Customs Organization Customs Co-operation Fund</narrative>
                 <narrative xml:lang="fr">Organisation Mondiale des Douanes Fonds de coopération douanière</narrative>
             </name>
             <category>47000</category>
