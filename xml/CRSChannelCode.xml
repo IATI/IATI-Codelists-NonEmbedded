@@ -671,11 +671,19 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2022-01-01" withdrawal-date="2022-12-31">
+        <codelist-item status="active" activation-date="2022-01-01">
             <code>21508</code>
             <name>
                 <narrative>Sustainable Energy for All</narrative>
                 <narrative xml:lang="fr">Sustainable Energy for All</narrative>
+            </name>
+            <category>21000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>21509</code>
+            <name>
+                <narrative>AmplifyChange</narrative>
+                <narrative xml:lang="fr">AmplifyChange</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -926,11 +934,11 @@
             </name>
             <category>32000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2017-01-01">
+        <codelist-item status="active" activation-date="2022-01-01">
             <code>31006</code>
             <name>
                 <narrative>Coalition for Epidemic Preparedness Innovations</narrative>
-                <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation</narrative>
+                <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation aux épidémies</narrative>
             </name>
             <category>31000</category>
         </codelist-item>
@@ -939,6 +947,14 @@
             <name>
                 <narrative>Drugs for Neglected Diseases initative</narrative>
                 <narrative xml:lang="fr">Initiative médicaments contres les maladies négligées</narrative>
+            </name>
+            <category>32000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>31008</code>
+            <name>
+                <narrative>Foundation for Innovative New Diagnostics</narrative>
+                <narrative xml:lang="fr">Fondation pour les nouveaux diagnostics innovants</narrative>
             </name>
             <category>32000</category>
         </codelist-item>
@@ -1104,7 +1120,7 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41121</code>
             <name>
-                <narrative>United Nations Office of the United Nations High Commissioner for Refugees</narrative>
+                <narrative>United Nations Office of the High Commissioner for Refugees</narrative>
                 <narrative xml:lang="fr">Haut Commissariat des Nations Unies pour les réfugiés</narrative>
             </name>
             <category>41100</category>
@@ -1325,7 +1341,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2023-01-01">
             <code>41150</code>
             <name>
                 <narrative>United Nations Institute for Disarmament Research</narrative>
@@ -1721,7 +1737,7 @@
             </name>
             <category>43000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2015-01-01">
+        <codelist-item status="active" activation-date="2022-01-01">
             <code>43007</code>
             <name>
                 <narrative>IMF’s Resilience and Sustainability Trust</narrative>
@@ -1921,7 +1937,7 @@
             </name>
             <category>46000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2009-01-01">
+        <codelist-item status="active" activation-date="2023-01-01">
             <code>46015</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development</narrative>
@@ -1937,7 +1953,7 @@
             </name>
             <category>46000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2009-01-01">
+        <codelist-item status="active" activation-date="2023-01-01">
             <code>46017</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development - technical co-operation and special funds (all EBRD countries of operations)</narrative>
@@ -3161,6 +3177,14 @@
             </name>
             <category>47000</category>
         </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>47150</code>
+            <name>
+                <narrative>Secretaría General Iberoamericana</narrative>
+                <narrative xml:lang="fr">Secretaría General Iberoamericana</narrative>
+            </name>
+            <category>47000</category>
+        </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>47400</code>
             <name>
@@ -3185,7 +3209,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2014-01-01">
+        <codelist-item status="active" activation-date="2023-01-01">
             <code>47503</code>
             <name>
                 <narrative>Global Agriculture and Food Security Program</narrative>

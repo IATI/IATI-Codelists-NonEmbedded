@@ -1064,8 +1064,8 @@
                 <narrative xml:lang="fr">Médias et liberté de l'information</narrative>
             </name>
             <description>
-                <narrative>Activities that support free and uncensored flow of information on public issues; activities that increase the editorial and technical skills and the integrity of the print and broadcast media, e.g. training of journalists. (Use codes 22010-22040 for provision of equipment and capital assistance to media.)</narrative>
-                <narrative xml:lang="fr">Activités qui favorisent une diffusion libre et non censurée de l'information sur les questions publiques ; activités visant à améliorer les compétences rédactionnelles et techniques, et l'intégrité des médias – presse écrite, radio et télévision – par exemple, formation des journalistes. (Utiliser les codes 22010-22040 pour la fourniture d'équipements et d'une aide financière aux médias.)</narrative>
+                <narrative>Activities that support free and uncensored flow of information on public issues; activities that increase the editorial and technical skills and the integrity of the print, broadcast and online media, e.g. training of journalists and information professionals. Use codes in sector 220 for provision of equipment and capital assistance to media.</narrative>
+                <narrative xml:lang="fr">Activités qui favorisent une diffusion libre et non censurée de l'information sur les questions publiques ; activités visant à améliorer les compétences rédactionnelles et techniques, et l'intégrité des médias imprimés, audiovisuels et en ligne, par exemple, formation des journalistes. (Utiliser les codes du secteur 220 pour la fourniture d'équipements et d'une aide financière aux médias.)</narrative>
             </description>
             <category>151</category>
         </codelist-item>
@@ -1256,8 +1256,8 @@
                 <narrative xml:lang="fr">Réintégration et contrôle des armes légères et de petit calibre</narrative>
             </name>
             <description>
-                <narrative>Reintegration of demobilised military personnel into the economy; conversion of production facilities from military to civilian outputs; technical co-operation to control, prevent and/or reduce the proliferation of small arms and light weapons (SALW) – see para. 80 of the Directives for definition of SALW activities covered. [Other than in the context of an international peacekeeping operation (15230) or child soldiers (15261)].</narrative>
-                <narrative xml:lang="fr">Réinsertion du personnel militaire démobilisé dans la vie économique et civile ; conversion des usines d'armes en usines de produits à usage civil ; coopération technique destinée à contrôler, prévenir et/ou réduire la prolifération d'armes légères et de petit calibre – voir le paragraphe 80 des Directives pour la définition des activités couvertes. [Autre que dans le cadre d'une opération internationale de maintien de la paix (15230) ou  enfants soldats (15261)].</narrative>
+                <narrative>Reintegration of demobilised military personnel into the economy; conversion of production facilities from military to civilian outputs; technical co-operation to control, prevent and/or reduce the proliferation of small arms and light weapons (SALW) – see para. 120 of the Directives for definition of SALW activities covered. [Other than in the context of an international peacekeeping operation (15230) or child soldiers (15261)].</narrative>
+                <narrative xml:lang="fr">Réinsertion du personnel militaire démobilisé dans la vie économique et civile ; conversion des usines d'armes en usines de produits à usage civil ; coopération technique destinée à contrôler, prévenir et/ou réduire la prolifération d'armes légères et de petit calibre – voir le paragraphe 120 des Directives pour la définition des activités couvertes. [Autre que dans le cadre d'une opération internationale de maintien de la paix (15230) ou enfants soldats (15261)].</narrative>
             </description>
             <category>152</category>
         </codelist-item>
@@ -1408,12 +1408,12 @@
         <codelist-item status="active">
             <code>16061</code>
             <name>
-                <narrative>Culture and recreation</narrative>
-                <narrative xml:lang="fr">Culture et loisirs</narrative>
+                <narrative>Culture and cultural diversity</narrative>
+                <narrative xml:lang="fr">Culture et diversité culturelle</narrative>
             </name>
             <description>
-                <narrative>Including libraries and museums.</narrative>
-                <narrative xml:lang="fr">Y compris bibliothèques et musées.</narrative>
+                <narrative>Development-oriented social and cultural programmes: - Programmes to strengthen the cultural sector (cinema, music, dance, painting, literature, etc.) of developing countries; measures to promote or protect the diversity of cultural expressions. This includes support to cultural industries, construction and reparation of facilities; capacity building for artists and other persons working in the cultural sector; activities to support the production or the dissemination of artistic works of developing country nationals (e.g. artistic or musical events). - Preservation of tangible (artefacts, monuments, sites, museums) and intangible (arts, social practices, knowledge and skills, shared values, traditions, performances) cultural heritage that has a diversity of values including symbolic, historic, artistic, aesthetic, ethnological or anthropological, scientific and social significance. - Other development-oriented social and cultural programmes that contribute to promote inclusion and empowerment of nationals of developing countries. This includes the provision of materials (e.g. books, sport equipment), educational services (e.g. language courses), recreational facilities and equipment, as well as the organisation of tournaments and sporting events taking place in developing countries with participation of their nationals. Use code 99820 – promotion of development awareness for activities in the field of culture in the donor country that are designed to increase public support and awareness of development co-operation efforts in the donor country.</narrative>
+                <narrative xml:lang="fr">Programmes sociaux et culturels orientés vers le développement : - Programmes de renforcement du secteur culturel (cinéma, musique, danse, peinture, littérature, etc.) des pays en développement ; mesures visant à promouvoir ou à protéger la diversité des expressions culturelles. Cela comprend le soutien aux industries culturelles, à la construction et à la réparation des installations ; le renforcement des capacités des artistes et autres personnes travaillant dans le secteur culturel ; activités visant à soutenir la production ou la diffusion d’œuvres artistiques de ressortissants de pays en développement (par exemple événements artistiques ou musicaux). - Préservation du patrimoine culturel matériel (objets, monuments, sites, musées) et immatériel (arts, pratiques sociales, connaissances et compétences, valeurs partagées, traditions, performances) qui a une diversité de valeurs, notamment symboliques, historiques, artistiques, esthétiques, ethnologiques ou une signification anthropologique, scientifique et sociale. - Autres programmes sociaux et culturels axés sur le développement qui contribuent à promouvoir l'inclusion et l'autonomisation des ressortissants des pays en développement. Cela comprend la fourniture de matériel (par exemple livres, équipements sportifs), de services éducatifs (par exemple cours de langue), d'installations et d'équipements de loisirs, ainsi que l'organisation de tournois et d'événements sportifs ayant lieu dans les pays en développement avec la participation de leurs ressortissants. Utilisez le code 99820 – promotion de la sensibilisation au développement pour les activités dans le domaine de la culture dans le pays donateur qui sont conçues pour accroître le soutien du public et la sensibilisation aux efforts de coopération au développement dans le pays donateur.</narrative>
             </description>
             <category>160</category>
         </codelist-item>
@@ -1459,6 +1459,10 @@
                 <narrative>Recreation and sport</narrative>
                 <narrative xml:lang="fr">Récréation et sport</narrative>
             </name>
+            <description>
+                <narrative>Development-oriented social and cultural programmes that contribute to promote inclusion and empowerment of nationals of developing countries. This includes the provision of materials (e.g. books, sport equipment), educational services (e.g. language courses), recreational facilities and equipment, as well as the organisation of tournaments and sporting events taking place in developing countries with participation of their nationals.</narrative>
+                <narrative xml:lang="fr">Programmes sociaux et culturels axés sur le développement qui contribuent à promouvoir l’inclusion et l’autonomisation des ressortissants des pays en développement. Cela comprend la fourniture de matériel (par exemple livres, équipements sportifs), de services éducatifs (par exemple cours de langue), d'installations et d'équipements de loisirs, ainsi que l'organisation de tournois et d'événements sportifs ayant lieu dans les pays en développement avec la participation de leurs ressortissants.</narrative>
+            </description>
             <category>160</category>
         </codelist-item>
         <codelist-item status="active">
@@ -1467,6 +1471,10 @@
                 <narrative>Culture</narrative>
                 <narrative xml:lang="fr">Culture</narrative>
             </name>
+            <description>
+                <narrative>Programmes to strengthen the cultural sector (cinema, music, dance, painting, literature, etc.) of developing countries; measures to promote or protect the diversity of cultural expressions. This includes support to cultural industries, construction and reparation of facilities; capacity-building for artists and other persons working in the cultural sector; activities to support the production or the dissemination of artistic works of developing country nationals (e.g. artistic or musical events). Preservation of tangible (artefacts, monuments, sites, museums) and intangible (arts, social practices, knowledge and skills, shared values, traditions, performances) cultural heritage that has a diversity of values including symbolic, historic, artistic, aesthetic, ethnological or anthropological, scientific and social significance. Use code 99820 – promotion of development awareness for activities in the field of culture in the donor country that are designed to increase public support and awareness of development co-operation efforts in the donor country.</narrative>
+                <narrative xml:lang="fr">Programmes de renforcement du secteur culturel (cinéma, musique, danse, peinture, littérature, etc.) des pays en développement ; mesures visant à promouvoir ou à protéger la diversité des expressions culturelles. Cela comprend le soutien aux industries culturelles, à la construction et à la réparation des installations ; le renforcement des capacités des artistes et autres personnes travaillant dans le secteur culturel ; activités visant à soutenir la production ou la diffusion d’œuvres artistiques de ressortissants de pays en développement (par exemple événements artistiques ou musicaux). Préservation du patrimoine culturel matériel (objets, monuments, sites, musées) et immatériel (arts, pratiques sociales, connaissances et compétences, valeurs partagées, traditions, performances) qui a une diversité de valeurs, notamment symboliques, historiques, artistiques, esthétiques, ethnologiques ou une signification anthropologique, scientifique et sociale. Utilisez le code 99820 – promotion de la sensibilisation au développement pour les activités dans le domaine de la culture dans le pays donateur qui sont conçues pour accroître le soutien du public et la sensibilisation aux efforts de coopération au développement dans le pays donateur.</narrative>
+            </description>
             <category>160</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
@@ -1716,12 +1724,12 @@
         <codelist-item status="active">
             <code>22030</code>
             <name>
-                <narrative>Radio/television/print media</narrative>
-                <narrative xml:lang="fr">Radio, télévision, presse écrite</narrative>
+                <narrative>Radio, television, print and online media</narrative>
+                <narrative xml:lang="fr">Radio, télévision, médias imprimés et en ligne</narrative>
             </name>
             <description>
-                <narrative>Radio and TV links, equipment; newspapers; printing and publishing.</narrative>
-                <narrative xml:lang="fr">Liaisons et équipement ; journaux ; imprimerie et édition.</narrative>
+                <narrative>Radio and TV links, equipment and infrastructure; newspapers; printing and publishing. Information creation (in any media) is recorded under code 15153.</narrative>
+                <narrative xml:lang="fr">Liaisons, équipements et infrastructures de radio et de télévision ; journaux; impression et édition. La création d'informations (dans tous les médias) est enregistrée sous le code 15153.</narrative>
             </description>
             <category>220</category>
         </codelist-item>
@@ -1732,8 +1740,20 @@
                 <narrative xml:lang="fr">Technologies de l'information et de la communication (TIC)</narrative>
             </name>
             <description>
-                <narrative>Computer hardware and software; internet access; IT training.  When sector cannot be specified.</narrative>
-                <narrative xml:lang="fr">Matériel informatique et logiciels ; accès Internet ; formations aux TI. Lorsque le secteur ne peut pas être spécifié.</narrative>
+                <narrative>Computer hardware and software; internet access, when sector cannot be specified.</narrative>
+                <narrative xml:lang="fr">Matériel informatique et logiciels ; accès Internet. Lorsque le secteur ne peut pas être spécifié.</narrative>
+            </description>
+            <category>220</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>22081</code>
+            <name>
+                <narrative>Education and training in ICT, telecommunications and media</narrative>
+                <narrative xml:lang="fr">Éducation et formation en TIC, télécommunications et médias</narrative>
+            </name>
+            <description>
+                <narrative>Support for technical training in the sectors of ICT, telecommunications and media; IT training when the sector cannot be specified. Training on content creation (e.g. journalism, knowledge sharing) is reported under code 15153.</narrative>
+                <narrative xml:lang="fr">Appui à la formation technique dans les secteurs des TIC, des télécommunications et des médias ; Formation informatique lorsque le secteur ne peut être précisé. La formation à la création de contenu (par exemple journalisme, partage de connaissances) est déclarée sous le code 15153.</narrative>
             </description>
             <category>220</category>
         </codelist-item>
@@ -2350,7 +2370,7 @@
             </name>
             <description>
                 <narrative>Public and private provision of business development services, e.g. incubators, business strategies, commercial linkages programmes and matchmaking services. Includes support to private organisations representing businesses, e.g. business associations; chambers of commerce; producer associations; providers of know-how and other business development services. For financial services use CRS codes 24030 or 24040. For SME development and for support to companies in the industrial sector use codes 32130 through 32172. For support to companies in the agricultural sector use code 31120.</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Fourniture de services publics et privés pour le développement des entreprises, par ex. incubateurs, stratégies d’entreprises, programmes de liens commerciaux et services de mise en relations. Cela comprend le soutien aux organisations privées représentant les entreprises, par ex. association d’entreprises ; chambres de commerce ; associations de producteurs ; fournisseurs de savoir faire et autres services d’aide au développement des entreprises. Pour les services financiers utiliser les codes 24030 ou 24040. Pour le développement des PME et pour le soutien aux sociétés dans le secteur industriel, utiliser les codes 32130 à 32172. Pour le soutien aux sociétés du secteur agricole utiliser le code 31120.</narrative>
             </description>
             <category>250</category>
         </codelist-item>
@@ -2362,7 +2382,7 @@
             </name>
             <description>
                 <narrative>Support to policy reform, implementation and enforcement of responsible business conduct (RBC) principles and standards as well as facilitation of responsible business practices by companies. Includes establishing and enforcing a legal and regulatory framework to protect stakeholder rights and the environment, rewarding best performers; exemplifying RBC in government economic activities, such as state-owned enterprises' operations or public procurement; support to the implementation of the OECD Guidelines for MNEs, including disclosure, human rights, employment and industrial relations, environment, combating bribery, consumer interests, science and technology, competition and taxation.</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Soutien aux réformes politiques, mise en œuvre et renforcement des principes et standards de conduite responsable des entreprises (CRE) ainsi que facilitation des pratiques d’entreprise responsables par les sociétés. Comprend l’établissement et le renforcement d’un cadre légal et de régulation pour protéger les droits des acteurs et de l’environnement, récompensant les meilleures performances ; mise en exergue des CRE dans les activités économiques gouvernementales, dans les opérations ou appels d’offre de entreprises d’état ; soutien à la mise en œuvre des directives de l’OCDE pour les multinationales, incluant la transparence, les droits humains, les relations dans l’emploi et l’industrie, l’environnement, la lutte contre la corruption, les intérêts des consommateurs, la science et la technologie, la concurrence et la fiscalité.</narrative>
             </description>
             <category>250</category>
         </codelist-item>
@@ -3161,8 +3181,8 @@
                 <narrative xml:lang="fr">Protection des sites</narrative>
             </name>
             <description>
-                <narrative>Applies to unique cultural landscape; including sites/objects of historical, archeological, aesthetic, scientific or educational value.</narrative>
-                <narrative xml:lang="fr">Se rapporte à un paysage culturel exceptionnel ; y compris des sites et des objets d'une valeur historique, archéologique, esthétique, scientifique ou éducative.</narrative>
+                <narrative>Applies to sites of natural heritage, characterised by their natural beauty or outstanding biodiversity, ecosystem and geological values (including some unique cultural landscapes). For tangible and intangible cultural heritage preservation use purpose code 16061 - Culture and cultural diversity or 16066 – Culture.</narrative>
+                <narrative xml:lang="fr">S’applique aux sites du patrimoine naturel, caractérisés par leur beauté naturelle ou leur exceptionnelle biodiversité, leurs écosystèmes et valeurs géologiques exceptionnelles (y compris certains paysages culturels uniques). Pour la préservation du patrimoine culturel matériel et immatériel, utilisez le code-objet 16061 – Culture et diversité culturelle ou 16066 – Culture.</narrative>
             </description>
             <category>410</category>
         </codelist-item>
@@ -3310,7 +3330,7 @@
             </name>
             <description>
                 <narrative>Food security policy, programmes and activities; institution capacity strengthening; policies, programmes for the reduction of food loss/waste; food security information systems, data collection, statistics, analysis, tools, methods; coordination and governance mechanisms; other unspecified food security activities.</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Politiques, programmes et activités de sécurité alimentaire ; renforcement des capacités institutionnelles ; politiques et programmes de réduction de gaspillage alimentaire ; systèmes d’information de sécurité alimentaire, collecte de données, statistiques, analyses, outils, méthodes s’y rapportant ; mécanismes de coordination et de gouvernance ; autres activités indéfinies de sécurité alimentaire.</narrative>
             </description>
             <category>430</category>
         </codelist-item>
@@ -3322,7 +3342,7 @@
             </name>
             <description>
                 <narrative>Short or longer term household food security programmes and activities that improve the access of households to nutritionally adequate diets (excluding any cash transfers within broader social welfare programmes that do not have a specific food security, food acquisition or nutrition focus which should be reported under code 16010).</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Programmes de court ou long terme de sécurité alimentaire et activités améliorant l’accès des ménages à des régimes alimentaires équilibrés (à l’exclusion de tout transfert monétaire de programmes de protection sociale n’ayant pas d’optique spécifique de sécurité alimentaire, d’achat d’alimentation ou de nutrition, qui devrait être rapporté sous le code 16010).</narrative>
             </description>
             <category>430</category>
         </codelist-item>
@@ -3334,7 +3354,7 @@
             </name>
             <description>
                 <narrative>Food safety and quality policies, programmes and activities, including food inspection and certification; strengthening food safety/quality capacities and development of standards along the value chain; monitoring/surveillance and laboratory capacities; and delivery of information, communication, education.</narrative>
-                <narrative xml:lang="fr"/>
+                <narrative xml:lang="fr">Salubrité alimentaire et politiques de qualité, programmes et activités, comprenant contrôle sanitaire, et certification ; renforcement des capacités de contrôle de qualité/salubrité alimentaire développement de standard tout au long de la chaine de valeur ; contrôle/surveillance et capacités des laboratoires ; et diffusion d’information, communication, éducation.</narrative>
             </description>
             <category>430</category>
         </codelist-item>
