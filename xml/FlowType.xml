@@ -122,5 +122,16 @@
                 <narrative xml:lang="fr">ex : élément non APD des opérations de maintien de la paix</narrative>
             </description>
         </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>60</code>
+            <name>
+                <narrative>PSI</narrative>
+                <narrative xml:lang="fr">ISP</narrative>
+            </name>
+            <description>
+                <narrative>Private sector instruments</narrative>
+                <narrative xml:lang="fr">Instruments du secteur privé</narrative>
+            </description>
+        </codelist-item>
     </codelist-items>
 </codelist>

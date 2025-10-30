@@ -87,8 +87,8 @@
         <codelist-item status="active">
             <code>500</code>
             <name>
-                <narrative>EQUITY  AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</narrative>
-                <narrative xml:lang="fr">ACTIONS ET  PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT</narrative>
+                <narrative>EQUITY AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</narrative>
+                <narrative xml:lang="fr">ACTIONS ET PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active">

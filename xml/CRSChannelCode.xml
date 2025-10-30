@@ -15,6 +15,7 @@
                 <narrative>Public Sector Institutions</narrative>
                 <narrative xml:lang="fr">Institutions du secteur public</narrative>
             </name>
+            <category>10000</category>
         </codelist-item>
         <codelist-item status="active">
             <code>11000</code>
@@ -110,6 +111,7 @@
                 <narrative>Non-Governmental Organisation (NGO) and Civil Society</narrative>
                 <narrative xml:lang="fr">Organisations non gouvernementales (ONG) et société civile</narrative>
             </name>
+            <category>20000</category>
         </codelist-item>
         <codelist-item status="active">
             <code>21000</code>
@@ -127,7 +129,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>21002</code>
             <name>
                 <narrative>Agency for International Trade Information and Co-operation</narrative>
@@ -135,7 +137,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>21003</code>
             <name>
                 <narrative>Latin American Council for Social Sciences</narrative>
@@ -143,7 +145,7 @@
             </name>
             <category>23000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>21004</code>
             <name>
                 <narrative>Council for the Development of Economic and Social Research in Africa</narrative>
@@ -159,7 +161,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>21006</code>
             <name>
                 <narrative>Development Gateway Foundation</narrative>
@@ -175,7 +177,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2004-01-01">
             <code>21008</code>
             <name>
                 <narrative>Eurostep</narrative>
@@ -183,7 +185,7 @@
             </name>
             <category>22000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2004-01-01">
             <code>21009</code>
             <name>
                 <narrative>Forum for Agricultural Research in Africa</narrative>
@@ -191,7 +193,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>21010</code>
             <name>
                 <narrative>Forum for African Women Educationalists</narrative>
@@ -215,7 +217,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1999-01-01">
             <code>21014</code>
             <name>
                 <narrative>Human Rights Information and Documentation Systems</narrative>
@@ -223,7 +225,7 @@
             </name>
             <category>22000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>21015</code>
             <name>
                 <narrative>International Catholic Rural Association</narrative>
@@ -239,7 +241,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2004-01-01">
             <code>21017</code>
             <name>
                 <narrative>International Centre for Trade and Sustainable Development</narrative>
@@ -255,7 +257,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>21019</code>
             <name>
                 <narrative>International Federation of Settlements and Neighbourhood Centres</narrative>
@@ -271,7 +273,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2004-01-01">
             <code>21021</code>
             <name>
                 <narrative>International Institute for Environment and Development</narrative>
@@ -303,7 +305,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>21025</code>
             <name>
                 <narrative>International Seismological Centre</narrative>
@@ -311,7 +313,7 @@
             </name>
             <category>22000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1999-01-01">
             <code>21026</code>
             <name>
                 <narrative>International Service for Human Rights</narrative>
@@ -319,7 +321,7 @@
             </name>
             <category>22000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>21027</code>
             <name>
                 <narrative>ITF Enhancing Human Security</narrative>
@@ -327,7 +329,7 @@
             </name>
             <category>22000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>21028</code>
             <name>
                 <narrative>International University Exchange Fund - IUEF Stip. in Africa and Latin America</narrative>
@@ -343,7 +345,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>21030</code>
             <name>
                 <narrative>Pan African Institute for Development</narrative>
@@ -367,7 +369,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>21033</code>
             <name>
                 <narrative>Transparency International</narrative>
@@ -383,7 +385,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1999-01-01">
             <code>21035</code>
             <name>
                 <narrative>World Organisation Against Torture</narrative>
@@ -399,7 +401,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>21037</code>
             <name>
                 <narrative>Women's World Banking</narrative>
@@ -415,7 +417,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2006-01-01">
             <code>21039</code>
             <name>
                 <narrative>International Institute for Sustainable Development</narrative>
@@ -423,7 +425,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2006-01-01">
             <code>21040</code>
             <name>
                 <narrative>International Women's Tribune Centre</narrative>
@@ -447,7 +449,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2005-01-01">
             <code>21043</code>
             <name>
                 <narrative>European Parliamentarians for Africa</narrative>
@@ -455,7 +457,7 @@
             </name>
             <category>32000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2007-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>21044</code>
             <name>
                 <narrative>International Council for the Control of Iodine Deficiency Disorders</narrative>
@@ -479,7 +481,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2007-01-01">
             <code>21047</code>
             <name>
                 <narrative>AgriCord</narrative>
@@ -487,7 +489,7 @@
             </name>
             <category>22000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2007-01-01">
             <code>21048</code>
             <name>
                 <narrative>Association of African Universities</narrative>
@@ -495,7 +497,7 @@
             </name>
             <category>23000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2007-01-01">
             <code>21049</code>
             <name>
                 <narrative>European Centre for Development Policy Management</narrative>
@@ -503,7 +505,7 @@
             </name>
             <category>22000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2007-01-01">
             <code>21050</code>
             <name>
                 <narrative>Geneva Call</narrative>
@@ -511,7 +513,7 @@
             </name>
             <category>22000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2007-01-01">
             <code>21051</code>
             <name>
                 <narrative>Institut Supérieur Panafricaine d’Economie Coopérative</narrative>
@@ -535,7 +537,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2007-01-01">
             <code>21055</code>
             <name>
                 <narrative>Regional AIDS Training Network</narrative>
@@ -543,7 +545,7 @@
             </name>
             <category>23000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2007-01-01">
             <code>21056</code>
             <name>
                 <narrative>Renewable Energy and Energy Efficiency Partnership</narrative>
@@ -559,7 +561,7 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2009-01-01">
             <code>21058</code>
             <name>
                 <narrative>International Crisis Group</narrative>
@@ -567,7 +569,7 @@
             </name>
             <category>22000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>21059</code>
             <name>
                 <narrative>Africa Solidarity Fund</narrative>
@@ -671,11 +673,19 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2022-01-01" withdrawal-date="2022-12-31">
+        <codelist-item status="active" activation-date="2022-01-01">
             <code>21508</code>
             <name>
                 <narrative>Sustainable Energy for All</narrative>
                 <narrative xml:lang="fr">Sustainable Energy for All</narrative>
+            </name>
+            <category>21000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>21509</code>
+            <name>
+                <narrative>AmplifyChange</narrative>
+                <narrative xml:lang="fr">AmplifyChange</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -725,8 +735,9 @@
                 <narrative>Public-Private Partnerships (PPP) and Networks</narrative>
                 <narrative xml:lang="fr">Partenariats public-privé (PPP) et réseaux</narrative>
             </name>
+            <category>30000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2002-01-01">
             <code>30001</code>
             <name>
                 <narrative>Global Alliance for Improved Nutrition</narrative>
@@ -734,7 +745,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2004-01-01">
             <code>30003</code>
             <name>
                 <narrative>Global e-Schools and Communities Initiative</narrative>
@@ -742,7 +753,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>30004</code>
             <name>
                 <narrative>Global Water Partnership</narrative>
@@ -750,7 +761,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2002-01-01">
             <code>30005</code>
             <name>
                 <narrative>International AIDS Vaccine Initiative</narrative>
@@ -758,7 +769,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2002-01-01">
             <code>30006</code>
             <name>
                 <narrative>International Partnership on Microbicides</narrative>
@@ -766,7 +777,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2006-01-01">
             <code>30007</code>
             <name>
                 <narrative>Global Alliance for ICT and Development</narrative>
@@ -774,7 +785,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2005-01-01">
             <code>30008</code>
             <name>
                 <narrative>Cities Alliance</narrative>
@@ -782,7 +793,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2006-01-01">
             <code>30009</code>
             <name>
                 <narrative>Small Arms Survey</narrative>
@@ -790,7 +801,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2006-01-01">
             <code>30010</code>
             <name>
                 <narrative>International drug purchase facility</narrative>
@@ -798,7 +809,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>30011</code>
             <name>
                 <narrative>International Union for the Conservation of Nature</narrative>
@@ -806,7 +817,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2009-01-01">
             <code>30012</code>
             <name>
                 <narrative>Global Climate Partnership Fund</narrative>
@@ -814,7 +825,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2009-01-01">
             <code>30013</code>
             <name>
                 <narrative>Microfinance Enhancement Facility</narrative>
@@ -822,7 +833,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2009-01-01">
             <code>30014</code>
             <name>
                 <narrative>Regional Micro, Small and Medium Enterprise Investment Fund for Sub-Saharan Africa</narrative>
@@ -830,7 +841,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2007-01-01">
             <code>30015</code>
             <name>
                 <narrative>Global Energy Efficiency and Renewable Energy Fund</narrative>
@@ -886,7 +897,7 @@
             </name>
             <category>30000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2006-01-01">
             <code>31001</code>
             <name>
                 <narrative>Global Development Network</narrative>
@@ -894,7 +905,7 @@
             </name>
             <category>32000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2005-01-01">
             <code>31002</code>
             <name>
                 <narrative>Global Knowledge Partnership</narrative>
@@ -902,7 +913,7 @@
             </name>
             <category>32000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2009-01-01">
             <code>31003</code>
             <name>
                 <narrative>International Land Coalition</narrative>
@@ -910,7 +921,7 @@
             </name>
             <category>32000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2010-01-01">
+        <codelist-item status="active" activation-date="2009-01-01">
             <code>31004</code>
             <name>
                 <narrative>Extractive Industries Transparency Initiative International Secretariat</narrative>
@@ -930,7 +941,7 @@
             <code>31006</code>
             <name>
                 <narrative>Coalition for Epidemic Preparedness Innovations</narrative>
-                <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation</narrative>
+                <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation aux épidémies</narrative>
             </name>
             <category>31000</category>
         </codelist-item>
@@ -939,6 +950,14 @@
             <name>
                 <narrative>Drugs for Neglected Diseases initative</narrative>
                 <narrative xml:lang="fr">Initiative médicaments contres les maladies négligées</narrative>
+            </name>
+            <category>32000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>31008</code>
+            <name>
+                <narrative>Foundation for Innovative New Diagnostics</narrative>
+                <narrative xml:lang="fr">Fondation pour les nouveaux diagnostics innovants</narrative>
             </name>
             <category>32000</category>
         </codelist-item>
@@ -956,6 +975,7 @@
                 <narrative>Multilateral Organisations</narrative>
                 <narrative xml:lang="fr">Organisations multilatérales</narrative>
             </name>
+            <category>40000</category>
         </codelist-item>
         <codelist-item status="active">
             <code>41000</code>
@@ -973,7 +993,7 @@
             </name>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41101</code>
             <name>
                 <narrative>Convention to Combat Desertification</narrative>
@@ -981,7 +1001,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41102</code>
             <name>
                 <narrative>Desert Locust Control Organisation for Eastern Africa</narrative>
@@ -989,7 +1009,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41103</code>
             <name>
                 <narrative>Economic Commission for Africa</narrative>
@@ -997,7 +1017,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41104</code>
             <name>
                 <narrative>Economic Commission for Latin America and the Caribbean</narrative>
@@ -1005,7 +1025,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41105</code>
             <name>
                 <narrative>Economic and Social Commission for Western Asia</narrative>
@@ -1013,7 +1033,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41106</code>
             <name>
                 <narrative>Economic and Social Commission for Asia and the Pacific</narrative>
@@ -1021,7 +1041,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41107</code>
             <name>
                 <narrative>International Atomic Energy Agency (Contributions to Technical Cooperation Fund Only)</narrative>
@@ -1029,7 +1049,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41108</code>
             <name>
                 <narrative>International Fund for Agricultural Development</narrative>
@@ -1045,7 +1065,7 @@
             </name>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41110</code>
             <name>
                 <narrative>Joint United Nations Programme on HIV/AIDS</narrative>
@@ -1053,7 +1073,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2000-01-01">
             <code>41111</code>
             <name>
                 <narrative>United Nations Capital Development Fund</narrative>
@@ -1061,7 +1081,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41112</code>
             <name>
                 <narrative>United Nations Conference on Trade and Development</narrative>
@@ -1069,7 +1089,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41114</code>
             <name>
                 <narrative>United Nations Development Programme</narrative>
@@ -1077,7 +1097,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41116</code>
             <name>
                 <narrative>United Nations Environment Programme</narrative>
@@ -1085,7 +1105,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41119</code>
             <name>
                 <narrative>United Nations Population Fund</narrative>
@@ -1093,7 +1113,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41120</code>
             <name>
                 <narrative>United Nations Human Settlement Programme</narrative>
@@ -1101,15 +1121,15 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41121</code>
             <name>
-                <narrative>United Nations Office of the United Nations High Commissioner for Refugees</narrative>
+                <narrative>United Nations Office of the High Commissioner for Refugees</narrative>
                 <narrative xml:lang="fr">Haut Commissariat des Nations Unies pour les réfugiés</narrative>
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41122</code>
             <name>
                 <narrative>United Nations Children’s Fund</narrative>
@@ -1117,7 +1137,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41123</code>
             <name>
                 <narrative>United Nations Industrial Development Organisation</narrative>
@@ -1133,7 +1153,7 @@
             </name>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41125</code>
             <name>
                 <narrative>United Nations Institute for Training and Research</narrative>
@@ -1141,7 +1161,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2001-01-01">
             <code>41126</code>
             <name>
                 <narrative>United Nations Mine Action Service</narrative>
@@ -1149,7 +1169,7 @@
             </name>
             <category>41600</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41127</code>
             <name>
                 <narrative>United Nations Office of Co-ordination of Humanitarian Affairs</narrative>
@@ -1157,7 +1177,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41128</code>
             <name>
                 <narrative>United Nations Office on Drugs and Crime</narrative>
@@ -1165,7 +1185,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41129</code>
             <name>
                 <narrative>United Nations Research Institute for Social Development</narrative>
@@ -1173,7 +1193,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41130</code>
             <name>
                 <narrative>United Nations Relief and Works Agency for Palestine Refugees in the Near East</narrative>
@@ -1181,7 +1201,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41131</code>
             <name>
                 <narrative>United Nations System Staff College</narrative>
@@ -1189,7 +1209,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2002-01-01">
             <code>41132</code>
             <name>
                 <narrative>United Nations System Standing Committee on Nutrition</narrative>
@@ -1197,7 +1217,7 @@
             </name>
             <category>41600</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41133</code>
             <name>
                 <narrative>United Nations Special Initiative on Africa</narrative>
@@ -1205,7 +1225,7 @@
             </name>
             <category>41600</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41134</code>
             <name>
                 <narrative>United Nations University (including Endowment Fund)</narrative>
@@ -1213,7 +1233,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41135</code>
             <name>
                 <narrative>United Nations Volunteers</narrative>
@@ -1221,7 +1241,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2000-01-01">
             <code>41136</code>
             <name>
                 <narrative>United Nations Voluntary Fund on Disability</narrative>
@@ -1229,7 +1249,7 @@
             </name>
             <category>41600</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41137</code>
             <name>
                 <narrative>United Nations Voluntary Fund for Technical Co-operation in the Field of Human Rights</narrative>
@@ -1237,7 +1257,7 @@
             </name>
             <category>41600</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41138</code>
             <name>
                 <narrative>United Nations Voluntary Fund for Victims of Torture</narrative>
@@ -1245,7 +1265,7 @@
             </name>
             <category>41600</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41140</code>
             <name>
                 <narrative>World Food Programme</narrative>
@@ -1253,7 +1273,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2007-01-01">
             <code>41141</code>
             <name>
                 <narrative>United Nations Peacebuilding Fund</narrative>
@@ -1261,7 +1281,7 @@
             </name>
             <category>41400</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2007-01-01">
             <code>41142</code>
             <name>
                 <narrative>United Nations Democracy Fund</narrative>
@@ -1269,7 +1289,7 @@
             </name>
             <category>41600</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2008-01-01">
             <code>41143</code>
             <name>
                 <narrative>World Health Organisation - core voluntary contributions account</narrative>
@@ -1277,7 +1297,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2009-01-01">
             <code>41144</code>
             <name>
                 <narrative>International Labour Organisation - Regular Budget Supplementary Account</narrative>
@@ -1285,7 +1305,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>41145</code>
             <name>
                 <narrative>International Maritime Organization - Technical Co-operation Fund</narrative>
@@ -1293,7 +1313,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>41146</code>
             <name>
                 <narrative>United Nations Entity for Gender Equality and the Empowerment of Women</narrative>
@@ -1301,7 +1321,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2010-01-01">
             <code>41147</code>
             <name>
                 <narrative>Central Emergency Response Fund</narrative>
@@ -1309,7 +1329,7 @@
             </name>
             <category>41400</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2011-01-01">
             <code>41148</code>
             <name>
                 <narrative>United Nations Department of Political and Peacebuilding Affairs, Trust Fund in Support of Political Affairs</narrative>
@@ -1317,7 +1337,7 @@
             </name>
             <category>41500</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>41149</code>
             <name>
                 <narrative>United Nations Development Coordination Office</narrative>
@@ -1325,7 +1345,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2018-01-01">
             <code>41150</code>
             <name>
                 <narrative>United Nations Institute for Disarmament Research</narrative>
@@ -1333,7 +1353,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2019-01-01">
             <code>41151</code>
             <name>
                 <narrative>International Agency for Research on Cancer</narrative>
@@ -1341,7 +1361,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2020-01-01">
+        <codelist-item status="withdrawn" activation-date="2020-01-01" withdrawal-date="2025-10-30">
             <code>41200</code>
             <name>
                 <narrative>UN entities (core contributions reportable in TOSSD only)</narrative>
@@ -1357,7 +1377,7 @@
             </name>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41301</code>
             <name>
                 <narrative>Food and Agricultural Organisation</narrative>
@@ -1365,7 +1385,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41302</code>
             <name>
                 <narrative>International Labour Organisation - Assessed Contributions</narrative>
@@ -1373,7 +1393,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41303</code>
             <name>
                 <narrative>International Telecommunications Union</narrative>
@@ -1381,7 +1401,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41304</code>
             <name>
                 <narrative>United Nations Educational, Scientific and Cultural Organisation</narrative>
@@ -1389,7 +1409,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41305</code>
             <name>
                 <narrative>United Nations</narrative>
@@ -1397,7 +1417,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41306</code>
             <name>
                 <narrative>Universal Postal Union</narrative>
@@ -1405,7 +1425,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41307</code>
             <name>
                 <narrative>World Health Organisation - assessed contributions</narrative>
@@ -1413,7 +1433,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41308</code>
             <name>
                 <narrative>World Intellectual Property Organisation</narrative>
@@ -1421,7 +1441,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41309</code>
             <name>
                 <narrative>World Meteorological Organisation</narrative>
@@ -1429,7 +1449,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2005-01-01">
             <code>41310</code>
             <name>
                 <narrative>United Nations Department of Peace Operations - UN peacekeeping operations [only MINURSO, MINUSCA, MINUSMA, MINUJUSTH, MONUSCO, UNAMID, UNIFIL, UNISFA, UNMIK, UNMIL, UNMISS, UNOCI]. Report contributions mission by mission in CRS++.</narrative>
@@ -1437,7 +1457,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2010-01-01" withdrawal-date="2019-12-31">
+        <codelist-item status="withdrawn" activation-date="2007-01-01" withdrawal-date="2019-12-31">
             <code>41311</code>
             <name>
                 <narrative>United Nations Peacebuilding Fund (Window One:  Flexible Contributions Only)</narrative>
@@ -1445,7 +1465,7 @@
             </name>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2008-01-01">
             <code>41312</code>
             <name>
                 <narrative>International Atomic Energy Agency - assessed contributions</narrative>
@@ -1453,7 +1473,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2008-01-01">
             <code>41313</code>
             <name>
                 <narrative>United Nations High Commissioner for Human Rights (extrabudgetary contributions only)</narrative>
@@ -1461,7 +1481,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="active" activation-date="2008-01-01">
             <code>41314</code>
             <name>
                 <narrative>United Nations Economic Commission for Europe (extrabudgetary contributions only)</narrative>
@@ -1469,7 +1489,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2009-01-01">
             <code>41315</code>
             <name>
                 <narrative>United Nations Office for Disaster Risk Reduction</narrative>
@@ -1477,7 +1497,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>41316</code>
             <name>
                 <narrative>United Nations Framework Convention on Climate Change</narrative>
@@ -1485,7 +1505,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2015-01-01">
+        <codelist-item status="active" activation-date="2014-01-01">
             <code>41317</code>
             <name>
                 <narrative>Green Climate Fund</narrative>
@@ -1493,7 +1513,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2014-01-01">
             <code>41318</code>
             <name>
                 <narrative>Global Mechanism</narrative>
@@ -1501,7 +1521,7 @@
             </name>
             <category>41600</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2016-01-01">
             <code>41319</code>
             <name>
                 <narrative>World Tourism Organization</narrative>
@@ -1509,7 +1529,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2017-01-01">
             <code>41320</code>
             <name>
                 <narrative>Technology Bank for Least Developed Countries</narrative>
@@ -1565,7 +1585,7 @@
             </name>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2014-01-01">
             <code>41501</code>
             <name>
                 <narrative>United Nations Reducing Emissions from Deforestation and Forest Degradation</narrative>
@@ -1573,7 +1593,7 @@
             </name>
             <category>41400</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2014-01-01">
             <code>41502</code>
             <name>
                 <narrative>United Nations Office for Project Services</narrative>
@@ -1581,7 +1601,7 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2016-01-01">
             <code>41503</code>
             <name>
                 <narrative>UN-led Country-based Pooled Funds</narrative>
@@ -1595,13 +1615,9 @@
                 <narrative>Existing UN channels not included in Standard I - UN entity- of the UN Data Cube reporting framework</narrative>
                 <narrative xml:lang="fr">Canaux de l'ONU existants non inclus dans la norme I du cadre de reporting du cube de l'ONU</narrative>
             </name>
-            <description>
-                <narrative>Canaux existants de l'ONU non inclus dans la norme I - entité des Nations Unies - du cadre de reporting du cube de données de l'ONU</narrative>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2021-01-01">
+        <codelist-item status="withdrawn" activation-date="2021-01-01" withdrawal-date="2025-10-30">
             <code>41700</code>
             <name>
                 <narrative>UN entities, non-core contributions</narrative>
@@ -1609,7 +1625,7 @@
             </name>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="withdrawn" activation-date="2021-01-01" withdrawal-date="2025-10-30">
             <code>41701</code>
             <name>
                 <narrative>International Labour Organisation - non-core</narrative>
@@ -1617,7 +1633,7 @@
             </name>
             <category>41700</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2021-01-01">
+        <codelist-item status="withdrawn" activation-date="2021-01-01" withdrawal-date="2025-10-30">
             <code>41702</code>
             <name>
                 <narrative>World Health Organisation - non-core</narrative>
@@ -1721,7 +1737,7 @@
             </name>
             <category>43000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2015-01-01">
+        <codelist-item status="active" activation-date="2022-01-01">
             <code>43007</code>
             <name>
                 <narrative>IMF’s Resilience and Sustainability Trust</narrative>
@@ -1801,7 +1817,7 @@
             </name>
             <category>44000</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn" withdrawal-date="2025-10-30">
             <code>45000</code>
             <name>
                 <narrative>World Trade Organisation (WTO)</narrative>
@@ -1873,7 +1889,7 @@
             </name>
             <category>46000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2008-01-01">
+        <codelist-item status="active" activation-date="2004-01-01">
             <code>46006</code>
             <name>
                 <narrative>Black Sea Trade and Development Bank</narrative>
@@ -1945,7 +1961,7 @@
             </name>
             <category>46000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2009-01-01">
+        <codelist-item status="active" activation-date="2004-01-01">
             <code>46018</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development - Early Transition Countries Fund</narrative>
@@ -1953,7 +1969,7 @@
             </name>
             <category>46000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2009-01-01">
+        <codelist-item status="active" activation-date="2006-01-01">
             <code>46019</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development - Western Balkans Joint Trust Fund</narrative>
@@ -2073,7 +2089,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47008</code>
             <name>
                 <narrative>World Vegetable Centre</narrative>
@@ -2089,7 +2105,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47010</code>
             <name>
                 <narrative>Commonwealth Agency for Public Administration and Management</narrative>
@@ -2145,7 +2161,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47017</code>
             <name>
                 <narrative>International Centre for Tropical Agriculture</narrative>
@@ -2153,7 +2169,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>47018</code>
             <name>
                 <narrative>Centre for International Forestry Research</narrative>
@@ -2169,7 +2185,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>47020</code>
             <name>
                 <narrative>International Maize and Wheat Improvement Centre</narrative>
@@ -2177,7 +2193,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47021</code>
             <name>
                 <narrative>International Potato Centre</narrative>
@@ -2233,7 +2249,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47028</code>
             <name>
                 <narrative>Commonwealth Partnership for Technical Management</narrative>
@@ -2289,7 +2305,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47035</code>
             <name>
                 <narrative>Environmental Development Action in the Third World</narrative>
@@ -2329,7 +2345,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47041</code>
             <name>
                 <narrative>Food and Fertilizer Technology Centre</narrative>
@@ -2337,7 +2353,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47042</code>
             <name>
                 <narrative>Foundation for International Training</narrative>
@@ -2345,7 +2361,7 @@
             </name>
             <category>22000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="2002-01-01">
             <code>47043</code>
             <name>
                 <narrative>Global Crop Diversity Trust</narrative>
@@ -2353,7 +2369,7 @@
             </name>
             <category>31000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2009-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47044</code>
             <name>
                 <narrative>Global Environment Facility Trust Fund</narrative>
@@ -2361,7 +2377,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2003-01-01">
+        <codelist-item status="active" activation-date="2002-01-01">
             <code>47045</code>
             <name>
                 <narrative>Global Fund to Fight AIDS, Tuberculosis and Malaria</narrative>
@@ -2377,7 +2393,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47047</code>
             <name>
                 <narrative>International African Institute</narrative>
@@ -2409,7 +2425,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47051</code>
             <name>
                 <narrative>International Centre for Agricultural Research in Dry Areas</narrative>
@@ -2417,7 +2433,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47053</code>
             <name>
                 <narrative>International Centre for Diarrhoeal Disease Research, Bangladesh</narrative>
@@ -2425,7 +2441,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47054</code>
             <name>
                 <narrative>International Centre of Insect Physiology and Ecology</narrative>
@@ -2433,7 +2449,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="2000-01-01">
             <code>47055</code>
             <name>
                 <narrative>International Centre for Development Oriented Research in Agriculture</narrative>
@@ -2441,7 +2457,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47056</code>
             <name>
                 <narrative>World AgroForestry Centre</narrative>
@@ -2449,7 +2465,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47057</code>
             <name>
                 <narrative>International Crop Research for Semi-Arid Tropics</narrative>
@@ -2489,7 +2505,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47062</code>
             <name>
                 <narrative>International Institute of Tropical Agriculture</narrative>
@@ -2497,7 +2513,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47063</code>
             <name>
                 <narrative>International Livestock Research Institute</narrative>
@@ -2513,7 +2529,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47065</code>
             <name>
                 <narrative>Intergovernmental Oceanographic Commission</narrative>
@@ -2521,7 +2537,7 @@
             </name>
             <category>41600</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47066</code>
             <name>
                 <narrative>International Organisation for Migration</narrative>
@@ -2545,7 +2561,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>47069</code>
             <name>
                 <narrative>Bioversity International</narrative>
@@ -2553,7 +2569,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47070</code>
             <name>
                 <narrative>International Rice Research Institute</narrative>
@@ -2561,7 +2577,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47071</code>
             <name>
                 <narrative>International Seed Testing Association</narrative>
@@ -2585,7 +2601,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>47075</code>
             <name>
                 <narrative>International Water Management Institute</narrative>
@@ -2609,7 +2625,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47078</code>
             <name>
                 <narrative>Multilateral Fund for the Implementation of the Montreal Protocol</narrative>
@@ -2649,7 +2665,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47083</code>
             <name>
                 <narrative>Pan-American Health Organisation</narrative>
@@ -2777,7 +2793,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47099</code>
             <name>
                 <narrative>University of the South Pacific</narrative>
@@ -2793,7 +2809,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47101</code>
             <name>
                 <narrative>Africa Rice Centre</narrative>
@@ -2809,7 +2825,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47103</code>
             <name>
                 <narrative>World Maritime University</narrative>
@@ -2817,7 +2833,7 @@
             </name>
             <category>51000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2011-01-01">
+        <codelist-item status="active" activation-date="2003-01-01">
             <code>47104</code>
             <name>
                 <narrative>WorldFish Centre</narrative>
@@ -2953,7 +2969,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2007-01-01">
+        <codelist-item status="active" activation-date="2002-01-01">
             <code>47122</code>
             <name>
                 <narrative>Global Alliance for Vaccines and Immunization</narrative>
@@ -2961,7 +2977,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2005-01-01">
+        <codelist-item status="active" activation-date="2002-01-01">
             <code>47123</code>
             <name>
                 <narrative>Geneva International Centre for Humanitarian Demining</narrative>
@@ -2993,7 +3009,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2009-01-01">
+        <codelist-item status="active" activation-date="1998-01-01">
             <code>47128</code>
             <name>
                 <narrative>Nordic Development Fund</narrative>
@@ -3161,6 +3177,14 @@
             </name>
             <category>47000</category>
         </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>47150</code>
+            <name>
+                <narrative>Secretaría General Iberoamericana</narrative>
+                <narrative xml:lang="fr">Secretaría General Iberoamericana</narrative>
+            </name>
+            <category>47000</category>
+        </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>47400</code>
             <name>
@@ -3214,7 +3238,7 @@
                 <narrative>University, college or other teaching institution, research institute or think-tank</narrative>
                 <narrative xml:lang="fr">Université, collège ou autre établissement d'enseignement, institut de recherche ou de réflexion</narrative>
             </name>
-            <category>50000</category>
+            <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
             <code>51001</code>
@@ -3238,6 +3262,7 @@
                 <narrative>Private Sector Institutions</narrative>
                 <narrative xml:lang="fr">Institutions du secteur privé</narrative>
             </name>
+            <category>60000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>61000</code>
@@ -3509,6 +3534,7 @@
                 <narrative>Other</narrative>
                 <narrative xml:lang="fr">Autre</narrative>
             </name>
+            <category>90000</category>
         </codelist-item>
     </codelist-items>
 </codelist>
