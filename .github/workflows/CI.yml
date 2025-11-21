@@ -19,10 +19,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
       - name: Checkout Schemas repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           repository: IATI/IATI-Codelists
           ref: version-2.03
@@ -56,7 +56,7 @@ jobs:
       matrix:
         version: [ 2.01, 2.02, 2.03 ]
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       
       - name: 'Trigger update of Validator Codelists repository for version-${{ matrix.version }}'
         run: |
