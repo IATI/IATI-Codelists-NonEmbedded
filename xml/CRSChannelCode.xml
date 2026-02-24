@@ -15,6 +15,7 @@
                 <narrative>Public Sector Institutions</narrative>
                 <narrative xml:lang="fr">Institutions du secteur public</narrative>
             </name>
+            <category>10000</category>
         </codelist-item>
         <codelist-item status="active">
             <code>11000</code>
@@ -110,6 +111,7 @@
                 <narrative>Non-Governmental Organisation (NGO) and Civil Society</narrative>
                 <narrative xml:lang="fr">Organisations non gouvernementales (ONG) et société civile</narrative>
             </name>
+            <category>20000</category>
         </codelist-item>
         <codelist-item status="active">
             <code>21000</code>
@@ -671,11 +673,19 @@
             </name>
             <category>21000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2022-01-01" withdrawal-date="2022-12-31">
+        <codelist-item status="active" activation-date="2022-01-01">
             <code>21508</code>
             <name>
                 <narrative>Sustainable Energy for All</narrative>
                 <narrative xml:lang="fr">Sustainable Energy for All</narrative>
+            </name>
+            <category>21000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>21509</code>
+            <name>
+                <narrative>AmplifyChange</narrative>
+                <narrative xml:lang="fr">AmplifyChange</narrative>
             </name>
             <category>21000</category>
         </codelist-item>
@@ -725,6 +735,7 @@
                 <narrative>Public-Private Partnerships (PPP) and Networks</narrative>
                 <narrative xml:lang="fr">Partenariats public-privé (PPP) et réseaux</narrative>
             </name>
+            <category>30000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30001</code>
@@ -926,11 +937,11 @@
             </name>
             <category>32000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2017-01-01">
+        <codelist-item status="active" activation-date="2022-01-01">
             <code>31006</code>
             <name>
                 <narrative>Coalition for Epidemic Preparedness Innovations</narrative>
-                <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation</narrative>
+                <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation aux épidémies</narrative>
             </name>
             <category>31000</category>
         </codelist-item>
@@ -939,6 +950,14 @@
             <name>
                 <narrative>Drugs for Neglected Diseases initative</narrative>
                 <narrative xml:lang="fr">Initiative médicaments contres les maladies négligées</narrative>
+            </name>
+            <category>32000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>31008</code>
+            <name>
+                <narrative>Foundation for Innovative New Diagnostics</narrative>
+                <narrative xml:lang="fr">Fondation pour les nouveaux diagnostics innovants</narrative>
             </name>
             <category>32000</category>
         </codelist-item>
@@ -956,6 +975,7 @@
                 <narrative>Multilateral Organisations</narrative>
                 <narrative xml:lang="fr">Organisations multilatérales</narrative>
             </name>
+            <category>40000</category>
         </codelist-item>
         <codelist-item status="active">
             <code>41000</code>
@@ -1104,7 +1124,7 @@
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41121</code>
             <name>
-                <narrative>United Nations Office of the United Nations High Commissioner for Refugees</narrative>
+                <narrative>United Nations Office of the High Commissioner for Refugees</narrative>
                 <narrative xml:lang="fr">Haut Commissariat des Nations Unies pour les réfugiés</narrative>
             </name>
             <category>41100</category>
@@ -1325,7 +1345,7 @@
             </name>
             <category>41100</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2023-01-01">
             <code>41150</code>
             <name>
                 <narrative>United Nations Institute for Disarmament Research</narrative>
@@ -1341,13 +1361,149 @@
             </name>
             <category>41300</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2020-01-01">
+        <codelist-item status="active" activation-date="2020-01-01">
             <code>41200</code>
             <name>
                 <narrative>UN entities (core contributions reportable in TOSSD only)</narrative>
                 <narrative xml:lang="fr">Entités des Nations Unies (contributions de base à déclarer dans TOSSD uniquement)</narrative>
             </name>
             <category>41000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41201</code>
+            <name>
+                <narrative>Comprehensive Nuclear Test Ban Treaty Organization</narrative>
+                <narrative xml:lang="fr">Organisation du traité d'interdiction complète des essais nucléaires</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41202</code>
+            <name>
+                <narrative>International Civil Aviation Organization</narrative>
+                <narrative xml:lang="fr">Organisation de l'aviation civile internationale</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41203</code>
+            <name>
+                <narrative>International Criminal Court</narrative>
+                <narrative xml:lang="fr">Cour Pénale Internationale</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41204</code>
+            <name>
+                <narrative>International Residual Mechanism for Criminal Tribunals</narrative>
+                <narrative xml:lang="fr">Mécanisme international appelé à exercer les fonctions résiduelles des Tribunaux pénaux</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41205</code>
+            <name>
+                <narrative>International Seabed Authority</narrative>
+                <narrative xml:lang="fr">Autorité internationale des fonds marins</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41206</code>
+            <name>
+                <narrative>International Tribunal for the Law of the Sea</narrative>
+                <narrative xml:lang="fr">Tribunal international du droit de la mer</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41207</code>
+            <name>
+                <narrative>Organization for the Prohibition of Chemical Weapons</narrative>
+                <narrative xml:lang="fr">Organisation pour l'interdiction des Armes Chimiques</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41208</code>
+            <name>
+                <narrative>Department of Economic and Social Affairs</narrative>
+                <narrative xml:lang="fr">Département des affaires économiques et sociales</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41209</code>
+            <name>
+                <narrative>Department of General Assembly and Conference Management</narrative>
+                <narrative xml:lang="fr">Département de l'Assemblée générale et de la gestion des conférences</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41210</code>
+            <name>
+                <narrative>Department of Global Communications</narrative>
+                <narrative xml:lang="fr">Département de la communication globale</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41211</code>
+            <name>
+                <narrative>Department of Management Strategy, Policy and Compliance, including UNOG, UNOV and UNON</narrative>
+                <narrative xml:lang="fr">Département des stratégies et politiques de gestion et de la conformité, y compris ? including ONUN, ONUG et ONUV</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41212</code>
+            <name>
+                <narrative>Department of Operational Support</narrative>
+                <narrative xml:lang="fr">Département de l’appui opérationnel</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41213</code>
+            <name>
+                <narrative>Department of Safety and Security</narrative>
+                <narrative xml:lang="fr">Département de la sûreté et de la sécurité</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41214</code>
+            <name>
+                <narrative>Office of Counter-Terrorism</narrative>
+                <narrative xml:lang="fr">Bureau de lutte contre le terrorisme</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>41215</code>
+            <name>
+                <narrative>United Nations Interregional Crime and Justice Research Institute</narrative>
+                <narrative xml:lang="fr">Institut interrégional de recherche des Nations unies sur la criminalité et la justice</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2021-01-01">
+            <code>41216</code>
+            <name>
+                <narrative>International Maritime Organization</narrative>
+                <narrative xml:lang="fr">International Maritime Organization</narrative>
+            </name>
+            <category>41200</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2021-01-01">
+            <code>41217</code>
+            <name>
+                <narrative>World Trade Organisation</narrative>
+                <narrative xml:lang="fr">Organisation mondiale du commerce</narrative>
+            </name>
+            <category>41200</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41300</code>
@@ -1595,13 +1751,17 @@
                 <narrative>Existing UN channels not included in Standard I - UN entity- of the UN Data Cube reporting framework</narrative>
                 <narrative xml:lang="fr">Canaux de l'ONU existants non inclus dans la norme I du cadre de reporting du cube de l'ONU</narrative>
             </name>
-            <description>
-                <narrative>Canaux existants de l'ONU non inclus dans la norme I - entité des Nations Unies - du cadre de reporting du cube de données de l'ONU</narrative>
-                <narrative xml:lang="fr"/>
-            </description>
             <category>41000</category>
         </codelist-item>
-        <codelist-item status="withdrawn" activation-date="2021-01-01">
+        <codelist-item status="active" activation-date="2024-01-01">
+            <code>41601</code>
+            <name>
+                <narrative>United Nations Office for Disarmament Affairs</narrative>
+                <narrative xml:lang="fr">United Nations Office for Disarmament Affairs</narrative>
+            </name>
+            <category>41600</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2021-01-01">
             <code>41700</code>
             <name>
                 <narrative>UN entities, non-core contributions</narrative>
@@ -1721,7 +1881,7 @@
             </name>
             <category>43000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2015-01-01">
+        <codelist-item status="active" activation-date="2022-01-01">
             <code>43007</code>
             <name>
                 <narrative>IMF’s Resilience and Sustainability Trust</narrative>
@@ -1801,7 +1961,7 @@
             </name>
             <category>44000</category>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn" withdrawal-date="2025-10-30">
             <code>45000</code>
             <name>
                 <narrative>World Trade Organisation (WTO)</narrative>
@@ -1921,7 +2081,7 @@
             </name>
             <category>46000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2009-01-01">
+        <codelist-item status="active" activation-date="2023-01-01">
             <code>46015</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development</narrative>
@@ -1937,7 +2097,7 @@
             </name>
             <category>46000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2009-01-01">
+        <codelist-item status="active" activation-date="2023-01-01">
             <code>46017</code>
             <name>
                 <narrative>European Bank for Reconstruction and Development - technical co-operation and special funds (all EBRD countries of operations)</narrative>
@@ -2022,6 +2182,14 @@
             <name>
                 <narrative>Financial Fund for the Development of the River Plate Basin</narrative>
                 <narrative xml:lang="fr">Fonds financier pour le développement du bassin fluvial de la Plata</narrative>
+            </name>
+            <category>46000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2024-01-01">
+            <code>46028</code>
+            <name>
+                <narrative>New Development Bank</narrative>
+                <narrative xml:lang="fr">New Development Bank</narrative>
             </name>
             <category>46000</category>
         </codelist-item>
@@ -3161,6 +3329,14 @@
             </name>
             <category>47000</category>
         </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>47150</code>
+            <name>
+                <narrative>Secretaría General Iberoamericana</narrative>
+                <narrative xml:lang="fr">Secretaría General Iberoamericana</narrative>
+            </name>
+            <category>47000</category>
+        </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>47400</code>
             <name>
@@ -3185,7 +3361,7 @@
             </name>
             <category>47000</category>
         </codelist-item>
-        <codelist-item status="active" activation-date="2014-01-01">
+        <codelist-item status="active" activation-date="2023-01-01">
             <code>47503</code>
             <name>
                 <narrative>Global Agriculture and Food Security Program</narrative>
@@ -3198,6 +3374,54 @@
             <name>
                 <narrative>Forest Carbon Partnership Facility</narrative>
                 <narrative xml:lang="fr"/>
+            </name>
+            <category>47000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2024-01-01">
+            <code>47701</code>
+            <name>
+                <narrative>Global Biodiversity Framework Fund</narrative>
+                <narrative xml:lang="fr">Global Biodiversity Framework Fund</narrative>
+            </name>
+            <category>47000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2024-01-01">
+            <code>47702</code>
+            <name>
+                <narrative>Cali Fund For the Fair and Equitable Sharing of Benefits from the use of Digital Sequence Information on Genetic Resources (DSI)</narrative>
+                <narrative xml:lang="fr">Cali Fund For the Fair and Equitable Sharing of Benefits from the use of Digital Sequence Information on Genetic Resources (DSI)</narrative>
+            </name>
+            <category>47000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2024-01-01">
+            <code>47703</code>
+            <name>
+                <narrative>Kunming Biodiversity Fund</narrative>
+                <narrative xml:lang="fr">Kunming Biodiversity Fund</narrative>
+            </name>
+            <category>47000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2024-01-01">
+            <code>47704</code>
+            <name>
+                <narrative>SESRIC</narrative>
+                <narrative xml:lang="fr">SESRIC</narrative>
+            </name>
+            <category>47000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2024-01-01">
+            <code>47705</code>
+            <name>
+                <narrative>Interpol</narrative>
+                <narrative xml:lang="fr">Interpol</narrative>
+            </name>
+            <category>47000</category>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2024-01-01">
+            <code>47706</code>
+            <name>
+                <narrative>Eurasian Fund for Stabilization and Development</narrative>
+                <narrative xml:lang="fr">Eurasian Fund for Stabilization and Development</narrative>
             </name>
             <category>47000</category>
         </codelist-item>
@@ -3214,7 +3438,7 @@
                 <narrative>University, college or other teaching institution, research institute or think-tank</narrative>
                 <narrative xml:lang="fr">Université, collège ou autre établissement d'enseignement, institut de recherche ou de réflexion</narrative>
             </name>
-            <category>50000</category>
+            <category>51000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
             <code>51001</code>
@@ -3238,6 +3462,7 @@
                 <narrative>Private Sector Institutions</narrative>
                 <narrative xml:lang="fr">Institutions du secteur privé</narrative>
             </name>
+            <category>60000</category>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>61000</code>
@@ -3509,6 +3734,7 @@
                 <narrative>Other</narrative>
                 <narrative xml:lang="fr">Autre</narrative>
             </name>
+            <category>90000</category>
         </codelist-item>
     </codelist-items>
 </codelist>
