@@ -35,6 +35,15 @@
             </description>
         </codelist-item>
         <codelist-item>
+            <code>A4</code>
+            <name>
+                <narrative>FTS Flow ID</narrative>
+            </name>
+            <description>
+                <narrative>Identifier assigned by UN-OCHA once the flow has been curated and published in FTS (https://fts.unocha.org/)</narrative>
+            </description>
+        </codelist-item>
+        <codelist-item>
             <code>A9</code>
             <name>
                 <narrative>Other Activity Identifier</narrative>
