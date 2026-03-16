@@ -48,6 +48,17 @@
                 <narrative xml:lang="fr">Subventions visant à assouplir les conditions des crédits à l’exportation ou des prêts/crédits du secteur bancaire.</narrative>
             </description>
         </codelist-item>
+        <codelist-item status="active">
+            <code>2000</code>
+            <name>
+                <narrative>Direct provider spending</narrative>
+                <narrative xml:lang="fr">Direct provider spending</narrative>
+            </name>
+            <description>
+                <narrative>Direct provider spending</narrative>
+                <narrative xml:lang="fr">Direct provider spending</narrative>
+            </description>
+        </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>300</code>
             <name>
@@ -57,6 +68,17 @@
             <description>
                 <narrative>Payments to multilateral agencies in the form of notes and similar instruments, unconditionally cashable at sight by the recipient institutions.</narrative>
                 <narrative xml:lang="fr">Versements aux agences multilatérales sous forme de billets à ordre et effets similaires encaissables à vue sans condition par l'institution bénéficiaire.</narrative>
+            </description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3000</code>
+            <name>
+                <narrative>Subsidies and similar transfers</narrative>
+                <narrative xml:lang="fr">Subsidies and similar transfers</narrative>
+            </name>
+            <description>
+                <narrative>Subsidies and similar transfers</narrative>
+                <narrative xml:lang="fr">Subsidies and similar transfers</narrative>
             </description>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
@@ -87,8 +109,8 @@
         <codelist-item status="active">
             <code>500</code>
             <name>
-                <narrative>EQUITY  AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</narrative>
-                <narrative xml:lang="fr">ACTIONS ET  PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT</narrative>
+                <narrative>EQUITY AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</narrative>
+                <narrative xml:lang="fr">ACTIONS ET PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT</narrative>
             </name>
         </codelist-item>
         <codelist-item status="active">
