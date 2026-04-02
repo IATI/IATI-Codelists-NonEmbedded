@@ -18,6 +18,8 @@
                 <narrative>Bilateral</narrative>
                 <narrative xml:lang="fr">Bilatéral</narrative>
             </name>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>2</code>
@@ -25,6 +27,8 @@
                 <narrative>Multilateral (inflows)</narrative>
                 <narrative xml:lang="fr">Multilatéral (contributions des donneurs du CAD)</narrative>
             </name>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>3</code>
@@ -32,6 +36,8 @@
                 <narrative>Bilateral, core contributions to NGOs and other private bodies / PPPs</narrative>
                 <narrative xml:lang="fr">Contributions bilatérales au budget général d'organisations non gouvernementales, d'autres organisations de la société civile, de partenariats publics-privés et d'instituts de recherches</narrative>
             </name>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>4</code>
@@ -39,6 +45,8 @@
                 <narrative>Multilateral outflows</narrative>
                 <narrative xml:lang="fr">Apports des institutions multilatérales</narrative>
             </name>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>6</code>
@@ -46,6 +54,8 @@
                 <narrative>Private Sector Outflows</narrative>
                 <narrative xml:lang="fr">Apports du secteur privé</narrative>
             </name>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>7</code>
@@ -53,6 +63,8 @@
                 <narrative>Bilateral, ex-post reporting on NGOs’ activities funded through core contributions</narrative>
                 <narrative xml:lang="fr">Contributions bilatérales, notification ex post des activités des ONG financées par des contributions des donneurs au budget général de l'ONG</narrative>
             </name>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>8</code>
@@ -64,6 +76,8 @@
                 <narrative>Activities where one or more bilateral providers of development co-operation or international organisations support South-South co-operation, joining forces with developing countries to facilitate a sharing of knowledge and experience among all partners involved. (Activities that only involve bilateral providers or multilateral agencies without a South-South co-operation element (e.g. joint programming, pooled funding or delegated co-operation) should not be assigned bi_multi 8.)</narrative>
                 <narrative xml:lang="fr">Activités où un ou plusieurs pourvoyeurs bilatéraux de coopération pour le développement ou organisations internationales soutiennent la coopération Sud-Sud, conjointement avec des pays en développement afin de faciliter le partage des connaissances et d'expériences entre tous les partenaires impliqués. (Les activités qui n'impliquent que des pourvoyeurs bilatéraux ou des organismes multilatéraux sans coopération Sud-Sud (programmes conjoints, financements groupés ou coopération déléguée) ne devraient pas être codés bi_multi 8.)</narrative>
             </description>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
     </codelist-items>
 </codelist>

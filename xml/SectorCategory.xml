@@ -16,6 +16,8 @@
                 <narrative xml:lang="fr">I.1. Education</narrative>
             </name>
             <category>110</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>111</code>
@@ -28,6 +30,8 @@
                 <narrative xml:lang="fr">Les codes de cette catégorie doivent être utilisés seulement si le niveau d'éducation n'est pas spécifié ou connu (par exemple la formation d'enseignants d'écoles primaires devrait être codée sous 11220).</narrative>
             </description>
             <category>111</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>112</code>
@@ -36,6 +40,8 @@
                 <narrative xml:lang="fr">I.1.b. Education de base</narrative>
             </name>
             <category>112</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>113</code>
@@ -44,6 +50,8 @@
                 <narrative xml:lang="fr">I.1.c. Education secondaire</narrative>
             </name>
             <category>113</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>114</code>
@@ -52,6 +60,8 @@
                 <narrative xml:lang="fr">I.1.d. Education post secondaire</narrative>
             </name>
             <category>114</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>120</code>
@@ -60,6 +70,8 @@
                 <narrative xml:lang="fr">I.2. Santé</narrative>
             </name>
             <category>120</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>121</code>
@@ -68,6 +80,8 @@
                 <narrative xml:lang="fr">I.2.a. Santé, général</narrative>
             </name>
             <category>121</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>122</code>
@@ -76,6 +90,8 @@
                 <narrative xml:lang="fr">I.2.b. Santé de Base</narrative>
             </name>
             <category>122</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>123</code>
@@ -84,6 +100,8 @@
                 <narrative xml:lang="fr">I.2.c. Maladies non-transmissibles (MNT)</narrative>
             </name>
             <category>123</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>130</code>
@@ -92,6 +110,8 @@
                 <narrative xml:lang="fr">I.3. Politique en Matière de Population/Santé&amp;Fertilité</narrative>
             </name>
             <category>130</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>140</code>
@@ -100,6 +120,8 @@
                 <narrative xml:lang="fr">I.4. Distribution d'Eau et Assainissement</narrative>
             </name>
             <category>140</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>150</code>
@@ -108,6 +130,8 @@
                 <narrative xml:lang="fr">I.5. Gouvernement &amp; société civile</narrative>
             </name>
             <category>150</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>151</code>
@@ -120,6 +144,8 @@
                 <narrative xml:lang="fr">N.B. Utiliser le code 51010 pour le soutien budgétaire général.</narrative>
             </description>
             <category>151</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>152</code>
@@ -132,6 +158,8 @@
                 <narrative xml:lang="fr">N.B.  Des notes supplémentaires sur l'éligibilité au titre de l'APD (et les exclusions) des activités liées aux conflits, la paix et la sécurité sont données dans les paragraphes 76-81 des Directives.</narrative>
             </description>
             <category>152</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>160</code>
@@ -140,6 +168,8 @@
                 <narrative xml:lang="fr">I.6. Infrastructure et services sociaux divers</narrative>
             </name>
             <category>160</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>210</code>
@@ -152,6 +182,8 @@
                 <narrative xml:lang="fr">Nota bene : La fabrication de matériel de transport devrait être incluse dans le code 32172.</narrative>
             </description>
             <category>210</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>220</code>
@@ -160,6 +192,8 @@
                 <narrative xml:lang="fr">II.2. Communications</narrative>
             </name>
             <category>220</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>230</code>
@@ -172,6 +206,8 @@
                 <narrative xml:lang="fr">Dans les catégories 231 à 235 inclus figurent tant les centrales  électriques  que  les  centrales  de cogénération. Les installations produisant uniquement de la chaleur, quelle que soit la nature du combustible utilisé, sont à notifier dans la catégorie 236. Les activités liées à la production de bois de chauffage ou de charbon de bois, la fabrication d'énergie et l'extraction de ressources naturelles (y compris les oléoducs et gazoducs) sont à notifier respectivement sous les catégories 312, 321 et 322.</narrative>
             </description>
             <category>230</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>231</code>
@@ -180,6 +216,8 @@
                 <narrative xml:lang="fr">II.3.a. Politique de l'énergie</narrative>
             </name>
             <category>231</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>232</code>
@@ -188,6 +226,8 @@
                 <narrative xml:lang="fr">II.3.b. Production d'électricité, sources renouvelables</narrative>
             </name>
             <category>232</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>233</code>
@@ -196,6 +236,8 @@
                 <narrative xml:lang="fr">II.3.c. Production d'électricité, sources non renouvelables</narrative>
             </name>
             <category>233</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>234</code>
@@ -204,6 +246,8 @@
                 <narrative xml:lang="fr">II.3.d. Centrales hybrides</narrative>
             </name>
             <category>234</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>235</code>
@@ -212,6 +256,8 @@
                 <narrative xml:lang="fr">II.3.e. Centrales nucléaires</narrative>
             </name>
             <category>235</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>236</code>
@@ -220,6 +266,8 @@
                 <narrative xml:lang="fr">II.3.f. Distribution de l'énergie</narrative>
             </name>
             <category>236</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>240</code>
@@ -228,6 +276,8 @@
                 <narrative xml:lang="fr">II.4. Banques et services financiers</narrative>
             </name>
             <category>240</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>250</code>
@@ -236,6 +286,8 @@
                 <narrative xml:lang="fr">II.5. Entreprises et Autres Services</narrative>
             </name>
             <category>250</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>310</code>
@@ -244,6 +296,8 @@
                 <narrative xml:lang="fr">III.1. Agriculture, sylviculture, pêche</narrative>
             </name>
             <category>310</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>311</code>
@@ -252,6 +306,8 @@
                 <narrative xml:lang="fr">III.1.a. Agriculture</narrative>
             </name>
             <category>311</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>312</code>
@@ -260,6 +316,8 @@
                 <narrative xml:lang="fr">III.1.b. Sylviculture</narrative>
             </name>
             <category>312</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>313</code>
@@ -268,6 +326,8 @@
                 <narrative xml:lang="fr">III.1.c. Pêche</narrative>
             </name>
             <category>313</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>320</code>
@@ -276,6 +336,8 @@
                 <narrative xml:lang="fr">III.2. Industries manufacturières, extractives, construction</narrative>
             </name>
             <category>320</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>321</code>
@@ -284,6 +346,8 @@
                 <narrative xml:lang="fr">III.2.a. Industries manufacturières</narrative>
             </name>
             <category>321</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>322</code>
@@ -292,6 +356,8 @@
                 <narrative xml:lang="fr">III.2.b. Industries extractives</narrative>
             </name>
             <category>322</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>323</code>
@@ -300,6 +366,8 @@
                 <narrative xml:lang="fr">III.2.c. Construction</narrative>
             </name>
             <category>323</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>330</code>
@@ -308,6 +376,8 @@
                 <narrative xml:lang="fr">III.3.a. Politique Commerciale et Réglementations</narrative>
             </name>
             <category>330</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>331</code>
@@ -316,6 +386,8 @@
                 <narrative xml:lang="fr">III.3.a. Politique Commerciale et Réglementations</narrative>
             </name>
             <category>331</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>332</code>
@@ -324,6 +396,8 @@
                 <narrative xml:lang="fr">III.3.b. Tourisme</narrative>
             </name>
             <category>332</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>410</code>
@@ -336,6 +410,8 @@
                 <narrative xml:lang="fr">Secteur non spécifié.</narrative>
             </description>
             <category>410</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>430</code>
@@ -344,6 +420,8 @@
                 <narrative xml:lang="fr">IV.2. Autres Multisecteurs</narrative>
             </name>
             <category>430</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>510</code>
@@ -356,6 +434,8 @@
                 <narrative xml:lang="fr">Les soutiens budgétaires sous la forme d'approches sectorielles devraient être inclus dans les secteurs respectifs.</narrative>
             </description>
             <category>510</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>520</code>
@@ -364,6 +444,8 @@
                 <narrative xml:lang="fr">VI.2. Aide Alimentaire Dévelopmentale</narrative>
             </name>
             <category>520</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>530</code>
@@ -376,6 +458,8 @@
                 <narrative xml:lang="fr">Aide sous forme de produits non alimentaires (quand le secteur bénéficiaire ne peut être précisé).</narrative>
             </description>
             <category>530</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>600</code>
@@ -384,6 +468,8 @@
                 <narrative xml:lang="fr">VII. Actions se Rapportant a la Dette</narrative>
             </name>
             <category>600</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>720</code>
@@ -396,6 +482,8 @@
                 <narrative xml:lang="fr">Une situation d'urgence a pour origine une crise provoquée par des actions humaines ou par une catastrophe naturelle.</narrative>
             </description>
             <category>720</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>730</code>
@@ -408,6 +496,8 @@
                 <narrative xml:lang="fr">Activités menées pendant et après une situation d'urgence. Les activités à plus long terme destinées à améliorer le niveau d'infrastructure ou de services sociaux doivent être rapportées sous les codes correspondants des secteurs économiques et sociaux pertinents. Voir également les orientations sur la distinction entre l'aide humanitaire et l'aide ventilable par secteur.</narrative>
             </description>
             <category>730</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>740</code>
@@ -420,6 +510,8 @@
                 <narrative xml:lang="fr">Voir code 43060 pour la réduction des risques de catastrophes.</narrative>
             </description>
             <category>740</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>910</code>
@@ -428,6 +520,8 @@
                 <narrative xml:lang="fr">IX. Frais Administratifs des Donneurs</narrative>
             </name>
             <category>910</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>920</code>
@@ -445,6 +539,8 @@
                 <narrative xml:lang="fr">XI. Refugiés dans les Pays Donneurs</narrative>
             </name>
             <category>930</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>998</code>
@@ -457,6 +553,8 @@
                 <narrative xml:lang="fr"/>
             </description>
             <category>998</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
     </codelist-items>
 </codelist>

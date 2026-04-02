@@ -16,6 +16,8 @@
                 <narrative xml:lang="fr">Institutions du secteur public</narrative>
             </name>
             <category>10000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>11000</code>
@@ -24,6 +26,8 @@
                 <narrative xml:lang="fr">Gouvernement du donneur</narrative>
             </name>
             <category>10000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>11001</code>
@@ -32,6 +36,8 @@
                 <narrative xml:lang="fr">Gouvernment central (gouv. du donneur)</narrative>
             </name>
             <category>11000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>11002</code>
@@ -40,6 +46,8 @@
                 <narrative xml:lang="fr">Gouvernment local (gouv. du donneur)</narrative>
             </name>
             <category>11000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>11003</code>
@@ -48,6 +56,8 @@
                 <narrative xml:lang="fr">Entreprise publique (gouv. du donneur)</narrative>
             </name>
             <category>11000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>11004</code>
@@ -56,6 +66,8 @@
                 <narrative xml:lang="fr">Autres entité publique dans le pays donneur</narrative>
             </name>
             <category>11000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>12000</code>
@@ -64,6 +76,8 @@
                 <narrative xml:lang="fr">Gouvernement du bénéficiaire</narrative>
             </name>
             <category>10000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>12001</code>
@@ -72,6 +86,8 @@
                 <narrative xml:lang="fr">Gouvernment central (gouv. du bénéficiaire)</narrative>
             </name>
             <category>12000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>12002</code>
@@ -80,6 +96,8 @@
                 <narrative xml:lang="fr">Gouvernment local (gouv. du bénéficiaire)</narrative>
             </name>
             <category>12000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>12003</code>
@@ -88,6 +106,8 @@
                 <narrative xml:lang="fr">Entreprise publique (gouv. du bénéficiaire)</narrative>
             </name>
             <category>12000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>12004</code>
@@ -96,6 +116,8 @@
                 <narrative xml:lang="fr">Autres entité publique dans le pays bénéficiaire</narrative>
             </name>
             <category>12000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>13000</code>
@@ -104,6 +126,8 @@
                 <narrative xml:lang="fr">Gouvernement tiers (coopération déléguée)</narrative>
             </name>
             <category>10000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>20000</code>
@@ -112,6 +136,8 @@
                 <narrative xml:lang="fr">Organisations non gouvernementales (ONG) et société civile</narrative>
             </name>
             <category>20000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>21000</code>
@@ -120,6 +146,8 @@
                 <narrative xml:lang="fr">ONG internationales</narrative>
             </name>
             <category>20000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>21001</code>
@@ -128,6 +156,8 @@
                 <narrative xml:lang="fr">Association de géoscientifiques pour le développement international</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21002</code>
@@ -136,6 +166,8 @@
                 <narrative xml:lang="fr">Agence de coopération et d'information pour le commerce international</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21003</code>
@@ -144,6 +176,8 @@
                 <narrative xml:lang="fr">Conseil latino-américain des sciences sociales</narrative>
             </name>
             <category>23000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21004</code>
@@ -152,6 +186,8 @@
                 <narrative xml:lang="fr">Conseil pour le développement de la recherche en sciences sociales en Afrique</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
             <code>21005</code>
@@ -160,6 +196,8 @@
                 <narrative xml:lang="fr">Consumer Unity and Trust Society International</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21006</code>
@@ -168,6 +206,8 @@
                 <narrative xml:lang="fr">Development Gateway Foundation</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
             <code>21007</code>
@@ -176,6 +216,8 @@
                 <narrative xml:lang="fr">Centre international de liaison pour l’environnement</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21008</code>
@@ -184,6 +226,8 @@
                 <narrative xml:lang="fr">Eurostep</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21009</code>
@@ -192,6 +236,8 @@
                 <narrative xml:lang="fr">Forum pour la recherche agricole en Afrique</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21010</code>
@@ -200,6 +246,8 @@
                 <narrative xml:lang="fr">Forum des éducatrices africaines</narrative>
             </name>
             <category>23000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
             <code>21011</code>
@@ -208,6 +256,8 @@
                 <narrative xml:lang="fr">Campagne mondiale pour l’éducation</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1999-01-01">
             <code>21013</code>
@@ -216,6 +266,8 @@
                 <narrative xml:lang="fr">Health Action International</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21014</code>
@@ -224,6 +276,8 @@
                 <narrative xml:lang="fr">Systèmes d’Information et de Documentation sur les Droits de l’Homme</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21015</code>
@@ -232,6 +286,8 @@
                 <narrative xml:lang="fr">Association internationale rurale catholique</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>21016</code>
@@ -240,6 +296,8 @@
                 <narrative xml:lang="fr">Comité international de la Croix-Rouge</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2010-01-01" withdrawal-date="2018-12-31">
             <code>21017</code>
@@ -248,6 +306,8 @@
                 <narrative xml:lang="fr">Centre international de commerce et de développement durable</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2000-01-01">
             <code>21018</code>
@@ -256,6 +316,8 @@
                 <narrative xml:lang="fr">Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21019</code>
@@ -264,6 +326,8 @@
                 <narrative xml:lang="fr">Fédération internationale des centres sociaux et communautaires</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
             <code>21020</code>
@@ -272,6 +336,8 @@
                 <narrative xml:lang="fr">International HIV/AIDS Alliance</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21021</code>
@@ -280,6 +346,8 @@
                 <narrative xml:lang="fr">Institut international pour l’environnement et le développement</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
             <code>21022</code>
@@ -288,6 +356,8 @@
                 <narrative xml:lang="fr">Réseau international d’institutions financières</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>21023</code>
@@ -296,6 +366,8 @@
                 <narrative xml:lang="fr">Fédération internationale pour le planning familial</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
             <code>21024</code>
@@ -304,6 +376,8 @@
                 <narrative xml:lang="fr">Inter Press Service, International Association</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21025</code>
@@ -312,6 +386,8 @@
                 <narrative xml:lang="fr">Centre séismologique international</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21026</code>
@@ -320,6 +396,8 @@
                 <narrative xml:lang="fr">Service International pour les Droits de l’Homme</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21027</code>
@@ -328,6 +406,8 @@
                 <narrative xml:lang="fr">ITF Améliorer la sécurité humaine</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21028</code>
@@ -336,6 +416,8 @@
                 <narrative xml:lang="fr">Fonds international d’échanges universitaires - Échanges intéressant l’Afrique et l’Amérique latine</narrative>
             </name>
             <category>23000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2001-01-01">
             <code>21029</code>
@@ -344,6 +426,8 @@
                 <narrative xml:lang="fr">Médecins Sans Frontières</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21030</code>
@@ -352,6 +436,8 @@
                 <narrative xml:lang="fr">Institut panafricain pour le développement</narrative>
             </name>
             <category>23000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
             <code>21031</code>
@@ -360,6 +446,8 @@
                 <narrative xml:lang="fr">Institut PANOS</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
             <code>21032</code>
@@ -368,6 +456,8 @@
                 <narrative xml:lang="fr">Organisation internationale pour les services en matière de population</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21033</code>
@@ -376,6 +466,8 @@
                 <narrative xml:lang="fr">Transparency International</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>21034</code>
@@ -384,6 +476,8 @@
                 <narrative xml:lang="fr">Union Internationale Contre la Tuberculose et les Maladies Respiratoires</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21035</code>
@@ -392,6 +486,8 @@
                 <narrative xml:lang="fr">Organisation mondiale contre la torture</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>21036</code>
@@ -400,6 +496,8 @@
                 <narrative xml:lang="fr">Entraide universitaire mondiale</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21037</code>
@@ -408,6 +506,8 @@
                 <narrative xml:lang="fr">Banque mondiale des femmes</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2006-01-01">
             <code>21038</code>
@@ -416,6 +516,8 @@
                 <narrative xml:lang="fr">International Alert</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21039</code>
@@ -424,6 +526,8 @@
                 <narrative xml:lang="fr">Institut international de développement durable</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21040</code>
@@ -432,6 +536,8 @@
                 <narrative xml:lang="fr">Centre de la tribune internationale de la femme</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2005-01-01">
             <code>21041</code>
@@ -440,6 +546,8 @@
                 <narrative xml:lang="fr">Société pour le développement international</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2005-01-01">
             <code>21042</code>
@@ -448,6 +556,8 @@
                 <narrative xml:lang="fr">Alliance internationale pour la consolidation de la paix</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21043</code>
@@ -456,6 +566,8 @@
                 <narrative xml:lang="fr">Association des parlementaires d’Europe pour l’Afrique</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>21044</code>
@@ -464,6 +576,8 @@
                 <narrative xml:lang="fr">Conseil international pour la lutte contre les troubles dus à une carence en iode</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>21045</code>
@@ -472,6 +586,8 @@
                 <narrative xml:lang="fr">Fondation africaine pour la médecine et la recherche</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>21046</code>
@@ -480,6 +596,8 @@
                 <narrative xml:lang="fr">Association de Coopération et de Recherche pour le Développement</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21047</code>
@@ -488,6 +606,8 @@
                 <narrative xml:lang="fr">AgriCord</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21048</code>
@@ -496,6 +616,8 @@
                 <narrative xml:lang="fr">Association des universités africaines</narrative>
             </name>
             <category>23000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21049</code>
@@ -504,6 +626,8 @@
                 <narrative xml:lang="fr">Centre européen de gestion de politiques de développement</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21050</code>
@@ -512,6 +636,8 @@
                 <narrative xml:lang="fr">Appel de Genève</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21051</code>
@@ -520,6 +646,8 @@
                 <narrative xml:lang="fr">Institut supérieur panafricaine d’economie coopérative</narrative>
             </name>
             <category>23000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>21053</code>
@@ -528,6 +656,8 @@
                 <narrative xml:lang="fr">IPAS-Protecting Women's Health, Advancing Women's Reproductive Rights</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>21054</code>
@@ -536,6 +666,8 @@
                 <narrative xml:lang="fr">Institut Vie et Paix</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21055</code>
@@ -544,6 +676,8 @@
                 <narrative xml:lang="fr">Réseau régional de formation sur le SIDA</narrative>
             </name>
             <category>23000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21056</code>
@@ -552,6 +686,8 @@
                 <narrative xml:lang="fr">Partenariat pour les énergies renouvelables et l'efficience énergétique</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>21057</code>
@@ -560,6 +696,8 @@
                 <narrative xml:lang="fr">Centre International pour la Justice Transitionnelle</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21058</code>
@@ -568,6 +706,8 @@
                 <narrative xml:lang="fr">International Crisis Group</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21059</code>
@@ -576,6 +716,8 @@
                 <narrative xml:lang="fr">Fonds solidaire pour l'Afrique</narrative>
             </name>
             <category>23000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21060</code>
@@ -584,6 +726,8 @@
                 <narrative xml:lang="fr">Association pour la prévention de la torture</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>21061</code>
@@ -592,6 +736,8 @@
                 <narrative xml:lang="fr">Conseil international de réhabilitation pour les victimes de torture</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>21062</code>
@@ -600,6 +746,8 @@
                 <narrative xml:lang="fr">The Nature Conservancy</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>21063</code>
@@ -608,6 +756,8 @@
                 <narrative xml:lang="fr">Conservation International</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
             <code>21064</code>
@@ -616,6 +766,8 @@
                 <narrative xml:lang="fr">Initiative Clinton pour l'accès à la santé</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>21501</code>
@@ -624,6 +776,8 @@
                 <narrative xml:lang="fr">OXFAM International</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>21502</code>
@@ -632,6 +786,8 @@
                 <narrative xml:lang="fr">World Vision</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>21503</code>
@@ -640,6 +796,8 @@
                 <narrative xml:lang="fr">Family Health International 360</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>21504</code>
@@ -648,6 +806,8 @@
                 <narrative xml:lang="fr">International Relief and Development</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>21505</code>
@@ -656,6 +816,8 @@
                 <narrative xml:lang="fr">Save the Children</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>21506</code>
@@ -664,6 +826,8 @@
                 <narrative xml:lang="fr">International Rescue Committee</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>21507</code>
@@ -672,6 +836,8 @@
                 <narrative xml:lang="fr">Pact World</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2022-01-01">
             <code>21508</code>
@@ -680,6 +846,8 @@
                 <narrative xml:lang="fr">Sustainable Energy for All</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2023-01-01">
             <code>21509</code>
@@ -688,6 +856,8 @@
                 <narrative xml:lang="fr">AmplifyChange</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>22000</code>
@@ -696,6 +866,8 @@
                 <narrative xml:lang="fr">ONG basée dans un pays donneur</narrative>
             </name>
             <category>20000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>22501</code>
@@ -704,6 +876,8 @@
                 <narrative xml:lang="fr">OXFAM - provider country office</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>22502</code>
@@ -712,6 +886,8 @@
                 <narrative xml:lang="fr">Save the Children - donor country office</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>23000</code>
@@ -720,6 +896,8 @@
                 <narrative xml:lang="fr">ONG basée dans un pays en développement</narrative>
             </name>
             <category>20000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>23501</code>
@@ -728,6 +906,8 @@
                 <narrative xml:lang="fr">Sociétés nationales de la Croix-Rouge et du Croissant-Rouge</narrative>
             </name>
             <category>23000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>30000</code>
@@ -736,6 +916,8 @@
                 <narrative xml:lang="fr">Partenariats public-privé (PPP) et réseaux</narrative>
             </name>
             <category>30000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30001</code>
@@ -744,6 +926,8 @@
                 <narrative xml:lang="fr">Alliance mondiale pour une meilleure nutrition</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30003</code>
@@ -752,6 +936,8 @@
                 <narrative xml:lang="fr">Initiative mondiale en faveur de l’informatique dans les écoles et dans les communautés</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30004</code>
@@ -760,6 +946,8 @@
                 <narrative xml:lang="fr">Partenariat mondial pour l'eau</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30005</code>
@@ -768,6 +956,8 @@
                 <narrative xml:lang="fr">Initiative internationale pour un vaccin contre le SIDA</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30006</code>
@@ -776,6 +966,8 @@
                 <narrative xml:lang="fr">Partenariat international pour des microbicides</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30007</code>
@@ -784,6 +976,8 @@
                 <narrative xml:lang="fr">Alliance mondiale pour les TIC et le développement</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30008</code>
@@ -792,6 +986,8 @@
                 <narrative xml:lang="fr">Alliance pour les villes</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30009</code>
@@ -800,6 +996,8 @@
                 <narrative xml:lang="fr">Small Arms Survey</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>30010</code>
@@ -808,6 +1006,8 @@
                 <narrative xml:lang="fr">Facilité internationale d'achat de médicaments</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30011</code>
@@ -816,6 +1016,8 @@
                 <narrative xml:lang="fr">Union internationale pour la conservation de la nature</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30012</code>
@@ -824,6 +1026,8 @@
                 <narrative xml:lang="fr">Global Climate Partnership Fund</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30013</code>
@@ -832,6 +1036,8 @@
                 <narrative xml:lang="fr">Mécanisme de soutien au microfinancement</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30014</code>
@@ -840,6 +1046,8 @@
                 <narrative xml:lang="fr">Fonds régional d’investissement pour les très petites, petites et moyennes entreprises d’Afrique subsaharienne</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>30015</code>
@@ -848,6 +1056,8 @@
                 <narrative xml:lang="fr">Fonds mondial pour la promotion de l'efficacité énergétique et des énergies renouvelables</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>30016</code>
@@ -856,6 +1066,8 @@
                 <narrative xml:lang="fr">European Fund for Southeast Europe</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>30017</code>
@@ -864,6 +1076,8 @@
                 <narrative xml:lang="fr">SANAD Fund for Micro, Small and Medium Enterprises</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>30018</code>
@@ -872,6 +1086,8 @@
                 <narrative xml:lang="fr">Corporation Financière Africaine</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>30019</code>
@@ -880,6 +1096,8 @@
                 <narrative xml:lang="fr">Currency Exchange Fund N.V.</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>30020</code>
@@ -888,6 +1106,8 @@
                 <narrative xml:lang="fr">Global Energy Efficiency and Renewable Energy Fund II</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>31000</code>
@@ -896,6 +1116,8 @@
                 <narrative xml:lang="fr">Partenariats public-privé (PPP)</narrative>
             </name>
             <category>30000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>31001</code>
@@ -904,6 +1126,8 @@
                 <narrative xml:lang="fr">Réseau de développement mondial</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>31002</code>
@@ -912,6 +1136,8 @@
                 <narrative xml:lang="fr">Alliance mondiale pour le savoir</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>31003</code>
@@ -920,6 +1146,8 @@
                 <narrative xml:lang="fr">Coalition internationale pour l'accès à la terre</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>31004</code>
@@ -928,6 +1156,8 @@
                 <narrative xml:lang="fr">Secrétariat de l'Initiative pour la transparence dans les industries extractives</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>31005</code>
@@ -936,6 +1166,8 @@
                 <narrative xml:lang="fr">Réseau parlementaire sur la Banque mondaile</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2022-01-01">
             <code>31006</code>
@@ -944,6 +1176,8 @@
                 <narrative xml:lang="fr">Coalition pour les innovations en matière de préparation aux épidémies</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>31007</code>
@@ -952,6 +1186,8 @@
                 <narrative xml:lang="fr">Initiative médicaments contres les maladies négligées</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2023-01-01">
             <code>31008</code>
@@ -960,6 +1196,8 @@
                 <narrative xml:lang="fr">Fondation pour les nouveaux diagnostics innovants</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>32000</code>
@@ -968,6 +1206,8 @@
                 <narrative xml:lang="fr">Réseaux</narrative>
             </name>
             <category>30000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>40000</code>
@@ -976,6 +1216,8 @@
                 <narrative xml:lang="fr">Organisations multilatérales</narrative>
             </name>
             <category>40000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>41000</code>
@@ -984,6 +1226,8 @@
                 <narrative xml:lang="fr">Agence, fonds ou commission des Nations Unies (ONU)</narrative>
             </name>
             <category>40000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41100</code>
@@ -992,6 +1236,8 @@
                 <narrative xml:lang="fr">Entités des Nations Unies (contributions aux budgets reguliers à déclarer dans leur intégralité)</narrative>
             </name>
             <category>41000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41101</code>
@@ -1000,6 +1246,8 @@
                 <narrative xml:lang="fr">Convention sur la lutte contre la désertification</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41102</code>
@@ -1008,6 +1256,8 @@
                 <narrative xml:lang="fr">Organisation de lutte contre le criquet pèlerin dans l'Est Africain</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41103</code>
@@ -1016,6 +1266,8 @@
                 <narrative xml:lang="fr">Commission économique pour l'Afrique</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41104</code>
@@ -1024,6 +1276,8 @@
                 <narrative xml:lang="fr">Commission économique pour l'Amérique latine et les Caraïbes</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41105</code>
@@ -1032,6 +1286,8 @@
                 <narrative xml:lang="fr">Commission économique et sociale pour l'Asie occidentale</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41106</code>
@@ -1040,6 +1296,8 @@
                 <narrative xml:lang="fr">Commission économique et sociale pour l'Asie et le Pacifique</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41107</code>
@@ -1048,6 +1306,8 @@
                 <narrative xml:lang="fr">Agence internationale de l'énergie atomique (Contributions au Fonds de Coopération Technique uniquement)</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41108</code>
@@ -1056,6 +1316,8 @@
                 <narrative xml:lang="fr">Fonds international de développement agricole</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>41109</code>
@@ -1064,6 +1326,8 @@
                 <narrative xml:lang="fr">International Research and Training Institute for the Advancement of Women</narrative>
             </name>
             <category>41000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41110</code>
@@ -1072,6 +1336,8 @@
                 <narrative xml:lang="fr">Programme commun des Nations Unies sur le VIH/SIDA</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41111</code>
@@ -1080,6 +1346,8 @@
                 <narrative xml:lang="fr">Fonds d’équipement des Nations Unies</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41112</code>
@@ -1088,6 +1356,8 @@
                 <narrative xml:lang="fr">Conférence des Nations Unies sur le commerce et le développement</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41114</code>
@@ -1096,6 +1366,8 @@
                 <narrative xml:lang="fr">Programme des Nations Unies pour le développement</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41116</code>
@@ -1104,6 +1376,8 @@
                 <narrative xml:lang="fr">Programme des Nations Unies pour l'environnement</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41119</code>
@@ -1112,6 +1386,8 @@
                 <narrative xml:lang="fr">Fonds des Nations Unies pour la population</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41120</code>
@@ -1120,6 +1396,8 @@
                 <narrative xml:lang="fr">Programme des Nations Unies pour les établissements humains</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41121</code>
@@ -1128,6 +1406,8 @@
                 <narrative xml:lang="fr">Haut Commissariat des Nations Unies pour les réfugiés</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41122</code>
@@ -1136,6 +1416,8 @@
                 <narrative xml:lang="fr">Fonds des Nations Unies pour l'enfance</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41123</code>
@@ -1144,6 +1426,8 @@
                 <narrative xml:lang="fr">Organisation des Nations Unies pour le développement industriel</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>41124</code>
@@ -1152,6 +1436,8 @@
                 <narrative xml:lang="fr">United Nations Development Fund for Women</narrative>
             </name>
             <category>41000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41125</code>
@@ -1160,6 +1446,8 @@
                 <narrative xml:lang="fr">Institut des Nations Unies pour la formation et la recherche</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41126</code>
@@ -1168,6 +1456,8 @@
                 <narrative xml:lang="fr">Service de l'action antimines des Nations Unies</narrative>
             </name>
             <category>41600</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41127</code>
@@ -1176,6 +1466,8 @@
                 <narrative xml:lang="fr">Bureau des Nations Unies pour la coordination de l'assistance humanitaire</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41128</code>
@@ -1184,6 +1476,8 @@
                 <narrative xml:lang="fr">Office des Nations Unies contre la drogue et le crime</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41129</code>
@@ -1192,6 +1486,8 @@
                 <narrative xml:lang="fr">Institut de recherche des Nations Unies pour le développement social</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41130</code>
@@ -1200,6 +1496,8 @@
                 <narrative xml:lang="fr">Office de secours et de travaux des Nations Unies pour les réfugiés de Palestine dans le Proche-Orient</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41131</code>
@@ -1208,6 +1506,8 @@
                 <narrative xml:lang="fr">Ecole des cadres du système des Nations Unies</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41132</code>
@@ -1216,6 +1516,8 @@
                 <narrative xml:lang="fr">Comité permanent de la nutrition du système des Nations Unies</narrative>
             </name>
             <category>41600</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41133</code>
@@ -1224,6 +1526,8 @@
                 <narrative xml:lang="fr">Initiative spéciale des Nations Unies pour l'Afrique</narrative>
             </name>
             <category>41600</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41134</code>
@@ -1232,6 +1536,8 @@
                 <narrative xml:lang="fr">Université des Nations Unies (y compris le Fonds de dotation)</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41135</code>
@@ -1240,6 +1546,8 @@
                 <narrative xml:lang="fr">Programme des volontaires des Nations Unies</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41136</code>
@@ -1248,6 +1556,8 @@
                 <narrative xml:lang="fr">Fonds de contributions voluntaires des Nations Unies pour les handicapés</narrative>
             </name>
             <category>41600</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41137</code>
@@ -1256,6 +1566,8 @@
                 <narrative xml:lang="fr">Fonds de contributions volontaires des Nations Unies pour la coopération technique dans le domaine des droits de l'homme</narrative>
             </name>
             <category>41600</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41138</code>
@@ -1264,6 +1576,8 @@
                 <narrative xml:lang="fr">Fonds de contributions volontaires des Nations Unies pour les victimes de la torture</narrative>
             </name>
             <category>41600</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41140</code>
@@ -1272,6 +1586,8 @@
                 <narrative xml:lang="fr">Programme alimentaire mondial</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41141</code>
@@ -1280,6 +1596,8 @@
                 <narrative xml:lang="fr">Fonds des Nations Unies pour la consolidation de la paix</narrative>
             </name>
             <category>41400</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41142</code>
@@ -1288,6 +1606,8 @@
                 <narrative xml:lang="fr">Fonds des Nations Unies pour la démocratie</narrative>
             </name>
             <category>41600</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41143</code>
@@ -1296,6 +1616,8 @@
                 <narrative xml:lang="fr">Organisation mondiale de la santé - compte de contributions volontaires sans objet désigné</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41144</code>
@@ -1304,6 +1626,8 @@
                 <narrative xml:lang="fr">Organisation internationale du Travail - Compte supplémentaire du budget ordinaire</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41145</code>
@@ -1312,6 +1636,8 @@
                 <narrative xml:lang="fr">Organisation maritime internationale - Programme intégré de coopération technique</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41146</code>
@@ -1320,6 +1646,8 @@
                 <narrative xml:lang="fr">Entité des Nations Unies pour l'égalité des sexes et l'autonomisation de la femme</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41147</code>
@@ -1328,6 +1656,8 @@
                 <narrative xml:lang="fr">Fonds central pour les interventions d'urgence</narrative>
             </name>
             <category>41400</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41148</code>
@@ -1336,6 +1666,8 @@
                 <narrative xml:lang="fr">Département des affaires politiques et de consolidation de la paix des Nations Unies, Fonds d'affectation spéciale à l'appui des affaires politiques</narrative>
             </name>
             <category>41500</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41149</code>
@@ -1344,6 +1676,8 @@
                 <narrative xml:lang="fr">Bureau de la coordination des activités de développement des Nations Unies</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2023-01-01">
             <code>41150</code>
@@ -1352,6 +1686,8 @@
                 <narrative xml:lang="fr">Institut des Nations unies pour la recherche sur le désarmement</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41151</code>
@@ -1360,6 +1696,8 @@
                 <narrative xml:lang="fr">Centre international de recherche sur le cancer</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41200</code>
@@ -1368,6 +1706,8 @@
                 <narrative xml:lang="fr">Entités des Nations Unies (contributions de base à déclarer dans TOSSD uniquement)</narrative>
             </name>
             <category>41000</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41201</code>
@@ -1376,6 +1716,8 @@
                 <narrative xml:lang="fr">Organisation du traité d'interdiction complète des essais nucléaires</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41202</code>
@@ -1384,6 +1726,8 @@
                 <narrative xml:lang="fr">Organisation de l'aviation civile internationale</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41203</code>
@@ -1392,6 +1736,8 @@
                 <narrative xml:lang="fr">Cour Pénale Internationale</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41204</code>
@@ -1400,6 +1746,8 @@
                 <narrative xml:lang="fr">Mécanisme international appelé à exercer les fonctions résiduelles des Tribunaux pénaux</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41205</code>
@@ -1408,6 +1756,8 @@
                 <narrative xml:lang="fr">Autorité internationale des fonds marins</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41206</code>
@@ -1416,6 +1766,8 @@
                 <narrative xml:lang="fr">Tribunal international du droit de la mer</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41207</code>
@@ -1424,6 +1776,8 @@
                 <narrative xml:lang="fr">Organisation pour l'interdiction des Armes Chimiques</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41208</code>
@@ -1432,6 +1786,8 @@
                 <narrative xml:lang="fr">Département des affaires économiques et sociales</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41209</code>
@@ -1440,6 +1796,8 @@
                 <narrative xml:lang="fr">Département de l'Assemblée générale et de la gestion des conférences</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41210</code>
@@ -1448,6 +1806,8 @@
                 <narrative xml:lang="fr">Département de la communication globale</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41211</code>
@@ -1456,6 +1816,8 @@
                 <narrative xml:lang="fr">Département des stratégies et politiques de gestion et de la conformité, y compris ? including ONUN, ONUG et ONUV</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41212</code>
@@ -1464,6 +1826,8 @@
                 <narrative xml:lang="fr">Département de l’appui opérationnel</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41213</code>
@@ -1472,6 +1836,8 @@
                 <narrative xml:lang="fr">Département de la sûreté et de la sécurité</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41214</code>
@@ -1480,6 +1846,8 @@
                 <narrative xml:lang="fr">Bureau de lutte contre le terrorisme</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41215</code>
@@ -1488,6 +1856,8 @@
                 <narrative xml:lang="fr">Institut interrégional de recherche des Nations unies sur la criminalité et la justice</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41216</code>
@@ -1496,6 +1866,8 @@
                 <narrative xml:lang="fr">International Maritime Organization</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41217</code>
@@ -1504,6 +1876,8 @@
                 <narrative xml:lang="fr">Organisation mondiale du commerce</narrative>
             </name>
             <category>41200</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41300</code>
@@ -1512,6 +1886,8 @@
                 <narrative xml:lang="fr">Autres Nations Unies (contributions comptabilisables pour partie)</narrative>
             </name>
             <category>41000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41301</code>
@@ -1520,6 +1896,8 @@
                 <narrative xml:lang="fr">Organisation des Nations Unies pour l'alimentation et l'agriculture</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41302</code>
@@ -1528,6 +1906,8 @@
                 <narrative xml:lang="fr">Organisation internationale du travail - contributions obligatoires</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41303</code>
@@ -1536,6 +1916,8 @@
                 <narrative xml:lang="fr">Union internationale des télécommunications</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41304</code>
@@ -1544,6 +1926,8 @@
                 <narrative xml:lang="fr">Organisation des Nations Unies pour l’éducation, la science et la culture</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41305</code>
@@ -1552,6 +1936,8 @@
                 <narrative xml:lang="fr">Organisation des Nations Unies</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41306</code>
@@ -1560,6 +1946,8 @@
                 <narrative xml:lang="fr">Union postale universelle</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41307</code>
@@ -1568,6 +1956,8 @@
                 <narrative xml:lang="fr">Organisation mondiale de la santé - contributions obligatoires</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41308</code>
@@ -1576,6 +1966,8 @@
                 <narrative xml:lang="fr">Organisation mondiale de la propriété intellectuelle</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41309</code>
@@ -1584,6 +1976,8 @@
                 <narrative xml:lang="fr">Organisation météorologique mondiale</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41310</code>
@@ -1592,6 +1986,8 @@
                 <narrative xml:lang="fr">Département des opérations de paix des Nations unies. Opérations de maintien de la paix [seulement MINURSO,MINUSCA,MINUSMA, MINUSTAH,MONUSCO,MINUAD, FINUL,FISNUA,MINUK, MINUL,UNMISS,ONUCI]. Notifier les contributions mission par mission au format SNPC++</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2010-01-01" withdrawal-date="2019-12-31">
             <code>41311</code>
@@ -1600,6 +1996,8 @@
                 <narrative xml:lang="fr">Fonds des Nations Unies pour la consolidation de la paix (Guichet un:  contributions sans conditions)</narrative>
             </name>
             <category>41000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41312</code>
@@ -1608,6 +2006,8 @@
                 <narrative xml:lang="fr">Agence internationale de l'énergie atomique - contributions obligatoires</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41313</code>
@@ -1616,6 +2016,8 @@
                 <narrative xml:lang="fr">Haut-Commissariat des Nations unies aux droits de l'homme (contributions extrabudgétaires uniquement)</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41314</code>
@@ -1624,6 +2026,8 @@
                 <narrative xml:lang="fr">Commission économique des Nations unies pour l'Europe (contributions extrabudgétaires uniquement)</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41315</code>
@@ -1632,6 +2036,8 @@
                 <narrative xml:lang="fr">Bureau des Nations Unies pour la prévention de catastrophes</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41316</code>
@@ -1640,6 +2046,8 @@
                 <narrative xml:lang="fr">Convention-cadre des Nations unies sur les changements climatiques</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>41317</code>
@@ -1648,6 +2056,8 @@
                 <narrative xml:lang="fr">Fonds vert pour le climat</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41318</code>
@@ -1656,6 +2066,8 @@
                 <narrative xml:lang="fr">Mécanisme mondial</narrative>
             </name>
             <category>41600</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41319</code>
@@ -1664,6 +2076,8 @@
                 <narrative xml:lang="fr">Organisation mondiale du tourisme</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41320</code>
@@ -1672,6 +2086,8 @@
                 <narrative xml:lang="fr">Banque de Technologies en faveur des Pays les Moins Avancés</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41321</code>
@@ -1680,6 +2096,8 @@
                 <narrative xml:lang="fr">Organisation mondiale de la santé - Plan stratégique de préparation et d'intervention</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41400</code>
@@ -1688,6 +2106,8 @@
                 <narrative xml:lang="fr">Fonds communs interinstitutions des Nations Unies</narrative>
             </name>
             <category>41000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41401</code>
@@ -1696,6 +2116,8 @@
                 <narrative xml:lang="fr">UN-Multi Partner Trust Fund Office</narrative>
             </name>
             <category>41400</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41402</code>
@@ -1704,6 +2126,8 @@
                 <narrative xml:lang="fr">Fonds conjoint des objectifs de développement durable</narrative>
             </name>
             <category>41400</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41403</code>
@@ -1712,6 +2136,8 @@
                 <narrative xml:lang="fr">COVID-19 Response and Recovery Multi-Partner Trust Fund</narrative>
             </name>
             <category>41400</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41500</code>
@@ -1720,6 +2146,8 @@
                 <narrative xml:lang="fr">Fonds thématiques uniques des Nations Unies</narrative>
             </name>
             <category>41000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41501</code>
@@ -1728,6 +2156,8 @@
                 <narrative xml:lang="fr">United Nations Reducing Emissions from Deforestation and Forest Degradation</narrative>
             </name>
             <category>41400</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41502</code>
@@ -1736,6 +2166,8 @@
                 <narrative xml:lang="fr">Le Bureau des Nations Unies pour les services d'appui aux projets</narrative>
             </name>
             <category>41300</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41503</code>
@@ -1744,6 +2176,8 @@
                 <narrative xml:lang="fr">UN-led Country-based Pooled Funds</narrative>
             </name>
             <category>41400</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>41600</code>
@@ -1752,6 +2186,8 @@
                 <narrative xml:lang="fr">Canaux de l'ONU existants non inclus dans la norme I du cadre de reporting du cube de l'ONU</narrative>
             </name>
             <category>41000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2024-01-01">
             <code>41601</code>
@@ -1760,6 +2196,8 @@
                 <narrative xml:lang="fr">United Nations Office for Disarmament Affairs</narrative>
             </name>
             <category>41600</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41700</code>
@@ -1768,6 +2206,8 @@
                 <narrative xml:lang="fr">Entités des Nations Unies, contributions autres que de base</narrative>
             </name>
             <category>41000</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41701</code>
@@ -1776,6 +2216,8 @@
                 <narrative xml:lang="fr">International Labour Organisation - non-core</narrative>
             </name>
             <category>41700</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>41702</code>
@@ -1784,6 +2226,8 @@
                 <narrative xml:lang="fr">World Health Organisation - non-core</narrative>
             </name>
             <category>41700</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>42000</code>
@@ -1792,6 +2236,8 @@
                 <narrative xml:lang="fr">Institutions de l'Union européenne</narrative>
             </name>
             <category>40000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>42001</code>
@@ -1800,6 +2246,8 @@
                 <narrative xml:lang="fr">Commission européenne - partie du budget affectée au développement</narrative>
             </name>
             <category>42000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>42003</code>
@@ -1808,6 +2256,8 @@
                 <narrative xml:lang="fr">Commission européenne - Fonds européen de développement</narrative>
             </name>
             <category>42000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>42004</code>
@@ -1816,6 +2266,8 @@
                 <narrative xml:lang="fr">Banque européenne d'investissement</narrative>
             </name>
             <category>42000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2004-01-01" withdrawal-date="2009-12-31">
             <code>42005</code>
@@ -1824,6 +2276,8 @@
                 <narrative xml:lang="fr">Facility for Euro-Mediterranean Investment and Partnership Trust Fund</narrative>
             </name>
             <category>42000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>43000</code>
@@ -1832,6 +2286,8 @@
                 <narrative xml:lang="fr">Fonds monétaire international (FMI)</narrative>
             </name>
             <category>40000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>43001</code>
@@ -1840,6 +2296,8 @@
                 <narrative xml:lang="fr">Fonds monétaire international – Facilité pour la réduction de la pauvreté et pour la croissance</narrative>
             </name>
             <category>43000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>43002</code>
@@ -1848,6 +2306,8 @@
                 <narrative xml:lang="fr">Fonds monétaire international – Réduction de la pauvreté et croissance – Initiative d’allègement de la dette en faveur des pays pauvres très endettés [y compris Initiative PPTE, Facilité élargie de crédit (FEC) et sous-comptes (FEC-PPTE)]</narrative>
             </name>
             <category>43000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2005-01-01">
             <code>43003</code>
@@ -1856,6 +2316,8 @@
                 <narrative xml:lang="fr">Fonds monétaire international – Aide d’urgence après un conflit (EPCA) et aide d’urgence à la suite de catastrophes naturelles (ENDA) pour les membres pouvant bénéficier de la FRPC</narrative>
             </name>
             <category>43000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>43004</code>
@@ -1864,6 +2326,8 @@
                 <narrative xml:lang="fr">Fonds monétaire international – Facilité pour la réduction de la pauvreté et pour la croissance – Initiative d’allègement de la dette multilatérale</narrative>
             </name>
             <category>43000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>43005</code>
@@ -1872,6 +2336,8 @@
                 <narrative xml:lang="fr">Fonds monétaire international  - Fonds fiduciaire pour l'allégement de la dette après une catastrophe</narrative>
             </name>
             <category>43000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>43006</code>
@@ -1880,6 +2346,8 @@
                 <narrative xml:lang="fr">Fonds fiduciaire d’assistance et de riposte aux catastrophes</narrative>
             </name>
             <category>43000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2022-01-01">
             <code>43007</code>
@@ -1888,6 +2356,8 @@
                 <narrative xml:lang="fr">Fonds fiduciaire pour la résilience et la durabilité</narrative>
             </name>
             <category>43000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>44000</code>
@@ -1896,6 +2366,8 @@
                 <narrative xml:lang="fr">Groupe de la Banque mondiale (BM)</narrative>
             </name>
             <category>40000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>44001</code>
@@ -1904,6 +2376,8 @@
                 <narrative xml:lang="fr">Banque internationale pour la reconstruction et le développement</narrative>
             </name>
             <category>44000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>44002</code>
@@ -1912,6 +2386,8 @@
                 <narrative xml:lang="fr">Association internationale de développement</narrative>
             </name>
             <category>44000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>44003</code>
@@ -1920,6 +2396,8 @@
                 <narrative xml:lang="fr">Association internationale de développement - Fonds fiduciaire de l'IDA en faveur des pays pauvres très endettés</narrative>
             </name>
             <category>44000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>44004</code>
@@ -1928,6 +2406,8 @@
                 <narrative xml:lang="fr">Société financière internationale</narrative>
             </name>
             <category>44000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>44005</code>
@@ -1936,6 +2416,8 @@
                 <narrative xml:lang="fr">Agence multilatérale de garantie des investissements</narrative>
             </name>
             <category>44000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2006-01-01">
             <code>44006</code>
@@ -1944,6 +2426,8 @@
                 <narrative xml:lang="fr">Garanties de marché</narrative>
             </name>
             <category>44000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>44007</code>
@@ -1952,6 +2436,8 @@
                 <narrative xml:lang="fr">Association internationale de développement - Initiative d’allégement de la dette multilatérale</narrative>
             </name>
             <category>44000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>44008</code>
@@ -1960,6 +2446,8 @@
                 <narrative xml:lang="fr">Partnership for Market Implementation</narrative>
             </name>
             <category>44000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2026-04-02">
             <code>45000</code>
@@ -1976,6 +2464,8 @@
                 <narrative xml:lang="fr">Centre du commerce international de l'Organisation mondiale du commerce</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>45002</code>
@@ -1984,6 +2474,8 @@
                 <narrative xml:lang="fr">Centre consultatif sur la législation de l'Organisation mondiale du commerce</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>45003</code>
@@ -1992,6 +2484,8 @@
                 <narrative xml:lang="fr">Organisation mondiale du commerce - Fonds global d'affectation spéciale</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>46000</code>
@@ -2000,6 +2494,8 @@
                 <narrative xml:lang="fr">Banques régionales de développement</narrative>
             </name>
             <category>40000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>46002</code>
@@ -2008,6 +2504,8 @@
                 <narrative xml:lang="fr">Banque africaine de développement</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>46003</code>
@@ -2016,6 +2514,8 @@
                 <narrative xml:lang="fr">Fonds africain de développement</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>46004</code>
@@ -2024,6 +2524,8 @@
                 <narrative xml:lang="fr">Banque asiatique de développement</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>46005</code>
@@ -2032,6 +2534,8 @@
                 <narrative xml:lang="fr">Fonds asiatique de développement</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2008-01-01">
             <code>46006</code>
@@ -2040,6 +2544,8 @@
                 <narrative xml:lang="fr">Black Sea Trade and Development Bank</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>46007</code>
@@ -2048,6 +2554,8 @@
                 <narrative xml:lang="fr">Banque centroaméricaine d'intégration économique</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>46008</code>
@@ -2056,6 +2564,8 @@
                 <narrative xml:lang="fr">Banque de développement de l'Amérique latine</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>46009</code>
@@ -2064,6 +2574,8 @@
                 <narrative xml:lang="fr">Banque de développement des Caraïbes</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>46012</code>
@@ -2072,6 +2584,8 @@
                 <narrative xml:lang="fr">Banque interaméricaine de développement, Société interaméricaine d'investissements, Fonds multilatéral d'investissements</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>46013</code>
@@ -2080,6 +2594,8 @@
                 <narrative xml:lang="fr">Banque interaméricaine de développement, Fonds opérations spécial</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2023-01-01">
             <code>46015</code>
@@ -2088,6 +2604,8 @@
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>46016</code>
@@ -2096,6 +2614,8 @@
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (pays éligibles à l'APD)</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2023-01-01">
             <code>46017</code>
@@ -2104,6 +2624,8 @@
                 <narrative xml:lang="fr">Banque européenne pour la reconstruction et le développement - coopération technique et fonds spéciaux (tous pays)</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>46018</code>
@@ -2112,6 +2634,8 @@
                 <narrative xml:lang="fr">Banque européenne de reconstruction et de développement - Initiative en faveur des pays en transition précoce</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>46019</code>
@@ -2120,6 +2644,8 @@
                 <narrative xml:lang="fr">Banque européenne de reconstruction et de développement - Fonds spécial pour les Balkans occidentaux</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>46020</code>
@@ -2128,6 +2654,8 @@
                 <narrative xml:lang="fr">Banque de développement des États de l'Afrique Centrale</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>46021</code>
@@ -2136,6 +2664,8 @@
                 <narrative xml:lang="fr">Banque ouest-africaine de développement</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2012-01-01">
             <code>46022</code>
@@ -2144,6 +2674,8 @@
                 <narrative xml:lang="fr">Banque Africaine d'Import-Export</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2012-01-01">
             <code>46023</code>
@@ -2152,6 +2684,8 @@
                 <narrative xml:lang="fr">Banque de l’Afrique de l’Est et de l’Afrique Australe pour le Commerce et le Développement</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
             <code>46024</code>
@@ -2160,6 +2694,8 @@
                 <narrative xml:lang="fr">Banque de Développement du Conseil de l'Europe</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
             <code>46025</code>
@@ -2168,6 +2704,8 @@
                 <narrative xml:lang="fr">Banque Islamique de Développement</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>46026</code>
@@ -2176,6 +2714,8 @@
                 <narrative xml:lang="fr">Asian Infrastructure Investment Bank</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
             <code>46027</code>
@@ -2184,6 +2724,8 @@
                 <narrative xml:lang="fr">Fonds financier pour le développement du bassin fluvial de la Plata</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2025-01-01">
             <code>46028</code>
@@ -2192,6 +2734,8 @@
                 <narrative xml:lang="fr">Nouvelle banque de développement</narrative>
             </name>
             <category>46000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>47000</code>
@@ -2200,6 +2744,8 @@
                 <narrative xml:lang="fr">Autres institutions multilatérales</narrative>
             </name>
             <category>40000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2000-01-01">
             <code>47001</code>
@@ -2208,6 +2754,8 @@
                 <narrative xml:lang="fr">Fondation pour le renforcement des capacités en Afrique</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47002</code>
@@ -2216,6 +2764,8 @@
                 <narrative xml:lang="fr">Organisation asiatique de productivité</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47003</code>
@@ -2224,6 +2774,8 @@
                 <narrative xml:lang="fr">Association des nations de l'Asie du Sud-Est - coopération économique</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47004</code>
@@ -2232,6 +2784,8 @@
                 <narrative xml:lang="fr">ASEAN Cultural Fund</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47005</code>
@@ -2240,6 +2794,8 @@
                 <narrative xml:lang="fr">Union Africaine (à l'exclusion de la Facilité de soutien à la paix)</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47008</code>
@@ -2248,6 +2804,8 @@
                 <narrative xml:lang="fr">Centre international de cultures maraîchères</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47009</code>
@@ -2256,6 +2814,8 @@
                 <narrative xml:lang="fr">Conseil africain et malgache pour l'enseignement supérieur</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47010</code>
@@ -2264,6 +2824,8 @@
                 <narrative xml:lang="fr">Agence du Commonwealth pour l'administration et la gestion publiques</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
             <code>47011</code>
@@ -2272,6 +2834,8 @@
                 <narrative xml:lang="fr">Secrétariat de la Communauté des Caraïbes</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47012</code>
@@ -2280,6 +2844,8 @@
                 <narrative xml:lang="fr">Centre épidémiologique des Caraïbes</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47013</code>
@@ -2288,6 +2854,8 @@
                 <narrative xml:lang="fr">Fondation du Commonwealth</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47014</code>
@@ -2296,6 +2864,8 @@
                 <narrative xml:lang="fr">Commonwealth Fund for Technical Co-operation</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47015</code>
@@ -2304,6 +2874,8 @@
                 <narrative xml:lang="fr">CGIAR Fund</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2009-12-31">
             <code>47016</code>
@@ -2312,6 +2884,8 @@
                 <narrative xml:lang="fr">Commonwealth Institute</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47017</code>
@@ -2320,6 +2894,8 @@
                 <narrative xml:lang="fr">Centre international d'agriculture tropicale</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47018</code>
@@ -2328,6 +2904,8 @@
                 <narrative xml:lang="fr">Centre de recherche forestière internationale</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47019</code>
@@ -2336,6 +2914,8 @@
                 <narrative xml:lang="fr">Centre international de hautes études agronomique méditerranéennes</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47020</code>
@@ -2344,6 +2924,8 @@
                 <narrative xml:lang="fr">Centre international d’amélioration du maïs et du blé</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47021</code>
@@ -2352,6 +2934,8 @@
                 <narrative xml:lang="fr">Centre international de la pomme de terre</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47022</code>
@@ -2360,6 +2944,8 @@
                 <narrative xml:lang="fr">Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47023</code>
@@ -2368,6 +2954,8 @@
                 <narrative xml:lang="fr">Commonwealth Legal Advisory Service</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47024</code>
@@ -2376,6 +2964,8 @@
                 <narrative xml:lang="fr">Commonwealth Media Development Fund</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47025</code>
@@ -2384,6 +2974,8 @@
                 <narrative xml:lang="fr">Commonwealth of Learning</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
             <code>47026</code>
@@ -2392,6 +2984,8 @@
                 <narrative xml:lang="fr">Communauté des pays de langue portugaise</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47027</code>
@@ -2400,6 +2994,8 @@
                 <narrative xml:lang="fr">Plan de Colombo</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47028</code>
@@ -2408,6 +3004,8 @@
                 <narrative xml:lang="fr">Partenariat pour la gestion technique (Commonwealth)</narrative>
             </name>
             <category>32000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47029</code>
@@ -2416,6 +3014,8 @@
                 <narrative xml:lang="fr">Club du Sahel et de l’Afrique de l’Ouest</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2009-12-31">
             <code>47030</code>
@@ -2424,6 +3024,8 @@
                 <narrative xml:lang="fr">Commonwealth Scientific Council</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47031</code>
@@ -2432,6 +3034,8 @@
                 <narrative xml:lang="fr">Commonwealth Small States Office</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2009-12-31">
             <code>47032</code>
@@ -2440,6 +3044,8 @@
                 <narrative xml:lang="fr">Commonwealth Trade and Investment Access Facility</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47033</code>
@@ -2448,6 +3054,8 @@
                 <narrative xml:lang="fr">Commonwealth Youth Programme</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
             <code>47034</code>
@@ -2456,6 +3064,8 @@
                 <narrative xml:lang="fr">Communauté économique des Etats de l’Afrique de l’Ouest</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47035</code>
@@ -2464,6 +3074,8 @@
                 <narrative xml:lang="fr">Environnement et développement du Tiers-monde</narrative>
             </name>
             <category>21000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47036</code>
@@ -2472,6 +3084,8 @@
                 <narrative xml:lang="fr">Organisation Européenne et Méditerranéenne pour la Protection des Plantes</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47037</code>
@@ -2480,6 +3094,8 @@
                 <narrative xml:lang="fr">Organisation régionale de l'Orient pour l'administration publique</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47038</code>
@@ -2488,6 +3104,8 @@
                 <narrative xml:lang="fr">INTERPOL Fund for Aid and Technical Assistance to Developing Countries</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47040</code>
@@ -2496,6 +3114,8 @@
                 <narrative xml:lang="fr">Agence des pêches</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47041</code>
@@ -2504,6 +3124,8 @@
                 <narrative xml:lang="fr">Centre des techniques de l'alimentation et des engrais</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47042</code>
@@ -2512,6 +3134,8 @@
                 <narrative xml:lang="fr">Fondation pour la formation internationale dans les pays du tiers monde</narrative>
             </name>
             <category>22000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47043</code>
@@ -2520,6 +3144,8 @@
                 <narrative xml:lang="fr">Global Crop Diversity Trust</narrative>
             </name>
             <category>31000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>47044</code>
@@ -2528,6 +3154,8 @@
                 <narrative xml:lang="fr">Fonds pour l'environnement mondial - fonds fiduciaire</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
             <code>47045</code>
@@ -2536,6 +3164,8 @@
                 <narrative xml:lang="fr">Fonds mondial de lutte contre le SIDA, la tuberculose et la paludisme</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47046</code>
@@ -2544,6 +3174,8 @@
                 <narrative xml:lang="fr">Organisation internationale de la Francophonie</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47047</code>
@@ -2552,6 +3184,8 @@
                 <narrative xml:lang="fr">Institut international africain</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47048</code>
@@ -2560,6 +3194,8 @@
                 <narrative xml:lang="fr">Inter-American Indian Institute</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47049</code>
@@ -2568,6 +3204,8 @@
                 <narrative xml:lang="fr">International Bureau of Education - International Educational Reporting System (IERS)</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47050</code>
@@ -2576,6 +3214,8 @@
                 <narrative xml:lang="fr">Comité consultatif international du coton</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47051</code>
@@ -2584,6 +3224,8 @@
                 <narrative xml:lang="fr">Centre international de recherche agricole dans les zones arides</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47053</code>
@@ -2592,6 +3234,8 @@
                 <narrative xml:lang="fr">International Centre for Diarrhoeal Disease Research, Bangladesh</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47054</code>
@@ -2600,6 +3244,8 @@
                 <narrative xml:lang="fr">Centre international sur la physiologie et l’écologie des insectes</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47055</code>
@@ -2608,6 +3254,8 @@
                 <narrative xml:lang="fr">Centre International pour la Recherche Agricole orientée vers le développement</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47056</code>
@@ -2616,6 +3264,8 @@
                 <narrative xml:lang="fr">Centre mondial de l’agroforesterie</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47057</code>
@@ -2624,6 +3274,8 @@
                 <narrative xml:lang="fr">Institut international de recherche sur les cultures des zones tropicales semi-arides</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
             <code>47058</code>
@@ -2632,6 +3284,8 @@
                 <narrative xml:lang="fr">International Institute for Democracy and Electoral Assistance</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47059</code>
@@ -2640,6 +3294,8 @@
                 <narrative xml:lang="fr">Organisation internationale de droit du développement</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47060</code>
@@ -2648,6 +3304,8 @@
                 <narrative xml:lang="fr">International Institute for Cotton</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47061</code>
@@ -2656,6 +3314,8 @@
                 <narrative xml:lang="fr">Institut interaméricain de coopération pour l’agriculture</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47062</code>
@@ -2664,6 +3324,8 @@
                 <narrative xml:lang="fr">Institut international d’agriculture tropicale</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47063</code>
@@ -2672,6 +3334,8 @@
                 <narrative xml:lang="fr">International Livestock Research Institute</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
             <code>47064</code>
@@ -2680,6 +3344,8 @@
                 <narrative xml:lang="fr">Réseau International sur le bambou et le rotin</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>47065</code>
@@ -2688,6 +3354,8 @@
                 <narrative xml:lang="fr">Commission océanographique intergouvernementale</narrative>
             </name>
             <category>41600</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>47066</code>
@@ -2696,6 +3364,8 @@
                 <narrative xml:lang="fr">Organisation internationale des migrations</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47067</code>
@@ -2704,6 +3374,8 @@
                 <narrative xml:lang="fr">Groupe d’experts intergouvernemental sur l’évolution du climat</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47068</code>
@@ -2712,6 +3384,8 @@
                 <narrative xml:lang="fr">Commission Asie-Pacifique des pêches</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47069</code>
@@ -2720,6 +3394,8 @@
                 <narrative xml:lang="fr">Bioversity International</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47070</code>
@@ -2728,6 +3404,8 @@
                 <narrative xml:lang="fr">Institut international de recherche sur le riz</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47071</code>
@@ -2736,6 +3414,8 @@
                 <narrative xml:lang="fr">Association internationale d’essais de semences</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2001-01-01">
             <code>47073</code>
@@ -2744,6 +3424,8 @@
                 <narrative xml:lang="fr">Organisation Internationale des Bois Tropicaux</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47074</code>
@@ -2752,6 +3434,8 @@
                 <narrative xml:lang="fr">Institut international de vaccins</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47075</code>
@@ -2760,6 +3444,8 @@
                 <narrative xml:lang="fr">Institut international de gestion des ressources en eau</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
             <code>47076</code>
@@ -2768,6 +3454,8 @@
                 <narrative xml:lang="fr">Centre d’études sur la justice dans les Amériques</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
             <code>47077</code>
@@ -2776,6 +3464,8 @@
                 <narrative xml:lang="fr">Commission du Mékong</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>47078</code>
@@ -2784,6 +3474,8 @@
                 <narrative xml:lang="fr">Fonds multilatéral pour l’application du Protocole de Montréal</narrative>
             </name>
             <category>41600</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47079</code>
@@ -2792,6 +3484,8 @@
                 <narrative xml:lang="fr">Organisation des États américains</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47080</code>
@@ -2800,6 +3494,8 @@
                 <narrative xml:lang="fr">Organisation de Coopération et de développement économiques (contributions aux fonds spéciaux pour les activités de coopération technique uniquement)</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2003-01-01">
             <code>47081</code>
@@ -2808,6 +3504,8 @@
                 <narrative xml:lang="fr">OCDE Centre de développement</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2004-01-01">
             <code>47082</code>
@@ -2816,6 +3514,8 @@
                 <narrative xml:lang="fr">Organisation des États des Caraïbes orientales</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>47083</code>
@@ -2824,6 +3524,8 @@
                 <narrative xml:lang="fr">Organisation panaméricaine de la santé</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47084</code>
@@ -2832,6 +3534,8 @@
                 <narrative xml:lang="fr">Institut panaméricain de géographie et d’histoire</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47085</code>
@@ -2840,6 +3544,8 @@
                 <narrative xml:lang="fr">Pan-American Railway Congress Association</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
             <code>47086</code>
@@ -2848,6 +3554,8 @@
                 <narrative xml:lang="fr">Private Infrastructure Development Group</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47087</code>
@@ -2856,6 +3564,8 @@
                 <narrative xml:lang="fr">Secrétariat du Forum des Iles du Pacifique</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47088</code>
@@ -2864,6 +3574,8 @@
                 <narrative xml:lang="fr">Relief Net</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
             <code>47089</code>
@@ -2872,6 +3584,8 @@
                 <narrative xml:lang="fr">Communauté pour le développement de l’Afrique australe</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47090</code>
@@ -2880,6 +3594,8 @@
                 <narrative xml:lang="fr">Southern African Transport and Communications Commission</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="1998-01-01" withdrawal-date="2010-12-31">
             <code>47091</code>
@@ -2888,6 +3604,8 @@
                 <narrative xml:lang="fr">(Colombo Plan) Special Commonwealth African Assistance Programme</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47092</code>
@@ -2896,6 +3614,8 @@
                 <narrative xml:lang="fr">Centre de développement des pêches de l’Asie du Sud-Est</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47093</code>
@@ -2904,6 +3624,8 @@
                 <narrative xml:lang="fr">Organisation des Ministres de l’éducation de l’Asie du Sud-Est</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2000-01-01" withdrawal-date="2010-12-31">
             <code>47094</code>
@@ -2912,6 +3634,8 @@
                 <narrative xml:lang="fr">South Pacific Applied Geoscience Commission</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2000-01-01">
             <code>47095</code>
@@ -2920,6 +3644,8 @@
                 <narrative xml:lang="fr">Programme d'évaluation et de qualité de l'éducation</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47096</code>
@@ -2928,6 +3654,8 @@
                 <narrative xml:lang="fr">Secrétariat Général de la Communauté du Pacifique</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47097</code>
@@ -2936,6 +3664,8 @@
                 <narrative xml:lang="fr">Programme régional océanien de l’environnement</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="1998-01-01">
             <code>47098</code>
@@ -2944,6 +3674,8 @@
                 <narrative xml:lang="fr">Organisation des peuples et des nations non représentés</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47099</code>
@@ -2952,6 +3684,8 @@
                 <narrative xml:lang="fr">Université du Pacifique Sud</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2002-01-01">
             <code>47100</code>
@@ -2960,6 +3694,8 @@
                 <narrative xml:lang="fr">Union monétaire ouest-africaine</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47101</code>
@@ -2968,6 +3704,8 @@
                 <narrative xml:lang="fr">Centre du riz pour l’Afrique</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2000-01-01" withdrawal-date="2012-12-31">
             <code>47102</code>
@@ -2976,6 +3714,8 @@
                 <narrative xml:lang="fr">Organisation mondiale des douanes, programme de bourses</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47103</code>
@@ -2984,6 +3724,8 @@
                 <narrative xml:lang="fr">Université maritime mondiale</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47104</code>
@@ -2992,6 +3734,8 @@
                 <narrative xml:lang="fr">Centre international pour l’aménagement des ressources bioaquatiques</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2001-01-01">
             <code>47105</code>
@@ -3000,6 +3744,8 @@
                 <narrative xml:lang="fr">Fonds commun pour les produits de base</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2006-01-01">
             <code>47106</code>
@@ -3008,6 +3754,8 @@
                 <narrative xml:lang="fr">Centre de contrôle démocratique des forces armées - Genève</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2006-01-01">
             <code>47107</code>
@@ -3016,6 +3764,8 @@
                 <narrative xml:lang="fr">Facilité internationale de financement pour la vaccination</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2006-01-01" withdrawal-date="2010-12-31">
             <code>47108</code>
@@ -3024,6 +3774,8 @@
                 <narrative xml:lang="fr">Multi-Country Demobilisation and Reintegration Program</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2005-01-01">
             <code>47109</code>
@@ -3032,6 +3784,8 @@
                 <narrative xml:lang="fr">Fonds de soutien de la coopération économique Asie-Pacifique (hors lutte contre le terrorisme)</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2006-01-01">
             <code>47110</code>
@@ -3040,6 +3794,8 @@
                 <narrative xml:lang="fr">Organisation de coopération économique de la mer Noire</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>47111</code>
@@ -3048,6 +3804,8 @@
                 <narrative xml:lang="fr">Fonds pour l’adaptation</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>47112</code>
@@ -3056,6 +3814,8 @@
                 <narrative xml:lang="fr">Initiative de l’Europe centrale - Fonds Spécial pour la protection climatique et environnementale</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>47113</code>
@@ -3064,6 +3824,8 @@
                 <narrative xml:lang="fr">Communauté économique et monétaire de l’Afrique Centrale</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>47114</code>
@@ -3072,6 +3834,8 @@
                 <narrative xml:lang="fr">Asian Forest Cooperation Organisation</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>47116</code>
@@ -3080,6 +3844,8 @@
                 <narrative xml:lang="fr">Cadre intégré pour l'assistance technique liée au commerce en faveur des pays les moins avancés</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>47117</code>
@@ -3088,6 +3854,8 @@
                 <narrative xml:lang="fr">Nouveau Partenariat pour le développement de l’Afrique</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>47118</code>
@@ -3096,6 +3864,8 @@
                 <narrative xml:lang="fr">Conseil Régional de Formation des Institutions Supérieures de Contrôle des Finances Publiques d’Afrique Francophone Subsaharienne</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>47119</code>
@@ -3104,6 +3874,8 @@
                 <narrative xml:lang="fr">Observatoire du Sahara et du Sahel</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>47120</code>
@@ -3112,6 +3884,8 @@
                 <narrative xml:lang="fr">Association de l'Asie du Sud pour la coopération régionale</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>47121</code>
@@ -3120,6 +3894,8 @@
                 <narrative xml:lang="fr">Cités et gouvernements locaux unis d’Afrique</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2007-01-01">
             <code>47122</code>
@@ -3128,6 +3904,8 @@
                 <narrative xml:lang="fr">Alliance mondiale pour la vaccination et l’immunisation</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2005-01-01">
             <code>47123</code>
@@ -3136,6 +3914,8 @@
                 <narrative xml:lang="fr">Centre International de Déminage Humanitaire Genève</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>47124</code>
@@ -3144,6 +3924,8 @@
                 <narrative xml:lang="fr">International Anti-Corruption Academy</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>47125</code>
@@ -3152,6 +3934,8 @@
                 <narrative xml:lang="fr">International Centre for Genetic Engineering and Biotechnology</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2008-01-01">
             <code>47127</code>
@@ -3160,6 +3944,8 @@
                 <narrative xml:lang="fr">Organisation latino-américaine de l'énergie</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>47128</code>
@@ -3168,6 +3954,8 @@
                 <narrative xml:lang="fr">Nordic Development Fund</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>47129</code>
@@ -3176,6 +3964,8 @@
                 <narrative xml:lang="fr">FEM Fonds pour les pays les moins avancés</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2009-01-01">
             <code>47130</code>
@@ -3184,6 +3974,8 @@
                 <narrative xml:lang="fr">FEM Fonds spécial pour les changements climatiques</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2010-01-01">
             <code>47131</code>
@@ -3192,6 +3984,8 @@
                 <narrative xml:lang="fr">Organisation pour la sécurité et la coopération en Europe</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2011-01-01">
             <code>47132</code>
@@ -3200,6 +3994,8 @@
                 <narrative xml:lang="fr">Secrétariat du Commonwealth (seulement les contributions éligibles à l'APD)</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2012-01-01">
             <code>47134</code>
@@ -3208,6 +4004,8 @@
                 <narrative xml:lang="fr">Fonds pour les technologies propres</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2012-01-01">
             <code>47135</code>
@@ -3216,6 +4014,8 @@
                 <narrative xml:lang="fr">Fonds stratégique pour le climat</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2012-01-01">
             <code>47136</code>
@@ -3224,6 +4024,8 @@
                 <narrative xml:lang="fr">Institut mondial de la croissance verte</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
             <code>47137</code>
@@ -3232,6 +4034,8 @@
                 <narrative xml:lang="fr">Mutuelle panafricaine de gestion des risques</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
             <code>47138</code>
@@ -3240,6 +4044,8 @@
                 <narrative xml:lang="fr">Conseil de l’Europe</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
             <code>47139</code>
@@ -3248,6 +4054,8 @@
                 <narrative xml:lang="fr">Organisation Mondiale des Douanes Fonds de coopération douanière</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
             <code>47140</code>
@@ -3256,6 +4064,8 @@
                 <narrative xml:lang="fr">Organisation des états ibéro-américains pour l'éducation, la science et la culture (OEI)</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>47141</code>
@@ -3264,6 +4074,8 @@
                 <narrative xml:lang="fr">Forum sur l’Administration Fiscale Africaine</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>47142</code>
@@ -3272,6 +4084,8 @@
                 <narrative xml:lang="fr">Le Fonds OPEP pour le développement international</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>47143</code>
@@ -3280,6 +4094,8 @@
                 <narrative xml:lang="fr">Fonds mondial pour l’engagement de la communauté et la résilience</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2015-01-01">
             <code>47144</code>
@@ -3288,6 +4104,8 @@
                 <narrative xml:lang="fr">Agence internationale pour les energies renouvelables</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>47145</code>
@@ -3296,6 +4114,8 @@
                 <narrative xml:lang="fr">Center of Excellence in Finance</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>47146</code>
@@ -3304,6 +4124,8 @@
                 <narrative xml:lang="fr">International Investment Bank</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
             <code>47147</code>
@@ -3312,6 +4134,8 @@
                 <narrative xml:lang="fr">Facilité internationale de financement pour l'éducation</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
             <code>47148</code>
@@ -3320,6 +4144,8 @@
                 <narrative xml:lang="fr">Organisation mondiale de la santé animale</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>47149</code>
@@ -3328,6 +4154,8 @@
                 <narrative xml:lang="fr">Commission internationale pour les personnes disparues</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2023-01-01">
             <code>47150</code>
@@ -3336,6 +4164,8 @@
                 <narrative xml:lang="fr">Secretaría General Iberoamericana</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2025-01-01">
             <code>47151</code>
@@ -3344,6 +4174,8 @@
                 <narrative xml:lang="fr">Banque arabe de développement économique en Afrique</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2025-01-01">
             <code>47152</code>
@@ -3352,6 +4184,8 @@
                 <narrative xml:lang="fr">Fonds arabe pour le développement économique et social</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2025-01-01">
             <code>47153</code>
@@ -3360,6 +4194,8 @@
                 <narrative xml:lang="fr">FIDA Contributions additionnelles de base pour le climat</narrative>
             </name>
             <category>41100</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>47400</code>
@@ -3368,6 +4204,8 @@
                 <narrative xml:lang="fr">European Space Agency (ESA) programme 'Space in support of International Development Aid'</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>47501</code>
@@ -3376,6 +4214,8 @@
                 <narrative xml:lang="fr">Partenariat Mondial pour l'Education</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>47502</code>
@@ -3384,6 +4224,8 @@
                 <narrative xml:lang="fr">Global Fund for Disaster Risk Reduction</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2023-01-01">
             <code>47503</code>
@@ -3392,6 +4234,8 @@
                 <narrative xml:lang="fr">Global Agriculture and Food Security Program</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2014-01-01">
             <code>47504</code>
@@ -3400,6 +4244,8 @@
                 <narrative xml:lang="fr">Forest Carbon Partnership Facility</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2025-01-01">
             <code>47701</code>
@@ -3408,6 +4254,8 @@
                 <narrative xml:lang="fr">FEM Fonds du cadre mondial pour la biodiversité</narrative>
             </name>
             <category>47000</category>
+            <crs>1</crs>
+            <tossd>0</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2024-01-01">
             <code>47702</code>
@@ -3416,6 +4264,8 @@
                 <narrative xml:lang="fr">Cali Fund For the Fair and Equitable Sharing of Benefits from the use of Digital Sequence Information on Genetic Resources (DSI)</narrative>
             </name>
             <category>47000</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2024-01-01">
             <code>47703</code>
@@ -3424,6 +4274,8 @@
                 <narrative xml:lang="fr">Kunming Biodiversity Fund</narrative>
             </name>
             <category>47000</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2024-01-01">
             <code>47704</code>
@@ -3432,6 +4284,8 @@
                 <narrative xml:lang="fr">SESRIC</narrative>
             </name>
             <category>47000</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2024-01-01">
             <code>47705</code>
@@ -3440,6 +4294,8 @@
                 <narrative xml:lang="fr">Interpol</narrative>
             </name>
             <category>47000</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2024-01-01">
             <code>47706</code>
@@ -3448,6 +4304,8 @@
                 <narrative xml:lang="fr">Eurasian Fund for Stabilization and Development</narrative>
             </name>
             <category>47000</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2025-01-01">
             <code>47707</code>
@@ -3456,6 +4314,8 @@
                 <narrative xml:lang="fr">Arab Monetary Fund</narrative>
             </name>
             <category>47000</category>
+            <crs>0</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>50000</code>
@@ -3471,6 +4331,8 @@
                 <narrative xml:lang="fr">Université, collège ou autre établissement d'enseignement, institut de recherche ou de réflexion</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2013-01-01">
             <code>51001</code>
@@ -3479,6 +4341,8 @@
                 <narrative xml:lang="fr">Institut International de Recherche sur les Politiques Alimentaires</narrative>
             </name>
             <category>51000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>52000</code>
@@ -3495,6 +4359,8 @@
                 <narrative xml:lang="fr">Institutions du secteur privé</narrative>
             </name>
             <category>60000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>61000</code>
@@ -3503,6 +4369,8 @@
                 <narrative xml:lang="fr">Secteur privé du pays donneur</narrative>
             </name>
             <category>60000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>61001</code>
@@ -3511,6 +4379,8 @@
                 <narrative xml:lang="fr">Banques (du pays donneur) (institutions de dépôts)</narrative>
             </name>
             <category>61000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2016-01-01" withdrawal-date="2016-12-31">
             <code>61002</code>
@@ -3519,6 +4389,8 @@
                 <narrative xml:lang="fr">Exportateur privé dans le pays donneur</narrative>
             </name>
             <category>61000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>61003</code>
@@ -3527,6 +4399,8 @@
                 <narrative xml:lang="fr">Fonds d’investissements et autres organismes de placement collectifs (du pays donneur)</narrative>
             </name>
             <category>61000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>61004</code>
@@ -3535,6 +4409,8 @@
                 <narrative xml:lang="fr">Sociétés holding, fonds fiduciaires et structures de titrisation</narrative>
             </name>
             <category>61000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>61005</code>
@@ -3543,6 +4419,8 @@
                 <narrative xml:lang="fr">Sociétés d’assurance (du pays donneur)</narrative>
             </name>
             <category>61000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>61006</code>
@@ -3551,6 +4429,8 @@
                 <narrative xml:lang="fr">Fonds de pension (du pays donneur)</narrative>
             </name>
             <category>61000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>61007</code>
@@ -3559,6 +4439,8 @@
                 <narrative xml:lang="fr">Autres sociétés financières (du pays donneur)</narrative>
             </name>
             <category>61000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>61008</code>
@@ -3567,6 +4449,8 @@
                 <narrative xml:lang="fr">Exportateurs (du pays donneur)</narrative>
             </name>
             <category>61000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>61009</code>
@@ -3575,6 +4459,8 @@
                 <narrative xml:lang="fr">Autres sociétés non financières (du pays donneur)</narrative>
             </name>
             <category>61000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>61010</code>
@@ -3583,6 +4469,8 @@
                 <narrative xml:lang="fr">Investisseurs individuels (du pays donneur)</narrative>
             </name>
             <category>61000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>62000</code>
@@ -3591,6 +4479,8 @@
                 <narrative xml:lang="fr">Secteur privé du pays bénéficiaire</narrative>
             </name>
             <category>60000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>62001</code>
@@ -3599,6 +4489,8 @@
                 <narrative xml:lang="fr">Banques (du pays bénéficiaire) (institutions de dépôts hors institutions de microfinancement)</narrative>
             </name>
             <category>62000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>62002</code>
@@ -3607,6 +4499,8 @@
                 <narrative xml:lang="fr">Institutions de microfinancement (du pays bénéficiaire) (collectant ou pas des dépôts)</narrative>
             </name>
             <category>62000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>62003</code>
@@ -3615,6 +4509,8 @@
                 <narrative xml:lang="fr">Fonds d’investissements et autres organismes de placement collectifs (du pays bénéficiaire)</narrative>
             </name>
             <category>62000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>62004</code>
@@ -3623,6 +4519,8 @@
                 <narrative xml:lang="fr">Sociétés holding, fonds fiduciaires et structures de titrisation (du pays bénéficiaire)</narrative>
             </name>
             <category>62000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>62005</code>
@@ -3631,6 +4529,8 @@
                 <narrative xml:lang="fr">Sociétés d’assurance (du pays bénéficiaire)</narrative>
             </name>
             <category>62000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>62006</code>
@@ -3639,6 +4539,8 @@
                 <narrative xml:lang="fr">Fonds de pension (du pays bénéficiaire)</narrative>
             </name>
             <category>62000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>62007</code>
@@ -3647,6 +4549,8 @@
                 <narrative xml:lang="fr">Autres sociétés financières (du pays bénéficiaire)</narrative>
             </name>
             <category>62000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>62008</code>
@@ -3655,6 +4559,8 @@
                 <narrative xml:lang="fr">Importateurs / Exportateurs</narrative>
             </name>
             <category>62000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>62009</code>
@@ -3663,6 +4569,8 @@
                 <narrative xml:lang="fr">Autres sociétés non financières (du pays bénéficiaire)</narrative>
             </name>
             <category>62000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>62010</code>
@@ -3671,6 +4579,8 @@
                 <narrative xml:lang="fr">Investisseurs individuels (du pays bénéficiaire)</narrative>
             </name>
             <category>62000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>63000</code>
@@ -3679,6 +4589,8 @@
                 <narrative xml:lang="fr">Secteur privé d'un pays tiers</narrative>
             </name>
             <category>60000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>63001</code>
@@ -3687,6 +4599,8 @@
                 <narrative xml:lang="fr">Banques (d'un pays tiers) (institutions de dépôts hors institutions de microfinancement)</narrative>
             </name>
             <category>63000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>63002</code>
@@ -3695,6 +4609,8 @@
                 <narrative xml:lang="fr">Institutions de microfinancement (d'un pays tiers) (collectant ou pas des dépôts)</narrative>
             </name>
             <category>63000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>63003</code>
@@ -3703,6 +4619,8 @@
                 <narrative xml:lang="fr">Fonds d’investissements et autres organismes de placement collectifs (d'un pays tiers)</narrative>
             </name>
             <category>63000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>63004</code>
@@ -3711,6 +4629,8 @@
                 <narrative xml:lang="fr">Sociétés holding, fonds fiduciaires et structures de titrisation (d'un pays tiers)</narrative>
             </name>
             <category>63000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>63005</code>
@@ -3719,6 +4639,8 @@
                 <narrative xml:lang="fr">Sociétés d’assurance (d'un pays tiers)</narrative>
             </name>
             <category>63000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>63006</code>
@@ -3727,6 +4649,8 @@
                 <narrative xml:lang="fr">Fonds de pension (d'un pays tiers)</narrative>
             </name>
             <category>63000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>63007</code>
@@ -3735,6 +4659,8 @@
                 <narrative xml:lang="fr">Autres sociétés financières (d'un pays tiers)</narrative>
             </name>
             <category>63000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>63008</code>
@@ -3743,6 +4669,8 @@
                 <narrative xml:lang="fr">Exportateurs (d'un pays tiers)</narrative>
             </name>
             <category>63000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>63009</code>
@@ -3751,6 +4679,8 @@
                 <narrative xml:lang="fr">Autres sociétés non financières (d'un pays tiers)</narrative>
             </name>
             <category>63000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2017-01-01">
             <code>63010</code>
@@ -3759,6 +4689,8 @@
                 <narrative xml:lang="fr">Investisseurs individuels (d'un pays tiers)</narrative>
             </name>
             <category>63000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>90000</code>
@@ -3767,6 +4699,8 @@
                 <narrative xml:lang="fr">Autre</narrative>
             </name>
             <category>90000</category>
+            <crs>1</crs>
+            <tossd>1</tossd>
         </codelist-item>
     </codelist-items>
 </codelist>
