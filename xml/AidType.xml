@@ -20,8 +20,8 @@
                 <narrative xml:lang="fr">Identifies contributions from the provider to the government budget of a recipient country, which has exclusive responsibility for the use of and accountability for the funds. Budget support can be generic (not sector allocated) or sectoral (e.g. energy, agriculture).</narrative>
             </description>
             <category>A</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns0:crs xmlns:ns0="https://example.org">0</ns0:crs>
+            <ns1:tossd xmlns:ns1="https://example.org">1</ns1:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>A01</code>
@@ -34,8 +34,8 @@
                 <narrative xml:lang="fr">Contributions au budget du gouvernement non préaffectées y compris le soutien à la mise en œuvre de réformes macroéconomiques (programmes d’ajustement structurel, stratégies de lutte contre la pauvreté). Le soutien budgétaire se définit comme une méthode de financement du budget d’un pays bénéficiaire via un transfert de ressources d’un organisme de financement externe au Trésor public du gouvernement bénéficiaire. Les fonds ainsi transférés sont gérés conformément aux procédures budgétaires du bénéficiaire. Cette définition n’englobe donc pas les fonds transférés au Trésor public pour le financement de programmes ou de projets gérés selon des procédures budgétaires différentes de celles du pays bénéficiaire, dans l’intention d’affecter ces ressources à des usages spécifiques.</narrative>
             </description>
             <category>A</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns2:crs xmlns:ns2="https://example.org">1</ns2:crs>
+            <ns3:tossd xmlns:ns3="https://example.org">0</ns3:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>A02</code>
@@ -48,8 +48,8 @@
                 <narrative xml:lang="fr">Le soutien budgétaire sectoriel, comme le soutien budgétaire général, est une contribution financière au budget du gouvernement du pays bénéficiaire. Cependant, dans le cas du soutien budgétaire sectoriel, le dialogue entre les donneurs et les gouvernements partenaires se concentre sur les préoccupations spécifiques à un secteur plutôt que sur les priorités de la politique globale et les priorités budgétaires.</narrative>
             </description>
             <category>A</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns4:crs xmlns:ns4="https://example.org">1</ns4:crs>
+            <ns5:tossd xmlns:ns5="https://example.org">0</ns5:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>B01</code>
@@ -62,8 +62,8 @@
                 <narrative xml:lang="fr">Fonds versés à des PPP, réseaux, instituts de recherche et organismes privés à but non lucratif – ONG basées dans des pays en développement, dans des pays donneurs ou ONG internationales et autres organisations de la société civile par exemple les fondations philanthropiques – qui sont utilisés à la discrétion de ces organisations, et qui contribuent au financement de programmes et activités que ces organisations ont mis au point elles-mêmes et qu’elles mettent en œuvre sous leur propre autorité et responsabilité.La Liste des organisations internationales éligible en APD (voir l’annexe 2) fournit une liste d’ONGI, de PPP et de réseaux en faveur desquels les contributions aux budgets réguliers peuvent être notifiées sous B01. Cette liste n’est pas exhaustive.</narrative>
             </description>
             <category>B</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns6:crs xmlns:ns6="https://example.org">1</ns6:crs>
+            <ns7:tossd xmlns:ns7="https://example.org">0</ns7:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>B02</code>
@@ -76,8 +76,8 @@
                 <narrative xml:lang="fr">Ces fonds sont classés comme multilatéraux (toutes les autres catégories sont bilatérales). L'institution multilatérale bénéficiaire met en commun les contributions de sorte qu'elles perdent leur identité et deviennent partie intégrante de ses actifs ou passifs financiers. Comprend également les fonds d'intermédiation financière (FEM, FIC) dont la Banque mondiale est l'administrateur, ainsi que certains fonds communs inter-institutions des Nations unies, tels que le CERF et le Fonds des Nations unies pour la consolidation de la paix. Voir l'annexe 2 des Directives pour une liste complète des agences dont les contributions de base peuvent être rapportées sous B02 et ses sous-catégories. (Section I. Institutions multilatérales). Nota bene : les contributions aux organisations multilatérales de développement hors de l'annexe 2 ne sont pas à déclarer dans les statistiques du CAD. Les composantes non-APD du soutien de base aux organisations multilatérales incluses dans l'annexe 2 ne sont pas non plus à déclarer.</narrative>
             </description>
             <category>B</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns8:crs xmlns:ns8="https://example.org">1</ns8:crs>
+            <ns9:tossd xmlns:ns9="https://example.org">0</ns9:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>B021</code>
@@ -90,8 +90,8 @@
                 <narrative xml:lang="fr">Les contributions de cette catégorie sont mises en commun par l'institution multilatérale bénéficiaire et deviennent partie intégrante de ses actifs ou passifs financiers.</narrative>
             </description>
             <category>B02</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns10:crs xmlns:ns10="https://example.org">1</ns10:crs>
+            <ns11:tossd xmlns:ns11="https://example.org">0</ns11:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>B022</code>
@@ -104,8 +104,8 @@
                 <narrative xml:lang="fr">Contributions à des fonds mondiaux classés comme multilatéraux, y compris les fonds d'intermédiation financière dont la Banque mondiale est l'administrateur et qui sont passés par le processus de l'annexe 2 (FEM, FIC), ainsi que certains fonds communs inter-institutions des Nations unies, par exemple le CERF et le Fonds de consolidation de la paix des Nations unies.</narrative>
             </description>
             <category>B02</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns12:crs xmlns:ns12="https://example.org">1</ns12:crs>
+            <ns13:tossd xmlns:ns13="https://example.org">0</ns13:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>B02a</code>
@@ -118,8 +118,8 @@
                 <narrative xml:lang="fr">Fixed contributions calculated based on agreed formula that members of multilateral institutions commit to when joining an institution.</narrative>
             </description>
             <category>B02</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns14:crs xmlns:ns14="https://example.org">0</ns14:crs>
+            <ns15:tossd xmlns:ns15="https://example.org">1</ns15:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>B02b</code>
@@ -132,8 +132,8 @@
                 <narrative xml:lang="fr">Voluntary unearmarked contributions to the general budgets of multilateral institutions.</narrative>
             </description>
             <category>B02</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns16:crs xmlns:ns16="https://example.org">0</ns16:crs>
+            <ns17:tossd xmlns:ns17="https://example.org">1</ns17:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>B03</code>
@@ -146,8 +146,8 @@
                 <narrative xml:lang="fr">Outre leurs opérations de base, les organisations internationales – agences multilatérales, ONG, PPP et réseaux – tant dans les pays fournisseurs que dans les pays tiers, mettent en place des programmes ou fonds qui visent des objectifs sectoriels, thématiques ou géographiques spécifiques. Les contributions bilatérales des donneurs à ce type de programmes et fonds entrent dans cette catégorie. Utilisez les catégories B031 et B032 pour les fonds d'affectation spéciale gérés par l'ONU (tous conçus comme multidonateurs) à moins que les contributions ne soient affectées à un lieu géographique ou à une fenêtre de financement spécifique.</narrative>
             </description>
             <category>B</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns18:crs xmlns:ns18="https://example.org">1</ns18:crs>
+            <ns19:tossd xmlns:ns19="https://example.org">0</ns19:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>B031</code>
@@ -160,8 +160,8 @@
                 <narrative xml:lang="fr">Contributions à des mécanismes de financement (programmes et fonds à finalité spécifique) qui mettent en commun les ressources de plusieurs fournisseurs et à partir desquels plusieurs agences multilatérales –  agences multilatérales, ONG, PPP et réseaux – peuvent se voir allouer des fonds pour la mise en œuvre ; contributions à des fonds communs par pays des Nations unies et à des fonds de développement au niveau des pays. Ne comprend pas les contributions aux fonds mondiaux classés comme multilatéraux (voir B022). Comprend les fonds intermédiaires financiers dont la Banque mondiale est l'administrateur et qui ne sont pas passés par le processus de l'annexe 2.</narrative>
             </description>
             <category>B03</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns20:crs xmlns:ns20="https://example.org">1</ns20:crs>
+            <ns21:tossd xmlns:ns21="https://example.org">0</ns21:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>B032</code>
@@ -174,8 +174,8 @@
                 <narrative xml:lang="fr">Contributions à des mécanismes de financement multi-donateurs (programmes et fonds à but spécial) gérés par une seule organisation multilatérale  –  agences multilatérales, ONG, PPP et réseaux – , par exemple, les fonds thématiques d'une seule agence des Nations Unies ; les fonds fiduciaires de la Banque mondiale ou d'autres BMD. Classer la contribution sous B032 même si un seul donateur contribue initialement au fonds.</narrative>
             </description>
             <category>B03</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns22:crs xmlns:ns22="https://example.org">1</ns22:crs>
+            <ns23:tossd xmlns:ns23="https://example.org">0</ns23:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>B033</code>
@@ -188,8 +188,8 @@
                 <narrative xml:lang="fr">Contributions aux mécanismes de financement (programmes et fonds à but spécifique) où le donateur a une influence significative sur l'allocation des fonds. Cela comprend les contributions à des fonds d'affectation spéciale à donateur unique et les contributions affectées à des pays/emplacements géographiques spécifiques ou à des guichets de financement au sein de fonds d'affectation spéciale à donateur multiple. Lorsque le donateur conçoit l'activité mais la fait transiter par une organisation internationale, l'activité doit être classée en C01.</narrative>
             </description>
             <category>B03</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns24:crs xmlns:ns24="https://example.org">1</ns24:crs>
+            <ns25:tossd xmlns:ns25="https://example.org">0</ns25:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>B04</code>
@@ -202,8 +202,8 @@
                 <narrative xml:lang="fr">Le donneur dépose des fonds sur un compte autonome, géré conjointement avec d’autres donneurs et/ou le bénéficiaire. Sont associés à ce compte des objectifs, des modalités de versement, des mécanismes de reddition de comptes spécifiques, et un horizon temporel précis.La mise en commun de fonds suppose des documents de projet communs, des contrats de financement communs et des procédures de notification/audit communes à tous les donneurs.Les contributions des donneurs à des fonds gérés par des organisations internationales sont notifiées sous B03.</narrative>
             </description>
             <category>B</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns26:crs xmlns:ns26="https://example.org">1</ns26:crs>
+            <ns27:tossd xmlns:ns27="https://example.org">0</ns27:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2023-01-01">
             <code>B05</code>
@@ -216,8 +216,8 @@
                 <narrative xml:lang="fr">Augmentation ou baisse de de capital de véhicules pour ISP et dividendes versés au gouvernement.</narrative>
             </description>
             <category>B</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns28:crs xmlns:ns28="https://example.org">1</ns28:crs>
+            <ns29:tossd xmlns:ns29="https://example.org">0</ns29:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>C01</code>
@@ -230,8 +230,8 @@
                 <narrative xml:lang="fr">Un projet est un ensemble d’éléments, d’activités et de produits, convenus avec le pays partenaire*, en vue d’atteindre des objectifs/résultats spécifiques dans un laps de temps et une zone géographique prédéfinis au moyen d’un budget fixé à l’avance. Les projets peuvent différer considérablement par leurs objectifs, leur complexité, les montants en jeu et leur durée. Si les petits projets ne mettent en jeu que des ressources financières modestes et ne durent souvent que quelques mois, les grands projets peuvent porter sur des montants substantiels, devoir être mis en œuvre par tranches et durer plusieurs années. Lorsqu’un grand projet se subdivise en plusieurs composantes, il est parfois appelé programme, mais doit néanmoins être comptabilisé dans la présente rubrique. Sont inclues les études de faisabilité, ainsi que les évaluations préalables ou rétrospectives (lorsqu’elles sont conçues comme un volet du projet/programme ou qu’elles font l’objet de modalités de financement dédiées). Le suivi, l'audit et les analyses de situation des projets et programmes sont également inclus. Les études universitaires, la recherche et le développement, les formations, les bourses et autres activités d'assistance technique non directement liées aux projets/programmes de développement doivent plutôt être enregistrées sous D02. L’aide acheminée par l’intermédiaire d’ONG ou d’organisations multilatérales est également notifiée ici. Cela comprend les paiements effectués aux ONG et aux organisations multilatérales pour qu’elles mettent en œuvre les projets et programmes des donneurs, ainsi que le financement de projets spécifiques des ONG. En revanche, les contributions de caractère général aux ONG et aux organisations multilatérales ainsi que les contributions aux fonds à objectif spécifique sont notifiées sous B. * Dans le cas d’investissements sous forme de prises de participation, d’une aide humanitaire ou d’une aide par l’intermédiaire d’ONG, les projets sont notifiés ici même s’ils ne font pas l’objet d’un accord direct avec le pays partenaire. Les contributions aux fonds d'affectation spéciale à donateur unique et les contributions aux fonds d'affectation spéciale destinés à un guichet de financement et/ou à un pays spécifiques sont enregistrées sous B033.</narrative>
             </description>
             <category>C</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns30:crs xmlns:ns30="https://example.org">1</ns30:crs>
+            <ns31:tossd xmlns:ns31="https://example.org">0</ns31:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>D01</code>
@@ -244,8 +244,8 @@
                 <narrative xml:lang="fr">Experts, consultants, enseignants, universitaires, chercheurs, stagiaires et volontaires, ainsi que contributions à des organismes publics et privés pour l’envoi d’experts dans les pays en développement.</narrative>
             </description>
             <category>D</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns32:crs xmlns:ns32="https://example.org">1</ns32:crs>
+            <ns33:tossd xmlns:ns33="https://example.org">0</ns33:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>D011</code>
@@ -258,8 +258,8 @@
                 <narrative xml:lang="fr">Expenses related to hiring specialists, technical hours of government officials and opportunity costs, directly associated with the technical co-operation activity.</narrative>
             </description>
             <category>D01</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns34:crs xmlns:ns34="https://example.org">0</ns34:crs>
+            <ns35:tossd xmlns:ns35="https://example.org">1</ns35:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>D012</code>
@@ -272,8 +272,8 @@
                 <narrative xml:lang="fr">Expenses related to per diems, daily allowances and airfares, that are directly associated with the technical co-operation activity. Also includes expenditures for travel-related costs of volunteers.</narrative>
             </description>
             <category>D01</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns36:crs xmlns:ns36="https://example.org">0</ns36:crs>
+            <ns37:tossd xmlns:ns37="https://example.org">1</ns37:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>D013</code>
@@ -286,8 +286,8 @@
                 <narrative xml:lang="fr">Expenses regarding the acquisition of services, materials, equipment and supplies that are needed to deliver technical co-operation activities/projects between developing countries.</narrative>
             </description>
             <category>D01</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns38:crs xmlns:ns38="https://example.org">0</ns38:crs>
+            <ns39:tossd xmlns:ns39="https://example.org">1</ns39:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>D02</code>
@@ -300,8 +300,8 @@
                 <narrative xml:lang="fr">Cette catégorie couvre l’apport de savoir-faire en dehors de projets tels qu’ils sont définis dans la catégorie C01 (sauf l’assistance technique fournie par des experts des pays donneurs couverte sous D01, et les bourses/formations dans le pays donneur couvertes sous E01.) Sont inclues les activités de formation et de recherche, les formations linguistiques, les études Sud-Sud, les études pour la recherche, les activités de recherche impliquant une collaboration entre des universités ou organismes du pays donneur et du pays bénéficiaire, les bourses locales, et les programmes sociaux et culturels à des fins de développement. La catégorie couvre également les contributions ponctuelles telles les conférences, séminaires et ateliers, échanges, publications, etc.</narrative>
             </description>
             <category>D</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns40:crs xmlns:ns40="https://example.org">1</ns40:crs>
+            <ns41:tossd xmlns:ns41="https://example.org">0</ns41:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>D021</code>
@@ -314,8 +314,8 @@
                 <narrative xml:lang="fr">Includes the provision of training using internationally or locally recruited experts. This category also covers various capacity building activities such as conferences, seminars, workshops, exchange visits.</narrative>
             </description>
             <category>D02</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns42:crs xmlns:ns42="https://example.org">0</ns42:crs>
+            <ns43:tossd xmlns:ns43="https://example.org">1</ns43:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>E01</code>
@@ -328,8 +328,8 @@
                 <narrative xml:lang="fr">Bourses octroyées à des étudiants et contributions aux frais associés à des stages.</narrative>
             </description>
             <category>E</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns44:crs xmlns:ns44="https://example.org">1</ns44:crs>
+            <ns45:tossd xmlns:ns45="https://example.org">0</ns45:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>E02</code>
@@ -342,8 +342,8 @@
                 <narrative xml:lang="fr">Coûts indirects (“imputés”) correspondant aux frais de scolarité dans le pays donneur.</narrative>
             </description>
             <category>E</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns46:crs xmlns:ns46="https://example.org">1</ns46:crs>
+            <ns47:tossd xmlns:ns47="https://example.org">0</ns47:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>F01</code>
@@ -356,8 +356,8 @@
                 <narrative xml:lang="fr">Regroupe toutes les actions se rapportant à la dette (annulation, conversion, échange, rachat, rééchelonnement, refinancement).</narrative>
             </description>
             <category>F</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns48:crs xmlns:ns48="https://example.org">1</ns48:crs>
+            <ns49:tossd xmlns:ns49="https://example.org">0</ns49:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>F02</code>
@@ -370,8 +370,8 @@
                 <narrative xml:lang="fr">Principal component of a debt relief operation, in cases where the loans concerned were not previously recorded in TOSSD (private claims or official claims not previously recorded in TOSSD).</narrative>
             </description>
             <category>F</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns50:crs xmlns:ns50="https://example.org">0</ns50:crs>
+            <ns51:tossd xmlns:ns51="https://example.org">1</ns51:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>F03</code>
@@ -384,8 +384,8 @@
                 <narrative xml:lang="fr">Interest component of a debt relief operation (interests in arrears and late interests).</narrative>
             </description>
             <category>F</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns52:crs xmlns:ns52="https://example.org">0</ns52:crs>
+            <ns53:tossd xmlns:ns53="https://example.org">1</ns53:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>G01</code>
@@ -398,8 +398,8 @@
                 <narrative xml:lang="fr">Frais d'administration des programmes d'aide au développement qui ne sont pas déjà inclus dans d'autres rubriques comme partie intégrante du coût de l’acheminement ou de la mise en œuvre de l’aide fournie. Cette catégorie comprend les analyses de situation et les activités d’audit.En ce qui concerne la composante salariale des frais administratifs, elle se rapporte uniquement au personnel et contractuels de l’agence ; les coûts associés aux experts/consultants du pays donneur sont à notifier sous les catégories C ou D01.</narrative>
             </description>
             <category>G</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns54:crs xmlns:ns54="https://example.org">1</ns54:crs>
+            <ns55:tossd xmlns:ns55="https://example.org">0</ns55:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
             <code>H00</code>
@@ -412,8 +412,8 @@
                 <narrative xml:lang="fr">Expenditures in the provider country not included elsewhere.</narrative>
             </description>
             <category>H</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns56:crs xmlns:ns56="https://example.org">0</ns56:crs>
+            <ns57:tossd xmlns:ns57="https://example.org">1</ns57:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>H01</code>
@@ -426,8 +426,8 @@
                 <narrative xml:lang="fr">Financement d’activités visant à accroître le soutien du public dans le pays donneur pour les efforts de coopération pour le développement et à rendre la population plus consciente des besoins et problèmes du développement.</narrative>
             </description>
             <category>H</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns58:crs xmlns:ns58="https://example.org">1</ns58:crs>
+            <ns59:tossd xmlns:ns59="https://example.org">0</ns59:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>H02</code>
@@ -440,8 +440,8 @@
                 <narrative xml:lang="fr">Coûts encourus dans les pays donneurs au titre de l’aide de base apportée aux demandeurs d’asile et aux réfugiés en provenance des pays en développement pendant une période pouvant aller jusqu’à 12 mois, quand les coûts ne peuvent pas être désagrégés. Voir section II.6 et Annexe 17.</narrative>
             </description>
             <category>H</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns60:crs xmlns:ns60="https://example.org">1</ns60:crs>
+            <ns61:tossd xmlns:ns61="https://example.org">0</ns61:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>H03</code>
@@ -454,8 +454,8 @@
                 <narrative xml:lang="fr">Coûts encourus dans les pays donneurs au titre de l’aide de base apportée aux demandeurs d’asile lorsque ceux-ci sont finalement acceptés. Cette catégorie couvre uniquement les coûts encourus avant la reconnaissance de statut.</narrative>
             </description>
             <category>H</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns62:crs xmlns:ns62="https://example.org">1</ns62:crs>
+            <ns63:tossd xmlns:ns63="https://example.org">0</ns63:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>H04</code>
@@ -468,8 +468,8 @@
                 <narrative xml:lang="fr">Coûts encourus dans les pays donneurs au titre de l’aide de base apportée aux demandeurs d’asile lorsque ceux-ci sont finalement déboutés. Cette catégorie couvre uniquement les coûts encourus avant le rejet de la demande. Dans les cas où il est probable que la décision définitive relative au statut ne surviendra qu’après douze mois et afin de parvenir à une estimation prudente, les membres peuvent établir leur notification en fonction de la date du rejet en première instance. Pour plus d’instructions sur la façon de calculer les coûts relatifs aux demandeurs d’asile finalement déboutés, voir la Clarification 5, troisième point dans la section II.6 des Directives.</narrative>
             </description>
             <category>H</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns64:crs xmlns:ns64="https://example.org">1</ns64:crs>
+            <ns65:tossd xmlns:ns65="https://example.org">0</ns65:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>H05</code>
@@ -482,8 +482,8 @@
                 <narrative xml:lang="fr">Coûts encourus dans les pays donneurs au titre de l’aide de base apportée aux personnes auxquelles le statut de réfugié a été accordé. Cette catégorie couvre uniquement les coûts postérieurs à la reconnaissance (ou à la date d’entrée dans un pays dans le cadre d’un programme de réinstallation).</narrative>
             </description>
             <category>H</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns66:crs xmlns:ns66="https://example.org">1</ns66:crs>
+            <ns67:tossd xmlns:ns67="https://example.org">0</ns67:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2022-01-01">
             <code>H06</code>
@@ -496,8 +496,8 @@
                 <narrative xml:lang="fr">Coûts encourus dans d'autres pays fournisseurs non éligibles à l'APD pour l'assistance de base aux demandeurs d'asile et aux réfugiés des pays en développement, jusqu'à 12 mois. Le pays d'accueil et d'origine des réfugiés/demandeurs d'asile doit être précisé dans l'un des champs descriptifs du SNPC (champs 14 ou 19).</narrative>
             </description>
             <category>H</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns68:crs xmlns:ns68="https://example.org">1</ns68:crs>
+            <ns69:tossd xmlns:ns69="https://example.org">0</ns69:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
             <code>I01</code>
@@ -510,8 +510,8 @@
                 <narrative xml:lang="fr">Costs incurred in provider countries for basic assistance to asylum seekers, refugees and protected persons from TOSSD-eligible countries, up to 12 months. Reportable under Pillar II.</narrative>
             </description>
             <category>I</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns70:crs xmlns:ns70="https://example.org">0</ns70:crs>
+            <ns71:tossd xmlns:ns71="https://example.org">1</ns71:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
             <code>I02</code>
@@ -524,8 +524,8 @@
                 <narrative xml:lang="fr">Costs incurred in provider countries for basic assistance to asylum seekers, refugees and protected persons from TOSSD-eligible countries, beyond the 12-month period, to the extent that the individual is not recognised by the competent authorities of the country in which he/she has sought asylum as having the rights and obligations which are attached to the possession of residency or nationality of that country. Reportable under Pillar II.</narrative>
             </description>
             <category>I</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns72:crs xmlns:ns72="https://example.org">0</ns72:crs>
+            <ns73:tossd xmlns:ns73="https://example.org">1</ns73:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2019-01-01" withdrawal-date="2021-12-31">
             <code>I03</code>
@@ -538,8 +538,8 @@
                 <narrative xml:lang="fr">Financial, material or technical support to asylum seekers, refugees and protected persons in other host countries. Reportable under Pillar I.</narrative>
             </description>
             <category>I</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns74:crs xmlns:ns74="https://example.org">0</ns74:crs>
+            <ns75:tossd xmlns:ns75="https://example.org">1</ns75:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" activation-date="2019-01-01" withdrawal-date="2021-12-31">
             <code>I04</code>
@@ -552,8 +552,8 @@
                 <narrative xml:lang="fr">Support to refugees, asylum seekers and protected persons voluntarily returning to their countries of origin, nationality or last habitual residence.  Excluding pre-departure assistance. Reportable under Pillar I.</narrative>
             </description>
             <category>I</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns76:crs xmlns:ns76="https://example.org">0</ns76:crs>
+            <ns77:tossd xmlns:ns77="https://example.org">1</ns77:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2020-01-01">
             <code>I05</code>
@@ -566,8 +566,8 @@
                 <narrative xml:lang="fr">Costs incurred in provider countries for promoting the integration in their economy of asylum seekers, refugees, protected persons and migrants from TOSSD-eligible countries. Covers activities that promote the integration in the economy and culture of the provider country (including language training, vocational training, social protection schemes, employment programmes, awareness on national culture), up to the first 5 years of stay. Temporary sustenance/basic assistance is covered under modalities I01 and I02. Reportable under Pillar II.</narrative>
             </description>
             <category>I</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns78:crs xmlns:ns78="https://example.org">0</ns78:crs>
+            <ns79:tossd xmlns:ns79="https://example.org">1</ns79:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2025-01-01">
             <code>J01</code>
@@ -580,8 +580,8 @@
                 <narrative xml:lang="fr">Dons de biens et de matériel. Cela comprend des denrées alimentaires, de l'équipement (y compris du matériel médical), des matériaux et des véhicules motorisés.</narrative>
             </description>
             <category>J</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns80:crs xmlns:ns80="https://example.org">1</ns80:crs>
+            <ns81:tossd xmlns:ns81="https://example.org">0</ns81:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>K01</code>
@@ -594,8 +594,8 @@
                 <narrative xml:lang="fr">Disbursements for joint research projects between two or more developing countries, covering the working time and opportunity costs of scientists/specialists and other research personnel from the reporting country as well as expenses for scientific-related infrastructure and services (labs, equipment, materials, supplies) directly associated with the research activity.</narrative>
             </description>
             <category>K</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns82:crs xmlns:ns82="https://example.org">0</ns82:crs>
+            <ns83:tossd xmlns:ns83="https://example.org">1</ns83:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>K011</code>
@@ -608,8 +608,8 @@
                 <narrative xml:lang="fr">Laboratories, equipment and supplies directly associated with research and development activities.</narrative>
             </description>
             <category>K01</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns84:crs xmlns:ns84="https://example.org">0</ns84:crs>
+            <ns85:tossd xmlns:ns85="https://example.org">1</ns85:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>K012</code>
@@ -622,8 +622,8 @@
                 <narrative xml:lang="fr">Covers working hours and opportunity costs of scientists/specialists and other research personnel from the reporting country.</narrative>
             </description>
             <category>K01</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns86:crs xmlns:ns86="https://example.org">0</ns86:crs>
+            <ns87:tossd xmlns:ns87="https://example.org">1</ns87:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2022-01-01">
             <code>K02</code>
@@ -636,8 +636,8 @@
                 <narrative xml:lang="fr">Research and experimental development comprising creative and systematic work undertaken in order to increase the stock of knowledge – including knowledge of humankind, culture and society – and to devise new applications of available knowledge.</narrative>
             </description>
             <category>K</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns88:crs xmlns:ns88="https://example.org">0</ns88:crs>
+            <ns89:tossd xmlns:ns89="https://example.org">1</ns89:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>L01</code>
@@ -650,8 +650,8 @@
                 <narrative xml:lang="fr">Direct cash transfers expenditure benefiting individuals, in the context of public programmes of sustainable development in partner countries (with the consent and support of the partner country).</narrative>
             </description>
             <category>L</category>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns90:crs xmlns:ns90="https://example.org">0</ns90:crs>
+            <ns91:tossd xmlns:ns91="https://example.org">1</ns91:tossd>
         </codelist-item>
     </codelist-items>
 </codelist>

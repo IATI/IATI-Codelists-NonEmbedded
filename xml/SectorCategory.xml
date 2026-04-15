@@ -16,8 +16,8 @@
                 <narrative xml:lang="fr">I.1. Education</narrative>
             </name>
             <category>110</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns0:crs xmlns:ns0="https://example.org">1</ns0:crs>
+            <ns1:tossd xmlns:ns1="https://example.org">1</ns1:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>111</code>
@@ -30,8 +30,8 @@
                 <narrative xml:lang="fr">Les codes de cette catégorie doivent être utilisés seulement si le niveau d'éducation n'est pas spécifié ou connu (par exemple la formation d'enseignants d'écoles primaires devrait être codée sous 11220).</narrative>
             </description>
             <category>111</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns2:crs xmlns:ns2="https://example.org">1</ns2:crs>
+            <ns3:tossd xmlns:ns3="https://example.org">1</ns3:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>112</code>
@@ -40,8 +40,8 @@
                 <narrative xml:lang="fr">I.1.b. Education de base</narrative>
             </name>
             <category>112</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns4:crs xmlns:ns4="https://example.org">1</ns4:crs>
+            <ns5:tossd xmlns:ns5="https://example.org">1</ns5:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>113</code>
@@ -50,8 +50,8 @@
                 <narrative xml:lang="fr">I.1.c. Education secondaire</narrative>
             </name>
             <category>113</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns6:crs xmlns:ns6="https://example.org">1</ns6:crs>
+            <ns7:tossd xmlns:ns7="https://example.org">1</ns7:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>114</code>
@@ -60,8 +60,8 @@
                 <narrative xml:lang="fr">I.1.d. Education post secondaire</narrative>
             </name>
             <category>114</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns8:crs xmlns:ns8="https://example.org">1</ns8:crs>
+            <ns9:tossd xmlns:ns9="https://example.org">1</ns9:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>120</code>
@@ -70,8 +70,8 @@
                 <narrative xml:lang="fr">I.2. Santé</narrative>
             </name>
             <category>120</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns10:crs xmlns:ns10="https://example.org">1</ns10:crs>
+            <ns11:tossd xmlns:ns11="https://example.org">1</ns11:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>121</code>
@@ -80,8 +80,8 @@
                 <narrative xml:lang="fr">I.2.a. Santé, général</narrative>
             </name>
             <category>121</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns12:crs xmlns:ns12="https://example.org">1</ns12:crs>
+            <ns13:tossd xmlns:ns13="https://example.org">1</ns13:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>122</code>
@@ -90,8 +90,8 @@
                 <narrative xml:lang="fr">I.2.b. Santé de Base</narrative>
             </name>
             <category>122</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns14:crs xmlns:ns14="https://example.org">1</ns14:crs>
+            <ns15:tossd xmlns:ns15="https://example.org">1</ns15:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>123</code>
@@ -100,8 +100,8 @@
                 <narrative xml:lang="fr">I.2.c. Maladies non-transmissibles (MNT)</narrative>
             </name>
             <category>123</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns16:crs xmlns:ns16="https://example.org">1</ns16:crs>
+            <ns17:tossd xmlns:ns17="https://example.org">1</ns17:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>130</code>
@@ -110,8 +110,8 @@
                 <narrative xml:lang="fr">I.3. Politique en Matière de Population/Santé&amp;Fertilité</narrative>
             </name>
             <category>130</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns18:crs xmlns:ns18="https://example.org">1</ns18:crs>
+            <ns19:tossd xmlns:ns19="https://example.org">1</ns19:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>140</code>
@@ -120,8 +120,8 @@
                 <narrative xml:lang="fr">I.4. Distribution d'Eau et Assainissement</narrative>
             </name>
             <category>140</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns20:crs xmlns:ns20="https://example.org">1</ns20:crs>
+            <ns21:tossd xmlns:ns21="https://example.org">1</ns21:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>150</code>
@@ -130,8 +130,8 @@
                 <narrative xml:lang="fr">I.5. Gouvernement &amp; société civile</narrative>
             </name>
             <category>150</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns22:crs xmlns:ns22="https://example.org">1</ns22:crs>
+            <ns23:tossd xmlns:ns23="https://example.org">1</ns23:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>151</code>
@@ -144,8 +144,8 @@
                 <narrative xml:lang="fr">N.B. Utiliser le code 51010 pour le soutien budgétaire général.</narrative>
             </description>
             <category>151</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns24:crs xmlns:ns24="https://example.org">1</ns24:crs>
+            <ns25:tossd xmlns:ns25="https://example.org">1</ns25:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>152</code>
@@ -158,8 +158,8 @@
                 <narrative xml:lang="fr">N.B.  Des notes supplémentaires sur l'éligibilité au titre de l'APD (et les exclusions) des activités liées aux conflits, la paix et la sécurité sont données dans les paragraphes 76-81 des Directives.</narrative>
             </description>
             <category>152</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns26:crs xmlns:ns26="https://example.org">1</ns26:crs>
+            <ns27:tossd xmlns:ns27="https://example.org">0</ns27:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>160</code>
@@ -168,8 +168,8 @@
                 <narrative xml:lang="fr">I.6. Infrastructure et services sociaux divers</narrative>
             </name>
             <category>160</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns28:crs xmlns:ns28="https://example.org">1</ns28:crs>
+            <ns29:tossd xmlns:ns29="https://example.org">1</ns29:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>210</code>
@@ -182,8 +182,8 @@
                 <narrative xml:lang="fr">Nota bene : La fabrication de matériel de transport devrait être incluse dans le code 32172.</narrative>
             </description>
             <category>210</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns30:crs xmlns:ns30="https://example.org">1</ns30:crs>
+            <ns31:tossd xmlns:ns31="https://example.org">1</ns31:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>220</code>
@@ -192,8 +192,8 @@
                 <narrative xml:lang="fr">II.2. Communications</narrative>
             </name>
             <category>220</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns32:crs xmlns:ns32="https://example.org">1</ns32:crs>
+            <ns33:tossd xmlns:ns33="https://example.org">1</ns33:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>230</code>
@@ -206,8 +206,8 @@
                 <narrative xml:lang="fr">Dans les catégories 231 à 235 inclus figurent tant les centrales  électriques  que  les  centrales  de cogénération. Les installations produisant uniquement de la chaleur, quelle que soit la nature du combustible utilisé, sont à notifier dans la catégorie 236. Les activités liées à la production de bois de chauffage ou de charbon de bois, la fabrication d'énergie et l'extraction de ressources naturelles (y compris les oléoducs et gazoducs) sont à notifier respectivement sous les catégories 312, 321 et 322.</narrative>
             </description>
             <category>230</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns34:crs xmlns:ns34="https://example.org">1</ns34:crs>
+            <ns35:tossd xmlns:ns35="https://example.org">1</ns35:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>231</code>
@@ -216,8 +216,8 @@
                 <narrative xml:lang="fr">II.3.a. Politique de l'énergie</narrative>
             </name>
             <category>231</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns36:crs xmlns:ns36="https://example.org">1</ns36:crs>
+            <ns37:tossd xmlns:ns37="https://example.org">1</ns37:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>232</code>
@@ -226,8 +226,8 @@
                 <narrative xml:lang="fr">II.3.b. Production d'électricité, sources renouvelables</narrative>
             </name>
             <category>232</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns38:crs xmlns:ns38="https://example.org">1</ns38:crs>
+            <ns39:tossd xmlns:ns39="https://example.org">1</ns39:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>233</code>
@@ -236,8 +236,8 @@
                 <narrative xml:lang="fr">II.3.c. Production d'électricité, sources non renouvelables</narrative>
             </name>
             <category>233</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns40:crs xmlns:ns40="https://example.org">1</ns40:crs>
+            <ns41:tossd xmlns:ns41="https://example.org">1</ns41:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>234</code>
@@ -246,8 +246,8 @@
                 <narrative xml:lang="fr">II.3.d. Centrales hybrides</narrative>
             </name>
             <category>234</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns42:crs xmlns:ns42="https://example.org">1</ns42:crs>
+            <ns43:tossd xmlns:ns43="https://example.org">1</ns43:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>235</code>
@@ -256,8 +256,8 @@
                 <narrative xml:lang="fr">II.3.e. Centrales nucléaires</narrative>
             </name>
             <category>235</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns44:crs xmlns:ns44="https://example.org">1</ns44:crs>
+            <ns45:tossd xmlns:ns45="https://example.org">1</ns45:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>236</code>
@@ -266,8 +266,8 @@
                 <narrative xml:lang="fr">II.3.f. Distribution de l'énergie</narrative>
             </name>
             <category>236</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns46:crs xmlns:ns46="https://example.org">1</ns46:crs>
+            <ns47:tossd xmlns:ns47="https://example.org">1</ns47:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>240</code>
@@ -276,8 +276,8 @@
                 <narrative xml:lang="fr">II.4. Banques et services financiers</narrative>
             </name>
             <category>240</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns48:crs xmlns:ns48="https://example.org">1</ns48:crs>
+            <ns49:tossd xmlns:ns49="https://example.org">1</ns49:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>250</code>
@@ -286,8 +286,8 @@
                 <narrative xml:lang="fr">II.5. Entreprises et Autres Services</narrative>
             </name>
             <category>250</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns50:crs xmlns:ns50="https://example.org">1</ns50:crs>
+            <ns51:tossd xmlns:ns51="https://example.org">1</ns51:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>310</code>
@@ -296,8 +296,8 @@
                 <narrative xml:lang="fr">III.1. Agriculture, sylviculture, pêche</narrative>
             </name>
             <category>310</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns52:crs xmlns:ns52="https://example.org">1</ns52:crs>
+            <ns53:tossd xmlns:ns53="https://example.org">1</ns53:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>311</code>
@@ -306,8 +306,8 @@
                 <narrative xml:lang="fr">III.1.a. Agriculture</narrative>
             </name>
             <category>311</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns54:crs xmlns:ns54="https://example.org">1</ns54:crs>
+            <ns55:tossd xmlns:ns55="https://example.org">1</ns55:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>312</code>
@@ -316,8 +316,8 @@
                 <narrative xml:lang="fr">III.1.b. Sylviculture</narrative>
             </name>
             <category>312</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns56:crs xmlns:ns56="https://example.org">1</ns56:crs>
+            <ns57:tossd xmlns:ns57="https://example.org">1</ns57:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>313</code>
@@ -326,8 +326,8 @@
                 <narrative xml:lang="fr">III.1.c. Pêche</narrative>
             </name>
             <category>313</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns58:crs xmlns:ns58="https://example.org">1</ns58:crs>
+            <ns59:tossd xmlns:ns59="https://example.org">1</ns59:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>320</code>
@@ -336,8 +336,8 @@
                 <narrative xml:lang="fr">III.2. Industries manufacturières, extractives, construction</narrative>
             </name>
             <category>320</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns60:crs xmlns:ns60="https://example.org">1</ns60:crs>
+            <ns61:tossd xmlns:ns61="https://example.org">1</ns61:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>321</code>
@@ -346,8 +346,8 @@
                 <narrative xml:lang="fr">III.2.a. Industries manufacturières</narrative>
             </name>
             <category>321</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns62:crs xmlns:ns62="https://example.org">1</ns62:crs>
+            <ns63:tossd xmlns:ns63="https://example.org">1</ns63:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>322</code>
@@ -356,8 +356,8 @@
                 <narrative xml:lang="fr">III.2.b. Industries extractives</narrative>
             </name>
             <category>322</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns64:crs xmlns:ns64="https://example.org">1</ns64:crs>
+            <ns65:tossd xmlns:ns65="https://example.org">1</ns65:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>323</code>
@@ -366,8 +366,8 @@
                 <narrative xml:lang="fr">III.2.c. Construction</narrative>
             </name>
             <category>323</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns66:crs xmlns:ns66="https://example.org">1</ns66:crs>
+            <ns67:tossd xmlns:ns67="https://example.org">1</ns67:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>330</code>
@@ -376,8 +376,8 @@
                 <narrative xml:lang="fr">III.3.a. Politique Commerciale et Réglementations</narrative>
             </name>
             <category>330</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns68:crs xmlns:ns68="https://example.org">1</ns68:crs>
+            <ns69:tossd xmlns:ns69="https://example.org">1</ns69:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>331</code>
@@ -386,8 +386,8 @@
                 <narrative xml:lang="fr">III.3.a. Politique Commerciale et Réglementations</narrative>
             </name>
             <category>331</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns70:crs xmlns:ns70="https://example.org">1</ns70:crs>
+            <ns71:tossd xmlns:ns71="https://example.org">1</ns71:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>332</code>
@@ -396,8 +396,8 @@
                 <narrative xml:lang="fr">III.3.b. Tourisme</narrative>
             </name>
             <category>332</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns72:crs xmlns:ns72="https://example.org">1</ns72:crs>
+            <ns73:tossd xmlns:ns73="https://example.org">1</ns73:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>410</code>
@@ -410,8 +410,8 @@
                 <narrative xml:lang="fr">Secteur non spécifié.</narrative>
             </description>
             <category>410</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns74:crs xmlns:ns74="https://example.org">1</ns74:crs>
+            <ns75:tossd xmlns:ns75="https://example.org">1</ns75:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>430</code>
@@ -420,8 +420,8 @@
                 <narrative xml:lang="fr">IV.2. Autres Multisecteurs</narrative>
             </name>
             <category>430</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns76:crs xmlns:ns76="https://example.org">1</ns76:crs>
+            <ns77:tossd xmlns:ns77="https://example.org">1</ns77:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>510</code>
@@ -434,8 +434,8 @@
                 <narrative xml:lang="fr">Les soutiens budgétaires sous la forme d'approches sectorielles devraient être inclus dans les secteurs respectifs.</narrative>
             </description>
             <category>510</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns78:crs xmlns:ns78="https://example.org">1</ns78:crs>
+            <ns79:tossd xmlns:ns79="https://example.org">1</ns79:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>520</code>
@@ -444,8 +444,8 @@
                 <narrative xml:lang="fr">VI.2. Aide Alimentaire Dévelopmentale</narrative>
             </name>
             <category>520</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns80:crs xmlns:ns80="https://example.org">1</ns80:crs>
+            <ns81:tossd xmlns:ns81="https://example.org">1</ns81:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>530</code>
@@ -458,8 +458,8 @@
                 <narrative xml:lang="fr">Aide sous forme de produits non alimentaires (quand le secteur bénéficiaire ne peut être précisé).</narrative>
             </description>
             <category>530</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns82:crs xmlns:ns82="https://example.org">1</ns82:crs>
+            <ns83:tossd xmlns:ns83="https://example.org">1</ns83:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>600</code>
@@ -468,8 +468,8 @@
                 <narrative xml:lang="fr">VII. Actions se Rapportant a la Dette</narrative>
             </name>
             <category>600</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns84:crs xmlns:ns84="https://example.org">1</ns84:crs>
+            <ns85:tossd xmlns:ns85="https://example.org">1</ns85:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>720</code>
@@ -482,8 +482,8 @@
                 <narrative xml:lang="fr">Une situation d'urgence a pour origine une crise provoquée par des actions humaines ou par une catastrophe naturelle.</narrative>
             </description>
             <category>720</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns86:crs xmlns:ns86="https://example.org">1</ns86:crs>
+            <ns87:tossd xmlns:ns87="https://example.org">1</ns87:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>730</code>
@@ -496,8 +496,8 @@
                 <narrative xml:lang="fr">Activités menées pendant et après une situation d'urgence. Les activités à plus long terme destinées à améliorer le niveau d'infrastructure ou de services sociaux doivent être rapportées sous les codes correspondants des secteurs économiques et sociaux pertinents. Voir également les orientations sur la distinction entre l'aide humanitaire et l'aide ventilable par secteur.</narrative>
             </description>
             <category>730</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns88:crs xmlns:ns88="https://example.org">1</ns88:crs>
+            <ns89:tossd xmlns:ns89="https://example.org">1</ns89:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>740</code>
@@ -510,8 +510,8 @@
                 <narrative xml:lang="fr">Voir code 43060 pour la réduction des risques de catastrophes.</narrative>
             </description>
             <category>740</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns90:crs xmlns:ns90="https://example.org">1</ns90:crs>
+            <ns91:tossd xmlns:ns91="https://example.org">1</ns91:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>910</code>
@@ -520,8 +520,8 @@
                 <narrative xml:lang="fr">IX. Frais Administratifs des Donneurs</narrative>
             </name>
             <category>910</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns92:crs xmlns:ns92="https://example.org">1</ns92:crs>
+            <ns93:tossd xmlns:ns93="https://example.org">1</ns93:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>920</code>
@@ -539,8 +539,8 @@
                 <narrative xml:lang="fr">XI. Refugiés dans les Pays Donneurs</narrative>
             </name>
             <category>930</category>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns94:crs xmlns:ns94="https://example.org">1</ns94:crs>
+            <ns95:tossd xmlns:ns95="https://example.org">0</ns95:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>998</code>
@@ -553,8 +553,8 @@
                 <narrative xml:lang="fr"/>
             </description>
             <category>998</category>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns96:crs xmlns:ns96="https://example.org">1</ns96:crs>
+            <ns97:tossd xmlns:ns97="https://example.org">1</ns97:tossd>
         </codelist-item>
     </codelist-items>
 </codelist>

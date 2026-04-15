@@ -22,8 +22,8 @@
                 <narrative>Official Development Assistance</narrative>
                 <narrative xml:lang="fr">Aide Publique au Développement</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns0:crs xmlns:ns0="https://example.org">1</ns0:crs>
+            <ns1:tossd xmlns:ns1="https://example.org">0</ns1:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>20</code>
@@ -35,8 +35,8 @@
                 <narrative>Other Official Flows</narrative>
                 <narrative xml:lang="fr">Autres Apports du Secteur Public</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns2:crs xmlns:ns2="https://example.org">1</ns2:crs>
+            <ns3:tossd xmlns:ns3="https://example.org">0</ns3:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>21</code>
@@ -48,8 +48,8 @@
                 <narrative>Other Official Flows, excl. export credits</narrative>
                 <narrative xml:lang="fr">Autres Apports du Secteur Public, à l'exclusion des crédits à l'exportation</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns4:crs xmlns:ns4="https://example.org">1</ns4:crs>
+            <ns5:tossd xmlns:ns5="https://example.org">0</ns5:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>22</code>
@@ -61,8 +61,8 @@
                 <narrative>Officially supported export credits. Covers both official direct export credits and private export credits under official guarantee or insurance</narrative>
                 <narrative xml:lang="fr">Autres Apports du Secteur Public, comprenant les crédits à l'exportation soutenus par le secteur public et les exportations privées bénéficiant de garantie ou d'assurance publiques</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns6:crs xmlns:ns6="https://example.org">1</ns6:crs>
+            <ns7:tossd xmlns:ns7="https://example.org">0</ns7:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>30</code>
@@ -74,8 +74,8 @@
                 <narrative>Financing by civil society organisations (NGOs, philantropic foundations, etc.)</narrative>
                 <narrative xml:lang="fr">Financement par les organisations de la société civile (ONG, fondations philantropiques, etc.)</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns8:crs xmlns:ns8="https://example.org">1</ns8:crs>
+            <ns9:tossd xmlns:ns9="https://example.org">0</ns9:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>35</code>
@@ -87,8 +87,8 @@
                 <narrative>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries</narrative>
                 <narrative xml:lang="fr">Apports privés aux conditions du marché</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns10:crs xmlns:ns10="https://example.org">1</ns10:crs>
+            <ns11:tossd xmlns:ns11="https://example.org">0</ns11:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>36</code>
@@ -100,8 +100,8 @@
                 <narrative>Private Foreign Direct Investment</narrative>
                 <narrative xml:lang="fr">Investissements directs à l'étranger</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns12:crs xmlns:ns12="https://example.org">1</ns12:crs>
+            <ns13:tossd xmlns:ns13="https://example.org">0</ns13:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>37</code>
@@ -113,8 +113,8 @@
                 <narrative>Private long-term (i.e. over one-year maturity) capital transactions made by residents of DAC countries</narrative>
                 <narrative xml:lang="fr">Apports privés de long-terme (i.e. dont la maturité est  supérieure à un an), transactions en capital faites par des résidents de pays du CAD</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns14:crs xmlns:ns14="https://example.org">1</ns14:crs>
+            <ns15:tossd xmlns:ns15="https://example.org">0</ns15:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>40</code>
@@ -126,8 +126,8 @@
                 <narrative>e.g. GNI, ODA%GNI, Population etc</narrative>
                 <narrative xml:lang="fr">ex : RNB, APD%RNB, Population etc</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns16:crs xmlns:ns16="https://example.org">1</ns16:crs>
+            <ns17:tossd xmlns:ns17="https://example.org">0</ns17:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>50</code>
@@ -139,8 +139,8 @@
                 <narrative>e.g. non-ODA component of peacebuilding operations</narrative>
                 <narrative xml:lang="fr">ex : élément non APD des opérations de maintien de la paix</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns18:crs xmlns:ns18="https://example.org">1</ns18:crs>
+            <ns19:tossd xmlns:ns19="https://example.org">0</ns19:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2023-01-01">
             <code>60</code>
@@ -152,8 +152,8 @@
                 <narrative>Private sector instruments</narrative>
                 <narrative xml:lang="fr">Instruments du secteur privé</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns20:crs xmlns:ns20="https://example.org">1</ns20:crs>
+            <ns21:tossd xmlns:ns21="https://example.org">0</ns21:tossd>
         </codelist-item>
     </codelist-items>
 </codelist>

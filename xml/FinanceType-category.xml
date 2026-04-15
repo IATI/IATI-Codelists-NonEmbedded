@@ -22,8 +22,8 @@
                 <narrative>Non resource flow items requested on DAC table 1</narrative>
                 <narrative xml:lang="fr">Rubriques requises sur le tableau CAD 1 portant sur des informations autre que des apports</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns0:crs xmlns:ns0="https://example.org">1</ns0:crs>
+            <ns1:tossd xmlns:ns1="https://example.org">0</ns1:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>100</code>
@@ -31,8 +31,8 @@
                 <narrative>GRANTS</narrative>
                 <narrative xml:lang="fr">DONS</narrative>
             </name>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns2:crs xmlns:ns2="https://example.org">1</ns2:crs>
+            <ns3:tossd xmlns:ns3="https://example.org">1</ns3:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>1000</code>
@@ -40,8 +40,8 @@
                 <narrative>GUARANTEES AND OTHER UNFUNDED CONTINGENT LIABILITIES</narrative>
                 <narrative xml:lang="fr">GARANTIES ET AUTRES ENGAGEMENTS CONDITIONNELS NON PROVISIONNÉS</narrative>
             </name>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns4:crs xmlns:ns4="https://example.org">1</ns4:crs>
+            <ns5:tossd xmlns:ns5="https://example.org">1</ns5:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>200</code>
@@ -64,8 +64,8 @@
                 <narrative>Direct provider spending</narrative>
                 <narrative xml:lang="fr">Direct provider spending</narrative>
             </description>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns6:crs xmlns:ns6="https://example.org">0</ns6:crs>
+            <ns7:tossd xmlns:ns7="https://example.org">1</ns7:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>300</code>
@@ -88,8 +88,8 @@
                 <narrative>Subsidies and similar transfers</narrative>
                 <narrative xml:lang="fr">Subsidies and similar transfers</narrative>
             </description>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns8:crs xmlns:ns8="https://example.org">0</ns8:crs>
+            <ns9:tossd xmlns:ns9="https://example.org">1</ns9:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>400</code>
@@ -108,8 +108,8 @@
                 <narrative>DEBT INSTRUMENTS</narrative>
                 <narrative xml:lang="fr">INSTRUMENTS DE DETTE</narrative>
             </name>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns10:crs xmlns:ns10="https://example.org">1</ns10:crs>
+            <ns11:tossd xmlns:ns11="https://example.org">1</ns11:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>430</code>
@@ -117,8 +117,8 @@
                 <narrative>MEZZANINE FINANCE INSTRUMENTS</narrative>
                 <narrative xml:lang="fr">INSTRUMENTS DE DETTE</narrative>
             </name>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns12:crs xmlns:ns12="https://example.org">1</ns12:crs>
+            <ns13:tossd xmlns:ns13="https://example.org">1</ns13:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>500</code>
@@ -126,8 +126,8 @@
                 <narrative>EQUITY AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</narrative>
                 <narrative xml:lang="fr">ACTIONS ET PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT</narrative>
             </name>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns14:crs xmlns:ns14="https://example.org">1</ns14:crs>
+            <ns15:tossd xmlns:ns15="https://example.org">1</ns15:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>600</code>
@@ -139,8 +139,8 @@
                 <narrative>Debt cancellations, debt conversions, debt rescheduling within or outside the framework of the Paris Club.</narrative>
                 <narrative xml:lang="fr">Annulation de dette, conversion de dette, rééchelonnement de dette au sein ou en dehors du Club de Paris.</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns16:crs xmlns:ns16="https://example.org">1</ns16:crs>
+            <ns17:tossd xmlns:ns17="https://example.org">0</ns17:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>700</code>

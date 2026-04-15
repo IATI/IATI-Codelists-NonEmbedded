@@ -22,8 +22,8 @@
                 <narrative>For contributions under this category, the donor relinquishes the exclusive control of its funds by sharing the responsibility with the recipient.</narrative>
                 <narrative xml:lang="fr">Pour les contributions relevant de cette catégorie, le donneur renonce au contrôle exclusif des fonds qu’il octroie en partageant cette responsabilité avec le bénéficiaire.</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns0:crs xmlns:ns0="https://example.org">1</ns0:crs>
+            <ns1:tossd xmlns:ns1="https://example.org">0</ns1:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>B</code>
@@ -35,8 +35,8 @@
                 <narrative>For contributions under this category, the donor relinquishes the exclusive control of its funds by sharing the responsibility with other stakeholders (other donors, NGOs, multilateral institutions, Public Private Partnerships or PSI vehicles). The category covers both core contributions (B01 and B02), pooled contributions with a specific earmarking (B03 and B04) and PSI intra-governmental transfers (B05).</narrative>
                 <narrative xml:lang="fr">Pour les contributions relevant de cette catégorie, le donneur renonce au contrôle exclusif des fonds qu’il octroie en partageant cette responsabilité avec d’autres acteurs (autres donneurs, ONG, institutions multilatérales, partenariats public-privé ou véhicules PSI). La catégorie couvre à la fois les contributions aux budgets réguliers des organisations (B01 et B02) et les contributions groupées préaffectées à un objectif spécifique (B03 et B04) et les transferts intra-gouvernementaux d’ISP (B05).</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns2:crs xmlns:ns2="https://example.org">1</ns2:crs>
+            <ns3:tossd xmlns:ns3="https://example.org">0</ns3:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>C</code>
@@ -48,8 +48,8 @@
                 <narrative>N.B.  Within this category, members able to do so are requested to report the aggregate amount used for financing donor experts/consultants on Table DAC11. Where the activity consists solely of experts’ costs, report under category D.</narrative>
                 <narrative xml:lang="fr">N.B.  Dans cette catégorie, les membres qui le peuvent notifieront dans le tableau CAD1 le montant total dédié au financement d’experts/consultants du pays donneur.1Lorsque l’activité consiste uniquement en des frais d’experts, notifier sous la catégorie D.</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns4:crs xmlns:ns4="https://example.org">1</ns4:crs>
+            <ns5:tossd xmlns:ns5="https://example.org">0</ns5:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>D</code>
@@ -61,8 +61,8 @@
                 <narrative>This category covers the provision, outside projects as described in category C, of know-how in the form of personnel, training and research.</narrative>
                 <narrative xml:lang="fr">Cette catégorie couvre l’apport, en dehors de projets tels qu’ils sont définis dans la catégorie C01, de savoir-faire sous forme de personnel, de formation et d’activités de recherche.</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns6:crs xmlns:ns6="https://example.org">1</ns6:crs>
+            <ns7:tossd xmlns:ns7="https://example.org">0</ns7:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>E</code>
@@ -70,8 +70,8 @@
                 <narrative>Scholarships and student costs in donor countries</narrative>
                 <narrative xml:lang="fr">Bourses et autres frais d’étude dans les pays donneurs</narrative>
             </name>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns8:crs xmlns:ns8="https://example.org">1</ns8:crs>
+            <ns9:tossd xmlns:ns9="https://example.org">1</ns9:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>F</code>
@@ -79,8 +79,8 @@
                 <narrative>Debt relief</narrative>
                 <narrative xml:lang="fr">Allégement de la dette</narrative>
             </name>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns10:crs xmlns:ns10="https://example.org">1</ns10:crs>
+            <ns11:tossd xmlns:ns11="https://example.org">0</ns11:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>G</code>
@@ -88,8 +88,8 @@
                 <narrative>Administrative costs not included elsewhere</narrative>
                 <narrative xml:lang="fr">Frais administratifs non inclus ailleurs</narrative>
             </name>
-            <crs>1</crs>
-            <tossd>1</tossd>
+            <ns12:crs xmlns:ns12="https://example.org">1</ns12:crs>
+            <ns13:tossd xmlns:ns13="https://example.org">1</ns13:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>H</code>
@@ -101,8 +101,8 @@
                 <narrative>Groups a number of contributions that do not give rise to a cross-border flow.</narrative>
                 <narrative xml:lang="fr">Regroupe diverses contributions qui n’entraînent pas de mouvement de fonds transnationaux.</narrative>
             </description>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns14:crs xmlns:ns14="https://example.org">1</ns14:crs>
+            <ns15:tossd xmlns:ns15="https://example.org">0</ns15:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
             <code>I</code>
@@ -114,8 +114,8 @@
                 <narrative>Covers expenses on the temporary sustenance of refugees and protected persons in refugee-like situations in the provider country as well as financial, material or technical support to refugees in other host countries. Also includes support to refugees returning to their countries of origin.</narrative>
                 <narrative xml:lang="fr">Covers expenses on the temporary sustenance of refugees and protected persons in refugee-like situations in the provider country as well as financial, material or technical support to refugees in other host countries. Also includes support to refugees returning to their countries of origin.</narrative>
             </description>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns16:crs xmlns:ns16="https://example.org">0</ns16:crs>
+            <ns17:tossd xmlns:ns17="https://example.org">1</ns17:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2025-01-01">
             <code>J</code>
@@ -123,8 +123,8 @@
                 <narrative>In-kind donations</narrative>
                 <narrative xml:lang="fr">Dons en nature</narrative>
             </name>
-            <crs>1</crs>
-            <tossd>0</tossd>
+            <ns18:crs xmlns:ns18="https://example.org">1</ns18:crs>
+            <ns19:tossd xmlns:ns19="https://example.org">0</ns19:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>K</code>
@@ -132,8 +132,8 @@
                 <narrative>Research and development</narrative>
                 <narrative xml:lang="fr">Research and development</narrative>
             </name>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns20:crs xmlns:ns20="https://example.org">0</ns20:crs>
+            <ns21:tossd xmlns:ns21="https://example.org">1</ns21:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2021-01-01">
             <code>L</code>
@@ -141,8 +141,8 @@
                 <narrative>Direct cash transfers to developing countries</narrative>
                 <narrative xml:lang="fr">Direct cash transfers to developing countries</narrative>
             </name>
-            <crs>0</crs>
-            <tossd>1</tossd>
+            <ns22:crs xmlns:ns22="https://example.org">0</ns22:crs>
+            <ns23:tossd xmlns:ns23="https://example.org">1</ns23:tossd>
         </codelist-item>
     </codelist-items>
 </codelist>
