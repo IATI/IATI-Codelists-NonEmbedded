@@ -1,4 +1,4 @@
-<codelist name="FinanceType-category" xml:lang="en" complete="1" embedded="0">
+<codelist xmlns:extras="https://namespaces.iatistandard.org/codelist_extras" name="FinanceType-category" xml:lang="en" complete="1" embedded="0">
     <metadata>
         <name>
             <narrative>Finance Type (category)</narrative>
@@ -22,6 +22,8 @@
                 <narrative>Non resource flow items requested on DAC table 1</narrative>
                 <narrative xml:lang="fr">Rubriques requises sur le tableau CAD 1 portant sur des informations autre que des apports</narrative>
             </description>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>100</code>
@@ -29,6 +31,8 @@
                 <narrative>GRANTS</narrative>
                 <narrative xml:lang="fr">DONS</narrative>
             </name>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>1000</code>
@@ -36,6 +40,8 @@
                 <narrative>GUARANTEES AND OTHER UNFUNDED CONTINGENT LIABILITIES</narrative>
                 <narrative xml:lang="fr">GARANTIES ET AUTRES ENGAGEMENTS CONDITIONNELS NON PROVISIONNÉS</narrative>
             </name>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>200</code>
@@ -48,6 +54,19 @@
                 <narrative xml:lang="fr">Subventions visant à assouplir les conditions des crédits à l’exportation ou des prêts/crédits du secteur bancaire.</narrative>
             </description>
         </codelist-item>
+        <codelist-item status="active">
+            <code>2000</code>
+            <name>
+                <narrative>Direct provider spending</narrative>
+                <narrative xml:lang="fr">Direct provider spending</narrative>
+            </name>
+            <description>
+                <narrative>Direct provider spending</narrative>
+                <narrative xml:lang="fr">Direct provider spending</narrative>
+            </description>
+            <extras:crs>0</extras:crs>
+            <extras:tossd>1</extras:tossd>
+        </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>300</code>
             <name>
@@ -58,6 +77,19 @@
                 <narrative>Payments to multilateral agencies in the form of notes and similar instruments, unconditionally cashable at sight by the recipient institutions.</narrative>
                 <narrative xml:lang="fr">Versements aux agences multilatérales sous forme de billets à ordre et effets similaires encaissables à vue sans condition par l'institution bénéficiaire.</narrative>
             </description>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>3000</code>
+            <name>
+                <narrative>Subsidies and similar transfers</narrative>
+                <narrative xml:lang="fr">Subsidies and similar transfers</narrative>
+            </name>
+            <description>
+                <narrative>Subsidies and similar transfers</narrative>
+                <narrative xml:lang="fr">Subsidies and similar transfers</narrative>
+            </description>
+            <extras:crs>0</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>400</code>
@@ -76,6 +108,8 @@
                 <narrative>DEBT INSTRUMENTS</narrative>
                 <narrative xml:lang="fr">INSTRUMENTS DE DETTE</narrative>
             </name>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>430</code>
@@ -83,13 +117,17 @@
                 <narrative>MEZZANINE FINANCE INSTRUMENTS</narrative>
                 <narrative xml:lang="fr">INSTRUMENTS DE DETTE</narrative>
             </name>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>500</code>
             <name>
-                <narrative>EQUITY  AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</narrative>
-                <narrative xml:lang="fr">ACTIONS ET  PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT</narrative>
+                <narrative>EQUITY AND SHARES IN COLLECTIVE INVESTMENT VEHICLES</narrative>
+                <narrative xml:lang="fr">ACTIONS ET PARTS DANS DES VEHICULES COLLECTIFS D'INVESTISSEMENT</narrative>
             </name>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>600</code>
@@ -101,6 +139,8 @@
                 <narrative>Debt cancellations, debt conversions, debt rescheduling within or outside the framework of the Paris Club.</narrative>
                 <narrative xml:lang="fr">Annulation de dette, conversion de dette, rééchelonnement de dette au sein ou en dehors du Club de Paris.</narrative>
             </description>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>700</code>

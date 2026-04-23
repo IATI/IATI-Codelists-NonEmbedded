@@ -1,4 +1,4 @@
-<codelist name="FinanceType" xml:lang="en" category-codelist="FinanceType-category" complete="1" embedded="0">
+<codelist xmlns:extras="https://namespaces.iatistandard.org/codelist_extras" name="FinanceType" xml:lang="en" complete="1" category-codelist="FinanceType-category" embedded="0">
     <metadata>
         <name>
             <narrative>Finance Type</narrative>
@@ -19,6 +19,8 @@
                 <narrative xml:lang="fr">RNB : Revenu national brut</narrative>
             </name>
             <category>0</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>110</code>
@@ -31,6 +33,8 @@
                 <narrative xml:lang="fr">Transferts en espèces ou en nature qui n'entraînent pas d'obligation juridique de remboursement pour le bénéficiaire.</narrative>
             </description>
             <category>100</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>1100</code>
@@ -39,6 +43,120 @@
                 <narrative xml:lang="fr">Garanties/assurances</narrative>
             </name>
             <category>1000</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>1101</code>
+            <name>
+                <narrative>Individual loan guarantee</narrative>
+                <narrative xml:lang="fr">Garantie individuelle accordée prêt par prêt</narrative>
+            </name>
+            <description>
+                <narrative>A guarantee on an individual standard loan</narrative>
+                <narrative xml:lang="fr">Une garantie sur un prêt individuel standard</narrative>
+            </description>
+            <category>1000</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>1102</code>
+            <name>
+                <narrative>Loan portfolio guarantee</narrative>
+                <narrative xml:lang="fr">Garantie de portefeuille de prêts</narrative>
+            </name>
+            <description>
+                <narrative>A guarantee covering a portfolio of standard loans administered by financial intermediaries, such as banks, microfinance institutions or collective investment vehicles.</narrative>
+                <narrative xml:lang="fr">Une garantie couvrant un portefeuille de prêts standards administrés par des intermédiaires financiers, tels que des banques, des institutions de microfinance ou des véhicules de placement collectif.</narrative>
+            </description>
+            <category>1000</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>1103</code>
+            <name>
+                <narrative>Individual mezzanine finance guarantee</narrative>
+                <narrative xml:lang="fr">Garantie individuelle pour le financement mezzanine</narrative>
+            </name>
+            <description>
+                <narrative>A guarantee on an individual mezzanine finance investment (subordinated loans or preferred equities).</narrative>
+                <narrative xml:lang="fr">Une garantie sur un investissement individuel en financement mezzanine (prêts subordonnés ou actions privilégiées).</narrative>
+            </description>
+            <category>1000</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>1104</code>
+            <name>
+                <narrative>Mezzanine finance portfolio guarantee</narrative>
+                <narrative xml:lang="fr">Garantie de portefeuille des instruments mezzanine</narrative>
+            </name>
+            <description>
+                <narrative>A guarantee covering a portfolio of mezzanine finance investments (subordinated loans or preferred equities) administered by financial intermediaries, such as banks, microfinance institutions or collective investment vehicles.</narrative>
+                <narrative xml:lang="fr">Une garantie couvrant un portefeuille d'investissements en financement mezzanine (prêts subordonnés ou actions privilégiées) administré par des intermédiaires financiers, tels que des banques, des institutions de microfinance ou des véhicules de placement collectif.</narrative>
+            </description>
+            <category>1000</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>1105</code>
+            <name>
+                <narrative>Individual equity finance guarantee</narrative>
+                <narrative xml:lang="fr">Garantie individuelle pour le financement en fonds propres</narrative>
+            </name>
+            <description>
+                <narrative>A guarantee covering an equity investment.</narrative>
+                <narrative xml:lang="fr">Une garantie couvrant un investissement en actions.</narrative>
+            </description>
+            <category>1000</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>1106</code>
+            <name>
+                <narrative>Equity portfolio guarantee</narrative>
+                <narrative xml:lang="fr">Garantie de portefeuille d'actions</narrative>
+            </name>
+            <description>
+                <narrative>A guarantee covering a portfolio of equity investments administered by financial intermediaries, such as banks, microfinance institutions or collective investment vehicles.</narrative>
+                <narrative xml:lang="fr">Garantie couvrant un portefeuille de participations administré par des intermédiaires financiers, tels que des banques, des institutions de microfinance ou des organismes de placement collectif.</narrative>
+            </description>
+            <category>1000</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>1107</code>
+            <name>
+                <narrative>First-loss guarantee</narrative>
+                <narrative xml:lang="fr">Garantie des premières pertes</narrative>
+            </name>
+            <description>
+                <narrative>A guarantee specifically designed to absorb the very first loss on one or more investments, such as in the context of collective investment vehicles. Please use other codes for guarantees that are not specifically designed to absorb the very first loss.</narrative>
+                <narrative xml:lang="fr">Une garantie spécifiquement conçue pour absorber la toute première perte sur un ou plusieurs investissements, comme dans le cadre de véhicules de placement collectif. Veuillez utiliser d'autres codes pour les garanties qui ne sont pas spécifiquement conçues pour absorber la toute première perte.</narrative>
+            </description>
+            <category>1000</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>1108</code>
+            <name>
+                <narrative>Other guarantees</narrative>
+                <narrative xml:lang="fr">Autres garanties</narrative>
+            </name>
+            <description>
+                <narrative>Other guarantees, such as volume guarantees, payment guarantees etc.</narrative>
+                <narrative xml:lang="fr">Autres garanties, telles que garanties de volume, garanties de paiement, etc.</narrative>
+            </description>
+            <category>1000</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>111</code>
@@ -47,6 +165,8 @@
                 <narrative xml:lang="fr">Don hors réorganisation de la dette (y compris quasi-dons)</narrative>
             </name>
             <category>100</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>2</code>
@@ -55,6 +175,21 @@
                 <narrative xml:lang="fr">APD en % du RNB</narrative>
             </name>
             <category>0</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
+            <code>200</code>
+            <name>
+                <narrative>INTEREST SUBSIDY</narrative>
+                <narrative xml:lang="fr">BONIFICATION  D’INTERET</narrative>
+            </name>
+            <description>
+                <narrative>Subsidies to soften the terms of private export credits, or loans or credits by the banking sector.</narrative>
+                <narrative xml:lang="fr">Subventions visant à assouplir les conditions des crédits à l’exportation ou des prêts/crédits du secteur bancaire.</narrative>
+            </description>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>210</code>
@@ -67,6 +202,18 @@
                 <narrative xml:lang="fr">Subventions visant à assouplir les conditions des crédits à l’exportation ou des prêts/crédits du secteur bancaire.</narrative>
             </description>
             <category>100</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2100</code>
+            <name>
+                <narrative>Direct provider spending</narrative>
+                <narrative xml:lang="fr">Direct provider spending</narrative>
+            </name>
+            <category>2000</category>
+            <extras:crs>0</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>211</code>
@@ -75,6 +222,8 @@
                 <narrative xml:lang="fr">Bonification d’intérêt octroyée aux exportateurs privés nationaux</narrative>
             </name>
             <category>100</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>3</code>
@@ -83,6 +232,21 @@
                 <narrative xml:lang="fr">Apports totaux en % du RNB</narrative>
             </name>
             <category>0</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
+            <code>300</code>
+            <name>
+                <narrative>CAPITAL SUBSCRIPTION</narrative>
+                <narrative xml:lang="fr">SOUSCRIPTION AU CAPITAL</narrative>
+            </name>
+            <description>
+                <narrative>Payments to multilateral agencies in the form of notes and similar instruments, unconditionally cashable at sight by the recipient institutions.</narrative>
+                <narrative xml:lang="fr">Versements aux agences multilatérales sous forme de billets à ordre et effets similaires encaissables à vue sans condition par l'institution bénéficiaire.</narrative>
+            </description>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>310</code>
@@ -95,6 +259,22 @@
                 <narrative xml:lang="fr">Versements aux agences multilatérales sous forme de billets à ordre et effets similaires encaissables à vue sans condition par l'institution bénéficiaire.</narrative>
             </description>
             <category>100</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2020-01-01">
+            <code>3100</code>
+            <name>
+                <narrative>Subsidies and similar transfers</narrative>
+                <narrative xml:lang="fr">Subsidies and similar transfers</narrative>
+            </name>
+            <description>
+                <narrative>This category includes subsidies and social benefits to households as defined in the System of National Accounts (SNA). Subsidies are unrequited payments that government units, including non-resident government units, make to enterprises on the basis of the levels of their production activities or the quantities or values of the goods or services which they produce, sell or import. Subsidies prohibited by the WTO are not reportable in TOSSD. Social benefits to households are current transfers received by households that are intended to provide for the needs that arise from certain events or circumstances, for example housing. Subsidies and similar transfers can be used by governments to promote sustainable development objectives, for example by supporting research activities carried out by pharmaceutical firms or efforts by households to improve the energy efficiency of their housing. According to the United Nations System of Environmental-Economic Accounting (SEEA), an environmental subsidy or similar transfer is a transfer intended to support activities that protect the environment or reduce the use and extraction of natural resources.</narrative>
+                <narrative xml:lang="fr">This category includes subsidies and social benefits to households as defined in the System of National Accounts (SNA). Subsidies are unrequited payments that government units, including non-resident government units, make to enterprises on the basis of the levels of their production activities or the quantities or values of the goods or services which they produce, sell or import. Subsidies prohibited by the WTO are not reportable in TOSSD. Social benefits to households are current transfers received by households that are intended to provide for the needs that arise from certain events or circumstances, for example housing. Subsidies and similar transfers can be used by governments to promote sustainable development objectives, for example by supporting research activities carried out by pharmaceutical firms or efforts by households to improve the energy efficiency of their housing. According to the United Nations System of Environmental-Economic Accounting (SEEA), an environmental subsidy or similar transfer is a transfer intended to support activities that protect the environment or reduce the use and extraction of natural resources.</narrative>
+            </description>
+            <category>3000</category>
+            <extras:crs>0</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>311</code>
@@ -107,6 +287,8 @@
                 <narrative xml:lang="fr">Versements aux agences multilatérales sous forme de billets à ordre et effets similaires encaissables à vue sans condition par l'institution bénéficiaire.</narrative>
             </description>
             <category>100</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>4</code>
@@ -115,6 +297,21 @@
                 <narrative xml:lang="fr">Population</narrative>
             </name>
             <category>0</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
+            <code>400</code>
+            <name>
+                <narrative>LOAN</narrative>
+                <narrative xml:lang="fr">PRÊT</narrative>
+            </name>
+            <description>
+                <narrative>Transfers in cash or in kind for which the recipient incurs legal debt.</narrative>
+                <narrative xml:lang="fr">Transferts en espèce ou en nature qui entraînent une obligation juridique de remboursement pour le bénéficiaire.</narrative>
+            </description>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>410</code>
@@ -123,6 +320,8 @@
                 <narrative xml:lang="fr">Prêt d’aide hors réorganisation de la dette</narrative>
             </name>
             <category>400</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>411</code>
@@ -131,6 +330,8 @@
                 <narrative xml:lang="fr">Prêt lié à un investissement dans les pays en développement</narrative>
             </name>
             <category>400</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>412</code>
@@ -139,6 +340,8 @@
                 <narrative xml:lang="fr">Prêt dans une coentreprise avec le pays bénéficiaire</narrative>
             </name>
             <category>400</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>413</code>
@@ -147,6 +350,8 @@
                 <narrative xml:lang="fr">Prêt à un investisseur privé national</narrative>
             </name>
             <category>400</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>414</code>
@@ -155,6 +360,8 @@
                 <narrative xml:lang="fr">Prêt à un exportateur privé national</narrative>
             </name>
             <category>400</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>421</code>
@@ -167,6 +374,8 @@
                 <narrative xml:lang="fr">Transferts en espèce ou en nature qui entraînent une obligation juridique de remboursement pour le bénéficiaire (dont la créance n'est pas échangeable.) Lorsque les obligations de remboursement sur les prêts ordinaires sont senior, càd que le créditeur est éligible à percevoir le remboursement de sa créance avant quiconque, on parle de prêt senior.</narrative>
             </description>
             <category>420</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>422</code>
@@ -179,6 +388,36 @@
                 <narrative xml:lang="fr">Contribution fournie à une institution bénéficiaire à des fins d'investissement, dans une perspective de remboursement à long-terme à des conditions spécifiées dans l'accord de financement. Le fournisseur assume le risque partiel ou total de faillite de l'investissement ; il peut aussi décider si et quand il récupère son investissement.</narrative>
             </description>
             <category>420</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>4221</code>
+            <name>
+                <narrative>Loan-type reimbursable grant</narrative>
+                <narrative xml:lang="fr">Don remboursable de type prêt</narrative>
+            </name>
+            <description>
+                <narrative>A contribution provided to a recipient institution for investment purposes, for which the conditions - including a concrete repayment schedule – are specified in the financing agreement.</narrative>
+                <narrative xml:lang="fr">Contribution fournie à une institution bénéficiaire à des fins d'investissement, dont les conditions – y compris un calendrier de remboursement concret – sont précisées dans l'accord de financement.</narrative>
+            </description>
+            <category>420</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2023-01-01">
+            <code>4222</code>
+            <name>
+                <narrative>Reflow-based reimbursable grant</narrative>
+                <narrative xml:lang="fr">Don remboursable par retour de capitaux</narrative>
+            </name>
+            <description>
+                <narrative>A contribution provided to a recipient institution for investment purposes, for which the details on reflows are unknown at the time of investment as they depend on the performance of the underlying investments.</narrative>
+                <narrative xml:lang="fr">Contribution fournie à une institution bénéficiaire à des fins d'investissement, pour laquelle les détails des remboursements sont inconnus au moment de l'investissement car ils dépendent de la performance des investissements sous-jacents.</narrative>
+            </description>
+            <category>420</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>423</code>
@@ -191,6 +430,8 @@
                 <narrative xml:lang="fr">Instruments de dette à intérêts fixes émis par des gouvernements, entités publiques, banques ou sociétés, échangeables sur les marchés financiers.</narrative>
             </description>
             <category>420</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>424</code>
@@ -203,6 +444,8 @@
                 <narrative xml:lang="fr">Actifs dont la valeur et les revenus sont dérivés de et adossés à un panier d'actifs sous-jacents.</narrative>
             </description>
             <category>420</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>425</code>
@@ -211,6 +454,8 @@
                 <narrative xml:lang="fr">Autres actifs de dette</narrative>
             </name>
             <category>420</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>431</code>
@@ -223,6 +468,8 @@
                 <narrative xml:lang="fr">Prêt qui, en cas de défaut, ne sera remboursé qu'après que les obligations senior soient satisfaites.  En compensation du risque accru, les détenteurs de dette mezzanine exigent un retour sur investissement plus élevé que les prêteurs garantis ou senior.</narrative>
             </description>
             <category>430</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>432</code>
@@ -235,6 +482,8 @@
                 <narrative xml:lang="fr">Action qui, en cas de défaut, ne sera remboursé qu'après que les obligations senior soient satisfaites ; mais avant les détenteurs d'actions ordinaires.  Il s'agit d'une source de financement plus onéreuse que la dette senior mais moins coûteuse que les actions.</narrative>
             </description>
             <category>430</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>433</code>
@@ -247,6 +496,22 @@
                 <narrative xml:lang="fr">Incluant les dettes convertibles et les actions.</narrative>
             </description>
             <category>430</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
+        </codelist-item>
+        <codelist-item status="active" activation-date="2024-01-01">
+            <code>434</code>
+            <name>
+                <narrative>Multilateral hybrid capital</narrative>
+                <narrative xml:lang="fr">Capital hybride multilatéral</narrative>
+            </name>
+            <description>
+                <narrative>Hybrid capital instruments issued by multilateral institutions</narrative>
+                <narrative xml:lang="fr">Instruments de capital hybride émis par des institutions multilatérales</narrative>
+            </description>
+            <category>430</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>1</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>451</code>
@@ -255,6 +520,8 @@
                 <narrative xml:lang="fr">Crédits à l'exportation garantis du secteur non bancaire</narrative>
             </name>
             <category>450</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>452</code>
@@ -263,6 +530,8 @@
                 <narrative xml:lang="fr">Fraction non garantie des crédits à l'exportation garantis du secteur bancaire</narrative>
             </name>
             <category>400</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>453</code>
@@ -271,6 +540,8 @@
                 <narrative xml:lang="fr">Crédits à l'exportation du secteur bancaire</narrative>
             </name>
             <category>400</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>510</code>
@@ -283,6 +554,8 @@
                 <narrative xml:lang="fr">Part de propriété dans une société donnant à son détenteur une créance sur la valeurs résiduelle de la société une fois que les créances de ses créditeurs ont été satisfaites.</narrative>
             </description>
             <category>500</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>511</code>
@@ -291,6 +564,8 @@
                 <narrative xml:lang="fr">Acquisition de prises de participation en dehors des coentreprises avec les pays en développement</narrative>
             </name>
             <category>500</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>512</code>
@@ -299,6 +574,8 @@
                 <narrative xml:lang="fr">Autre acquisition de prises de participation</narrative>
             </name>
             <category>500</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>520</code>
@@ -311,6 +588,8 @@
                 <narrative xml:lang="fr">Placement collectif par lequel un groupe d'investisseurs abonde un fond d'actifs financiers ou non financiers ou les deux. Ces véhicules émettent des parts (en cas de structure d'entreprise) ou des unités de compte (en cas de structure fiduciaire.)</narrative>
             </description>
             <category>500</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>530</code>
@@ -323,6 +602,8 @@
                 <narrative xml:lang="fr">Cet item n'est applicable qu'aux investissement direct étrangers (IDE). Les bénéfices réinvestis sur des IDE consistent en des bénéfices retenus d'un investissement direct à l'étranger qui sont traités comme s'ils étaient redistribués et versés aux investisseurs en proportion de leur part dans l'actionnariat puis réinvestis par eux dans l'entreprise.</narrative>
             </description>
             <category>500</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>610</code>
@@ -331,6 +612,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance APD (P)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>611</code>
@@ -339,6 +622,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance APD (I)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>612</code>
@@ -347,6 +632,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance AASP (P)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>613</code>
@@ -355,6 +642,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance AASP (I)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>614</code>
@@ -363,6 +652,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance du secteur privé (P)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>615</code>
@@ -371,6 +662,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance du secteur privé (I)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>616</code>
@@ -379,6 +672,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance AASP (DSR)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>617</code>
@@ -387,6 +682,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance du secteur privé (DSR)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>618</code>
@@ -395,6 +692,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : autre</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>620</code>
@@ -403,6 +702,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance APD (P)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>621</code>
@@ -411,6 +712,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance APD (I)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>622</code>
@@ -419,6 +722,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (P)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>623</code>
@@ -427,6 +732,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (I)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>624</code>
@@ -435,6 +742,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (P)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>625</code>
@@ -443,6 +752,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (I)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>626</code>
@@ -451,6 +762,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (RSD)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>627</code>
@@ -459,6 +772,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (RSD)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>630</code>
@@ -467,6 +782,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (RSD – principal du prêt d’origine)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>631</code>
@@ -475,6 +792,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance AASP (RSD – intérêts du prêt d’origine)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>632</code>
@@ -483,6 +802,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance du secteur privé (RSD – principal du prêt d’origine)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>633</code>
@@ -491,6 +812,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance de crédit à l'exportation (P)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>634</code>
@@ -499,6 +822,8 @@
                 <narrative xml:lang="fr">Annulation/conversion de la dette : créance de crédit à l'exportation (I)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>635</code>
@@ -507,6 +832,8 @@
                 <narrative xml:lang="fr">Annulation de la dette : créance de crédit à l'exportation (DSR)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>636</code>
@@ -515,6 +842,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance de crédit à  l'exportation (P)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>637</code>
@@ -523,6 +852,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance de crédit à  l'exportation (I)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>638</code>
@@ -531,6 +862,8 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance de crédit à  l'exportation (DSR)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2016-01-01">
             <code>639</code>
@@ -539,6 +872,21 @@
                 <narrative xml:lang="fr">Rééchelonnement de la dette : créance de crédit à  l'exportation (DSR - principal du prêt originel)</narrative>
             </name>
             <category>600</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
+            <code>700</code>
+            <name>
+                <narrative>INVESTMENT</narrative>
+                <narrative xml:lang="fr">INVESTISSEMENTS DIRECTS INTERNATIONAUX</narrative>
+            </name>
+            <description>
+                <narrative>Investment made by a private entity resident in a reporting country to acquire or add to a lasting interest(1) in an enterprise in a country on the DAC List of ODA Recipients.</narrative>
+                <narrative xml:lang="fr">L’investissement direct est motivé par la volonté d’une entité résidente d’un pays déclarant d’acquérir ou de maintenir un intérêt durable1 dans une entité résidente d’un pays en développement.</narrative>
+            </description>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>710</code>
@@ -547,6 +895,8 @@
                 <narrative xml:lang="fr">Investissement direct international</narrative>
             </name>
             <category>700</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>711</code>
@@ -555,6 +905,8 @@
                 <narrative xml:lang="fr">Autre investissement direct international , y compris les bénéfices réinvestis</narrative>
             </name>
             <category>700</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>712</code>
@@ -563,6 +915,21 @@
                 <narrative xml:lang="fr"/>
             </name>
             <category>700</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
+            <code>800</code>
+            <name>
+                <narrative>BONDS</narrative>
+                <narrative xml:lang="fr">OBLIGATIONS</narrative>
+            </name>
+            <description>
+                <narrative>Acquisition of bonds issued by developing countries.</narrative>
+                <narrative xml:lang="fr">Acquisition d’obligations émises par les pays en développement.</narrative>
+            </description>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>810</code>
@@ -571,6 +938,8 @@
                 <narrative xml:lang="fr">Obligations du secteur bancaire</narrative>
             </name>
             <category>800</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>811</code>
@@ -579,6 +948,17 @@
                 <narrative xml:lang="fr">Obligations du secteur non bancaire</narrative>
             </name>
             <category>800</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
+        </codelist-item>
+        <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
+            <code>900</code>
+            <name>
+                <narrative>OTHER SECURITIES/CLAIMS</narrative>
+                <narrative xml:lang="fr">AUTRES TITRES/CREANCES</narrative>
+            </name>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>910</code>
@@ -587,6 +967,8 @@
                 <narrative xml:lang="fr">Autres titres/créances du secteur bancaire</narrative>
             </name>
             <category>900</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>911</code>
@@ -595,6 +977,8 @@
                 <narrative xml:lang="fr">Autres titres/créances du secteur non bancaire</narrative>
             </name>
             <category>900</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>912</code>
@@ -603,6 +987,8 @@
                 <narrative xml:lang="fr">Titres et autres instruments émis par les agences multilatérales</narrative>
             </name>
             <category>900</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2015-12-31">
             <code>913</code>
@@ -611,6 +997,8 @@
                 <narrative xml:lang="fr"/>
             </name>
             <category>900</category>
+            <extras:crs>1</extras:crs>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
     </codelist-items>
 </codelist>
