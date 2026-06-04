@@ -521,7 +521,7 @@
             </name>
             <category>910</category>
             <extras:crs>1</extras:crs>
-            <extras:tossd>1</extras:tossd>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="withdrawn" withdrawal-date="2020-02-28">
             <code>920</code>

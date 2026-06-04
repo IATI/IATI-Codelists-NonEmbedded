@@ -1459,7 +1459,7 @@
             </description>
             <category>151</category>
             <extras:crs>1</extras:crs>
-            <extras:tossd>1</extras:tossd>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2019-01-01">
             <code>15196</code>
@@ -1767,7 +1767,7 @@
             </description>
             <category>160</category>
             <extras:crs>1</extras:crs>
-            <extras:tossd>1</extras:tossd>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>16064</code>
@@ -1809,7 +1809,7 @@
             </description>
             <category>160</category>
             <extras:crs>1</extras:crs>
-            <extras:tossd>1</extras:tossd>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active" activation-date="2018-01-01">
             <code>16070</code>
@@ -4530,7 +4530,7 @@
             </description>
             <category>998</category>
             <extras:crs>1</extras:crs>
-            <extras:tossd>1</extras:tossd>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
     </codelist-items>
 </codelist>

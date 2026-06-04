@@ -71,7 +71,7 @@
                 <narrative xml:lang="fr">Bourses et autres frais d’étude dans les pays donneurs</narrative>
             </name>
             <extras:crs>1</extras:crs>
-            <extras:tossd>1</extras:tossd>
+            <extras:tossd>0</extras:tossd>
         </codelist-item>
         <codelist-item status="active">
             <code>F</code>
