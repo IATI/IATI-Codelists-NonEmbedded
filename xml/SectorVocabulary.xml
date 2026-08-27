@@ -110,8 +110,8 @@
                 <narrative xml:lang="fr">ODD (indicateur)</narrative>
             </name>
             <description>
-                <narrative>A value from the second-level list of UN sustainable development (SDG) indicators</narrative>
-                <narrative xml:lang="fr">Valeur tirée de la liste des indicateurs de développement durable (ODD) de deuxième niveau de l'ONU</narrative>
+                <narrative>A value from the second-level list of UN sustainable development (SDG) indicators (e.g. ‘1.1.1’)</narrative>
+                <narrative xml:lang="fr">Valeur tirée de la liste des indicateurs de développement durable (ODD) de deuxième niveau de l'ONU (p. ex. '1.1.1')</narrative>
             </description>
             <url>http://unstats.un.org/sdgs/indicators/indicators-list/</url>
         </codelist-item>
